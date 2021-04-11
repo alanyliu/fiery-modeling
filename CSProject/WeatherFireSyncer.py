@@ -337,7 +337,6 @@ class WeatherFireSyncer:
         for county in county_list:
             while True:
                 line = stn_county_file.readline()
-                print(0)
 
                 if line[6:len(line)-1] == county:
                     stn_names.append(line[0:5])
