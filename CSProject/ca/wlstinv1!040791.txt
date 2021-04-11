@@ -1,0 +1,40 @@
+
+WLSTINV1-Weather Station Inventory for                       40791              
+                                                                                
+Station: 040791   Name: LN4                    NESDIS: 323463B6                 
+                                                                                
+Type: 3 (RAWS S non-NFDRS)   Create/Mod Date: 10-Aug-1993     Obs Time/Z: 13/PS 
+T                                                                               
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: ____                      
+                                                                                
+State: 06-CA   County: 035-Lassen              Lat/Lon: 40 37 46, 121 17 24     
+Obs Agy: 1 (USDA FS )     Unit: LNF          Mnemonic: LN4      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site:    Elev:  5467   Asp:    Ann Prec:    Season:                             
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl:                                      
+                                                                                
+User: FS11381   Acc Lst: ELMRAWS                                                
+Comments: MICRO RAWS (PROTABLE RAWS PRESCRIBED FIRE USE)                        
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   323463B6     9   Rain Accumulation, Inches                  PC               
+   323463B6    10   Wind Speed MPH, Miles per Hour             US               
+   323463B6    11   Wind Direction Degrees, Degrees            UD               
+   323463B6    12   Air Temperature, Standard Placement, Deg   TA               
+   323463B6    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   323463B6    14   Relative Humidity, Percent                 XR               
+   323463B6    15   Battery Voltage, volts                     VB               
+   323463B6    17   Fuel Moisture, Percent                     MM               
+   323463B6    18   Wind Direction, Peak, Degrees              UX               
+   323463B6    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   323463B6    20   Solar Radiation, watts per meter squared   RD               

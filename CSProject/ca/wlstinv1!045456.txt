@@ -1,0 +1,51 @@
+
+WLSTINV1-Weather Station Inventory for                       45456              
+                                                                                
+Station: 045456   Name: TOPANGA                NESDIS: 2E9123E4                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 21-Feb-2020     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 505                       
+                                                                                
+State: 06-CA   County: 037-Los Angeles         Lat/Lon: 34  8 10, 118 36 21     
+Obs Agy: 6 (Local Gv)     Unit: CA-LAC       Mnemonic: TPG      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  1600   Asp: 0   Ann Prec:  17.21   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: aec   Acc Lst: FORESTRY LAC                                               
+Comments: NAME      : TOPANGA                                                   
+LOCATION  : ON TOPANGA SUMMIT MOTORWAY.                                         
+            APPROXIMATELLY 0.5 MILES SE FROM TOPANGA CANYON INTERSECTION        
+NFDRZ     : 623                                                                 
+NWSFZ     : 505                                                                 
+NWS FWPFZ : 246                                                                 
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B P 12-feb-20 12-mar-19 _ 1 A 2  BI 5  90 145  97 187                     
+   2 7K P 12-feb-20 12-mar-19 _ 1 A 2  BI 5  90  83  97 102                     
+   3 7A P 12-feb-20 12-mar-19 _ 1 A 2  BI 5  90  52  97  69                     
+   4 16V _ _________ _________ _ 1 A   __                                       
+   5 16W _ _________ _________ _ 1 A   __                                       
+   6 16X _ _________ _________ _ 1 A   __                                       
+   7 16Y _ _________ _________ _ 1 A   __                                       
+   8 16Z _ _________ _________ _ 1 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   2E9123E4     9   Rain Accumulation, Inches                  PC               
+   2E9123E4    10   Wind Speed MPH, Miles per Hour             US               
+   2E9123E4    11   Wind Direction Degrees, Degrees            UD               
+   2E9123E4    12   Air Temperature, Standard Placement, Deg   TA               
+   2E9123E4    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   2E9123E4    14   Relative Humidity, Percent                 XR               
+   2E9123E4    15   Battery Voltage, volts                     VB               
+   2E9123E4    17   Fuel Moisture, Percent                     MM               
+   2E9123E4    18   Wind Direction, Peak, Degrees              UX               
+   2E9123E4    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   2E9123E4    20   Solar Radiation, watts per meter squared   RD               

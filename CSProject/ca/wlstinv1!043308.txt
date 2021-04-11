@@ -1,0 +1,45 @@
+
+WLSTINV1-Weather Station Inventory for                       43308              
+                                                                                
+Station: 043308   Name: SPRING VALLEY          NESDIS: CA40A77E                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 22-Dec-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 549                       
+                                                                                
+State: 06-CA   County: 081-San Mateo           Lat/Lon: 37 33 45, 122 26 11     
+Obs Agy: 6 (Local Gv)     Unit: CZU          Mnemonic: SVY      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  1075   Asp: 5   Ann Prec:  30.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: d67   Acc Lst: CZU                                                        
+Comments:                                                                       
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B F 31-oct-19 21-mar-19 _ 2 A 2  BI 5  90  37  97  91                     
+   2 7C F 31-oct-19 21-mar-19 _ 2 A 2  BI 5  90  32  97  38                     
+   3 7G F 31-oct-19 21-mar-19 _ 2 A 2  BI 5  90  36  97  51                     
+   4 16V _ _________ _________ _ 2 A   __                                       
+   5 16W _ _________ _________ _ 2 A   __                                       
+   6 16X _ _________ _________ _ 2 A   __                                       
+   7 16Y _ _________ _________ _ 2 A   __                                       
+   8 16Z _ _________ _________ _ 2 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA40A77E     9   Rain Accumulation, Inches                  PC               
+   CA40A77E    10   Wind Speed MPH, Miles per Hour             US               
+   CA40A77E    11   Wind Direction Degrees, Degrees            UD               
+   CA40A77E    12   Air Temperature, Standard Placement, Deg   TA               
+   CA40A77E    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA40A77E    14   Relative Humidity, Percent                 XR               
+   CA40A77E    15   Battery Voltage, volts                     VB               
+   CA40A77E    17   Fuel Moisture, Percent                     MM               
+   CA40A77E    18   Wind Direction, Peak, Degrees              UX               
+   CA40A77E    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA40A77E    20   Solar Radiation, watts per meter squared   RD               

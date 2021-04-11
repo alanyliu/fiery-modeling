@@ -1,0 +1,49 @@
+
+WLSTINV1-Weather Station Inventory for                       45114              
+                                                                                
+Station: 045114   Name: MORMON ROCKS           NESDIS: 32310190                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 13-Dec-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: 045414     Fcst Zone: 511                       
+                                                                                
+State: 06-CA   County: 071-San Bernardino      Lat/Lon: 34 18 57, 117 30 13     
+Obs Agy: 1 (USDA FS )     Unit: BDF          Mnemonic: MORMN      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  3514   Asp: 2   Ann Prec:  18.03   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: 2c0   Acc Lst: STATIONS                                                   
+Comments: CHANGED FROM MANUAL TO RAWS NFDRS SAT 10-20-1999.  STATION MOVED APPR 
+OX 700', AT 225 DEGREES, ELEVATION GAIN OF 214 FEET ON JUNE 5, 2017.  MOVED STA 
+TION OUT OF PLANTATION ON TO MORE EXPOSED POSITION.                             
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B F 27-nov-19 16-apr-19 _ 2 P 2  BI 5  90 157  97 195                     
+   2 7F F 27-nov-19 16-apr-19 _ 2 P 2  BI 5  90 102  97 139                     
+   3 7A F 27-nov-19 16-apr-19 _ 2 A 2  BI 5  90  52  97  61                     
+   4 7G F 27-nov-19 16-apr-19 _ 2 A 2  EC 5  90  78  97  84                     
+   5 16V _ _________ _________ _ 2 P   BI 5  90  48  97  61                     
+   6 16X _ _________ _________ _ 2 P   BI 5  90 191  97 234                     
+   7 16Y _ _________ _________ _ 2 P   EC 5  90  66  97  72                     
+   8 16Y _ _________ _________ _ 2 P   __                                       
+   9 16Z _ _________ _________ _ 2 P   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   32310190     9   Rain Accumulation, Inches                  PC               
+   32310190    10   Wind Speed MPH, Miles per Hour             US               
+   32310190    11   Wind Direction Degrees, Degrees            UD               
+   32310190    12   Air Temperature, Standard Placement, Deg   TA               
+   32310190    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   32310190    14   Relative Humidity, Percent                 XR               
+   32310190    15   Battery Voltage, volts                     VB               
+   32310190    17   Fuel Moisture, Percent                     MM               
+   32310190    18   Wind Direction, Peak, Degrees              UX               
+   32310190    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   32310190    20   Solar Radiation, watts per meter squared   RD               

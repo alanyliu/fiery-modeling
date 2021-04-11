@@ -1,0 +1,35 @@
+
+WLSTINV1-Weather Station Inventory for                       44195              
+                                                                                
+Station: 044195   Name: ____________________   NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 09-Feb-2016     Obs Time/Z: 12/P 
+ST                                                                              
+                                                                                
+Assoc Man: 044102     Prev Stn: ______     Fcst Zone: 531                       
+                                                                                
+State: 06-CA   County: 043-Mariposa            Lat/Lon: 37 45 42, 119 49 29     
+Obs Agy: 3 (USDI NPS)     Unit: YOSE         Mnemonic: YNP      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: 12-May-2005                                 
+Site: 3   Elev:  6644   Asp: 4   Ann Prec:  32.00   Season: 1                   
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: 591   Acc Lst: YOSE                                                       
+Comments: 2/11/10 MIGRATED THE DATA FROM THIS SITE(044195) FOR 2008 AND 2009 TO 
+ THE PERMINANT CRANE FLAT STATION (044102) WHICH WAS A MANUAL STATION 2008 AND  
+PRIOR. THIS NUMBER SHOULD NO LONGER BE ASSOCIATED WITH CRANE FLAT RAWS. ASSITAN 
+CE WAS PROVIDED BY CORKY CONOVER. ENTERED BY ANSLEY ROTHELL, YOSEMITE DISPATCH, 
+ 209-379-1999                                                                   
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

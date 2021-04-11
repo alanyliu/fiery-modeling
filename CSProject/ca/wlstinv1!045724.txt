@@ -1,0 +1,35 @@
+
+WLSTINV1-Weather Station Inventory for                       45724              
+                                                                                
+Station: 045724   Name: GOOSE VALLEY           NESDIS: ________                 
+                                                                                
+Type: 2 (Man NFDRS)   Create/Mod Date: 23-Jul-2017     Obs Time/Z: 12/PST       
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 509                       
+                                                                                
+State: 06-CA   County: 073-San Diego           Lat/Lon: 33  4 24, 116 50 41     
+Obs Agy: 1 (USDA FS )     Unit: CA-CNF       Mnemonic: GVL      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  1544   Asp: 1   Ann Prec:  14.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS8374   Acc Lst: ________                                                
+Comments: HISTORIC NFDRS STATION THAT OPERATED FROM 1981 TO 21 FEBRUARY 2013 AT 
+ THE PALOMAR RANGER STATION COMPOUND.                                           
+                                                                                
+STATION RELOCATED 2 MILES TO THE WEST FROM THE RANGER STATION (1634 BLACK CANYO 
+N RD) TO THE BUDWEISER HILL AREA NORTH OF HAVERFORD RD IN FEBRUARY 2013.        
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B C 06-apr-15 18-mar-15 _ 3 A 2  BI 5  90  49  97  64                     
+   2 7G C 06-apr-15 18-mar-15 _ 3 A 2  BI 5  90  50  97  58                     
+   3 7Q C 06-apr-15 18-mar-15 _ 2 A 2  BI 5  90 108  97 123                     
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

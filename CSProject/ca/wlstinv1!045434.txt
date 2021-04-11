@@ -1,0 +1,33 @@
+
+WLSTINV1-Weather Station Inventory for                       45434              
+                                                                                
+Station: 045434   Name: LITTLE ROCK            NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 18-Oct-2001     Obs Time/Z: 13/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 514                       
+                                                                                
+State: 06-CA   County: 111-Ventura             Lat/Lon: 34 30  0, 118 36  0     
+Obs Agy: 5 (State   )     Unit: LACO         Mnemonic: LROCK      FS Reg:   5   
+                                                                                
+Fuel Stk: 08-Jul-1996   Wdy FM Mea: 21-Jun-1996                                 
+Site: 1   Elev:  2875   Asp: 2   Ann Prec: ######   Season:                     
+Ltng scale:   1.00   Hum code: 1   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: Y                                 
+                                                                                
+User: FS8374   Acc Lst: ________                                                
+Comments: PERIOD OF RECORD:                                                     
+                                                                                
+STATION LOCATED IN SECTION 13, T5N, R10W                                        
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

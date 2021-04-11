@@ -1,0 +1,55 @@
+
+WLSTINV1-Weather Station Inventory for                       40904              
+                                                                                
+Station: 040904   Name: CHESTER                NESDIS: 32806744                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 13-Dec-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 597                       
+                                                                                
+State: 06-CA   County: 063-Plumas              Lat/Lon: 40 17 33, 121 14 38     
+Obs Agy: 1 (USDA FS )     Unit: LNF          Mnemonic: CHR      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  4547   Asp: 3   Ann Prec:  34.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: 7db   Acc Lst: SIFC                                                       
+Comments: DECEMBER 5, 2008 CORRECTED LAT/LONG ENTERED AFTER GPS BY DISTRCT.     
+                                                                                
+HAS A/C POWER/HEATED PRECIP/ ACROSS FROM AIRPORT.                               
+                                                                                
+JULY 30 2004 STATION WAS MOVED FROM THE WEST SIDE OF THE ALMANOR DISTRICT OFFIC 
+E TO A MORE OPEN AREA EAST OF THE ALMANOR STORAGE AREA AT THE EDGE OF A GLIDE P 
+ATH.  WD/WS IS NOW MOUNTED ON A 20' TOWER, NO LONGER ATOP A TREE.  NO LONGER A/ 
+C POWER.  CONCURANCE FROM JOHN SNOOK.                                           
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G F 27-jul-19 29-may-19 _ 1 A 2  BI 5  90  74  97  83                     
+   2 16V _ _________ _________ _ 1 A   __                                       
+   3 16W _ _________ _________ _ 1 A   __                                       
+   4 16X _ _________ _________ _ 1 A   __                                       
+   5 16Y _ _________ _________ _ 1 A   BI 5  90  36  97  42                     
+   6 16Y _ _________ _________ _ 1 A   EC 5  80  62  97  70                     
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   32806744     9   Rain Accumulation, Inches                  PC               
+   32806744    10   Wind Speed MPH, Miles per Hour             US               
+   32806744    11   Wind Direction Degrees, Degrees            UD               
+   32806744    12   Air Temperature, Standard Placement, Deg   TA               
+   32806744    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   32806744    14   Relative Humidity, Percent                 XR               
+   32806744    15   Battery Voltage, volts                     VB               
+   32806744    17   Fuel Moisture, Percent                     MM               
+   32806744    18   Wind Direction, Peak, Degrees              UX               
+   32806744    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   32806744    20   Solar Radiation, watts per meter squared   RD               
+   32806744    21   Air Temperature, 24 Hour High, Degrees F   TX               
+   32806744    22   Air Temperature, 24 Hour Low, Degrees Fa   TN               
+   32806744    23   Relative Humidity, 24 Hour High, Percent   XS               
+   32806744    24   Relative Humidity, 24 Hour Low, Percent    XQ               

@@ -1,0 +1,40 @@
+
+WLSTINV1-Weather Station Inventory for                       40290              
+                                                                                
+Station: 040290   Name: SHF06 PORTABLE         NESDIS: 328084B6                 
+                                                                                
+Type: 3 (RAWS S non-NFDRS)   Create/Mod Date: 03-Feb-2003     Obs Time/Z: 12/PS 
+T                                                                               
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 593                       
+                                                                                
+State: 06-CA   County: 093-Siskiyou            Lat/Lon: 41 20 41, 121 58 35     
+Obs Agy: 1 (USDA FS )     Unit: SHF          Mnemonic: SHF06      FS Reg:   5   
+                                                                                
+Fuel Stk: 26-Sep-1999   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  4108   Asp: 0   Ann Prec:  36.72   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: FS7852   Acc Lst: SHF                                                     
+Comments: PLACED INTO WINTER SERVICE FOR WS/WD & AT/RH OBS                      
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   328084B6     9   Rain Accumulation, Inches                  PC               
+   328084B6    10   Wind Speed MPH, Miles per Hour             US               
+   328084B6    11   Wind Direction Degrees, Degrees            UD               
+   328084B6    12   Air Temperature, Standard Placement, Deg   TA               
+   328084B6    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   328084B6    14   Relative Humidity, Percent                 XR               
+   328084B6    15   Battery Voltage, volts                     VB               
+   328084B6    17   Fuel Moisture, Percent                     MM               
+   328084B6    18   Wind Direction, Peak, Degrees              UX               
+   328084B6    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   328084B6    20   Solar Radiation, watts per meter squared   RD               

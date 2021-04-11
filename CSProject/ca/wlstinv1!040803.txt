@@ -1,0 +1,33 @@
+
+WLSTINV1-Weather Station Inventory for                       40803              
+                                                                                
+Station: 040803   Name: INSKIP                 NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 26-Oct-2005     Obs Time/Z: 13/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 596                       
+                                                                                
+State: 06-CA   County: 103-Tehama              Lat/Lon: 40 20  4, 121 56  5     
+Obs Agy: 5 (State   )     Unit: CDF          Mnemonic: ISKIP      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  3103   Asp: 4   Ann Prec:  30.00   Season: 3                   
+Ltng scale:   1.00   Hum code: 1   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: WICA1124   Acc Lst: TGU                                                   
+Comments: HUMIDITY CODE - WET BULB                                              
+                                                                                
+J. SPRAGUE (TGU) CHANGED TO A HISTORIC NON-ACTIVE STATION ON 26-OCT-05.         
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

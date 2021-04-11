@@ -1,0 +1,74 @@
+
+WLSTINV1-Weather Station Inventory for                       44105              
+                                                                                
+Station: 044105   Name: JERSEYDALE             NESDIS: 3272C05C                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 27-Jan-2020     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 528                       
+                                                                                
+State: 06-CA   County: 043-Mariposa            Lat/Lon: 37 32 37, 119 50 22     
+Obs Agy: 1 (USDA FS )     Unit: SNF          Mnemonic: JERSE      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  3762   Asp: 0   Ann Prec:  52.15   Season:                     
+Ltng scale:   4.71   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: b7f   Acc Lst: CONTROL                                                    
+Comments: GREEN UP AND RECALC 7-MAY-12, ANNUAL MAINT. COMPLETED 6/14/12 (AIR TE 
+MP/RH & FUEL MOISTURE/ FUEL TEMP SENSORD REPLACED)ANNUAL PRECIP AMOUNT RESET TO 
+ .02 BY BC58 7/1.                                                               
+PER DISTRICT FUELS BC STATION SET TO FROZEN ON 25-OCT-2012 AND RE-CALC ON 02-NO 
+V-2012 KTHOM                                                                    
+                                                                                
+PER BC58 GREEN UP 3/17/14 KTHOM                                                 
+4/16/14 RAWS ANNUAL  MAINTENANCE FOR THE STATIONS ON THE BASS LAKE RD.  ALL STA 
+TIONS HAD THE FUEL STICK & AIR TEMPERATURE/RELATIVE HUMIDITY SENSORS CHANGED OU 
+T                                                                               
+                                                                                
+PER BC58 FUEL STICK REPLACED ON 3/6/15. MAS                                     
+                                                                                
+PER BC58 GREEN-UP AND RECALC 3/18/2015. MAS                                     
+                                                                                
+PER BC58 STATION SET TO FROZEN 12/4/15. BM                                      
+PER BC58 STATION SET TO GREEN UP 3/22/16 BM                                     
+                                                                                
+PER BC58 STATION ANNUAL MAINTENANCE COMPLETE AND NEW FUEL STICK. 03/02/2017 BC6 
+2                                                                               
+PER BC58 GREEN UP AS OF 3/31/18 SW                                              
+PER CAPT.58 ANNUAL MAINTENANCE, NEW FUEL STICK, NEW RH/AIR TEMP SENSOR, WIND SP 
+EED/DIRECTION SENSOR AND WFMI UPDATED. 03/04/19 BM.                             
+PER BC58 GREEN UP AS OF 4/7/19;SW                                               
+PER BC58 FUEL STICK AND AIR TEMP/RELATIVE HUMIDITY REPLACED 1/22/20;SW          
+PER BC58 MAINTENANCE ALSO COMPLETED ON 1/22/20. SURI                            
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B C 25-apr-19 07-apr-18 _ 3 A 2  BI 5  90 118  97 148                     
+   2 7G C 25-apr-19 07-apr-18 _ 3 A 2  BI 5  90  74  97  83                     
+   3 16V _ _________ _________ _ 3 A   __                                       
+   4 16W _ _________ _________ _ 3 A   __                                       
+   5 16X _ _________ _________ _ 3 A   __                                       
+   6 16Y _ _________ _________ _ 3 A   __                                       
+   7 16Z _ _________ _________ _ 3 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   3272C05C     9   Rain Accumulation, Inches                  PC               
+   3272C05C    10   Wind Speed MPH, Miles per Hour             US               
+   3272C05C    11   Wind Direction Degrees, Degrees            UD               
+   3272C05C    12   Air Temperature, Standard Placement, Deg   TA               
+   3272C05C    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   3272C05C    14   Relative Humidity, Percent                 XR               
+   3272C05C    15   Battery Voltage, volts                     VB               
+   3272C05C    17   Fuel Moisture, Percent                     MM               
+   3272C05C    18   Wind Direction, Peak, Degrees              UX               
+   3272C05C    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   3272C05C    20   Air Temperature, 24 Hour High, Degrees F   TX               
+   3272C05C    21   Air Temperature, 24 Hour Low, Degrees Fa   TN               
+   3272C05C    22   Relative Humidity, 24 Hour High, Percent   XS               
+   3272C05C    23   Relative Humidity, 24 Hour Low, Percent    XQ               
+   3272C05C    24   Solar Radiation, watts per meter squared   RD               

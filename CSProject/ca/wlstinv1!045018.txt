@@ -1,0 +1,38 @@
+
+WLSTINV1-Weather Station Inventory for                       45018              
+                                                                                
+Station: 045018   Name: HART FLAT              NESDIS: CA5205EC                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 07-Sep-2012     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: HNX                       
+                                                                                
+State: 06-CA   County: 029-Kern                Lat/Lon: 35 15  4, 118 36  1     
+Obs Agy: 6 (Local Gv)     Unit: KRN          Mnemonic: HFLC1      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:  2685   Asp: 4   Ann Prec:  15.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl:                                      
+                                                                                
+User: 8de   Acc Lst: ________                                                   
+Comments: EXISTING STATION, ADDING TO WIMS                                      
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA5205EC     9   Rain Accumulation, Inches                  PC               
+   CA5205EC    10   Wind Speed MPH, Miles per Hour             US               
+   CA5205EC    11   Wind Direction Degrees, Degrees            UD               
+   CA5205EC    12   Air Temperature, Standard Placement, Deg   TA               
+   CA5205EC    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA5205EC    14   Relative Humidity, Percent                 XR               
+   CA5205EC    15   Battery Voltage, volts                     VB               
+   CA5205EC    17   Fuel Moisture, Percent                     MM               
+   CA5205EC    18   Wind Direction, Peak, Degrees              UX               
+   CA5205EC    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA5205EC    20   Solar Radiation, watts per meter squared   RD               

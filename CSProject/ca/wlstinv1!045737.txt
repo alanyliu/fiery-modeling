@@ -1,0 +1,48 @@
+
+WLSTINV1-Weather Station Inventory for                       45737              
+                                                                                
+Station: 045737   Name: SAN MIGUEL             NESDIS: 8374E6EA                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 10-Oct-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 509                       
+                                                                                
+State: 06-CA   County: 073-San Diego           Lat/Lon: 32 41  6, 116 58 25     
+Obs Agy: 8 (Oth Fed )     Unit: CA-TNR       Mnemonic: SDNWR      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:   425   Asp: 6   Ann Prec:  10.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: FS11243   Acc Lst: CNF                                                    
+Comments: OWNER: SAN DIEGO NATIONAL WILDLIFE REFUGE - USFWS                     
+CONTACT:  BILL MOLUMBY @ 619-669-6651                                           
+HS CONVERTED FROM TRANSITION TO CURED 6/16/15 C.ANDERSON                        
+HS CONVERTED FROM CURED TO FROZEN 7/17/15 C.ANDERSON                            
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B F 09-oct-19 11-apr-19 _ 2 A 2  BI 5  90 116  97 157                     
+   2 7A F 09-oct-19 11-apr-19 _ 2 A 2  BI 5  90  59  97 110                     
+   5 16V _ _________ _________ _ 2 A   __                                       
+   6 16W _ _________ _________ _ 2 A   __                                       
+   7 16X _ _________ _________ _ 2 A   __                                       
+   8 16Y _ _________ _________ _ 2 A   __                                       
+   9 16Z _ _________ _________ _ 2 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   8374E6EA     9   Rain Accumulation, Inches                  PC               
+   8374E6EA    10   Wind Speed MPH, Miles per Hour             US               
+   8374E6EA    11   Wind Direction Degrees, Degrees            UD               
+   8374E6EA    12   Air Temperature, Standard Placement, Deg   TA               
+   8374E6EA    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   8374E6EA    14   Relative Humidity, Percent                 XR               
+   8374E6EA    15   Battery Voltage, volts                     VB               
+   8374E6EA    17   Fuel Moisture, Percent                     MM               
+   8374E6EA    18   Wind Direction, Peak, Degrees              UX               
+   8374E6EA    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   8374E6EA    20   Solar Radiation, watts per meter squared   RD               

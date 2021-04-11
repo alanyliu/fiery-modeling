@@ -1,0 +1,47 @@
+
+WLSTINV1-Weather Station Inventory for                       45203              
+                                                                                
+Station: 045203   Name: LOS PRIETOS            NESDIS: 3267907E                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 17-Dec-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: 045103     Fcst Zone: 500                       
+                                                                                
+State: 06-CA   County: 083-Santa Barbara       Lat/Lon: 34 32 39, 119 47 28     
+Obs Agy: 1 (USDA FS )     Unit: LPF          Mnemonic: LPRTS      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:   982   Asp: 0   Ann Prec:  22.00   Season:                     
+Ltng scale:    .23   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS7742   Acc Lst: LPF                                                     
+Comments: FDR AREA 586, INSTALLED RAWS 10/31/97                                 
+3/28/2013 COMPLETED LIFE CYCLE REPLACEMENT UPGRADES, NEW EQUIPMENT IS FTS, TRAN 
+SMIT TIME 35:50.                                                                
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B F 28-nov-19 10-apr-19 _ 4 A 2  BI 5  90  64  97 112                     
+   2 7G F 28-nov-19 10-apr-19 _ 4 A 2  EC 5  90  60  97  66                     
+   3 16V _ _________ _________ _ 4 A   __                                       
+   4 16W _ _________ _________ _ 4 A   __                                       
+   5 16X _ _________ _________ _ 4 A   BI 5  90 173  97 197                     
+   6 16Y _ _________ _________ _ 4 A   EC 5  90  85  97 104                     
+   7 16Z _ _________ _________ _ 4 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   3267907E     9   Rain Accumulation, Inches                  PC               
+   3267907E    10   Wind Speed MPH, Miles per Hour             US               
+   3267907E    11   Wind Direction Degrees, Degrees            UD               
+   3267907E    12   Air Temperature, Standard Placement, Deg   TA               
+   3267907E    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   3267907E    14   Relative Humidity, Percent                 XR               
+   3267907E    15   Battery Voltage, volts                     VB               
+   3267907E    17   Fuel Moisture, Percent                     MM               
+   3267907E    18   Wind Direction, Peak, Degrees              UX               
+   3267907E    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   3267907E    20   Solar Radiation, watts per meter squared   RD               

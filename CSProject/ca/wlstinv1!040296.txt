@@ -1,0 +1,42 @@
+
+WLSTINV1-Weather Station Inventory for                       40296              
+                                                                                
+Station: 040296   Name: KNF96 PORTABLE         NESDIS: 32821420                 
+                                                                                
+Type: 3 (RAWS S non-NFDRS)   Create/Mod Date: 21-Jul-2014     Obs Time/Z: 13/PS 
+T                                                                               
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: ____                      
+                                                                                
+State: 06-CA   County: 093-Siskiyou            Lat/Lon: 41 40 55, 123  8 44     
+Obs Agy: 1 (USDA FS )     Unit: KNF96        Mnemonic: KNFQD      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  4066   Asp: 5   Ann Prec:  20.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: FS11259   Acc Lst: YICC                                                   
+Comments: PORTABLE RAWS FOR THE KNF. 04/07/2011- MOVED TO SCOTT RIVER/MIDDLE CR 
+EEK MEADOWS AT THE END OF THE 44N 51Y ROAD.FOR RX.                              
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   32821420     9   Rain Accumulation, Inches                  PC               
+   32821420    10   Wind Speed MPH, Miles per Hour             US               
+   32821420    11   Wind Direction Degrees, Degrees            UD               
+   32821420    12   Air Temperature, Standard Placement, Deg   TA               
+   32821420    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   32821420    14   Relative Humidity, Percent                 XR               
+   32821420    15   Battery Voltage, volts                     VB               
+   32821420    17   Fuel Moisture, Percent                     MM               
+   32821420    18   Wind Direction, Peak, Degrees              UX               
+   32821420    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   32821420    20   Solar Radiation, watts per meter squared   RD               

@@ -1,0 +1,77 @@
+
+WLSTINV1-Weather Station Inventory for                       43613              
+                                                                                
+Station: 043613   Name: GREEN SPRING           NESDIS: CA21E4BC                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 16-Jan-2020     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 539                       
+                                                                                
+State: 06-CA   County: 109-Tuolumne            Lat/Lon: 37 50 3., 120 30 11     
+Obs Agy: 5 (State   )     Unit: TCU          Mnemonic: GRN      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  1108   Asp: 0   Ann Prec:  20.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: 15   Acc Lst: ECC                                                         
+Comments: 1/16/2020 FUEL MODELS FROZEN AND BACK DATED TO 11/25/19 EAW           
+                                                                                
+3/14/19 GREEN UP EAW                                                            
+                                                                                
+3/29-13 GREEN UP. MIKE B                                                        
+                                                                                
+3/21/13 PREV MAINT. REPLACED TEMP/RH SENSOR, FUEL STICK AND WIND SPEED/DIRECTIO 
+N SENSOR MIKE B                                                                 
+                                                                                
+03-MAR-12-GREEN-UP --MJB                                                        
+                                                                                
+10/02/11 WIMS FROZEN.AJM                                                        
+                                                                                
+FIRE SEASON 2011. SEVERAL ISSUES WITH THE WIMS THIS YEAR. SEE NOTES FOR 043208. 
+AJM                                                                             
+                                                                                
+03/16/11 GREENUP COMPLETED.AJM                                                  
+                                                                                
+GREENUP COMPLETED ON 03/25/10 WITH GREENUP DATE OF 03/01/10 BY AM.  ALL MISSING 
+ OBS BROUGHT UP TO DATE AND RECALC'ED.                                          
+                                                                                
+GREENUP COMPLETED ON 03/16/09. RECALC'ED TO 4/30/09.  STATION WAS REGREENED AND 
+ RECALCULATED FOR 2008 BY AM.                                                   
+                                                                                
+ON THIS DATE APRIL 15,2008 ALLEN RECALC THIS STATION. DATA LOOK GOOD IN TRACKIN 
+G. ALL PAST OBS WERE BROUGHT UP TO DATE FROM JAN 1 2007                         
+                                                                                
+ON 05/31/07 THE STATION WAS ENTIRELY CONVERTED TO NEW FTS EQUIPMENT AND TRANSMI 
+TS USING HIGH DATA RATE ON NEW CHANNEL. OBS TIME UNCHANGED. TESTED TIPPING BUCK 
+ET AND RESET RAINFALL.  DFORREST CDF FIRE WX PROGRAM COORDINATOR                
+LAT/LONG, ELEV AMENDED BASED UPON ON-SITE GPS (NAD83) WHEN STATION WAS UPGRADED 
+.  DFORREST CDF FIRE WX PROGRAM COORDINATOR 07/09/07                            
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7A F 25-nov-19 14-mar-19 _ 2 A 2  BI 5  90  42  97  50                     
+   2 7B F 25-nov-19 14-mar-19 _ 2 A 2  BI 5  90 131  97 156                     
+   3 7G F 25-nov-19 14-mar-19 _ 2 A 2  BI 5  90  72  97  82                     
+   4 16V _ _________ _________ _ 2 A   __                                       
+   5 16W _ _________ _________ _ 2 A   __                                       
+   6 16X _ _________ _________ _ 2 A   __                                       
+   7 16Y _ _________ _________ _ 2 A   __                                       
+   8 16Z _ _________ _________ _ 2 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA21E4BC     9   Rain Accumulation, Inches                  PC               
+   CA21E4BC    10   Wind Speed MPH, Miles per Hour             US               
+   CA21E4BC    11   Wind Direction Degrees, Degrees            UD               
+   CA21E4BC    12   Air Temperature, Standard Placement, Deg   TA               
+   CA21E4BC    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA21E4BC    14   Relative Humidity, Percent                 XR               
+   CA21E4BC    15   Battery Voltage, volts                     VB               
+   CA21E4BC    17   Fuel Moisture, Percent                     MM               
+   CA21E4BC    18   Wind Direction, Peak, Degrees              UX               
+   CA21E4BC    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA21E4BC    20   Solar Radiation, watts per meter squared   RD               

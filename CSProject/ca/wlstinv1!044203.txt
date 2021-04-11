@@ -1,0 +1,74 @@
+
+WLSTINV1-Weather Station Inventory for                       44203              
+                                                                                
+Station: 044203   Name: MINARETS               NESDIS: 326252A0                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 30-Jan-2020     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 532                       
+                                                                                
+State: 06-CA   County: 039-Madera              Lat/Lon: 37 24 25, 119 20 45     
+Obs Agy: 1 (USDA FS )     Unit: SNF          Mnemonic: MINAR      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  5313   Asp: 2   Ann Prec:  40.00   Season:                     
+Ltng scale:   4.71   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: b7f   Acc Lst: CONTROL                                                    
+Comments: GREEN UP 12-MAY-12, ANNUAL MAINT. COMPLETED 6/21/12 (AIR TEMP/RH & FU 
+EL MOISTURE/ FUEL TEMP SENSORD REPLACED. ANNUAL PRECIP AMOUNT RESET TO .02 BY B 
+C58 7/1.                                                                        
+PER DISTRICT FUELS BC STATION SET TO FROZEN ON 25-OCT-2012 AND RE-CALC ON 02-NO 
+V-2012 (KTHOM)                                                                  
+SNOW FLAG REMOVED 3/22 AND PER BC58 GREEN UP 3/23/14 KTHOM                      
+4/16/14 RAWS ANNUAL  MAINTENANCE FOR THE STATIONS ON THE BASS LAKE RD.  ALL STA 
+TIONS HAD THE FUEL STICK & AIR TEMPERATURE/RELATIVE HUMIDITY SENSORS CHANGED OU 
+T                                                                               
+                                                                                
+PER BC58 FUEL STICK REPLACED ON 3/15/15. MAS                                    
+PER BC58 GREEN-UP BACKDATED AND RECALC BACK TO APRIL 1ST. MAS 4/21/15.          
+PER BC58 STATION FROZEN. 12/4/15. BM                                            
+PER BC 58 GREEN-UP BACKDATED TO APRIL 18TH. SURI 5/10/16.                       
+PER BC 58 STATION FROZEN ON 1/27/17                                             
+PER BC 58 RAWS IS UP FOR MAINT. IN JUNE.  ALC 3/14/17                           
+PER BC 58 GREEN UP DATE SET FOR 5/22/17. SURI 5/30/17                           
+PER BC 58 ANNUAL MAIN. PERFORMED ON 6/13/17. AT/RH, FM/FT SOLAR RADIATION SENSO 
+RS SWITCHED OUT. THE SOLAR RAD WAS NOT ON THE MAINENANCE SCHEDULE BUT WAS SWITC 
+HED OUT BECAUSE IT WAS NOT WORKING PROPERLY.  SURI 6/16/17                      
+PER BC 58 GREEN UP MINARETS AS OF 4/27/18 SW                                    
+                                                                                
+PER BC58 STATION SET TO GREEN UP AS OF 05/13/2019 BM                            
+PER CAPT18 STATION MAINTENANCE COMPLETED AND FM/FT, RH/AT AND THE RAIN GAUGE WE 
+RE CHANGED OUT TODAY, 7/19/19 ; BM                                              
+PER BC58 FUEL STICK CHANGED OUT ON 1/30/20;SW                                   
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7C C 05-jun-19 13-may-19 _ 2 A 3  BI 5  90  42  97  48                     
+   2 7G C 05-jun-19 13-may-19 _ 2 A 3  BI 5  90  68  97  77                     
+   3 16V _ _________ _________ _ 2 A   __                                       
+   4 16W _ _________ _________ _ 2 A   __                                       
+   5 16X _ _________ _________ _ 2 A   __                                       
+   6 16Y _ _________ _________ _ 2 A   __                                       
+   7 16Z _ _________ _________ _ 2 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   326252A0     9   Rain Accumulation, Inches                  PC               
+   326252A0    10   Wind Speed MPH, Miles per Hour             US               
+   326252A0    11   Wind Direction Degrees, Degrees            UD               
+   326252A0    12   Air Temperature, Standard Placement, Deg   TA               
+   326252A0    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   326252A0    14   Relative Humidity, Percent                 XR               
+   326252A0    15   Battery Voltage, volts                     VB               
+   326252A0    17   Fuel Moisture, Percent                     MM               
+   326252A0    18   Wind Direction, Peak, Degrees              UX               
+   326252A0    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   326252A0    20   Solar Radiation, watts per meter squared   RD               
+   326252A0    21   Air Temperature, 24 Hour High, Degrees F   TX               
+   326252A0    22   Air Temperature, 24 Hour Low, Degrees Fa   TN               
+   326252A0    23   Relative Humidity, 24 Hour High, Percent   XS               
+   326252A0    24   Relative Humidity, 24 Hour Low, Percent    XQ               

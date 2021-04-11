@@ -1,0 +1,44 @@
+
+WLSTINV1-Weather Station Inventory for                       44208              
+                                                                                
+Station: 044208   Name: DEVILS POSTPILE        NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 13-Aug-2004     Obs Time/Z: 12/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 518                       
+                                                                                
+State: 06-CA   County: 039-Madera              Lat/Lon: 37 37  8, 119  5  6     
+Obs Agy: 1 (USDA FS )     Unit: INYO NF      Mnemonic: INF      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  7560   Asp: 0   Ann Prec:  40.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: ____________   Acc Lst: ________                                          
+Comments: DATE:  APRIL 24, 2003 BH                                              
+RAWS STATION INSTALLED IN NOVEMBER 1993                                         
+ORIGINAL NAME:  DEVILS POSTPILE                                                 
+OWNER:  INYO NATIONAL FOREST, 0504                                              
+END.                                                                            
+DATE: APRIL 29, 2003 BH                                                         
+THE RH/AT SENSOR IS POSITIONED 15 FEET ABOVE GROUND LEVEL.                      
+END                                                                             
+DATE:  AUGUST 12, 2004                                                          
+RAWS STATION TRANSMITT ENDED ON AUGUST 6TH 2004, STATION IS GOING TO BE RELOCAT 
+ED.                                                                             
+RAWS DATA:  NOVEMEMBER 1993-AUGUST 6, 2004.                                     
+FOR FUTURE REFERENCE:  NESDIS ID:  32429650                                     
+END:  BH                                                                        
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

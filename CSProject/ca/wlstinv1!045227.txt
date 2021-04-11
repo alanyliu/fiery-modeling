@@ -1,0 +1,47 @@
+
+WLSTINV1-Weather Station Inventory for                       45227              
+                                                                                
+Station: 045227   Name: GAVIOTA                NESDIS: 32B65460                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 12-Dec-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 501                       
+                                                                                
+State: 06-CA   County: 083-Santa Barbara       Lat/Lon: 34 29 18, 120 14 8.     
+Obs Agy: 5 (State   )     Unit: SBC FIRE     Mnemonic: SBC      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:   878   Asp: 4   Ann Prec:  23.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: aeb   Acc Lst: SBCRAWS                                                    
+Comments: STATION INSTALLED 1/31/2018. LOCATED ON AN EAST-WEST RUNNING RIDGE IN 
+ THE GAVIOTA PASS IN MIXED CHAPARRAL AND GRASS. AREA RECIEVES FREQUENT AND STRO 
+NG SUNDOWNER (FOEHN) WIND CONDITIONS. SBC FDRA CENTRAL COAST.                   
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B F 04-nov-19 01-apr-19 _ 4 A 2  BI 5  90  57  97 123                     
+   2 7G F 04-nov-19 01-apr-19 _ 4 A 2  EC 5  90  64  97  72                     
+   3 16V _ _________ _________ _ 4 A   __                                       
+   4 16W _ _________ _________ _ 4 A   __                                       
+   5 16X _ _________ _________ _ 4 A   __                                       
+   6 16Y _ _________ _________ _ 4 A   __                                       
+   7 16Z _ _________ _________ _ 4 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   32B65460     9   Rain Accumulation, Inches                  PC               
+   32B65460    10   Wind Speed MPH, Miles per Hour             US               
+   32B65460    11   Wind Direction Degrees, Degrees            UD               
+   32B65460    12   Air Temperature, Standard Placement, Deg   TA               
+   32B65460    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   32B65460    14   Relative Humidity, Percent                 XR               
+   32B65460    15   Battery Voltage, volts                     VB               
+   32B65460    17   Fuel Moisture, Percent                     MM               
+   32B65460    18   Wind Direction, Peak, Degrees              UX               
+   32B65460    19   Wind speed peak, Miles per Hour            UP               
+   32B65460    20   Solar Radiation, watts per meter squared   RD               

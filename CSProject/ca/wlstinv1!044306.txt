@@ -1,0 +1,30 @@
+
+WLSTINV1-Weather Station Inventory for                       44306              
+                                                                                
+Station: 044306   Name: CONE PEAK              NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 15-Apr-1998     Obs Time/Z: 13/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 522                       
+                                                                                
+State: 06-CA   County: 053-Monterey            Lat/Lon: 36  2  6, 121 30  1     
+Obs Agy: 1 (USDA FS )     Unit: LPF          Mnemonic: CONE      FS Reg:   5    
+                                                                                
+Fuel Stk: 01-Mar-1995   Wdy FM Mea: 14-Feb-1995                                 
+Site: 3   Elev:  5155   Asp: 0   Ann Prec:    Season:                           
+Ltng scale:    .12   Hum code: 1   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: ____________   Acc Lst: ________                                          
+Comments: INACTIVE, LAST READING 10-7-93                                        
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

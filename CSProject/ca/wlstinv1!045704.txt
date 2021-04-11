@@ -1,0 +1,45 @@
+
+WLSTINV1-Weather Station Inventory for                       45704              
+                                                                                
+Station: 045704   Name: CAMERON FIRE STATION   NESDIS: 326C332E                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 10-Oct-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 513                       
+                                                                                
+State: 06-CA   County: 073-San Diego           Lat/Lon: 32 43 16, 116 27 52     
+Obs Agy: 1 (USDA FS )     Unit: CA-CNF       Mnemonic: CMF      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  3268   Asp: 3   Ann Prec:  15.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS11243   Acc Lst: MVU                                                    
+Comments: DESCANSO RD. CONVERTED TO RAWS IN APRIL.95                            
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B F 09-oct-19 11-apr-19 _ 3 A 2  BI 5  90 164  97 186                     
+   2 7Q F 09-oct-19 11-apr-19 _ 3 A 2  BI 5  90 115  97 127                     
+   3 7G F 09-oct-19 11-apr-19 _ 1 A 2  EC 5  90 116  97 130                     
+   5 16V _ _________ _________ _ 3 A   __                                       
+   6 16W _ _________ _________ _ 3 A   __                                       
+   7 16X _ _________ _________ _ 3 A   __                                       
+   8 16Y _ _________ _________ _ 3 A   __                                       
+   9 16Z _ _________ _________ _ 3 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   326C332E     9   Rain Accumulation, Inches                  PC               
+   326C332E    10   Wind Speed MPH, Miles per Hour             US               
+   326C332E    11   Wind Direction Degrees, Degrees            UD               
+   326C332E    12   Air Temperature, Standard Placement, Deg   TA               
+   326C332E    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   326C332E    14   Relative Humidity, Percent                 XR               
+   326C332E    15   Battery Voltage, volts                     VB               
+   326C332E    17   Fuel Moisture, Percent                     MM               
+   326C332E    18   Wind Direction, Peak, Degrees              UX               
+   326C332E    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   326C332E    20   Solar Radiation, watts per meter squared   RD               

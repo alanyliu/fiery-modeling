@@ -1,0 +1,49 @@
+
+WLSTINV1-Weather Station Inventory for                       45101              
+                                                                                
+Station: 045101   Name: FAWNSKIN               NESDIS: 3230F3EE                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 13-Dec-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: 045401     Fcst Zone: 511                       
+                                                                                
+State: 06-CA   County: 071-San Bernardino      Lat/Lon: 34 15 58, 116 53 56     
+Obs Agy: 1 (USDA FS )     Unit: BDF          Mnemonic: FAWNS      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  6900   Asp: 4   Ann Prec:  38.01   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: 2c0   Acc Lst: STATIONS                                                   
+Comments: MANUAL TO RAWS STATION 04/25/95                                       
+REGULAR SCHEDULED OBS CHANGED TO "12" FOR INCREASED MANAGEMENT EFFICIENCES ON 2 
+4JULY2014.                                                                      
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7C F 27-nov-19 16-apr-19 _ 2 P 2  BI 5  90  44  97  54                     
+   2 7B F 27-nov-19 16-apr-19 _ 2 P 2  BI 5  90 129  97 161                     
+   3 7A F 27-nov-19 16-apr-19 _ 2 A 2  BI 5  90  47  97  56                     
+   4 7G F 27-nov-19 16-apr-19 _ 2 A 2  BI 5  90  77  97  85                     
+   5 16W _ _________ _________ _ 2 P   BI 5  90  35  97  41                     
+   6 16X _ _________ _________ _ 2 P   BI 5  90 150  97 172                     
+   7 16V _ _________ _________ _ 2 P   BI 5  90  37  97  45                     
+   8 16Y _ _________ _________ _ 2 P   BI 5  90  39  97  42                     
+   9 16Z _ _________ _________ _ 2 P   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   3230F3EE     9   Rain Accumulation, Inches                  PC               
+   3230F3EE    10   Wind Speed MPH, Miles per Hour             US               
+   3230F3EE    11   Wind Direction Degrees, Degrees            UD               
+   3230F3EE    12   Air Temperature, Standard Placement, Deg   TA               
+   3230F3EE    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   3230F3EE    14   Relative Humidity, Percent                 XR               
+   3230F3EE    15   Battery Voltage, volts                     VB               
+   3230F3EE    17   Fuel Moisture, Percent                     MM               
+   3230F3EE    18   Wind Direction, Peak, Degrees              UX               
+   3230F3EE    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   3230F3EE    20   Solar Radiation, watts per meter squared   RD               

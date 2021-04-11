@@ -1,0 +1,49 @@
+
+WLSTINV1-Weather Station Inventory for                       44701              
+                                                                                
+Station: 044701   Name: ASH MOUNTAIN           NESDIS: FA66F07C                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 03-Feb-2020     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 529                       
+                                                                                
+State: 06-CA   County: 107-Tulare              Lat/Lon: 36 29 29, 118 49 31     
+Obs Agy: 3 (USDI NPS)     Unit: SEKI/KNP     Mnemonic: ASHMT      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:  1730   Asp: 5   Ann Prec:  25.30   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: NPS8561   Acc Lst: CAVEGIRL                                               
+Comments: ON MARCH 20, 2006 A RAWS STATION WAS PUT IN THE SAME LOCATION AS OUR  
+OLD MANUAL STATION #44701.  WE DID NOT HOOK UP THE NESDIS ID NUMBER UNTIL APRIL 
+ 11, 2006 SO THE FIRST WEATHER OBS. THAT COMES IN AUTOMATICALLY SHOULD BE FOR A 
+PRIL 12TH.  BETWEEN 3/20 AND 4/11, MANUAL RECORDINGS WERE UTILIZED.             
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B F 02-dec-19 02-apr-19 _ 5 A 2  BI 5  90 199  97 228                     
+   2 7A F 02-dec-19 02-apr-19 _ 5 A 2  BI 5  90  62  97  67                     
+   3 7F F 02-dec-18 02-apr-19 _ 5 A 2  BI 5  90 134  97 165                     
+   4 16V _ _________ _________ _ 5 A   __                                       
+   5 16W _ _________ _________ _ 5 A   __                                       
+   6 16X _ _________ _________ _ 5 A   __                                       
+   7 16Y _ _________ _________ _ 5 A   __  90   97                              
+   8 16Z _ _________ _________ _ 5 A   __  90   97                              
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   FA66F07C     9   Rain Accumulation, Inches                  PC               
+   FA66F07C    10   Wind Speed MPH, Miles per Hour             US               
+   FA66F07C    11   Wind Direction Degrees, Degrees            UD               
+   FA66F07C    12   Air Temperature, Standard Placement, Deg   TA               
+   FA66F07C    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   FA66F07C    14   Relative Humidity, Percent                 XR               
+   FA66F07C    15   Battery Voltage, volts                     VB               
+   FA66F07C    17   Fuel Moisture, Percent                     MM               
+   FA66F07C    18   Wind Direction, Peak, Degrees              UX               
+   FA66F07C    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   FA66F07C    20   Solar Radiation, watts per meter squared   RD               

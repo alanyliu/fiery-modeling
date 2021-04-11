@@ -1,0 +1,40 @@
+
+WLSTINV1-Weather Station Inventory for                      109797              
+                                                                                
+Station: 109797   Name: BANNER QUEEN           NESDIS: 324E2442                 
+                                                                                
+Type: 3 (RAWS S non-NFDRS)   Create/Mod Date: 20-May-1999     Obs Time/Z: 13/PS 
+T                                                                               
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: ____                      
+                                                                                
+State: 06-CA   County: 065-Riverside           Lat/Lon: 33 30 19, 115 50 22     
+Obs Agy: 2 (USDI BLM)     Unit: _________    Mnemonic: _____      FS Reg:       
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site:    Elev:   -95   Asp:    Ann Prec:    Season:                             
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl:                                      
+                                                                                
+User: FS6696   Acc Lst: LOANERS                                                 
+Comments:                                                                       
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   324E2442     9   Rain Accumulation, Inches                  PC               
+   324E2442    10   Wind Speed MPH, Miles per Hour             US               
+   324E2442    11   Wind Direction Degrees, Degrees            UD               
+   324E2442    12   Air Temperature, Standard Placement, Deg   TA               
+   324E2442    14   Relative Humidity, Percent                 XR               
+   324E2442    15   Battery Voltage, volts                     VB               
+   324E2442    17   Wind Direction, Peak, Degrees              UX               
+   324E2442    18   Wind Speed Peak MPH, Miles per Hour        UP               
+   324E2442    19   Solar Radiation, watts per meter squared   RD               
+   324E2442    20   Soil Moisture, Tension, Centibars          MS               
+   324E2442    21   Soil Temperature "F", Degrees Fahrenheit   TG               

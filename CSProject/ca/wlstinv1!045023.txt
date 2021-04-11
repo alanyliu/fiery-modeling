@@ -1,0 +1,43 @@
+
+WLSTINV1-Weather Station Inventory for                       45023              
+                                                                                
+Station: 045023   Name: BIRD SPRING PASS       NESDIS: 3277C79C                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 02-Jul-2018     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: ____                      
+                                                                                
+State: 06-CA   County: 071-San Bernardino      Lat/Lon: 35 32 9., 118  8 25     
+Obs Agy: 2 (USDI BLM)     Unit: CA-CDD       Mnemonic: BIRD      FS Reg:   5    
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  6360   Asp: 0   Ann Prec:  99.99   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: 9a   Acc Lst: STATIONS                                                    
+Comments:                                                                       
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7A G 01-apr-18 01-apr-18 _ 2 A 1  BI 5  90 101  97 103                     
+   5 16V _ _________ _________ _ 2 A   __                                       
+   6 16W _ _________ _________ _ 2 A   __                                       
+   7 16X _ _________ _________ _ 2 A   __                                       
+   8 16Y _ _________ _________ _ 2 A   __                                       
+   9 16Z _ _________ _________ _ 2 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   3277C79C     9   Rain Accumulation, Inches                  PC               
+   3277C79C    10   Wind Speed MPH, Miles per Hour             US               
+   3277C79C    11   Wind Direction Degrees, Degrees            UD               
+   3277C79C    12   Air Temperature, Standard Placement, Deg   TA               
+   3277C79C    14   Relative Humidity, Percent                 XR               
+   3277C79C    15   Battery Voltage, volts                     VB               
+   3277C79C    17   Wind Direction, Peak, Degrees              UX               
+   3277C79C    18   Wind Speed Peak MPH, Miles per Hour        UP               
+   3277C79C    19   Solar Radiation, watts per meter squared   RD               
+   3277C79C    20   Soil Moisture, Tension, Centibars          MS               
+   3277C79C    21   Soil Temperature "F", Degrees Fahrenheit   TG               

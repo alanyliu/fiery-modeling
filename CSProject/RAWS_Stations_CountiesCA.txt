@@ -1,0 +1,61 @@
+Del Norte
+Siskiyou
+Modoc
+Humboldt
+Trinity
+Shasta
+Lassen
+Tehama
+Plumas
+Mendocino
+Glenn
+Butte
+Sierra
+Lake
+Colusa
+Sutter
+Yuba
+Nevada
+Placer
+Sonoma
+Napa
+Yolo
+Marin
+Solano
+Sacramento
+El Dorado
+Amador
+Alpine
+San Francisco
+Contra Costa
+San Joaquin
+Calaveras
+San Mateo
+Alameda
+Stanislaus
+Tuolumne
+Mono
+Santa Cruz
+Santa Clara
+Merced
+Mariposa
+Madera
+Monterey
+San Benito
+Fresno
+Kings
+Tulare
+Inyo
+San Luis Obispo
+Kern
+San Bernandino
+Santa Barbara
+Ventura
+Los Angeles
+Orange
+Riverside
+San Diego
+Imperial
+
+# Counties sorted by third and fourth digits of RAWS ID (e.g. 042701 = county 27 = Amador)
+# Note: 16, 24, 25, 29, 31 do not have any RAWS stations

@@ -1,0 +1,47 @@
+
+WLSTINV1-Weather Station Inventory for                       40614              
+                                                                                
+Station: 040614   Name: SUGARLOAF  (SHF)       NESDIS: 32420332                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 14-Dec-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 592                       
+                                                                                
+State: 06-CA   County: 089-Shasta              Lat/Lon: 40 54 57, 122 26 5.     
+Obs Agy: 1 (USDA FS )     Unit: SHF          Mnemonic: SUGAR      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  3259   Asp: 4   Ann Prec:  70.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: FS11083   Acc Lst: RAWS                                                   
+Comments: PLACED INTO SERVICE 11/1/99, REPLACING 040631.                        
+FIRE DANGER RATING AREA 241                                                     
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G F 01-dec-19 10-apr-19 _ 3 A 3  BI 5  90  83  97  90                     
+   2 7B F 01-dec-19 10-apr-19 _ 3 A 3  BI 5  90 128  97 141                     
+   3 7G F 01-dec-19 10-apr-19 _ 2 A 3  BI 5  90  83  97  90                     
+   4 16V _ _________ _________ _ 3 A   __                                       
+   5 16W _ _________ _________ _ 3 A   __                                       
+   6 16X _ _________ _________ _ 3 A   __                                       
+   7 16Y _ _________ _________ _ 3 A   BI 5  90  52  97  55                     
+   8 16Z _ _________ _________ _ 3 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   32420332     9   Rain Accumulation, Inches                  PC               
+   32420332    10   Wind Speed MPH, Miles per Hour             US               
+   32420332    11   Wind Direction Degrees, Degrees            UD               
+   32420332    12   Air Temperature, Standard Placement, Deg   TA               
+   32420332    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   32420332    14   Relative Humidity, Percent                 XR               
+   32420332    15   Battery Voltage, volts                     VB               
+   32420332    17   Fuel Moisture, Percent                     MM               
+   32420332    18   Wind Direction, Peak, Degrees              UX               
+   32420332    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   32420332    20   Solar Radiation, watts per meter squared   RD               

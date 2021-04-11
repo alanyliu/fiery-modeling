@@ -1,0 +1,30 @@
+
+WLSTINV1-Weather Station Inventory for                       42008              
+                                                                                
+Station: 042008   Name: POLE_MTN               NESDIS: ________                 
+                                                                                
+Type: 2 (Man NFDRS)   Create/Mod Date: 31-Oct-2017     Obs Time/Z: 13/PST       
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 562                       
+                                                                                
+State: 06-CA   County: 097-Sonoma              Lat/Lon: 38 30  0, 123  7 12     
+Obs Agy: 5 (State   )     Unit: LNU          Mnemonic: POLE      FS Reg:   5    
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: 18-Apr-1999                                 
+Site: 3   Elev:  2204   Asp: 4   Ann Prec:  75.00   Season: 3                   
+Ltng scale:   1.00   Hum code: 1   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: WICA1061   Acc Lst: LNU ECC                                               
+Comments:                                                                       
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G F 31-oct-17 15-mar-16 _ 2 A 3  BI 5  90  69  97  82                     
+   2 7A F 31-oct-17 15-mar-16 _ 2 A 3  BI 5  90  33  97  39                     
+   3 7G G 31-oct-17 31-oct-17 _ 2 A 3  BI 5  90 206  97 240                     
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

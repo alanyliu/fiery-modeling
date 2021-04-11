@@ -1,0 +1,53 @@
+
+WLSTINV1-Weather Station Inventory for                       42009              
+                                                                                
+Station: 042009   Name: SANTA ROSA             NESDIS: CA221336                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 13-Dec-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 559                       
+                                                                                
+State: 06-CA   County: 097-Sonoma              Lat/Lon: 38 28 42, 122 42 42     
+Obs Agy: 5 (State   )     Unit: LNU          Mnemonic: STA      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:   599   Asp: 5   Ann Prec:  35.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: WICA1061   Acc Lst: LNU ECC                                               
+Comments: ON 03/03/09 THE STATION WAS ENTIRELY CONVERTED TO NEW FTS EQUIPMENT A 
+ND TRANSMITS USING HIGH DATA RATE ON NEW CHANNEL. OBS TIME HAS BEEN CHANGED TO  
+1300. TESTED TIPPING BUCKET AND RESET RAINFALL BUT TIPPING BUCKET WAS NOT OPERA 
+TING CORRECTLY.  LAT/LONG, ELEV AMENDED BASED UPON ON-SITE GPS (NAD83).  DFORRE 
+ST CDF FIRE WX PROGRAM COORDINATOR (03/05/09)                                   
+04/10/2019 - BATTERY REPLACES AND NEW TOWER ASSEMBLED. CD                       
+                                                                                
+RECALC STATION FOR 2004. BSCHIEBER                                              
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G C 14-sep-19 05-apr-19 _ 2 A 2  BI 5  90  59  97  68                     
+   2 7B C 14-sep-19 05-apr-19 _ 2 A 2  BI 5  90  71  97 129                     
+   3 7A C 14-sep-19 05-apr-19 _ 2 A 2  BI 5  90  36  97  44                     
+   4 16V _ _________ _________ _ 2 A   BI 5  90   9  97  23                     
+   5 16W _ _________ _________ _ 2 A   BI 5  90  13  97  27                     
+   6 16X _ _________ _________ _ 2 A   BI 5  90 101  97 138                     
+   7 16Y _ _________ _________ _ 2 A   BI 5  90  32  97  36                     
+   8 16Z _ _________ _________ _ 2 A   BI 5  90  87  97 102                     
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA221336     9   Rain Accumulation, Inches                  PC               
+   CA221336    10   Wind Speed MPH, Miles per Hour             US               
+   CA221336    11   Wind Direction Degrees, Degrees            UD               
+   CA221336    12   Air Temperature, Standard Placement, Deg   TA               
+   CA221336    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA221336    14   Relative Humidity, Percent                 XR               
+   CA221336    15   Battery Voltage, volts                     VB               
+   CA221336    17   Fuel Moisture, Percent                     MM               
+   CA221336    18   Wind Direction, Peak, Degrees              UX               
+   CA221336    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA221336    20   Solar Radiation, watts per meter squared   RD               

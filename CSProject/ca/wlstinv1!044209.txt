@@ -1,0 +1,50 @@
+
+WLSTINV1-Weather Station Inventory for                       44209              
+                                                                                
+Station: 044209   Name: METCALF GAP            NESDIS: CA2226AC                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 17-Dec-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 528                       
+                                                                                
+State: 06-CA   County: 039-Madera              Lat/Lon: 37 24 33, 119 46 4.     
+Obs Agy: 5 (State   )     Unit: MMU          Mnemonic: MCF      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  3118   Asp: 4   Ann Prec:  30.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: 229   Acc Lst: MMUECC                                                     
+Comments: ON 05/30/07 THE STATION WAS ENTIRELY CONVERTED TO NEW FTS EQUIPMENT A 
+ND TRANSMITS USING HIGH DATA RATE ON NEW CHANNEL. OBS TIME UNCHANGED. TESTED TI 
+PPING BUCKET AND RESET RAINFALL.  DFORREST CDF FIRE WX PROGRAM COORDINATOR      
+LAT/LONG, ELEV AMENDED BASED UPON ON-SITE GPS (NAD83) WHEN STATION WAS UPGRADED 
+.  DFORREST CDF FIRE WX PROGRAM COORDINATOR 07/09/07                            
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B F 06-dec-19 27-mar-19 _ 2 A 2  BI 5  90 125  97 137                     
+   2 7C F 06-dec-19 27-mar-19 _ 2 A 2  BI 5  90  37  97  42                     
+   3 7G F 06-dec-19 27-mar-19 _ 2 A 2  BI 5  90  62  97  69                     
+   4 16V _ _________ _________ _ 2 A   __                                       
+   5 16W _ _________ _________ _ 2 A   __                                       
+   6 16X _ _________ _________ _ 2 A   __                                       
+   7 16Y _ _________ _________ _ 2 A   __                                       
+   8 16Z _ _________ _________ _ 2 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA2226AC     9   Rain Accumulation, Inches                  PC               
+   CA2226AC    10   Wind Speed MPH, Miles per Hour             US               
+   CA2226AC    11   Wind Direction Degrees, Degrees            UD               
+   CA2226AC    12   Air Temperature, Standard Placement, Deg   TA               
+   CA2226AC    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA2226AC    14   Relative Humidity, Percent                 XR               
+   CA2226AC    15   Battery Voltage, volts                     VB               
+   CA2226AC    17   Fuel Moisture, Percent                     MM               
+   CA2226AC    18   Wind Direction, Peak, Degrees              UX               
+   CA2226AC    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA2226AC    20   Solar Radiation, watts per meter squared   RD               

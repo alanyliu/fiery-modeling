@@ -1,0 +1,33 @@
+
+WLSTINV1-Weather Station Inventory for                       40502              
+                                                                                
+Station: 040502   Name: COFFEE CREEK           NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 17-Dec-2007     Obs Time/Z: 13/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 591                       
+                                                                                
+State: 06-CA   County: 105-Trinity             Lat/Lon: 41  5 24, 122 42 12     
+Obs Agy: 1 (USDA FS )     Unit: SHF          Mnemonic: COFCR      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  2485   Asp: 0   Ann Prec:  47.00   Season:                     
+Ltng scale:   1.97   Hum code: 1   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: ____________   Acc Lst: ________                                          
+Comments: STATION PERIOD OF RECORD: 1961 THROUGH OCTOBER 16,1990.  THE STATION  
+WAS RETIRED AND REPLACED BY SCORPION (040517).  SCORPION IS LOCATED APPROXIMATE 
+LY 1.7 MILES NNE AND 1150 FEET ABOVE THE FORMER SITE.                           
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

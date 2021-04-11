@@ -1,0 +1,47 @@
+
+WLSTINV1-Weather Station Inventory for                       40618              
+                                                                                
+Station: 040618   Name: SIMS                   NESDIS: 323AE1CA                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 14-Dec-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 593                       
+                                                                                
+State: 06-CA   County: 089-Shasta              Lat/Lon: 41  4 16, 122 22 11     
+Obs Agy: 1 (USDA FS )     Unit: SHF          Mnemonic: SIMS      FS Reg:   5    
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:  2537   Asp: 5   Ann Prec:  57.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS11083   Acc Lst: RAWS                                                   
+Comments: PLACED IN SERVICE MAY 1989.  DATA ARCHIVE AT WRCC BEGINS IN NOVEMBER  
+1989.                                                                           
+FIRE DANGER RATING AREA 240                                                     
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G F 01-dec-19 15-may-19 _ 3 A 3  BI 5  90  75  97  83                     
+   2 7G F 01-dec-19 15-may-19 _ 2 A 3  BI 5  90  75  97  83                     
+   3 16V _ _________ _________ _ 3 A   __                                       
+   4 16W _ _________ _________ _ 3 A   __                                       
+   5 16X _ _________ _________ _ 3 A   __                                       
+   6 16Y _ _________ _________ _ 3 A   BI 5  90   97                            
+   7 16Z _ _________ _________ _ 3 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   323AE1CA     9   Rain Accumulation, Inches                  PC               
+   323AE1CA    10   Wind Speed MPH, Miles per Hour             US               
+   323AE1CA    11   Wind Direction Degrees, Degrees            UD               
+   323AE1CA    12   Air Temperature, Standard Placement, Deg   TA               
+   323AE1CA    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   323AE1CA    14   Relative Humidity, Percent                 XR               
+   323AE1CA    15   Battery Voltage, volts                     VB               
+   323AE1CA    17   Fuel Moisture, Percent                     MM               
+   323AE1CA    18   Wind Direction, Peak, Degrees              UX               
+   323AE1CA    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   323AE1CA    20   Solar Radiation, watts per meter squared   RD               

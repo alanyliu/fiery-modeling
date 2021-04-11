@@ -1,0 +1,51 @@
+
+WLSTINV1-Weather Station Inventory for                       41302              
+                                                                                
+Station: 041302   Name: DOG VALLEY             NESDIS: 3272A5BA                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 07-Feb-2020     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 450                       
+                                                                                
+State: 06-CA   County: 091-Sierra              Lat/Lon: 39 33 43, 120  2 52     
+Obs Agy: 1 (USDA FS )     Unit: CARSON RD    Mnemonic: HTF      FS Reg:   4     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:  5976   Asp: 5   Ann Prec:  24.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: BLM2430   Acc Lst: FIRES                                                  
+Comments: FS-RAWS/PERMANENT/PRIMARY/ZONE-278                                    
+FM-T1P2/BI 80-95% SFC-FDR RATING SCALE                                          
+FM-F1P2/BI 80-95% SFC-FDR RATING SCALE                                          
+FM-G1P2/ERC 90/97% SFC-FDR RATING SCALE                                         
+FM-G1P2/ERC (SIERRA FRONT) FOR NATIONAL FIRE DANGER OVERLAY PJCT.               
+[HF/INTEL/2006]                                                                 
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G P 01-feb-20 13-may-19 _ 1 A 2  EC 5  90  86  97  91                     
+   2 7G P 01-feb-20 _________ _ 2 A 2  BI 5  90  55  97  59                     
+   3 16V _ _________ _________ _ 1 A   __  90   97                              
+   4 16W _ _________ _________ _ 1 A   __  90   97                              
+   5 16X _ _________ _________ _ 1 A   __  90   97                              
+   6 16Y _ _________ _________ _ 1 A   EC 5  90  59  97  63                     
+   7 16Z _ _________ _________ _ 1 A   __  90   97                              
+   8 16Y _ _________ _________ _ 2 A   BI 5  90  32  97  34                     
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   3272A5BA     9   Rain Accumulation, Inches                  PC               
+   3272A5BA    10   Wind Speed MPH, Miles per Hour             US               
+   3272A5BA    11   Wind Direction Degrees, Degrees            UD               
+   3272A5BA    12   Air Temperature, Standard Placement, Deg   TA               
+   3272A5BA    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   3272A5BA    14   Relative Humidity, Percent                 XR               
+   3272A5BA    15   Battery Voltage, volts                     VB               
+   3272A5BA    17   Fuel Moisture, Percent                     MM               
+   3272A5BA    18   Wind Direction, Peak, Degrees              UX               
+   3272A5BA    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   3272A5BA    20   Solar Radiation, watts per meter squared   RD               

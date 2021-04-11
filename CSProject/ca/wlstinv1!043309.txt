@@ -1,0 +1,52 @@
+
+WLSTINV1-Weather Station Inventory for                       43309              
+                                                                                
+Station: 043309   Name: PULGAS                 NESDIS: CA41C062                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 22-Dec-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 549                       
+                                                                                
+State: 06-CA   County: 001-Alameda             Lat/Lon: 37 28 30, 122 17 53     
+Obs Agy: 6 (Local Gv)     Unit: CZU          Mnemonic: PUL      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:   644   Asp: 5   Ann Prec:  35.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: d67   Acc Lst: CZU                                                        
+Comments: RECALC RUN FOR 2004 BY BRYAN SCHIEBER 1/20/05                         
+                                                                                
+CHANGED THE REGULAR SCHEDULED OBS. TIME FROM 1300 TO 1200 HRS IN STATION CATALO 
+G. TX TIME IS 38 AFTER THE HOUR, 1238 IS CLOSER TO 1300 THEN 1338 THEREFORE 120 
+0 OBS SHOULD BE USED FOR DAILY OBS.  B.SCHIEBER CDF NORTHERN REGION WX COORDINA 
+TOR 1/22/05.                                                                    
+                                                                                
+TESTING                                                                         
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G F 31-oct-19 21-mar-19 _ 2 A 2  BI 5  90  53  97  61                     
+   2 7B F 31-oct-19 21-mar-19 _ 2 A 2  BI 5  90  49  97  84                     
+   3 16V _ _________ _________ _ 2 A   __                                       
+   4 16W _ _________ _________ _ 2 A   __                                       
+   5 16X _ _________ _________ _ 2 A   __                                       
+   6 16Y _ _________ _________ _ 2 A   __                                       
+   7 16Z _ _________ _________ _ 2 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA41C062     9   Rain Accumulation, Inches                  PC               
+   CA41C062    10   Wind Speed MPH, Miles per Hour             US               
+   CA41C062    11   Wind Direction Degrees, Degrees            UD               
+   CA41C062    12   Air Temperature, Standard Placement, Deg   TA               
+   CA41C062    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA41C062    14   Relative Humidity, Percent                 XR               
+   CA41C062    15   Battery Voltage, volts                     VB               
+   CA41C062    17   Fuel Moisture, Percent                     MM               
+   CA41C062    18   Wind Direction, Peak, Degrees              UX               
+   CA41C062    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA41C062    20   Solar Radiation, watts per meter squared   RD               

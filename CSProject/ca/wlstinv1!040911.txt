@@ -1,0 +1,29 @@
+
+WLSTINV1-Weather Station Inventory for                       40911              
+                                                                                
+Station: 040911   Name: SMITH PEAK             NESDIS: ________                 
+                                                                                
+Type: 2 (Man NFDRS)   Create/Mod Date: 04-Jun-2019     Obs Time/Z: 13/PST       
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: REV                       
+                                                                                
+State: 06-CA   County: 063-Plumas              Lat/Lon: 39 51 48, 120 31 36     
+Obs Agy: 1 (USDA FS )     Unit: PNF          Mnemonic: PNF      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  7688   Asp: 5   Ann Prec:  30.00   Season:                     
+Ltng scale:   1.00   Hum code: 1   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: a24   Acc Lst: PNFDISP                                                    
+Comments: SEASONAL WEATHER STATION                                              
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G C 11-jul-19 04-jun-19 _ 2 P 2  BI 5  90 182  97 194                     
+   2 7G C 11-jul-19 04-jun-19 _ 2 P 2  BI 5  90 105  97 121                     
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

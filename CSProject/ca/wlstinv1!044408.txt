@@ -1,0 +1,47 @@
+
+WLSTINV1-Weather Station Inventory for                       44408              
+                                                                                
+Station: 044408   Name: SANTA RITA             NESDIS: 3256A16E                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 12-Dec-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 524                       
+                                                                                
+State: 06-CA   County: 069-San Benito          Lat/Lon: 36 20 53, 120 36 .4     
+Obs Agy: 2 (USDI BLM)     Unit: BLM/CND      Mnemonic: _____      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  5036   Asp: 2   Ann Prec:  20.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS11389   Acc Lst: DISPATCH                                               
+Comments: TRANSMITS ON 43 MIN.                                                  
+18S 13E SEC 19                                                                  
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7F F 12-dec-19 30-mar-19 _ 2 A 2  BI 5  80  92  95 121                     
+   2 7A F 12-dec-19 30-mar-19 _ 2 A 2  BI 5  80  38  95  45                     
+   3 7G F 12-dec-19 30-mar-19 _ 2 A 2  EC 5  90  82  97  90                     
+   4 16V _ _________ _________ _ 2 A   __                                       
+   5 16W _ _________ _________ _ 2 A   __                                       
+   6 16X _ _________ _________ _ 2 A   __                                       
+   7 16Y _ _________ _________ _ 2 A   __                                       
+   8 16Z _ _________ _________ _ 2 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   3256A16E     9   Rain Accumulation, Inches                  PC               
+   3256A16E    10   Wind Speed MPH, Miles per Hour             US               
+   3256A16E    11   Wind Direction Degrees, Degrees            UD               
+   3256A16E    12   Air Temperature, Standard Placement, Deg   TA               
+   3256A16E    14   Relative Humidity, Percent                 XR               
+   3256A16E    15   Battery Voltage, volts                     VB               
+   3256A16E    17   Wind Direction, Peak, Degrees              UX               
+   3256A16E    18   Wind Speed Peak MPH, Miles per Hour        UP               
+   3256A16E    19   Solar Radiation, watts per meter squared   RD               
+   3256A16E    20   Soil Moisture, Percent                     MS               
+   3256A16E    21   Soil Temperature "F", Degrees Fahrenheit   TG               

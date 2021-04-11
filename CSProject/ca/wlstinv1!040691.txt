@@ -1,0 +1,47 @@
+
+WLSTINV1-Weather Station Inventory for                       40691              
+                                                                                
+Station: 040691   Name: CALFIRE PORTABLE 24    NESDIS: CA49A122                 
+                                                                                
+Type: 3 (RAWS S non-NFDRS)   Create/Mod Date: 09-Apr-2010     Obs Time/Z: 13/PS 
+T                                                                               
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 595                       
+                                                                                
+State: 06-CA   County: 089-Shasta              Lat/Lon: 40 39 55, 122  2 5.     
+Obs Agy: 5 (State   )     Unit: SHU          Mnemonic: CDF24      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: 18-Aug-1998                                 
+Site: 1   Elev:  1360   Asp: 4   Ann Prec:  33.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: WICA589   Acc Lst: SHU                                                    
+Comments: WICA240 AND WICA922 ADDED TO ACL ON 10/31/05.                         
+CHANGED STATION NAME FROM NFDRS TEST TO CDF PORTABLE RAWS 11 ON 10/31/05.       
+RAWS IS CURRENTLY OFFLINE AVAILABLE AT SHU ECC. LAT/LONG, ELEVATION, ASPECT, SI 
+TE, AND NFDRS PARAMETERS WILL NEED TO BE UPDATED WHEN DEPLOYED. 10/31/05 BSCHIE 
+BER                                                                             
+CHANGED STATION NAME FROM CDF PORTABLE RAWS 11 TO CALFIRE PORTABLE 24           
+ON 04/08/2010 EALMEDA                                                           
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA49A122     9   Rain Accumulation, Inches                  PC               
+   CA49A122    10   Wind Speed MPH, Miles per Hour             US               
+   CA49A122    11   Wind Direction Degrees, Degrees            UD               
+   CA49A122    12   Air Temperature, Standard Placement, Deg   TA               
+   CA49A122    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA49A122    14   Relative Humidity, Percent                 XR               
+   CA49A122    15   Battery Voltage, volts                     VB               
+   CA49A122    17   Fuel Moisture, Percent                     MM               
+   CA49A122    18   Wind Direction, Peak, Degrees              UX               
+   CA49A122    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA49A122    20   Solar Radiation, watts per meter squared   RD               

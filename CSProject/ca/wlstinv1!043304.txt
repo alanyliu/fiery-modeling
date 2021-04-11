@@ -1,0 +1,53 @@
+
+WLSTINV1-Weather Station Inventory for                       43304              
+                                                                                
+Station: 043304   Name: LA HONDA               NESDIS: CA22B3CE                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 22-Dec-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 549                       
+                                                                                
+State: 06-CA   County: 081-San Mateo           Lat/Lon: 37 18 18, 122 15 18     
+Obs Agy: 5 (State   )     Unit: CZU          Mnemonic: LAH      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:   804   Asp: 4   Ann Prec:  41.29   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: d67   Acc Lst: CZU                                                        
+Comments: FORCED TO TRANSITION FROM GREEN 7/9/99                                
+3/17/04 RAN RECALC FOR ALL OF 2003 FOR OBS AND FORECAST.  BSCHIEBER-NOPS        
+                                                                                
+ON 04/07/06 THE STATION WAS ENTIRELY CONVERTED TO NEW FTS EQUIPMENT AND TRANSMI 
+TS USING HIGH DATA RATE ON NEW CHANNEL. OBS TIME UNCHANGED. TESTED TIPPING BUCK 
+ET AND RESET RAINFALL.  DFORREST CDF FIRE WX PROGRAM COORDINATOR                
+LAT/LONG, ELEV AMENDED BASED UPON ON-SITE GPS (NAD83) WHEN STATION WAS UPGRADED 
+.  DFORREST CDF FIRE WX PROGRAM COORDINATOR 09/26/06                            
+                                                                                
+ANNUAL MAINTENANCE DONE AND ALL SENSORS REPLACE 2/09/09 C.DINAPOLI              
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G F 31-oct-19 21-mar-19 _ 2 A 3  BI 5  90  29  97  36                     
+   2 16V _ _________ _________ _ 2 A   __                                       
+   3 16W _ _________ _________ _ 2 A   __                                       
+   4 16X _ _________ _________ _ 2 A   __                                       
+   5 16Y _ _________ _________ _ 2 A   __                                       
+   6 16Z _ _________ _________ _ 2 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA22B3CE     9   Rain Accumulation, Inches                  PC               
+   CA22B3CE    10   Wind Speed MPH, Miles per Hour             US               
+   CA22B3CE    11   Wind Direction Degrees, Degrees            UD               
+   CA22B3CE    12   Air Temperature, Standard Placement, Deg   TA               
+   CA22B3CE    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA22B3CE    14   Relative Humidity, Percent                 XR               
+   CA22B3CE    15   Battery Voltage, volts                     VB               
+   CA22B3CE    17   Fuel Moisture, Percent                     MM               
+   CA22B3CE    18   Wind Direction, Peak, Degrees              UX               
+   CA22B3CE    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA22B3CE    20   Solar Radiation, watts per meter squared   RD               

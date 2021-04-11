@@ -1,0 +1,41 @@
+
+WLSTINV1-Weather Station Inventory for                       42613              
+                                                                                
+Station: 042613   Name: GRIZZLY FLATS          NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 12-Jul-2011     Obs Time/Z: 12/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 538                       
+                                                                                
+State: 06-CA   County: 017-El Dorado           Lat/Lon: 38 37 11, 120 33 41     
+Obs Agy: 1 (USDA FS )     Unit: ENF          Mnemonic: GRIZ      FS Reg:   5    
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  3760   Asp: 0   Ann Prec:  30.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: FS10877   Acc Lst: DANAHER                                                
+Comments: STATION 042613 OPERATED AT THIS LOCATION USING NESDIS ID 326EA3B8 FRO 
+M 13MAY2003 TO 08JUL2010.  STATION "RETIRED" ON 08JUL2010 AND NESDIS ID MOVED T 
+O GRIZZLY FLAT #2 (042615).                                                     
+                                                                                
+NEW STATION 05012003 - NFDRS PARAMETERS ARE JUST START UP VALUES BASED ON THE C 
+LOSEST STATION - BEAVER 042635 @5700'.  STATION SITE IS NOT TO STANDARD YET SO  
+WIND FACTORS MAY BE REDUCED.                                                    
+                                                                                
+STATION OPERATED AT THIS LOCATION USING NESDIS ID 326EA3B8 FROM 13MAY2003 TO 08 
+JUL2010.  STATION "RETIRED" ON 08JUL2010 AND NESDIS ID MOVED TO THE RELOCATED S 
+ITE.                                                                            
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

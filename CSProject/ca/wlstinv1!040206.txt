@@ -1,0 +1,30 @@
+
+WLSTINV1-Weather Station Inventory for                       40206              
+                                                                                
+Station: 040206   Name: DUZEL ROCK LO          NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 29-Oct-1998     Obs Time/Z: 13/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: ____                      
+                                                                                
+State: 06-CA   County: 093-Siskiyou            Lat/Lon: 41 30  0, 122 42  0     
+Obs Agy: 5 (State   )     Unit: SKU          Mnemonic: DUZ      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  6037   Asp:    Ann Prec:    Season:                            
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl:                                      
+                                                                                
+User: ____________   Acc Lst: ________                                          
+Comments:                                                                       
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

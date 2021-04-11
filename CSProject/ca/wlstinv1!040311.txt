@@ -1,0 +1,40 @@
+
+WLSTINV1-Weather Station Inventory for                       40311              
+                                                                                
+Station: 040311   Name: MODOC NWR              NESDIS: 8374907A                 
+                                                                                
+Type: 3 (RAWS S non-NFDRS)   Create/Mod Date: 30-Aug-2006     Obs Time/Z: 13/PS 
+T                                                                               
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 590                       
+                                                                                
+State: 06-CA   County: 049-Modoc               Lat/Lon: 41 27 32, 120 31  8     
+Obs Agy: 8 (Oth Fed )     Unit: KBR          Mnemonic: _____      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  4380   Asp: 0   Ann Prec:  11.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: FWS0013   Acc Lst: ________                                               
+Comments: THIS IS AN FTS AUTOMATIC STATION                                      
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   8374907A     9   Rain Accumulation, Inches                  PC               
+   8374907A    10   Windspeed, Miles per Hour                  US               
+   8374907A    11   Wind Direction, Degrees                    UD               
+   8374907A    12   Air Temperature, Standard Placement, Deg   TA               
+   8374907A    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   8374907A    14   Relative Humidity, Percent                 XR               
+   8374907A    15   Battery Voltage, volts                     VB               
+   8374907A    17   Fuel Moisture, Percent                     MM               
+   8374907A    18   Wind Direction, Peak, Degrees              UX               
+   8374907A    19   Windspeed, Peak, Miles per Hour            UP               
+   8374907A    20   Solar Radiation, watts per meter squared   RD               

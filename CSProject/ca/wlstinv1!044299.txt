@@ -1,0 +1,30 @@
+
+WLSTINV1-Weather Station Inventory for                       44299              
+                                                                                
+Station: 044299   Name: CLEAR                  NESDIS: 044299                   
+                                                                                
+Type: 3 (RAWS S non-NFDRS)   Create/Mod Date: 22-Jul-2003     Obs Time/Z: 13/PS 
+T                                                                               
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 532                       
+                                                                                
+State: 06-CA   County: 039-Madera              Lat/Lon: 37 22  0, 119 24  0     
+Obs Agy: 1 (USDA FS )     Unit: USFS         Mnemonic: SNF      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:  5800   Asp: 1   Ann Prec:   1.00   Season:                     
+Ltng scale:   4.71   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: FS11165   Acc Lst: CONTROL                                                
+Comments: TEMPORARY STATION.                                                    
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

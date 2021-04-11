@@ -1,0 +1,45 @@
+
+WLSTINV1-Weather Station Inventory for                       45746              
+                                                                                
+Station: 045746   Name: SAN PASQUAL            NESDIS: CA803678                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 30-Jul-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 509                       
+                                                                                
+State: 06-CA   County: 073-San Diego           Lat/Lon: 33  5 29, 117  0 44     
+Obs Agy: 6 (Local Gv)     Unit: CA-SND       Mnemonic: PSQC1      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:   255   Asp: 0   Ann Prec:  14.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: 436   Acc Lst: SND                                                        
+Comments: ACTIVE IN WIMS JULY 14, 2016                                          
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B C 11-jul-19 11-apr-19 _ 2 A 2  BI 5  90  87  97 129                     
+   2 7A C 11-jul-19 11-apr-19 _ 2 A 2  BI 5  90  33  97  45                     
+   3 7G C 11-jul-19 11-apr-19 _ 2 A 2  BI 5  90  47  97  53                     
+   4 16V _ _________ _________ _ 2 A   __                                       
+   5 16W _ _________ _________ _ 2 A   __                                       
+   6 16X _ _________ _________ _ 2 A   __                                       
+   7 16Y _ _________ _________ _ 2 A   __                                       
+   8 16Z _ _________ _________ _ 2 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA803678     9   Rain Accumulation, Inches                  PC               
+   CA803678    10   Wind Speed MPH, Miles per Hour             US               
+   CA803678    11   Wind Direction Degrees, Degrees            UD               
+   CA803678    12   Air Temperature, Standard Placement, Deg   TA               
+   CA803678    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA803678    14   Relative Humidity, Percent                 XR               
+   CA803678    15   Battery Voltage, volts                     VB               
+   CA803678    17   Fuel Moisture, Percent                     MM               
+   CA803678    18   Wind Direction, Peak, Degrees              UX               
+   CA803678    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA803678    20   Solar Radiation, watts per meter squared   RD               

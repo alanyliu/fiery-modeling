@@ -1,0 +1,36 @@
+
+WLSTINV1-Weather Station Inventory for                       44498              
+                                                                                
+Station: 044498   Name: DF3                    NESDIS: CA48B548                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 04-Feb-2002     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 524                       
+                                                                                
+State: 06-CA   County: 069-San Benito          Lat/Lon: 36 34  0, 121 13  0     
+Obs Agy: 5 (State   )     Unit: BEU          Mnemonic: BEU      FS Reg:   5     
+                                                                                
+Fuel Stk: 26-Sep-1998   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  2200   Asp: 0   Ann Prec:  20.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: WICA1017   Acc Lst: IANSLIST                                              
+Comments:                                                                       
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B C 05-jul-98 _________ _ 2 A 1  BI 5  90   97                            
+   5 16V _ _________ _________ _ 2 A   __                                       
+   6 16W _ _________ _________ _ 2 A   __                                       
+   7 16X _ _________ _________ _ 2 A   __                                       
+   8 16Y _ _________ _________ _ 2 A   __                                       
+   9 16Z _ _________ _________ _ 2 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA48B548     9   Pressure, Atmospheric                      PA               
+   CA48B548    10   Fuel Moisture, Wood                        MM               
+   CA48B548    11   Wind Gust Direction                        UX               
+   CA48B548    12   Wind, Speed (Peak)                         UP               

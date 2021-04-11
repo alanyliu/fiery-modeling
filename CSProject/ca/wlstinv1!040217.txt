@@ -1,0 +1,49 @@
+
+WLSTINV1-Weather Station Inventory for                       40217              
+                                                                                
+Station: 040217   Name: MT SHASTA              NESDIS: 32630026                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 14-Dec-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 584                       
+                                                                                
+State: 06-CA   County: 093-Siskiyou            Lat/Lon: 41 18 55, 122 18 59     
+Obs Agy: 1 (USDA FS )     Unit: SHF          Mnemonic: MTSHA      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  3573   Asp: 0   Ann Prec:  36.72   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS11083   Acc Lst: RAWS                                                   
+Comments: SWITCHED TO A RAWS FROM A MANUAL STATION ON 7/27/99.  REGIONAL SEVERI 
+TY STATION.                                                                     
+FIRE DANGER RATING AREA 240.                                                    
+FCST ZONE CHANGED TO MFR 584 4/22/04                                            
+LAT/LONG UPDATED W/GPS & WAAS ON 21 JUN 2004 USING NAD 1983 DATUM- RG.          
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G F 30-nov-19 15-jun-19 _ 3 P 3  BI 5  90  68  97  75                     
+   2 7G F 30-nov-19 15-jun-19 _ 2 P 3  BI 5  90  68  97  75                     
+   3 16V _ _________ _________ _ 3 P   __                                       
+   4 16W _ _________ _________ _ 3 P   __                                       
+   5 16X _ _________ _________ _ 3 P   __                                       
+   6 16Y _ _________ _________ _ 3 P   BI 5  90  68  97  75                     
+   7 16Z _ _________ _________ _ 3 P   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   32630026     9   Rain Accumulation, Inches                  PC               
+   32630026    10   Wind Speed MPH, Miles per Hour             US               
+   32630026    11   Wind Direction Degrees, Degrees            UD               
+   32630026    12   Air Temperature, Standard Placement, Deg   TA               
+   32630026    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   32630026    14   Relative Humidity, Percent                 XR               
+   32630026    15   Battery Voltage, volts                     VB               
+   32630026    17   Fuel Moisture, Percent                     MM               
+   32630026    18   Wind Direction, Peak, Degrees              UX               
+   32630026    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   32630026    20   Solar Radiation, watts per meter squared   RD               

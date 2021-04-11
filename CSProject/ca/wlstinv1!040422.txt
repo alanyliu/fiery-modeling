@@ -1,0 +1,40 @@
+
+WLSTINV1-Weather Station Inventory for                       40422              
+                                                                                
+Station: 040422   Name: COOSKIE MOUNTAIN       NESDIS: 3254541E                 
+                                                                                
+Type: 3 (RAWS S non-NFDRS)   Create/Mod Date: 01-Jun-1998     Obs Time/Z: 13/PS 
+T                                                                               
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 560                       
+                                                                                
+State: 06-CA   County: 023-Humboldt            Lat/Lon: 40 15 24, 124 15 57     
+Obs Agy: 2 (USDI BLM)     Unit: NOD          Mnemonic: COOSK      FS Reg:   5   
+                                                                                
+Fuel Stk: 31-May-1998   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  2945   Asp: 0   Ann Prec:    Season:                           
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: BLM1201   Acc Lst: BLM                                                    
+Comments:                                                                       
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   3254541E     9   Rain Accumulation, Inches                  PC               
+   3254541E    10   Wind Speed MPH, Miles per Hour             US               
+   3254541E    11   Wind Direction Degrees, Degrees            UD               
+   3254541E    12   Air Temperature, Standard Placement, Deg   TA               
+   3254541E    14   Relative Humidity, Percent                 XR               
+   3254541E    15   Battery Voltage, volts                     VB               
+   3254541E    17   Wind Direction, Peak, Degrees              UX               
+   3254541E    18   Wind Speed Peak MPH, Miles per Hour        UP               
+   3254541E    19   Solar Radiation, watts per meter squared   RD               
+   3254541E    20   Air Temperature, 2nd Sensor, Degrees Fah   TA               
+   3254541E    21   Relative Humidity, Special, Percent        XR               

@@ -1,0 +1,43 @@
+
+WLSTINV1-Weather Station Inventory for                       44602              
+                                                                                
+Station: 044602   Name: KETTLEMAN HILLS        NESDIS: 327797E0                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 11-Feb-2020     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 526                       
+                                                                                
+State: 06-CA   County: 031-Kings               Lat/Lon: 36  1 52, 120  3 17     
+Obs Agy: 2 (USDI BLM)     Unit: BLM\CND      Mnemonic: _____      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:   810   Asp: 4   Ann Prec:   6.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 0   One/Ten Fl: N                                   
+                                                                                
+User: FS11389   Acc Lst: DISPATCH                                               
+Comments: TRANSMIT CHANGED TO HOURLY '98                                        
+22S 18E SEC 8                                                                   
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7A F 12-dec-19 30-mar-19 _ 1 A 2  BI 5  80  39  95  45                     
+   2 7T F 12-dec-19 30-mar-19 _ 1 A 2  EC 5  80  19  95  22                     
+   3 7G F 12-dec-19 30-mar-19 _ 1 A 2  EC 5  90  83  97  89                     
+   4 16X _ _________ _________ _ 1 A   BI 5  80 197  85 205                     
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   327797E0     9   Rain Accumulation, Inches                  PC               
+   327797E0    10   Wind Speed MPH, Miles per Hour             US               
+   327797E0    11   Wind Direction Degrees, Degrees            UD               
+   327797E0    12   Air Temperature, Standard Placement, Deg   TA               
+   327797E0    14   Relative Humidity, Percent                 XR               
+   327797E0    15   Battery Voltage, volts                     VB               
+   327797E0    17   Wind Direction, Peak, Degrees              UX               
+   327797E0    18   Wind Speed Peak MPH, Miles per Hour        UP               
+   327797E0    19   Solar Radiation, watts per meter squared   RD               
+   327797E0    20   Soil Temperature "F", Degrees Fahrenheit   TG               
+   327797E0    21   Soil Moisture, Percent                     MS               

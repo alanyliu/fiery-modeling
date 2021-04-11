@@ -1,0 +1,44 @@
+
+WLSTINV1-Weather Station Inventory for                       45801              
+                                                                                
+Station: 045801   Name: SQUAW_LAKE             NESDIS: 32598110                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 15-Dec-2019     Obs Time/Z: 13/MST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 310                       
+                                                                                
+State: 06-CA   County: 025-Imperial            Lat/Lon: 32 54 27, 114 28 26     
+Obs Agy: 2 (USDI BLM)     Unit: YUMA-BLM     Mnemonic: SQUAW      FS Reg:   3   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:   285   Asp: 5   Ann Prec:   3.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS6882   Acc Lst: AZ-PDC                                                  
+Comments: STATION GREENED UP RETROACTIVELY ON AUG 2, 2006                       
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B F 15-dec-19 24-mar-19 _ 1 P 1  BI 5  80 181  95 214                     
+   2 7N F 15-dec-19 24-mar-19 _ 1 P 1  BI 5  80 120  95 141                     
+   3 7A F 15-dec-19 24-mar-19 _ 1 P 1  BI 5  80  49  95  63                     
+   4 7G F 15-dec-19 24-mar-19 _ 1 P 1  EC 5  80  94  95 100                     
+   5 16V _ _________ _________ _ 1 P   __                                       
+   6 16W _ _________ _________ _ 1 P   __                                       
+   7 16X _ _________ _________ _ 1 P   __                                       
+   8 16Y _ _________ _________ _ 1 P   __                                       
+   9 16Z _ _________ _________ _ 1 P   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   32598110     9   Rain Accumulation, Inches                  PC               
+   32598110    10   Wind Speed MPH, Miles per Hour             US               
+   32598110    11   Wind Direction Degrees, Degrees            UD               
+   32598110    12   Air Temperature, Standard Placement, Deg   TA               
+   32598110    14   Relative Humidity, Percent                 XR               
+   32598110    15   Battery Voltage, volts                     VB               
+   32598110    17   Wind Direction, Peak, Degrees              UX               
+   32598110    18   Wind Speed Peak MPH, Miles per Hour        UP               
+   32598110    19   Solar Radiation, watts per meter squared   RD               

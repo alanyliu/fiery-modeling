@@ -1,0 +1,43 @@
+
+WLSTINV1-Weather Station Inventory for                       44729              
+                                                                                
+Station: 044729   Name: SUGARLOAF              NESDIS: FA60A0CE                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 05-Oct-2019     Obs Time/Z: 12/PST    
+Assoc Man: 044713     Prev Stn: ______     Fcst Zone: 534                       
+                                                                                
+State: 06-CA   County: 107-Tulare              Lat/Lon: 36 43 36, 118 40 30     
+Obs Agy: 3 (USDI NPS)     Unit: SEKI/KNP     Mnemonic: SUGAR      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  7950   Asp: 2   Ann Prec:  40.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: NPS8561   Acc Lst: CAVEGIRL                                               
+Comments:                                                                       
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7H T 06-oct-19 03-apr-19 _ 5 P 2  BI 5  90  47  97  53                     
+   2 7G T 06-oct-19 03-apr-19 _ 5 P 2  BI 5  90 109  97 119                     
+   3 7C T 06-oct-19 03-apr-19 _ 5 P 2  BI 5  90  60  97  69                     
+   4 16V _ _________ _________ _ 5 P   __                                       
+   5 16W _ _________ _________ _ 5 P   __                                       
+   6 16X _ _________ _________ _ 5 P   __                                       
+   7 16Y _ _________ _________ _ 5 P   __                                       
+   8 16Z _ _________ _________ _ 5 P   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   FA60A0CE     9   Rain Accumulation, Inches                  PC               
+   FA60A0CE    10   Wind Speed MPH, Miles per Hour             US               
+   FA60A0CE    11   Wind Direction Degrees, Degrees            UD               
+   FA60A0CE    12   Air Temperature, Standard Placement, Deg   TA               
+   FA60A0CE    14   Relative Humidity, Percent                 XR               
+   FA60A0CE    15   Battery Voltage, volts                     VB               
+   FA60A0CE    17   Wind Direction, Peak, Degrees              UX               
+   FA60A0CE    18   Wind Speed Peak MPH, Miles per Hour        UP               
+   FA60A0CE    19   Solar Radiation, watts per meter squared   RD               

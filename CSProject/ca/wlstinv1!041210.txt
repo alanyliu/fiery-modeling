@@ -1,0 +1,36 @@
+
+WLSTINV1-Weather Station Inventory for                       41210              
+                                                                                
+Station: 041210   Name: CHICO                  NESDIS: ________                 
+                                                                                
+Type: 2 (Man NFDRS)   Create/Mod Date: 03-Jan-2018     Obs Time/Z: 12/PST       
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 596                       
+                                                                                
+State: 06-CA   County: 007-Butte               Lat/Lon: 39 42 43, 121 46 50     
+Obs Agy: 5 (State   )     Unit: BUTTE        Mnemonic: CHI      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:   237   Asp: 5   Ann Prec:  35.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: 6   Acc Lst: BTU                                                          
+Comments: ON 05/05/08 THE STATION WAS ENTIRELY CONVERTED TO NEW FTS EQUIPMENT A 
+ND TRANSMITS USING HIGH DATA RATE ON NEW CHANNEL. OBS TIME REMAINS UNCHANGED. T 
+ESTED TIPPING BUCKET AND RESET RAINFALL.  LAT/LONG, ELEV AMENDED BASED UPON ON- 
+SITE GPS (NAD83).  DFORREST CDF FIRE WX PROGRAM COORDINATOR (09/18/08)          
+                                                                                
+04/17/2016 NESDIS ID CA215732(CHICO RAWS) HAS MOVED TO OPEHSHAW (041215) TODAY. 
+ LEAVE AT STATION TYPE OF 2. TPERSON BTU WIMS MANAGER.                          
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7A T 27-mar-14 16-dec-13 _ 1 A 2  BI 5  90  41  97  55                     
+   2 7G T 27-mar-14 16-dec-13 _ 1 A 2  BI 5  90  68  97  88                     
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

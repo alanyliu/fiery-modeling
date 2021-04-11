@@ -1,0 +1,35 @@
+
+WLSTINV1-Weather Station Inventory for                       43203              
+                                                                                
+Station: 043203   Name: BLUMTN                 NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 17-Apr-2007     Obs Time/Z: 13/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 540                       
+                                                                                
+State: 06-CA   County: 009-Calaveras           Lat/Lon: 38 20 24, 120 22 30     
+Obs Agy: 1 (USDA FS )     Unit: STF          Mnemonic: _____      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  6067   Asp: 8   Ann Prec:  37.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS7543   Acc Lst: ________                                                
+Comments: STATION WAS NOT GREENED UP IN 2005, LAST GREEN UP WAS 15-MAY-04       
+10/29/05 LAST DATA ARCHIVED                                                     
+18 NOV 05 STATION WAS FROZEN EAL                                                
+06/16/06 PER REQUEST FROM BETH LITTLE, I HAVE CHANGE THE STATION TYPE TO 7.  SS 
+HEPARD                                                                          
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

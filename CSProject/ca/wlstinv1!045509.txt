@@ -1,0 +1,48 @@
+
+WLSTINV1-Weather Station Inventory for                       45509              
+                                                                                
+Station: 045509   Name: ALISO LAGUNA           NESDIS: CA80539E                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 14-Dec-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: SGX                       
+                                                                                
+State: 06-CA   County: 059-Orange              Lat/Lon: 33 32 9., 117 45 12     
+Obs Agy: 6 (Local Gv)     Unit: CA-ORC       Mnemonic: ALGNA      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:   820   Asp: 0   Ann Prec:  14.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: WICA1103   Acc Lst: ORC                                                   
+Comments: ORCO FIRE CONTACT: DAVE ERICKSON 714-573-6178 (OFFICE)                
+ORCO FIRE CONTACT: DAVE ERICKSON 949-447-0549 (CELL)                            
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B T 01-feb-20 12-dec-19 _ 3 A 2  BI 5  90  54  97 140                     
+   2 7A T 01-feb-20 12-dec-19 _ 3 A 2  BI 5  90  30  97  45                     
+   3 7T T 01-feb-20 12-dec-19 _ 3 A 2  BI 5  90  47  97  57                     
+   4 7G T 01-feb-20 12-dec-19 _ 3 A 2  EC 5  90  70  97  70                     
+   5 16V _ _________ _________ _ 3 A   __                                       
+   6 16W _ _________ _________ _ 3 A   __                                       
+   7 16X _ _________ _________ _ 3 A   __                                       
+   8 16Y _ _________ _________ _ 3 A   __                                       
+   9 16Z _ _________ _________ _ 3 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA80539E     9   Rain Accumulation, Inches                  PC               
+   CA80539E    10   Wind Speed MPH, Miles per Hour             US               
+   CA80539E    11   Wind Direction Degrees, Degrees            UD               
+   CA80539E    12   Air Temperature, Standard Placement, Deg   TA               
+   CA80539E    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA80539E    14   Relative Humidity, Percent                 XR               
+   CA80539E    15   Battery Voltage, volts                     VB               
+   CA80539E    17   Fuel Moisture, Percent                     MM               
+   CA80539E    18   Wind Direction, Peak, Degrees              UX               
+   CA80539E    19   Wind speed peak, Miles per Hour            UP               
+   CA80539E    20   Solar Radiation, watts per meter squared   RD               

@@ -1,0 +1,45 @@
+
+WLSTINV1-Weather Station Inventory for                       45747              
+                                                                                
+Station: 045747   Name: MISSION VALLEY         NESDIS: CA801094                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 30-Jul-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 508                       
+                                                                                
+State: 06-CA   County: 073-San Diego           Lat/Lon: 32 46 59, 117  8 10     
+Obs Agy: 6 (Local Gv)     Unit: CA-SND       Mnemonic: BVDC1      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:   300   Asp: 3   Ann Prec:  10.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: 436   Acc Lst: SND                                                        
+Comments: ACTIVE IN WIMS 7/15/16                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B C 11-jul-19 11-apr-19 _ 2 A 2  BI  90  43  97  98                       
+   2 7A C 11-jul-19 11-apr-19 _ 2 A 2  BI  90  31  97  42                       
+   3 7G C 11-jul-19 11-apr-19 _ 2 A 2  BI  90  47  97  57                       
+   4 16V _ _________ _________ _ 2 A   __                                       
+   5 16W _ _________ _________ _ 2 A   __                                       
+   6 16X _ _________ _________ _ 2 A   __                                       
+   7 16Y _ _________ _________ _ 2 A   __                                       
+   8 16Z _ _________ _________ _ 2 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA801094     9   Rain Accumulation, Inches                  PC               
+   CA801094    10   Wind Speed MPH, Miles per Hour             US               
+   CA801094    11   Wind Direction Degrees, Degrees            UD               
+   CA801094    12   Air Temperature, Standard Placement, Deg   TA               
+   CA801094    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA801094    14   Relative Humidity, Percent                 XR               
+   CA801094    15   Battery Voltage, volts                     VB               
+   CA801094    17   Fuel Moisture, Percent                     MM               
+   CA801094    18   Wind Direction, Peak, Degrees              UX               
+   CA801094    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA801094    20   Solar Radiation, watts per meter squared   RD               

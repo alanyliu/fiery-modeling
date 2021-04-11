@@ -1,0 +1,51 @@
+
+WLSTINV1-Weather Station Inventory for                       42612              
+                                                                                
+Station: 042612   Name: BEN BOLT               NESDIS: CA21B4C0                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 03-Dec-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 552                       
+                                                                                
+State: 06-CA   County: 017-El Dorado           Lat/Lon: 38 35 27, 120 56 1.     
+Obs Agy: 5 (State   )     Unit: AEU          Mnemonic: BLT      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:   905   Asp: 3   Ann Prec:  18.00   Season: 3                   
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: 969   Acc Lst: AEU EDIT                                                   
+Comments: 03/09/06 - STATION WAS MOVED THIS DATE ABOUT 1/2 MILE SOUTH OF ORIGIN 
+AL SITE. THIS WAS DONE DUE TO THE PRIVATE PROPERTY BEING SOLD. RE-LOCATED TO TH 
+IS SITE WITH VERY LITTLE CHANGE IN TOPOG, FUEL, AND WEATHER PATTERNS. NWS MET A 
+GREED WITH THE SIMILARITIES AND TO KEEP ASSOCIATION WITH OLD LOCATION. STATION  
+WAS COMPLETELY RETROFITTED WITH FTS EQUIPMENT AND NOW OPERATES WITH HDR TRANSMI 
+SSIONS. TRANSMISSIONS NOW ON CHANNEL 144 @ 00:59:00 DFORREST                    
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7A F 03-jul-19 29-apr-19 _ 2 A 2  BI 5  90  37  97  43                     
+   2 7B F 03-jul-19 29-apr-19 _ 2 A 2  BI 5  90  43  97  56                     
+   3 7G F 03-jul-19 29-apr-19 _ 2 A 2  BI 5  90  65  97  77                     
+   4 16V _ _________ _________ _ 2 A   BI 5  90  39  97  47                     
+   5 16W _ _________ _________ _ 2 A   BI 5  90  37  97  44                     
+   6 16X _ _________ _________ _ 2 A   BI 5  90 155  97 182                     
+   7 16Y _ _________ _________ _ 2 A   BI 5  90  39  97  43                     
+   8 16Z _ _________ _________ _ 2 A   BI 5  90  97  97 109                     
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA21B4C0     9   Rain Accumulation, Inches                  PC               
+   CA21B4C0    10   Wind Speed MPH, Miles per Hour             US               
+   CA21B4C0    11   Wind Direction Degrees, Degrees            UD               
+   CA21B4C0    12   Air Temperature, Standard Placement, Deg   TA               
+   CA21B4C0    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA21B4C0    14   Relative Humidity, Percent                 XR               
+   CA21B4C0    15   Battery Voltage, volts                     VB               
+   CA21B4C0    17   Fuel Moisture, Percent                     MM               
+   CA21B4C0    18   Wind Direction, Peak, Degrees              UX               
+   CA21B4C0    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA21B4C0    20   Solar Radiation, watts per meter squared   RD               

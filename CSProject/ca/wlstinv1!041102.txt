@@ -1,0 +1,56 @@
+
+WLSTINV1-Weather Station Inventory for                       41102              
+                                                                                
+Station: 041102   Name: SACRAMENTO NWR         NESDIS: 8373A7D4                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 13-Dec-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 595                       
+                                                                                
+State: 06-CA   County: 021-Glenn               Lat/Lon: 39 25  2, 122 10 57     
+Obs Agy: 8 (Oth Fed )     Unit: SAC NWRC     Mnemonic: CASCR      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:   120   Asp: 0   Ann Prec:  20.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: 620   Acc Lst: NACL                                                       
+Comments: MODIFIED STATION INFO 4/25/2000                                       
+UPDATED STATION CATALOG 5/10/2002, P.AINSLIE/P.GRISSOM.                         
+ACCESS GIVEN TO MNF 7/22/05,                                                    
+GREENED-UP STATION ON ANNUALS FUEL MODEL 7A - JAN 1,2006                        
+GREENED-UP STATION ON FUEL MODEL 7N - APRIL 1,2006                              
+BOTH EDITED ON 6/5/06 - A.DALRYMPLE                                             
+GREENED-UP STATION ON ANNUALS FUEL MODEL 7A - FEB 1,2006                        
+FROZE BOTH FUELS MODELS JAN 1,2007. AED                                         
+GREENED-UP FUEL MODEL 7A - MARCH 2,2007 & FUEL MODEL 7N - APRIL 15,2007. AED    
+GREENED-UP 7N 4/1/2008...FROZE BOTH FUEL MODES OCT 7,2008 AND JAN 1, 2009       
+FROZE BOTH FUEL MODELS 7A AND 7N 12/31/09...AED                                 
+GREENED UP FUEL MODEL 7N ON 4/1/10.AED                                          
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7A C 26-jul-19 01-apr-19 _ 1 A 1  BI 5  90  41  97  51                     
+   2 7N T 03-may-19 01-apr-19 _ 1 P 1  BI 5  90 101  97 125                     
+   5 16V _ _________ _________ _ 1 A   __                                       
+   6 16W _ _________ _________ _ 1 A   __                                       
+   7 16X _ _________ _________ _ 1 A   __                                       
+   8 16Y _ _________ _________ _ 1 A   __                                       
+   9 16Z _ _________ _________ _ 1 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   8373A7D4     9   Rain Accumulation, Inches                  PC               
+   8373A7D4    10   Wind Speed MPH, Miles per Hour             US               
+   8373A7D4    11   Wind Direction Degrees, Degrees            UD               
+   8373A7D4    12   Air Temperature, Standard Placement, Deg   TA               
+   8373A7D4    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   8373A7D4    14   Relative Humidity, Percent                 XR               
+   8373A7D4    15   Battery Voltage, volts                     VB               
+   8373A7D4    17   Fuel Moisture, Percent                     MM               
+   8373A7D4    18   Wind Direction, Peak, Degrees              UX               
+   8373A7D4    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   8373A7D4    20   Solar Radiation, watts per meter squared   RD               

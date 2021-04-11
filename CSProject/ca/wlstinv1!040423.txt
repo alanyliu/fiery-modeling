@@ -1,0 +1,46 @@
+
+WLSTINV1-Weather Station Inventory for                       40423              
+                                                                                
+Station: 040423   Name: ALDER POINT            NESDIS: CA459524                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 20-May-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 556                       
+                                                                                
+State: 06-CA   County: 023-Humboldt            Lat/Lon: 40 11 9., 123 35 27     
+Obs Agy: 5 (State   )     Unit: HUU          Mnemonic: ALD      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:  1059   Asp: 3   Ann Prec:  51.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: c3e   Acc Lst: HUUACL                                                     
+Comments: ON 12/14/05 THE STATION WAS ENTIRELY CONVERTED TO NEW FTS EQUIPMENT A 
+ND TRANSMITS USING HIGH DATA RATE ON NEW CHANNEL. OBS TIME UNCHANGED. TESTED TI 
+PPING BUCKET AND RESET RAINFALL.  DFORREST CDF FIRE WX PROGRAM COORDINATOR      
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G C 28-aug-19 01-may-19 _ 3 A 3  EC 5  90  50  97  55                     
+   2 16V _ _________ _________ _ 3 A   __                                       
+   3 16W _ _________ _________ _ 3 A   __                                       
+   4 16X _ _________ _________ _ 3 A   __                                       
+   5 16Y _ _________ _________ _ 3 A   __                                       
+   6 16Z _ _________ _________ _ 3 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA459524     9   Rain Accumulation, Inches                  PC               
+   CA459524    10   Wind Speed MPH, Miles per Hour             US               
+   CA459524    11   Wind Direction Degrees, Degrees            UD               
+   CA459524    12   Air Temperature, Standard Placement, Deg   TA               
+   CA459524    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA459524    14   Relative Humidity, Percent                 XR               
+   CA459524    15   Battery Voltage, volts                     VB               
+   CA459524    17   Fuel Moisture, Percent                     MM               
+   CA459524    18   Wind Direction, Peak, Degrees              UX               
+   CA459524    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA459524    20   Solar Radiation, watts per meter squared   RD               

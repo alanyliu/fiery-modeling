@@ -1,0 +1,49 @@
+
+WLSTINV1-Weather Station Inventory for                       45745              
+                                                                                
+Station: 045745   Name: BUD HILL               NESDIS: 3270F032                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 10-Oct-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: 045724     Fcst Zone: 509                       
+                                                                                
+State: 06-CA   County: 073-San Diego           Lat/Lon: 33  5 3., 116 52 36     
+Obs Agy: 1 (USDA FS )     Unit: CA-CNF       Mnemonic: BUD      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:  1835   Asp: 6   Ann Prec:  14.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: FS11243   Acc Lst: MVU                                                    
+Comments: THIS SITE REPLACES THE RETIRED GOOSE VALLEY (045724) NFDRS STATION. T 
+HIS NEW SITE IS 2 MILES WEST OF THE RETIRED SITE AT THE PALOMAR RANGER STATION  
+AND 300 FEET HIGHER.  IT IS LOCATED OFF KATHERINE'S VIEW WAY NEAR PINE STREET I 
+N RAMONA.  OBSERVATIONS FROM THE SITE BEGAN ON 23 JANUARY 2013.                 
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B F 09-oct-19 11-apr-19 _ 3 A 2  BI 5  90  91  97 127                     
+   2 7G F 09-oct-19 11-apr-19 _ 1 A 2  EC 5  90  64  97  69                     
+   3 7Q F 09-oct-19 11-apr-19 _ 2 A 2  BI 5  90 103  97 117                     
+   5 16V _ _________ _________ _ 3 A   __                                       
+   6 16W _ _________ _________ _ 3 A   __                                       
+   7 16X _ _________ _________ _ 3 A   __                                       
+   8 16Y _ _________ _________ _ 3 A   __                                       
+   9 16Z _ _________ _________ _ 3 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   3270F032     9   Rain Accumulation, Inches                  PC               
+   3270F032    10   Wind Speed MPH, Miles per Hour             US               
+   3270F032    11   Wind Direction Degrees, Degrees            UD               
+   3270F032    12   Air Temperature, Standard Placement, Deg   TA               
+   3270F032    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   3270F032    14   Relative Humidity, Percent                 XR               
+   3270F032    15   Battery Voltage, volts                     VB               
+   3270F032    17   Fuel Moisture, Percent                     MM               
+   3270F032    18   Wind Direction, Peak, Degrees              UX               
+   3270F032    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   3270F032    20   Solar Radiation, watts per meter squared   RD               

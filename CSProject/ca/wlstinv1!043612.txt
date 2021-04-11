@@ -1,0 +1,56 @@
+
+WLSTINV1-Weather Station Inventory for                       43612              
+                                                                                
+Station: 043612   Name: WWOLF RAWS             NESDIS: FA454512                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 02-Jul-2019     Obs Time/Z: 12/PST    
+Assoc Man: 044102     Prev Stn: ______     Fcst Zone: 531                       
+                                                                                
+State: 06-CA   County: 109-Tuolumne            Lat/Lon: 37 51 33, 119 39  6     
+Obs Agy: 3 (USDI NPS)     Unit: YOSE         Mnemonic: YNP      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: 01-Jun-2008                                 
+Site: 3   Elev:  8038   Asp: 5   Ann Prec:  30.00   Season: 1                   
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: 591   Acc Lst: YOSE                                                       
+Comments: OPERATES ALL YEAR: MAY HAVE PROBLEMS IN WINTER                        
+5/15/13 HESTER/ERIC NEISWANGER ON SITE FOR ANNUAL REHAB. R&R RH/AT, WS, WD, FT, 
+                                                                                
+SR. VOLTAGE CHECKS GOOD. DCP BATTERY HAS DATE 9/11, EXTERNAL BATTERY LOAD TEST  
+                                                                                
+GOOD, HAS NO INSTALL DATE. PROPANE HEATED TB MANUAL TEST GOOD. TB LEFT AT 9.89" 
+                                                                                
+AND POC WILL RESET 1 JULY. OUR SENSORS SCAN GOOD. POC WILL FIND OUT STATUS OF  
+                                                                                
+SNOWTEL SENSORS. STATION DOES NOT MEET NFDRS.                                   
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G C 26-oct-19 15-jun-19 _ 2 P 2  EC 5  90  64  97  71                     
+   2 7F C 26-oct-19 15-jun-19 _ 2 P 2  EC 5  90   97                            
+   3 7H C 26-oct-19 15-jun-19 _ 2 P 2  EC 5  90  33  97  37                     
+   4 7U C 26-oct-19 15-jun-19 _ 2 P 2  EC 5  90   97                            
+   5 16V _ _________ _________ _ 2 P   __                                       
+   6 16W _ _________ _________ _ 2 P   __                                       
+   7 16X _ _________ _________ _ 2 P   __                                       
+   8 16Y _ _________ _________ _ 2 P   __                                       
+   9 16Z _ _________ _________ _ 2 P   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   FA454512     9   Rain Accumulation, Inches                  PC               
+   FA454512    10   Wind Speed MPH, Miles per Hour             US               
+   FA454512    11   Wind Direction Degrees, Degrees            UD               
+   FA454512    12   Air Temperature, Standard Placement, Deg   TA               
+   FA454512    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   FA454512    14   Relative Humidity, Percent                 XR               
+   FA454512    15   Battery Voltage, volts                     VB               
+   FA454512    17   Fuel Moisture, Percent                     MM               
+   FA454512    18   Wind Direction, Peak, Degrees              UX               
+   FA454512    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   FA454512    20   Solar Radiation, watts per meter squared   RD               

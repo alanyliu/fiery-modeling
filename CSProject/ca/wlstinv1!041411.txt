@@ -1,0 +1,54 @@
+
+WLSTINV1-Weather Station Inventory for                       41411              
+                                                                                
+Station: 041411   Name: KONOCTI                NESDIS: CA2BE5EE                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 13-Dec-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: 041407     Fcst Zone: 558                       
+                                                                                
+State: 06-CA   County: 033-Lake                Lat/Lon: 38 54 42, 122 42 22     
+Obs Agy: 5 (State   )     Unit: LNU          Mnemonic: KNC      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  2163   Asp: 5   Ann Prec:  30.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: WICA1061   Acc Lst: LNU ECC                                               
+Comments: LOCATED AT KONOCTI CONSERVATION CAMP                                  
+                                                                                
+ON 07/19/06 THE STATION WAS ENTIRELY CONVERTED TO NEW FTS EQUIPMENT AND TRANSMI 
+TS USING HIGH DATA RATE ON NEW CHANNEL. OBS TIME UNCHANGED. TESTED TIPPING BUCK 
+ET AND RESET RAINFALL.  DFORREST CDF FIRE WX PROGRAM COORDINATOR                
+                                                                                
+LAT/LONG, ELEV AMENDED BASED UPON ON-SITE GPS (NAD83) WHEN STATION WAS UPGRADED 
+ ON 07/19/06.  DFORREST CDF FIRE WX PROGRAM COORDINATOR 09/26/06                
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B F 06-jun-19 05-apr-19 _ 2 A 2  BI 5  90 144  97 167                     
+   2 7F F 06-jun-19 05-apr-19 _ 2 A 2  BI 5  90  98  97 116                     
+   3 7A F 06-jun-19 05-apr-19 _ 2 A 2  BI 5  90  43  97  52                     
+   4 7G F 06-jun-19 05-apr-19 _ 2 A 2  BI 5  90  79  97  90                     
+   5 16V _ _________ _________ _ 2 A   BI 5  90  45  97  56                     
+   6 16W _ _________ _________ _ 2 A   BI 5  90  44  97  54                     
+   7 16X _ _________ _________ _ 2 A   BI 5  90 185  97 219                     
+   8 16Y _ _________ _________ _ 2 A   BI 5  90  42  97  47                     
+   9 16Z _ _________ _________ _ 2 A   BI 5  90 106  97 124                     
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA2BE5EE     9   Rain Accumulation, Inches                  PC               
+   CA2BE5EE    10   Wind Speed MPH, Miles per Hour             US               
+   CA2BE5EE    11   Wind Direction Degrees, Degrees            UD               
+   CA2BE5EE    12   Air Temperature, Standard Placement, Deg   TA               
+   CA2BE5EE    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA2BE5EE    14   Relative Humidity, Percent                 XR               
+   CA2BE5EE    15   Battery Voltage, volts                     VB               
+   CA2BE5EE    17   Fuel Moisture, Percent                     MM               
+   CA2BE5EE    18   Wind Direction, Peak, Degrees              UX               
+   CA2BE5EE    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA2BE5EE    20   Solar Radiation, watts per meter squared   RD               

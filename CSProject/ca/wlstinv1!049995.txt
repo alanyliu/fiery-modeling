@@ -1,0 +1,47 @@
+
+WLSTINV1-Weather Station Inventory for                       49995              
+                                                                                
+Station: 049995   Name: BURNEY BASIN #5        NESDIS: FA414028                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 04-Aug-2010     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: ____                      
+                                                                                
+State: 06-CA   County: 089-Shasta              Lat/Lon: 40 52 29, 121 46 20     
+Obs Agy: 1 (USDA FS )     Unit: CA-ONC       Mnemonic: BBP05      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  3360   Asp: 0   Ann Prec:  30.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: FS8374   Acc Lst: RDD-PSU                                                 
+Comments: BURNEY BASIN WIND STUDY; SUMMER 2010.  LOCATED AT CAL FIRE COMMUNICAT 
+IONS SITE ON HATCH MTN.  STATION ACTIVATED ON 21JULY2010. 20FOOT/10 MINUTE AVER 
+AGE WINDS.                                                                      
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G P 29-jun-10 _________ _ 1 P 2  EC 5  90  50  97  60                     
+   2 7T P 29-jun-10 _________ _ 1 P 2  BI 5  90  40  97  50                     
+   5 16V _ _________ _________ _ 1 P   __                                       
+   6 16W _ _________ _________ _ 1 P   __                                       
+   7 16X _ _________ _________ _ 1 P   __                                       
+   8 16Y _ _________ _________ _ 1 P   __                                       
+   9 16Z _ _________ _________ _ 1 P   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   FA414028     9   Rain Accumulation, Inches                  PC               
+   FA414028    10   Windspeed, Miles per Hour                  US               
+   FA414028    11   Wind Direction, Degrees                    UD               
+   FA414028    12   Air Temperature, Standard Placement, Deg   TA               
+   FA414028    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   FA414028    14   Relative Humidity, Percent                 XR               
+   FA414028    15   Battery Voltage, volts                     VB               
+   FA414028    17   Fuel Moisture, Percent                     MM               
+   FA414028    18   Wind Direction, Peak, Degrees              UX               
+   FA414028    19   Windspeed, Peak, Miles per Hour            UP               
+   FA414028    20   Solar Radiation, watts per meter squared   RD               

@@ -1,0 +1,33 @@
+
+WLSTINV1-Weather Station Inventory for                       40726              
+                                                                                
+Station: 040726   Name: ASH VALLEY             NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 06-May-2015     Obs Time/Z: 12/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 572                       
+                                                                                
+State: 06-CA   County: 035-Lassen              Lat/Lon: 41  3  7, 120 41 10     
+Obs Agy: 2 (USDI BLM)     Unit: NOD          Mnemonic: ASHVL      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  5100   Asp: 6   Ann Prec:  12.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: ____________   Acc Lst: ________                                          
+Comments: RAWS STATION INSTALLED 1991, TRANSMIT MIN:09                          
+DAN ERVIN RETIRED THIS STATION DUE TO A REQUEST FROM DARRYL JONES TO RE-USE THE 
+ NESDIS_ID 3250C446. (2015-05-06)                                               
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

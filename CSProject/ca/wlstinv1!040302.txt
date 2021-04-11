@@ -1,0 +1,67 @@
+
+WLSTINV1-Weather Station Inventory for                       40302              
+                                                                                
+Station: 040302   Name: BLUE MOUNTAIN          NESDIS: 326CF630                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 26-Nov-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 590                       
+                                                                                
+State: 06-CA   County: 049-Modoc               Lat/Lon: 41 49 47, 120 51 48     
+Obs Agy: 1 (USDA FS )     Unit: MDF          Mnemonic: BLUMT      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  5746   Asp: 0   Ann Prec:  18.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: 275   Acc Lst: MODO12                                                     
+Comments: STATION REACTIVATED IN WIMS ON 8/26/2011                              
+HIGH RESOLUTION LAT AND LONG AND ELEVATION VALIDATED USING GOOGLE EARTH.        
+                                                                                
+                                                                                
+INACTIVE SINCE 1980. STARTED UP IN 1961.                                        
+FREEZE UP DEC 12, 2011 PER VON GRUBER  DB                                       
+GREEN UP DATE 4/24/2012 PER DIV 9 SM                                            
+FREEZE UP DATE 9/21/2013 PER CH1 SM                                             
+GREEN UP DATE 3/21/14 PER CH1 AND CH3 SM                                        
+FREEZE UP 10/14/14 PER INPUT FROM CHIEFS SM                                     
+                                                                                
+GREEN UP 3/25/15 GREEN UP - SM                                                  
+                                                                                
+GREEN UP 04/15/16 PER CH2, CH3, BC91-MM                                         
+FREEZE UP PER CHFS SPJ                                                          
+GREEN UP 04/29/18 MM                                                            
+FREEZE UP 11/30/18                                                              
+FREEZE UP PER DIV 11- SPJ                                                       
+                                                                                
+GREEN UP 5/8/19 -MM                                                             
+FREEZE UP 11/26/19-MM                                                           
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7K F 26-nov-19 29-may-19 _ 2 A 2  BI 5  90  84  97  99                     
+   2 7C F 26-nov-19 29-may-19 _ 2 A 2  BI 5  90  50  97  66                     
+   3 7G F 26-nov-19 29-may-19 _ 2 A 2  BI 5  90  91  97 117                     
+   4 7T F 26-nov-19 29-may-19 _ 2 A 2  BI 5  90  76  97 104                     
+   5 16V _ _________ _________ _ 2 A   __                                       
+   6 16W _ _________ _________ _ 2 A   __                                       
+   7 16X _ _________ _________ _ 2 A   __                                       
+   8 16Y _ _________ _________ _ 2 A   __                                       
+   9 16Z _ _________ _________ _ 2 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   326CF630     9   Rain Accumulation, Inches                  PC               
+   326CF630    10   Wind Speed MPH, Miles per Hour             US               
+   326CF630    11   Wind Direction Degrees, Degrees            UD               
+   326CF630    12   Air Temperature, Standard Placement, Deg   TA               
+   326CF630    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   326CF630    14   Relative Humidity, Percent                 XR               
+   326CF630    15   Battery Voltage, volts                     VB               
+   326CF630    17   Fuel Moisture, Percent                     MM               
+   326CF630    18   Wind Direction, Peak, Degrees              UX               
+   326CF630    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   326CF630    20   Solar Radiation, watts per meter squared   RD               

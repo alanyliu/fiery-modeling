@@ -1,0 +1,45 @@
+
+WLSTINV1-Weather Station Inventory for                       40991              
+                                                                                
+Station: 040991   Name: PNF 15 PORTABLE        NESDIS: 3286970E                 
+                                                                                
+Type: 3 (RAWS S non-NFDRS)   Create/Mod Date: 10-Apr-2003     Obs Time/Z: 13/PS 
+T                                                                               
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 599                       
+                                                                                
+State: 06-CA   County: 063-Plumas              Lat/Lon: 39 47  8, 120 37 56     
+Obs Agy: 1 (USDA FS )     Unit: PLUMAS       Mnemonic: PNF15      FS Reg:   5   
+                                                                                
+Fuel Stk: 31-Mar-1993   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  4400   Asp: 0   Ann Prec:  35.00   Season:                     
+Ltng scale:   1.00   Hum code: 1   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS6306   Acc Lst: PNFECC                                                  
+Comments: NEW PORTABLE STATION, CURRENTLY LOCATED AT MOHAWK RANGER STATION 04-1 
+0-03                                                                            
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   3286970E    10   Windspeed, Meters per Second               US               
+   3286970E    11   Wind Direction, Degrees                    UD               
+   3286970E    12   Air Temperature, Degrees Celsius           TA               
+   3286970E    14   Relative Humidity, Percent                 XR               
+   3286970E    15   Battery Voltage, volts                     VB               
+   3286970E    16   Barometric Pressure, Pascal                PA               
+   3286970E    17   Particulate Monitor Sensor Type, code      AQ               
+   3286970E    18   Particulate Monitor Serial Number, code    AQ               
+   3286970E    19   Air Quality Concentration Hourly Average   AQ               
+   3286970E    20   Air Quality, Filter Percent, Percent       AQ               
+   3286970E    21   Particulate Monitor Air Flow, liters per   AQ               
+   3286970E    22   Air Temperature, 2nd sensor, Degrees Cel   TA               
+   3286970E    23   Relative Humidity Particulate Monitor In   XR               
+   3286970E    24   Particulate Monitor Alarm Condition, cod   AQ               

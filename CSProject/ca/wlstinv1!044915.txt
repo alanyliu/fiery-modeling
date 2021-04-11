@@ -1,0 +1,69 @@
+
+WLSTINV1-Weather Station Inventory for                       44915              
+                                                                                
+Station: 044915   Name: SAN LUIS OBISPO        NESDIS: CA2384AE                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 16-Dec-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 500                       
+                                                                                
+State: 06-CA   County: 079-San Luis Obispo     Lat/Lon: 35 18 10, 120 40 43     
+Obs Agy: 5 (State   )     Unit: CDF-SLU      Mnemonic: SLO      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:   310   Asp: 0   Ann Prec:  19.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: 9ae   Acc Lst: SLUECC                                                     
+Comments: GREEN UP 3/1/14                                                       
+GREEN UP AND RECALC ON 01-MAY-09  PROCESSED ON 24 MAY 09  ELP                   
+ON 05/29/08 THE STATION WAS ENTIRELY CONVERTED TO NEW FTS EQUIPMENT AND TRANSMI 
+TS USING HIGH DATA RATE ON NEW CHANNEL. OBS TIME HAS NOW CHANGED. TESTED TIPPIN 
+G BUCKET AND RESET RAINFALL.  LAT/LONG, ELEV AMENDED BASED UPON ON-SITE GPS (NA 
+D83).  DFORREST CDF FIRE WX PROGRAM COORDINATOR (09/18/08)                      
+                                                                                
+GREEN UP FOR 2008 ON MAY 15. ENTERED ON JULY 10 WITH RECALC.  ELP               
+ GREEN UP AND RECALC DONE FOR MAY 07 ON 10/15/07  ELP EEE                       
+STA.REMOVED JUNE 1998, BACK INSERVICE JUNE 2000                                 
+ENTERED MISSED OBS. 2/1/05                                                      
+FREEZE DATE AND RECALC 9/15/04  EP                                              
+GREENED STATION MARCH 7, 05  ELP                                                
+FROZEN AND RECALC  11/23/05. ELP                                                
+FROZEN WITH RECALC ON 12/15/07.  ACTUAL ENTRIES IN WIMS ON 1/1/08.  ELP         
+GREEN UP DATE: 05/01/06 ELP                                                     
+FROZEN AND RECALC. 11/13/06 EEE                                                 
+FROZEN AND RECALC, 10/05/09.  ENTRIES MADE IN WIMS ON 10/25/09.  ELP            
+GREEN UP 5/29/10                                                                
+FROZEN AND RECALC ON 10/1/10    ELP                                             
+GREEN UP 5/13/12 EET                                                            
+FROZEN AND RECALC 10/14/12  ELP                                                 
+GREEN UP 03/01/13 AND RECALC 03/13/13 EET                                       
+FROZEN 9/22/13 MA                                                               
+FEW STATION EDITS. THIS WAS THE ARG RAWS, MOVED TO HQ AND RENAMED SAN LUIS OBIS 
+PO. CHAGNED NAME, MNEMONIC, LAT/LONG, ELEV, SITE, SLOP. 4/21/19 MC              
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G F 13-dec-19 01-apr-19 _ 1 A 2  BI 3  90  38  97  61                     
+   2 16V _ _________ _________ _ 2 A   __                                       
+   3 16W _ _________ _________ _ 2 A   __                                       
+   4 16X _ _________ _________ _ 2 A   __                                       
+   5 16Y _ _________ _________ _ 2 A   __                                       
+   6 16Z _ _________ _________ _ 2 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA2384AE     9   Rain Accumulation, Inches                  PC               
+   CA2384AE    10   Wind Speed MPH, Miles per Hour             US               
+   CA2384AE    11   Wind Direction Degrees, Degrees            UD               
+   CA2384AE    12   Air Temperature, Standard Placement, Deg   TA               
+   CA2384AE    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA2384AE    14   Relative Humidity, Percent                 XR               
+   CA2384AE    15   Battery Voltage, volts                     VB               
+   CA2384AE    17   Fuel Moisture, Percent                     MM               
+   CA2384AE    18   Wind Direction, Peak, Degrees              UX               
+   CA2384AE    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA2384AE    20   Solar Radiation, watts per meter squared   RD               

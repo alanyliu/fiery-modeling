@@ -1,0 +1,51 @@
+
+WLSTINV1-Weather Station Inventory for                       41001              
+                                                                                
+Station: 041001   Name: BOONVILLE              NESDIS: CA4576D6                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 30-Jan-2020     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 557                       
+                                                                                
+State: 06-CA   County: 045-Mendocino           Lat/Lon: 38 59 14, 123 20 54     
+Obs Agy: 5 (State   )     Unit: MEU          Mnemonic: BNV      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:   644   Asp: 5   Ann Prec:  45.47   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: WICA1143   Acc Lst: MEU                                                   
+Comments: RAWS STATION. RECALC 2/17/05 JZULLIGER                                
+ON 12/15/05 THE STATION WAS ENTIRELY CONVERTED TO NEW FTS EQUIPMENT AND TRANSMI 
+TS USING HIGH DATA RATE ON NEW CHANNEL. OBS TIME UNCHANGED. TESTED TIPPING BUCK 
+ET AND RESET RAINFALL.  DFORREST CDF FIRE WX PROGRAM COORDINATOR                
+LONG, ELEV AMENDED BASED UPON ON-SITE GPS-02/25/06. DFORREST 09/26/06           
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G F 07-dec-19 28-apr-19 _ 2 A 2  BI 5  90  40  97  47                     
+   2 7B F 07-dec-19 28-apr-19 _ 3 A 2  BI 5  90  47  97  66                     
+   3 7J F 07-dec-19 28-apr-19 _ 2 A 2  BI 5  90 118  97 130                     
+   4 7A F 07-dec-19 28-apr-19 _ 2 A 2  BI 5  90  33  97  42                     
+   5 16V _ _________ _________ _ 2 A   __                                       
+   6 16W _ _________ _________ _ 2 A   __                                       
+   7 16X _ _________ _________ _ 2 A   __                                       
+   8 16Y _ _________ _________ _ 2 A   __                                       
+   9 16Z _ _________ _________ _ 2 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA4576D6     9   Rain Accumulation, Inches                  PC               
+   CA4576D6    10   Wind Speed MPH, Miles per Hour             US               
+   CA4576D6    11   Wind Direction Degrees, Degrees            UD               
+   CA4576D6    12   Air Temperature, Standard Placement, Deg   TA               
+   CA4576D6    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA4576D6    14   Relative Humidity, Percent                 XR               
+   CA4576D6    15   Battery Voltage, volts                     VB               
+   CA4576D6    17   Fuel Moisture, Percent                     MM               
+   CA4576D6    18   Wind Direction, Peak, Degrees              UX               
+   CA4576D6    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA4576D6    20   Solar Radiation, watts per meter squared   RD               

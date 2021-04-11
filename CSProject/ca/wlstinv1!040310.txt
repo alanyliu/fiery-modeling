@@ -1,0 +1,70 @@
+
+WLSTINV1-Weather Station Inventory for                       40310              
+                                                                                
+Station: 040310   Name: LOWER KLAMATH          NESDIS: 83747388                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 26-Nov-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 589                       
+                                                                                
+State: 06-CA   County: 049-Modoc               Lat/Lon: 41 59 57, 121 42  1     
+Obs Agy: 4 (USDI BIA)     Unit: KBR          Mnemonic: KBR      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  4098   Asp: 0   Ann Prec:  11.00   Season: 2                   
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: 275   Acc Lst: MODO12                                                     
+Comments: THIS IS A FTS AUTOMATIC STATION                                       
+                                                                                
+GREENED UP APRIL 23, 2010 PER DAVE GOHEEN LKR                                   
+                                                                                
+FROZEN SEP 21, 2010, PER DAVE MCMASTER  DB                                      
+                                                                                
+FREEZE UP DEC 12, 2011 PER VON GRUBER  DB                                       
+                                                                                
+GREENED UP MAY 3RD 2011 PER F804 AT 0836 AM                                     
+                                                                                
+FREEZE UP DATE 9/21/2013 PER CH1 SM                                             
+                                                                                
+GREEN UP DATE 3/21/14 PER CH1 AND CH3 SM                                        
+FREEZE UP DATE 10/29/14                                                         
+                                                                                
+GREEN UP 3/10/2015 PER DIV 801 & BC92  - SM                                     
+                                                                                
+GREEN UP 04/15/16 PER DIV8 (OLD DIV801) & BC91                                  
+FREEZE UP PER CHFS SPJ 11/30/16                                                 
+FREEZE UP PER DIV 11 12/20/17 SPJ                                               
+                                                                                
+GREEN UP 04/25/18 MM                                                            
+FREEZE UP 10/30/18 MM                                                           
+                                                                                
+GREEN UP 05-MAY-19 MM                                                           
+FREEZE UP 11/26/19-MM                                                           
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7N F 01-may-19 29-may-19 _ 1 P 1  BI 5  95  56  97  72                     
+   2 7A F 02-may-19 29-may-19 _ 1 A 1  BI 5  95  56  97  72                     
+   5 16V _ _________ _________ _ 1 P   __                                       
+   6 16W _ _________ _________ _ 1 P   __                                       
+   7 16X _ _________ _________ _ 1 P   __                                       
+   8 16Y _ _________ _________ _ 1 P   __                                       
+   9 16Z _ _________ _________ _ 1 P   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   83747388     9   Rain Accumulation, Inches                  PC               
+   83747388    10   Wind Speed MPH, Miles per Hour             US               
+   83747388    11   Wind Direction Degrees, Degrees            UD               
+   83747388    12   Air Temperature, Standard Placement, Deg   TA               
+   83747388    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   83747388    14   Relative Humidity, Percent                 XR               
+   83747388    15   Battery Voltage, volts                     VB               
+   83747388    17   Fuel Moisture, Percent                     MM               
+   83747388    18   Wind Direction, Peak, Degrees              UX               
+   83747388    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   83747388    20   Solar Radiation, watts per meter squared   RD               

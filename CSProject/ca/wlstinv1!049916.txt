@@ -1,0 +1,45 @@
+
+WLSTINV1-Weather Station Inventory for                       49916              
+                                                                                
+Station: 049916   Name: KLAMATH PORTABLE       NESDIS: 837A279C                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 28-Aug-2006     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 589                       
+                                                                                
+State: 06-CA   County: 093-Siskiyou            Lat/Lon: 41 56 38, 121 33 53     
+Obs Agy: 8 (Oth Fed )     Unit: KBR          Mnemonic: KBR      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  4040   Asp: 0   Ann Prec:  11.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: FWS0013   Acc Lst: ________                                               
+Comments: THIS IS AN FTS AUTOMATIC PORTABLE STATION.                            
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7N F 04-oct-05 _________ _ 1 P 1  BI  95  56  97  72                       
+   2 7A F 04-oct-05 _________ _ 1 P 1  BI  95  56  97  72                       
+   3 7G F 04-oct-05 _________ _ 1 P 1  EC  90  79  97  84                       
+   5 16V _ _________ _________ _ 1 P   __                                       
+   6 16W _ _________ _________ _ 1 P   __                                       
+   7 16X _ _________ _________ _ 1 P   __                                       
+   8 16Y _ _________ _________ _ 1 P   __                                       
+   9 16Z _ _________ _________ _ 1 P   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   837A279C     9   Rain Accumulation, Inches                  PC               
+   837A279C    10   Wind Speed MPH, Miles per Hour             US               
+   837A279C    11   Wind Direction Degrees, Degrees            UD               
+   837A279C    12   Air Temperature, Standard Placement, Deg   TA               
+   837A279C    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   837A279C    14   Relative Humidity, Percent                 XR               
+   837A279C    15   Battery Voltage, volts                     VB               
+   837A279C    17   Fuel Moisture, Percent                     MM               
+   837A279C    18   Wind Direction, Peak, Degrees              UX               
+   837A279C    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   837A279C    20   Solar Radiation, watts per meter squared   RD               

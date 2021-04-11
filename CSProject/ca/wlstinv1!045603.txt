@@ -1,0 +1,46 @@
+
+WLSTINV1-Weather Station Inventory for                       45603              
+                                                                                
+Station: 045603   Name: CRANSTON               NESDIS: 3275D11E                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 13-Dec-2019     Obs Time/Z: 13/PST    
+Assoc Man: 045612     Prev Stn: ______     Fcst Zone: 512                       
+                                                                                
+State: 06-CA   County: 065-Riverside           Lat/Lon: 33 44 25, 116 50 29     
+Obs Agy: 1 (USDA FS )     Unit: BDF          Mnemonic: CRNST      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  1950   Asp: 7   Ann Prec:  11.57   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: 2c0   Acc Lst: STATIONS                                                   
+Comments: CONVERTED FROM MANUAL TO RAWS STATION 02/27/02 TS                     
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7F F 27-nov-19 16-apr-19 _ 5 P 2  BI 5  90 142  97 180                     
+   2 7B F 27-nov-19 16-apr-19 _ 5 P 2  BI 5  90 203  97 242                     
+   3 7A F 27-nov-19 16-apr-19 _ 2 A 2  BI 5  90  49  97  59                     
+   4 7G F 27-nov-19 16-apr-19 _ 2 A 2  EC 5  90  80  97  86                     
+   5 16V _ _________ _________ _ 5 P   BI 5  90  78  97  86                     
+   6 16X _ _________ _________ _ 5 P   BI 5  90 320  97 338                     
+   7 16Y _ _________ _________ _ 5 P   EC 5  90  65  97  69                     
+   8 16Y _ _________ _________ _ 5 P   __                                       
+   9 16Z _ _________ _________ _ 5 P   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   3275D11E     9   Rain Accumulation, Inches                  PC               
+   3275D11E    10   Wind Speed MPH, Miles per Hour             US               
+   3275D11E    11   Wind Direction Degrees, Degrees            UD               
+   3275D11E    12   Air Temperature, Standard Placement, Deg   TA               
+   3275D11E    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   3275D11E    14   Relative Humidity, Percent                 XR               
+   3275D11E    15   Battery Voltage, volts                     VB               
+   3275D11E    17   Fuel Moisture, Percent                     MM               
+   3275D11E    18   Wind Direction, Peak, Degrees              UX               
+   3275D11E    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   3275D11E    20   Solar Radiation, watts per meter squared   RD               

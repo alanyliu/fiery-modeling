@@ -1,0 +1,53 @@
+
+WLSTINV1-Weather Station Inventory for                       40408              
+                                                                                
+Station: 040408   Name: HOOPA                  NESDIS: 326D5432                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 07-Nov-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 555                       
+                                                                                
+State: 06-CA   County: 023-Humboldt            Lat/Lon: 41  2 52, 123 40 16     
+Obs Agy: 4 (USDI BIA)     Unit: CBIA         Mnemonic: HOOPA      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:   375   Asp: 0   Ann Prec:  56.38   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS11381   Acc Lst: HIA                                                    
+Comments: NEW 90/97 VALUES=1990-2010 7/2011.                                    
+                                                                                
+NEW FTS STATION INSTALLED 6/1/09. HDR TX. NEW TX TIME 00:40:00                  
+                                                                                
+RAWS-5/6/97 (11/07/99 CONVERT STA 040420 TO HOOPA                               
+(90/97 VALUES=1972-2000)                                                        
+90TH AND 97TH PERCENTILES WERE EDITED 7/22/15 2000-2015                         
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G F 31-aug-19 03-mar-19 _ 3 P 3  BI 5  90  61  97  68                     
+   2 7C F 31-aug-19 03-mar-19 _ 3 A 3  BI 5  90  46  97  51                     
+   3 7G F 31-aug-19 03-mar-19 _ 3 A 3  BI 5  90  72  97  80                     
+   4 16V _ _________ _________ _ 3 P   __                                       
+   5 16W _ _________ _________ _ 3 P   __                                       
+   6 16X _ _________ _________ _ 3 P   __                                       
+   7 16Y _ _________ _________ _ 3 P   EC  90  43  97  47                       
+   8 16Z _ _________ _________ _ 3 P   __                                       
+   9 16Y _ _________ _________ _ 3 P   BI  90  35  97  38                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   326D5432     9   Rain Accumulation, Inches                  PC               
+   326D5432    10   Wind Speed MPH, Miles per Hour             US               
+   326D5432    11   Wind Direction Degrees, Degrees            UD               
+   326D5432    12   Air Temperature, Standard Placement, Deg   TA               
+   326D5432    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   326D5432    14   Relative Humidity, Percent                 XR               
+   326D5432    15   Battery Voltage, volts                     VB               
+   326D5432    17   Fuel Moisture, Percent                     MM               
+   326D5432    18   Wind Direction, Peak, Degrees              UX               
+   326D5432    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   326D5432    20   Solar Radiation, watts per meter squared   RD               

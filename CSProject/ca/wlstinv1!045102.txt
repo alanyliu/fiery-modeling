@@ -1,0 +1,48 @@
+
+WLSTINV1-Weather Station Inventory for                       45102              
+                                                                                
+Station: 045102   Name: BIG PINE FLAT          NESDIS: 3275C268                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 13-Dec-2019     Obs Time/Z: 12/PST    
+Assoc Man: 045110     Prev Stn: 045402     Fcst Zone: 511                       
+                                                                                
+State: 06-CA   County: 071-San Bernardino      Lat/Lon: 34 19 7., 117  0 50     
+Obs Agy: 1 (USDA FS )     Unit: BDF          Mnemonic: BPFLT      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  6851   Asp: 3   Ann Prec:  38.01   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: 2c0   Acc Lst: STATIONS                                                   
+Comments: REGULAR SCHEDULED OBS TIME CHANGED TO "12" FOR MANAGEMENT EFFICIENCES 
+ ON 24 JULY 2014                                                                
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G F 27-nov-19 16-apr-19 _ 2 A 2  BI 5  90  85  97  97                     
+   2 7A F 27-nov-19 16-apr-19 _ 2 A 2  BI 5  90  38  97  48                     
+   3 7B F 27-nov-19 16-apr-19 _ 2 P 2  BI 5  90 150  97 180                     
+   4 7C F 27-nov-19 16-apr-19 _ 2 A 2  BI 5  90  41  97  46                     
+   5 16V _ _________ _________ _ 2 A   BI 5  90  33  97  41                     
+   6 16W _ _________ _________ _ 2 A   BI 5  90  33  97  39                     
+   7 16Y _ _________ _________ _ 2 A   BI 5  90  41  97  45                     
+   8 16X _ _________ _________ _ 2 A   BI 5  90 136  97 158                     
+   9 16Z _ _________ _________ _ 2 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   3275C268     9   Rain Accumulation, Inches                  PC               
+   3275C268    10   Wind Speed MPH, Miles per Hour             US               
+   3275C268    11   Wind Direction Degrees, Degrees            UD               
+   3275C268    12   Air Temperature, Standard Placement, Deg   TA               
+   3275C268    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   3275C268    14   Relative Humidity, Percent                 XR               
+   3275C268    15   Battery Voltage, volts                     VB               
+   3275C268    17   Fuel Moisture, Percent                     MM               
+   3275C268    18   Wind Direction, Peak, Degrees              UX               
+   3275C268    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   3275C268    20   Solar Radiation, watts per meter squared   RD               

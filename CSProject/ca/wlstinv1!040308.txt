@@ -1,0 +1,47 @@
+
+WLSTINV1-Weather Station Inventory for                       40308              
+                                                                                
+Station: 040308   Name: JUNIPER CREEK          NESDIS: 32780410                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 29-Dec-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 572                       
+                                                                                
+State: 06-CA   County: 049-Modoc               Lat/Lon: 41 19 57, 120 28 22     
+Obs Agy: 2 (USDI BLM)     Unit: NOD          Mnemonic: JUNCK      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  4636   Asp: 0   Ann Prec:   8.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: BLM2829   Acc Lst: SIFC                                                   
+Comments: RAWS STATION INSTALLED 1988, TRANSMIT MIN:16                          
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7T F 14-nov-19 15-may-19 _ 1 A 2  BI 5  80  58  95  85                     
+   2 7G F 14-nov-19 15-may-19 _ 1 A 2  BI 5  90  88  97  96                     
+   3 16V _ _________ _________ _ 1 A   __                                       
+   4 16W _ _________ _________ _ 1 A   BI  80  26  95  41                       
+   5 16X _ _________ _________ _ 1 A   BI  80 147  95 205                       
+   6 16Y _ _________ _________ _ 1 A   BI  90  33  97  40                       
+   7 16Z _ _________ _________ _ 1 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   32780410     9   Rain Accumulation, Inches                  PC               
+   32780410    10   Wind Speed MPH, Miles per Hour             US               
+   32780410    11   Wind Direction Degrees, Degrees            UD               
+   32780410    12   Air Temperature, Standard Placement, Deg   TA               
+   32780410    14   Relative Humidity, Percent                 XR               
+   32780410    15   Battery Voltage, volts                     VB               
+   32780410    17   Wind Direction, Peak, Degrees              UX               
+   32780410    18   Wind Speed Peak MPH, Miles per Hour        UP               
+   32780410    19   Solar Radiation, watts per meter squared   RD               
+   32780410    20   Snow Depth, Inches                         SD               
+   32780410    23   Soil Temperature "C", Degrees Celsius      TG               
+   32780410    26   Soil Temperature "C" 2, Degrees Celsius    TG               
+   32780410    29   Soil Temperature "C" 3, Degrees Celsius    TG               
+   32780410    32   Soil Temperature "C" 4, Degrees Celsius    TG               

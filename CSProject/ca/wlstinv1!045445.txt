@@ -1,0 +1,50 @@
+
+WLSTINV1-Weather Station Inventory for                       45445              
+                                                                                
+Station: 045445   Name: DEL VALLE              NESDIS: CA42249E                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 21-Feb-2020     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 505                       
+                                                                                
+State: 06-CA   County: 037-Los Angeles         Lat/Lon: 34 25 46, 118 40 1.     
+Obs Agy: 6 (Local Gv)     Unit: CA-LAC       Mnemonic: DVL      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  1278   Asp: 5   Ann Prec:  11.68   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: aec   Acc Lst: FORESTRY LAC                                               
+Comments: NAME      : DEL VALLE                                                 
+LOCATION  : DEL VALLE HAZ. MAT. TRAINING CTR.                                   
+NFDRZ     : 620                                                                 
+NWSFZ     : 505                                                                 
+NWS FWPFZ : 245                                                                 
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7F P 12-feb-20 13-mar-19 _ 3 A 2  BI 5  90 108  97 142                     
+   2 7K P 12-feb-20 13-mar-19 _ 3 A 2  BI 5  90  80  97  91                     
+   3 7A P 12-feb-20 13-mar-19 _ 3 A 2  BI 5  90  59  97  73                     
+   5 16V _ _________ _________ _ 3 A   __                                       
+   6 16W _ _________ _________ _ 3 A   __                                       
+   7 16X _ _________ _________ _ 3 A   __                                       
+   8 16Y _ _________ _________ _ 3 A   __                                       
+   9 16Z _ _________ _________ _ 3 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA42249E     9   Rain Accumulation, Inches                  PC               
+   CA42249E    10   Wind Speed MPH, Miles per Hour             US               
+   CA42249E    11   Wind Direction Degrees, Degrees            UD               
+   CA42249E    12   Air Temperature, Standard Placement, Deg   TA               
+   CA42249E    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA42249E    14   Relative Humidity, Percent                 XR               
+   CA42249E    15   Battery Voltage, volts                     VB               
+   CA42249E    17   Fuel Moisture, Percent                     MM               
+   CA42249E    18   Wind Direction, Peak, Degrees              UX               
+   CA42249E    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA42249E    20   Solar Radiation, watts per meter squared   RD               

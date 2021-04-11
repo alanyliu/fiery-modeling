@@ -1,0 +1,58 @@
+
+WLSTINV1-Weather Station Inventory for                       40228              
+                                                                                
+Station: 040228   Name: WEED AIRPORT           NESDIS: CA2055C8                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 12-Sep-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 588                       
+                                                                                
+State: 06-CA   County: 093-Siskiyou            Lat/Lon: 41 28 44, 122 27 16     
+Obs Agy: 5 (State   )     Unit: SKU          Mnemonic: WED      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  2929   Asp: 4   Ann Prec:  33.63   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: WICA1120   Acc Lst: YICC                                                  
+Comments: 1/24/14 TEMP/RH SENSOR REPLACED.                                      
+                                                                                
+5/10/11 FUEL MOISTURE DUFF BED INSTALLED.                                       
+                                                                                
+STATION LOCATED AT WEED AIRPORT.                                                
+FIRE DANGER RATING AREA 210.                                                    
+STATION NAME WAS CHANGED TO MATCH RECORDS IN ASCADS. DFORREST CDF FIRE WX PROG  
+COORD 09/29/06                                                                  
+ON 07/21/06 THE STATION WAS ENTIRELY CONVERTED TO NEW FTS EQUIPMENT AND TRANSMI 
+TS USING HIGH DATA RATE ON NEW CHANNEL. OBS TIME UNCHANGED. TESTED TIPPING BUCK 
+ET AND RESET RAINFALL.  DFORREST CDF FIRE WX PROGRAM COORDINATOR                
+LAT/LONG, ELEV AMENDED BASED UPON ON-SITE GPS (NAD83) WHEN STATION WAS UPGRADED 
+ ON 07/21/06. DFORREST CDF FIRE WX PROGRAM COORDINATOR 09/26/06                 
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7A F 01-aug-19 01-apr-19 _ 1 A 2  BI 5  90  41  97  49                     
+   2 7B F 01-aug-19 01-apr-19 _ 1 A 2  BI 5  90  97  97 174                     
+   3 7G F 01-aug-19 01-apr-19 _ 1 A 2  BI 5  90  76  97  80                     
+   4 16V _ _________ _________ _ 1 A   __                                       
+   5 16W _ _________ _________ _ 1 A   __                                       
+   6 16X _ _________ _________ _ 1 A   __                                       
+   7 16Y _ _________ _________ _ 1 A   __                                       
+   8 16Z _ _________ _________ _ 1 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA2055C8     9   Rain Accumulation, Inches                  PC               
+   CA2055C8    10   Wind Speed MPH, Miles per Hour             US               
+   CA2055C8    11   Wind Direction Degrees, Degrees            UD               
+   CA2055C8    12   Air Temperature, Standard Placement, Deg   TA               
+   CA2055C8    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA2055C8    14   Relative Humidity, Percent                 XR               
+   CA2055C8    15   Battery Voltage, volts                     VB               
+   CA2055C8    17   Fuel Moisture, Percent                     MM               
+   CA2055C8    18   Wind Direction, Peak, Degrees              UX               
+   CA2055C8    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA2055C8    20   Solar Radiation, watts per meter squared   RD               

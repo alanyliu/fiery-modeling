@@ -1,0 +1,40 @@
+
+WLSTINV1-Weather Station Inventory for                       41092              
+                                                                                
+Station: 041092   Name: MNF02 PORTABLE         NESDIS: 3230C674                 
+                                                                                
+Type: 3 (RAWS S non-NFDRS)   Create/Mod Date: 24-Jan-2003     Obs Time/Z: 13/PS 
+T                                                                               
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 595                       
+                                                                                
+State: 06-CA   County: 033-Lake                Lat/Lon: 39 18 29, 122 56 22     
+Obs Agy: 1 (USDA FS )     Unit: MNF          Mnemonic: MNF#2      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site:    Elev:  3740   Asp:    Ann Prec: ######   Season:                       
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: FS7577   Acc Lst: MNF                                                     
+Comments: A MICRO RAWS FOR FIRE/RX USE ALL OVER FOREST                          
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   3230C674     9   Rain Accumulation, Inches                  PC               
+   3230C674    10   Wind Speed MPH, Miles per Hour             US               
+   3230C674    11   Wind Direction Degrees, Degrees            UD               
+   3230C674    12   Air Temperature, Standard Placement, Deg   TA               
+   3230C674    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   3230C674    14   Relative Humidity, Percent                 XR               
+   3230C674    15   Battery Voltage, volts                     VB               
+   3230C674    17   Fuel Moisture, Percent                     MM               
+   3230C674    18   Wind Direction, Peak, Degrees              UX               
+   3230C674    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   3230C674    20   Solar Radiation, watts per meter squared   RD               

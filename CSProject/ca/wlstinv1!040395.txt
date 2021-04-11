@@ -1,0 +1,46 @@
+
+WLSTINV1-Weather Station Inventory for                       40395              
+                                                                                
+Station: 040395   Name: ALTURAS PORTABLE       NESDIS: 324C814E                 
+                                                                                
+Type: 3 (RAWS S non-NFDRS)   Create/Mod Date: 27-Oct-2008     Obs Time/Z: 13/PS 
+T                                                                               
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 572                       
+                                                                                
+State: 06-CA   County: ___-________________________Lat/Lon: 40  5 21, 120 31 16 
+Obs Agy: 2 (USDI BLM)     Unit: NORCAL       Mnemonic: ALTP      FS Reg:   5    
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  6900   Asp: 0   Ann Prec:  12.45   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: BLM1201   Acc Lst: BLM                                                    
+Comments: PORTABLE MICRO RAWS.  TRANSMIT MIN/SEC: 02:08 (3 HOUR)                
+DCP MODEL: H555, CLASS: 4, CHANNEL: 38                                          
+RECENTLY MOVED TO CURRENT LOCATION ON 8/19/2008                                 
+ADDED PRECIP SENSOR TO DCP 8/19/2008                                            
+STATION INFO UPDATED 9/22/2008                                                  
+STATION MAINTENANCE PERFORMED ON 10/06/08 BY RAWS DEPOT TECHS                   
+WILL BE TAKING RAWS OFFLINE ON 10/28/08                                         
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   324C814E     9   Rain Accumulation, Inches                  PC               
+   324C814E    10   Windspeed, Miles per Hour                  US               
+   324C814E    11   Wind Direction, Degrees                    UD               
+   324C814E    12   Air Temperature, Standard Placement, Deg   TA               
+   324C814E    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   324C814E    14   Relative Humidity, Percent                 XR               
+   324C814E    15   Battery Voltage, volts                     VB               
+   324C814E    17   Fuel Moisture, Stick Weight, 10 Hour, Pe   MX               
+   324C814E    18   Wind Direction, Peak, Degrees              UX               
+   324C814E    19   Windspeed, Peak, Miles per Hour            UP               

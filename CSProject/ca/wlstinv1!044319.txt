@@ -1,0 +1,60 @@
+
+WLSTINV1-Weather Station Inventory for                       44319              
+                                                                                
+Station: 044319   Name: HASTINGS               NESDIS: CA233720                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 14-Dec-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 522                       
+                                                                                
+State: 06-CA   County: 053-Monterey            Lat/Lon: 36 23 18, 121 33 5.     
+Obs Agy: 5 (State   )     Unit: CA_BEU       Mnemonic: HTG      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:  1885   Asp: 4   Ann Prec:  20.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: WICA243   Acc Lst: BEU2                                                   
+Comments: 06/28/10 - ADDED FUEL MODEL G WITH 90TH AND 97TH PERCENTILE NUMBERS D 
+ERIVED FROM FF+V4 AND BASED UPON WEATHER OBS THROUGH 2009. DID RECALC WITH SAME 
+ GREENUP DATE OF 03/23/10. UPDATED THE 90TH & 97TH PERCENTILE NUMBERS IN THE OT 
+HER FUEL MODELS USING THE WEATHER OBS THROUGH 2009.  DFORREST CALFIRE WX PROGRA 
+M COORDINATOR                                                                   
+                                                                                
+                                                                                
+ON 04/16/09 THE STATION WAS ENTIRELY CONVERTED TO NEW FTS EQUIPMENT AND TRANSMI 
+TS USING HIGH DATA RATE ON NEW CHANNEL & TIME SLOT.  OBS TIME DID NOT CHANGE.   
+TESTED TIPPING BUCKET AND RESET RAINFALL.  LAT/LONG, ELEV AMENDED BASED UPON ON 
+-SITE GPS (NAD83) WHEN STATION WAS UPGRADED.  DFORREST CDF FIRE WX PROGRAM COOR 
+DINATOR 07/23/09                                                                
+                                                                                
+STATION WAS MOVED FROM CAHOON SITE IN JULY 1997 WITHOUT CHANGING THE WIMS ID. T 
+HIS NEW ID WAS ESTABLISHED TO ALLOW DATA FROM CAHOON TO REMAIN WITH STATION 044 
+318.                                                                            
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B F 09-dec-19 01-apr-19 _ 3 A 2  BI 5  90 152  97 185                     
+   2 7G F 09-dec-19 01-apr-19 _ 3 A 2  BI 5  90  86  97  97                     
+   3 16V _ _________ _________ _ 3 A   __                                       
+   4 16W _ _________ _________ _ 3 A   __                                       
+   5 16X _ _________ _________ _ 3 A   __                                       
+   6 16Y _ _________ _________ _ 3 A   __                                       
+   7 16Z _ _________ _________ _ 3 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA233720     9   Rain Accumulation, Inches                  PC               
+   CA233720    10   Wind Speed MPH, Miles per Hour             US               
+   CA233720    11   Wind Direction Degrees, Degrees            UD               
+   CA233720    12   Air Temperature, Standard Placement, Deg   TA               
+   CA233720    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA233720    14   Relative Humidity, Percent                 XR               
+   CA233720    15   Battery Voltage, volts                     VB               
+   CA233720    17   Fuel Moisture, Percent                     MM               
+   CA233720    18   Wind Direction, Peak, Degrees              UX               
+   CA233720    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA233720    20   Solar Radiation, watts per meter squared   RD               

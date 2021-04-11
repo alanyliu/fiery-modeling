@@ -1,0 +1,51 @@
+
+WLSTINV1-Weather Station Inventory for                       40812              
+                                                                                
+Station: 040812   Name: PATTYMOCUS             NESDIS: 324093A4                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 14-Dec-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: 040807     Fcst Zone: 594                       
+                                                                                
+State: 06-CA   County: 103-Tehama              Lat/Lon: 40 17 9., 122 52 28     
+Obs Agy: 1 (USDA FS )     Unit: SHF          Mnemonic: PATTY      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  3772   Asp: 4   Ann Prec:  45.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS11083   Acc Lst: RAWS                                                   
+Comments: PLACED IN SERVICE OCT 1990.                                           
+FIRE DANGER RATING AREA 238                                                     
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G F 03-dec-19 29-may-19 _ 3 A 3  BI 5  90  78  97  85                     
+   2 7B F 03-dec-19 29-may-19 _ 3 A 3  BI 5  90 121  97 135                     
+   3 7G F 03-dec-19 29-may-19 _ 2 A 3  BI 5  90  78  97  85                     
+   4 16V _ _________ _________ _ 3 A   __                                       
+   5 16W _ _________ _________ _ 3 A   __                                       
+   6 16X _ _________ _________ _ 3 A   __                                       
+   7 16Y _ _________ _________ _ 3 A   __  90   97                              
+   8 16Z _ _________ _________ _ 3 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   324093A4     9   Rain Accumulation, Inches                  PC               
+   324093A4    10   Wind Speed MPH, Miles per Hour             US               
+   324093A4    11   Wind Direction Degrees, Degrees            UD               
+   324093A4    12   Air Temperature, Standard Placement, Deg   TA               
+   324093A4    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   324093A4    14   Relative Humidity, Percent                 XR               
+   324093A4    15   Battery Voltage, volts                     VB               
+   324093A4    17   Fuel Moisture, Percent                     MM               
+   324093A4    18   Wind Direction, Peak, Degrees              UX               
+   324093A4    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   324093A4    20   Solar Radiation, watts per meter squared   RD               
+   324093A4    21   Air Temperature, 24 Hour High, Degrees F   TX               
+   324093A4    22   Air Temperature, 24 Hour Low, Degrees Fa   TN               
+   324093A4    23   Relative Humidity, 24 Hour High, Percent   XS               
+   324093A4    24   Relative Humidity, 24 Hour Low, Percent    XQ               

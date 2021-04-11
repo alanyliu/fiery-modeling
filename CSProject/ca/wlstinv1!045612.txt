@@ -1,0 +1,46 @@
+
+WLSTINV1-Weather Station Inventory for                       45612              
+                                                                                
+Station: 045612   Name: VISTA GRANDE           NESDIS: AAA9802A                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 16-Dec-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 513                       
+                                                                                
+State: 06-CA   County: 065-Riverside           Lat/Lon: 33 50 9., 116 48 40     
+Obs Agy: 1 (USDA FS )     Unit: BDF          Mnemonic: VGRND      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  4906   Asp: 5   Ann Prec:  26.21   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: 2c0   Acc Lst: STATIONS                                                   
+Comments: CONVERTED FROM MANUAL TO RAWS ON 10/09/2008 TS                        
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7C F 27-nov-19 16-apr-19 _ 4 P 2  BI 5  90  51  97  63                     
+   2 7B F 27-nov-19 16-apr-19 _ 3 P 2  BI 5  90 125  97 168                     
+   3 7A F 27-nov-19 16-apr-19 _ 2 A 2  BI 5  90  42  97  52                     
+   4 7G F 27-nov-19 16-apr-19 _ 2 A 2  EC 5  90  75  97  81                     
+   5 16V _ _________ _________ _ 4 P   BI 5  90  43  97  58                     
+   6 16W _ _________ _________ _ 4 P   BI 5  90  45  97  56                     
+   7 16X _ _________ _________ _ 4 P   BI 5  90 193  97 228                     
+   8 16Y _ _________ _________ _ 4 P   BI 5  90  59  97  64                     
+   9 16Z _ _________ _________ _ 4 P   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   AAA9802A     9   Rain Accumulation, Inches                  PC               
+   AAA9802A    10   Wind Speed MPH, Miles per Hour             US               
+   AAA9802A    11   Wind Direction Degrees, Degrees            UD               
+   AAA9802A    12   Air Temperature, Standard Placement, Deg   TA               
+   AAA9802A    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   AAA9802A    14   Relative Humidity, Percent                 XR               
+   AAA9802A    15   Battery Voltage, volts                     VB               
+   AAA9802A    17   Fuel Moisture, Percent                     MM               
+   AAA9802A    18   Wind Direction, Peak, Degrees              UX               
+   AAA9802A    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   AAA9802A    20   Solar Radiation, watts per meter squared   RD               

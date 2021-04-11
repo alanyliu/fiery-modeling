@@ -1,0 +1,50 @@
+
+WLSTINV1-Weather Station Inventory for                       45452              
+                                                                                
+Station: 045452   Name: MALIBU CANYON          NESDIS: CA29660E                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 21-Feb-2020     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 505                       
+                                                                                
+State: 06-CA   County: 037-Los Angeles         Lat/Lon: 34  5 2., 118 42 12     
+Obs Agy: 6 (Local Gv)     Unit: CA-LAC       Mnemonic: MCY      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:   610   Asp: 6   Ann Prec:  20.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: aec   Acc Lst: FORESTRY LAC                                               
+Comments: NAME      : MALIBU CANYON                                             
+LOCATION  : LAS VIRGENES ROAD AND PIUMA ROAD                                    
+NFDRZ     : 623                                                                 
+NWSFZ     : 505                                                                 
+NWS FWPFZ : 246                                                                 
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B P 12-feb-20 12-mar-19 _ 3 A 2  BI 5  90 105  97 171                     
+   2 7K P 12-feb-20 12-mar-19 _ 3 A 2  BI 5  90  82  97  94                     
+   3 7A P 12-feb-20 12-mar-19 _ 3 A 2  BI 5  90  52  97  68                     
+   5 16V _ _________ _________ _ 3 A   __                                       
+   6 16W _ _________ _________ _ 3 A   __                                       
+   7 16X _ _________ _________ _ 3 A   __                                       
+   8 16Y _ _________ _________ _ 3 A   __                                       
+   9 16Z _ _________ _________ _ 3 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA29660E     9   Rain Accumulation, Inches                  PC               
+   CA29660E    10   Wind Speed MPH, Miles per Hour             US               
+   CA29660E    11   Wind Direction Degrees, Degrees            UD               
+   CA29660E    12   Air Temperature, Standard Placement, Deg   TA               
+   CA29660E    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA29660E    14   Relative Humidity, Percent                 XR               
+   CA29660E    15   Battery Voltage, volts                     VB               
+   CA29660E    17   Fuel Moisture, Percent                     MM               
+   CA29660E    18   Wind Direction, Peak, Degrees              UX               
+   CA29660E    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA29660E    20   Solar Radiation, watts per meter squared   RD               

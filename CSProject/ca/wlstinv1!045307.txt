@@ -1,0 +1,49 @@
+
+WLSTINV1-Weather Station Inventory for                       45307              
+                                                                                
+Station: 045307   Name: TEMESCAL  (LPF)        NESDIS: 327EF45A                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 17-Dec-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: 045207     Fcst Zone: 505                       
+                                                                                
+State: 06-CA   County: 111-Ventura             Lat/Lon: 34 28 26, 118 45 41     
+Obs Agy: 1 (USDA FS )     Unit: LPF          Mnemonic: TEMSL      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  1124   Asp: 0   Ann Prec:  18.00   Season:                     
+Ltng scale:    .04   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS7742   Acc Lst: LPF                                                     
+Comments: FDR AREA 650 -- CONVERTED FROM MANUAL TO RAWS 7/25/2001.              
+3/28/2013 COMPLETED LIFE CYCLE REPLACEMENT UPGRADES. NEW EQUIPMENT IS FTS. TRAN 
+SMIT TIME 12:30                                                                 
+CHANGED FROM FDR AREA 600 TO 650 WHERE IT WILL BETTER REPRESENT THIS AREA 9/7/1 
+3.                                                                              
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B F 30-nov-19 10-apr-19 _ 4 A 2  BI 5  90  82  97 141                     
+   2 7G F 30-nov-19 10-apr-19 _ 4 A 2  EC 5  90  67  97  75                     
+   3 16V _ _________ _________ _ 4 A   __                                       
+   4 16W _ _________ _________ _ 4 A   __                                       
+   5 16X _ _________ _________ _ 4 A   BI 5  90 219  97 247                     
+   6 16Y _ _________ _________ _ 4 A   EC 5  90  97  97 106                     
+   7 16Z _ _________ _________ _ 4 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   327EF45A     9   Rain Accumulation, Inches                  PC               
+   327EF45A    10   Wind Speed MPH, Miles per Hour             US               
+   327EF45A    11   Wind Direction Degrees, Degrees            UD               
+   327EF45A    12   Air Temperature, Standard Placement, Deg   TA               
+   327EF45A    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   327EF45A    14   Relative Humidity, Percent                 XR               
+   327EF45A    15   Battery Voltage, volts                     VB               
+   327EF45A    17   Fuel Moisture, Percent                     MM               
+   327EF45A    18   Wind Direction, Peak, Degrees              UX               
+   327EF45A    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   327EF45A    20   Solar Radiation, watts per meter squared   RD               

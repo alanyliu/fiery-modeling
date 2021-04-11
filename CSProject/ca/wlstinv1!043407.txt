@@ -1,0 +1,54 @@
+
+WLSTINV1-Weather Station Inventory for                       43407              
+                                                                                
+Station: 043407   Name: ALTAMONT               NESDIS: CA400786                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 01-Dec-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: 043406     Fcst Zone: 547                       
+                                                                                
+State: 06-CA   County: 001-Alameda             Lat/Lon: 37 41 34, 121 36 33     
+Obs Agy: 5 (State   )     Unit: SCU          Mnemonic: ALTA      FS Reg:   5    
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:  1436   Asp: 4   Ann Prec:  18.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: WICA1124   Acc Lst: SCU                                                   
+Comments: STATION ESTABLISHED 05/13/2009 IN THE ALTAMONT HILLS. REPLACES THE HI 
+STORIC STATION OF LIVERMORE.  OWNED AND MAINTAINED CAL FIRE MORGAN HILL ECC  40 
+8-201-0490  BC IVY WILLIAMS                                                     
+                                                                                
+05/20/2010-FTS ANNUAL MAINTENANCE, REPLACED AT/RH AND FUEL TEMP/MOISTURE SENSOR 
+S, UPGRADE FIRMWARE. CRAWFORD                                                   
+                                                                                
+LAT/LONG, ELEV AMENDED BASED UPON ON-SITE GPS (NAD83.                           
+DOUG FORREST, FIRE WEATHER PROGRAM 05/22/2009                                   
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7A F 01-dec-19 18-mar-19 _ 2 A 2  BI 5  90  51  97  61                     
+   2 7G F 01-dec-19 18-mar-19 _ 2 A 2  BI 5  90 120  97 127                     
+   3 7B F 01-dec-19 18-mar-19 _ 2 A 2  BI 5  90 123  97 171                     
+   4 16V _ _________ _________ _ 2 A   __                                       
+   5 16W _ _________ _________ _ 2 A   __                                       
+   6 16X _ _________ _________ _ 2 A   __                                       
+   7 16Y _ _________ _________ _ 2 A   __                                       
+   8 16Z _ _________ _________ _ 2 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA400786     9   Rain Accumulation, Inches                  PC               
+   CA400786    10   Wind Speed MPH, Miles per Hour             US               
+   CA400786    11   Wind Direction Degrees, Degrees            UD               
+   CA400786    12   Air Temperature, Standard Placement, Deg   TA               
+   CA400786    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA400786    14   Relative Humidity, Percent                 XR               
+   CA400786    15   Battery Voltage, volts                     VB               
+   CA400786    17   Fuel Moisture, Percent                     MM               
+   CA400786    18   Wind Direction, Peak, Degrees              UX               
+   CA400786    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA400786    20   Solar Radiation, watts per meter squared   RD               

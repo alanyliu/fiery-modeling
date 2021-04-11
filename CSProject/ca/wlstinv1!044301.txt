@@ -1,0 +1,44 @@
+
+WLSTINV1-Weather Station Inventory for                       44301              
+                                                                                
+Station: 044301   Name: ARROYO_SECO            NESDIS: 3247E700                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 17-Dec-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 522                       
+                                                                                
+State: 06-CA   County: 053-Monterey            Lat/Lon: 36 14 7., 121 28 47     
+Obs Agy: 1 (USDA FS )     Unit: LPF          Mnemonic: ASECO      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:   879   Asp: 0   Ann Prec:  20.00   Season:                     
+Ltng scale:    .12   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS7742   Acc Lst: LPF                                                     
+Comments: FDR AREA 560, RAWS INSTALLED_5-7-96                                   
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B F 12-oct-19 10-apr-19 _ 4 A 2  BI 5  90 119  97 157                     
+   2 7G F 12-oct-19 10-apr-19 _ 4 A 2  EC 5  90  69  97  76                     
+   3 16V _ _________ _________ _ 4 A   __                                       
+   4 16W _ _________ _________ _ 4 A   __                                       
+   5 16X _ _________ _________ _ 4 A   BI 5  90 196  97 227                     
+   6 16Y _ _________ _________ _ 4 A   EC 5  90  87  97  98                     
+   7 16Z _ _________ _________ _ 4 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   3247E700     9   Rain Accumulation, Inches                  PC               
+   3247E700    10   Wind Speed MPH, Miles per Hour             US               
+   3247E700    11   Wind Direction Degrees, Degrees            UD               
+   3247E700    12   Air Temperature, Standard Placement, Deg   TA               
+   3247E700    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   3247E700    14   Relative Humidity, Percent                 XR               
+   3247E700    15   Battery Voltage, volts                     VB               
+   3247E700    17   Fuel Moisture, Percent                     MM               
+   3247E700    18   Wind Direction, Peak, Degrees              UX               
+   3247E700    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   3247E700    20   Solar Radiation, watts per meter squared   RD               

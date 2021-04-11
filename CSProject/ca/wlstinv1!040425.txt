@@ -1,0 +1,48 @@
+
+WLSTINV1-Weather Station Inventory for                       40425              
+                                                                                
+Station: 040425   Name: SCHOOLHOUSE            NESDIS: FA6371A8                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 07-Nov-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 560                       
+                                                                                
+State: 06-CA   County: 023-Humboldt            Lat/Lon: 41  8 18, 123 54 24     
+Obs Agy: 3 (USDI NPS)     Unit: CA-RWP       Mnemonic: REDW      FS Reg:   5    
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  2653   Asp: 4   Ann Prec:  94.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS11381   Acc Lst: RWP                                                    
+Comments: ON-LINE 1/4/01, APPROX 2MI SW OF SCHOOLHOUSE LO                       
+90TH AND 97TH PERCENTILES WERE EDITED 7/22/15                                   
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G F 05-sep-19 14-mar-19 _ 3 P 3  EC 5  90  56  97  63                     
+   2 7A F 05-sep-19 14-mar-19 _ 3 P 3  BI 5  90  30  97  39                     
+   3 7G F 05-sep-19 14-mar-19 _ 3 P 3  BI 5  90  63  97  71                     
+   4 16V _ _________ _________ _ 3 P   __                                       
+   5 16W _ _________ _________ _ 3 P   __                                       
+   6 16X _ _________ _________ _ 3 P   __                                       
+   7 16Y _ _________ _________ _ 3 P   BI 5  90  39  97  44                     
+   8 16Z _ _________ _________ _ 3 P   __                                       
+   9 16Y _ _________ _________ _ 3 P   EC 5  90  50  97  58                     
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   FA6371A8     9   Rain Accumulation, Inches                  PC               
+   FA6371A8    10   Wind Speed MPH, Miles per Hour             US               
+   FA6371A8    11   Wind Direction Degrees, Degrees            UD               
+   FA6371A8    12   Air Temperature, Standard Placement, Deg   TA               
+   FA6371A8    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   FA6371A8    14   Relative Humidity, Percent                 XR               
+   FA6371A8    15   Battery Voltage, volts                     VB               
+   FA6371A8    17   Fuel Moisture, Percent                     MM               
+   FA6371A8    18   Wind Direction, Peak, Degrees              UX               
+   FA6371A8    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   FA6371A8    20   Solar Radiation, watts per meter squared   RD               

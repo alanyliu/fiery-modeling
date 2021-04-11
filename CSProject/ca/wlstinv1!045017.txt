@@ -1,0 +1,49 @@
+
+WLSTINV1-Weather Station Inventory for                       45017              
+                                                                                
+Station: 045017   Name: PIUTE                  NESDIS: 32892212                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 14-Nov-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 534                       
+                                                                                
+State: 06-CA   County: 029-Kern                Lat/Lon: 35 26 40, 118 16 43     
+Obs Agy: 1 (USDA FS )     Unit: SQF          Mnemonic: PIUTE      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  6475   Asp: 0   Ann Prec:  12.00   Season:                     
+Ltng scale:   2.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: FS11391   Acc Lst: DISPATCH                                               
+Comments: BRAND NEW STATION EFFECTIVE 12/07/2004                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7H F 14-nov-19 12-jun-19 _ 1 A 3  EC 5  90  52  97  57                     
+   2 7B F 14-nov-19 12-jun-19 _ 1 P 2  BI 5  90 142  97 164                     
+   3 7G F 14-nov-19 12-jun-19 _ 2 P 2  EC 5  90  93  97  98                     
+   4 16V _ _________ _________ _ 1 A   __                                       
+   5 16W _ _________ _________ _ 1 A   __                                       
+   6 16X _ _________ _________ _ 1 A   __                                       
+   7 16Y _ _________ _________ _ 1 A   __                                       
+   8 16Z _ _________ _________ _ 1 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   32892212     9   Rain Accumulation, Inches                  PC               
+   32892212    10   Wind Speed MPH, Miles per Hour             US               
+   32892212    11   Wind Direction Degrees, Degrees            UD               
+   32892212    12   Air Temperature, Standard Placement, Deg   TA               
+   32892212    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   32892212    14   Relative Humidity, Percent                 XR               
+   32892212    15   Battery Voltage, volts                     VB               
+   32892212    17   Fuel Moisture, Percent                     MM               
+   32892212    18   Wind Direction, Peak, Degrees              UX               
+   32892212    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   32892212    20   Air Temperature, 24 Hour High, Degrees F   TX               
+   32892212    21   Air Temperature, 24 Hour Low, Degrees Fa   TN               
+   32892212    22   Relative Humidity, 24 Hour High, Percent   XS               
+   32892212    23   Relative Humidity, 24 Hour Low, Percent    XQ               
+   32892212    24   Solar Radiation, watts per meter squared   RD               

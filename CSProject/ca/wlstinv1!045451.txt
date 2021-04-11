@@ -1,0 +1,52 @@
+
+WLSTINV1-Weather Station Inventory for                       45451              
+                                                                                
+Station: 045451   Name: SAN RAFAEL HILLS       NESDIS: CA2940E2                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 21-Feb-2020     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 505                       
+                                                                                
+State: 06-CA   County: 037-Los Angeles         Lat/Lon: 34 11 39, 118 12 48     
+Obs Agy: 6 (Local Gv)     Unit: CA-LAC       Mnemonic: SRA      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  1770   Asp: 4   Ann Prec:  15.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: aec   Acc Lst: FORESTRY LAC                                               
+Comments: NAME      : SAN RAFAEL                                                
+LOCATION  : EAST OF HWY 2, SOUTH OF DESCANSO DRIVE AND EAST OF CHEVY CHASE DRIV 
+E                                                                               
+NFDRZ     : 624                                                                 
+NWSFZ     : 505                                                                 
+NWS FWPFZ : 249                                                                 
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B P 12-feb-20 13-mar-19 _ 2 A 2  BI 5  90 116  97 144                     
+   2 7K P 12-feb-20 13-mar-19 _ 2 A 2  BI 5  90  62  97  71                     
+   3 7A P 12-feb-20 13-mar-19 _ 2 A 2  BI 5  90  41  97  50                     
+   4 7G P 12-feb-20 13-mar-19 _ 2 A 2  EC 5  90  68  97  76                     
+   5 16V _ _________ _________ _ 2 A   __                                       
+   6 16W _ _________ _________ _ 2 A   __                                       
+   7 16X _ _________ _________ _ 2 A   __                                       
+   8 16Y _ _________ _________ _ 2 A   __                                       
+   9 16Z _ _________ _________ _ 2 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA2940E2     9   Rain Accumulation, Inches                  PC               
+   CA2940E2    10   Wind Speed MPH, Miles per Hour             US               
+   CA2940E2    11   Wind Direction Degrees, Degrees            UD               
+   CA2940E2    12   Air Temperature, Standard Placement, Deg   TA               
+   CA2940E2    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA2940E2    14   Relative Humidity, Percent                 XR               
+   CA2940E2    15   Battery Voltage, volts                     VB               
+   CA2940E2    17   Fuel Moisture, Percent                     MM               
+   CA2940E2    18   Wind Direction, Peak, Degrees              UX               
+   CA2940E2    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA2940E2    20   Solar Radiation, watts per meter squared   RD               

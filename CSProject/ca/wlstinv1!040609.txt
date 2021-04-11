@@ -1,0 +1,53 @@
+
+WLSTINV1-Weather Station Inventory for                       40609              
+                                                                                
+Station: 040609   Name: MANZINITA LAKE         NESDIS: 323470C0                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 13-Dec-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 597                       
+                                                                                
+State: 06-CA   County: 089-Shasta              Lat/Lon: 40 32 24, 121 34 48     
+Obs Agy: 1 (USDA FS )     Unit: LNF          Mnemonic: MANLK      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:  5732   Asp: 6   Ann Prec:  42.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: 7db   Acc Lst: SIFC                                                       
+Comments: DECEMBER 5, 2008 CORRECTED LAT/LONG NAD83                             
+STATION IS APPROX 1/2 MILE EAST OF THE LASSEN VOLCANIC PARK BOUNDARY ON FOREST  
+LAND.                                                                           
+AT PARK HDQTS.                                                                  
+                                                                                
+LAT/LONG/ELEV VALIDATED 12OCT12                                                 
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G F 08-aug-19 29-may-19 _ 2 A 3  BI 5  90  56  97  63                     
+   2 16V _ _________ _________ _ 2 A   __                                       
+   3 16W _ _________ _________ _ 2 A   __                                       
+   4 16X _ _________ _________ _ 2 A   __                                       
+   5 16Y _ _________ _________ _ 2 A   EC 5  90  55  97  61                     
+   6 16Y _ _________ _________ _ 2 A   BI 5  90  33  97  35                     
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   323470C0     9   Rain Accumulation, Inches                  PC               
+   323470C0    10   Wind Speed MPH, Miles per Hour             US               
+   323470C0    11   Wind Direction Degrees, Degrees            UD               
+   323470C0    12   Air Temperature, Standard Placement, Deg   TA               
+   323470C0    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   323470C0    14   Relative Humidity, Percent                 XR               
+   323470C0    15   Battery Voltage, volts                     VB               
+   323470C0    17   Fuel Moisture, Percent                     MM               
+   323470C0    18   Wind Direction, Peak, Degrees              UX               
+   323470C0    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   323470C0    20   Solar Radiation, watts per meter squared   RD               
+   323470C0    21   Air Temperature, 24 Hour High, Degrees F   TX               
+   323470C0    22   Air Temperature, 24 Hour Low, Degrees Fa   TN               
+   323470C0    23   Relative Humidity, 24 Hour High, Percent   XS               
+   323470C0    24   Relative Humidity, 24 Hour Low, Percent    XQ               

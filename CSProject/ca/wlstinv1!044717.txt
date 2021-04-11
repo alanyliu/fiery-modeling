@@ -1,0 +1,50 @@
+
+WLSTINV1-Weather Station Inventory for                       44717              
+                                                                                
+Station: 044717   Name: OAK OPENING            NESDIS: 32371228                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 07-Jan-2020     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 529                       
+                                                                                
+State: 06-CA   County: 107-Tulare              Lat/Lon: 36 10 31, 118 42 6.     
+Obs Agy: 1 (USDA FS )     Unit: SQF          Mnemonic: OAKOP      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:  3091   Asp: 5   Ann Prec:  30.00   Season:                     
+Ltng scale:   1.90   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS11391   Acc Lst: DISPATCH                                               
+Comments: RAWS ACTIVE 6/17/96; WINDS CHANNELED BY TOPO                          
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B F 14-nov-19 12-jun-19 _ 4 A 2  BI 5  90 158  97 172                     
+   2 7F F 14-nov-19 12-jun-19 _ 4 A 2  BI 5  90 106  97 120                     
+   3 7C F 14-nov-19 12-jun-19 _ 4 A 2  BI 5  90  54  97  57                     
+   4 7G F 14-nov-19 12-jun-19 _ 2 A 2  EC 5  90  84  97  90                     
+   5 16V _ _________ _________ _ 4 A   __ 5  90   97                            
+   6 16W _ _________ _________ _ 4 A   __ 5  90   97                            
+   7 16X _ _________ _________ _ 4 A   BI 5  90 238  97 253                     
+   8 16Y _ _________ _________ _ 2 A   BI 5  90  63  97  67                     
+   9 16Z _ _________ _________ _ 2 A   __ 5  90   97                            
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   32371228     9   Rain Accumulation, Inches                  PC               
+   32371228    10   Wind Speed MPH, Miles per Hour             US               
+   32371228    11   Wind Direction Degrees, Degrees            UD               
+   32371228    12   Air Temperature, Standard Placement, Deg   TA               
+   32371228    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   32371228    14   Relative Humidity, Percent                 XR               
+   32371228    15   Battery Voltage, volts                     VB               
+   32371228    17   Fuel Moisture, Percent                     MM               
+   32371228    18   Wind Direction, Peak, Degrees              UX               
+   32371228    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   32371228    20   Air Temperature, 24 Hour High, Degrees F   TX               
+   32371228    21   Air Temperature, 24 Hour Low, Degrees Fa   TN               
+   32371228    22   Relative Humidity, 24 Hour High, Percent   XS               
+   32371228    23   Relative Humidity, 24 Hour Low, Percent    XQ               
+   32371228    24   Solar Radiation, watts per meter squared   RD               

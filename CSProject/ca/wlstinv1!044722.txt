@@ -1,0 +1,50 @@
+
+WLSTINV1-Weather Station Inventory for                       44722              
+                                                                                
+Station: 044722   Name: BLACKROCK              NESDIS: 3231C48E                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 07-Jan-2020     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 534                       
+                                                                                
+State: 06-CA   County: 107-Tulare              Lat/Lon: 36  5 36, 118 15 39     
+Obs Agy: 1 (USDA FS )     Unit: SQF          Mnemonic: BLACK      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  8114   Asp: 5   Ann Prec:  17.00   Season:                     
+Ltng scale:   3.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS11391   Acc Lst: DISPATCH                                               
+Comments: CONVERTED FROM MANUAL TO RAWS ON 071599                               
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7H F 18-aug-19 12-jun-19 _ 3 P 3  EC 5  90  48  97  52                     
+   2 7K F 18-aug-19 12-jun-19 _ 3 P 3  BI 5  90  74  97  81                     
+   3 7G F 20-jun-19 12-jun-19 _ 2 P 1  EC 5  90  85  97  91                     
+   4 7T F 18-aug-19 12-jun-19 _ 3 P 3  BI 5  90  64  97  72                     
+   5 16V _ _________ _________ _ 3 P   __                                       
+   6 16W _ _________ _________ _ 3 P   __                                       
+   7 16X _ _________ _________ _ 3 P   __                                       
+   8 16Y _ _________ _________ _ 3 P   BI  90  40  97  43                       
+   9 16Z _ _________ _________ _ 3 P   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   3231C48E     9   Rain Accumulation, Inches                  PC               
+   3231C48E    10   Wind Speed MPH, Miles per Hour             US               
+   3231C48E    11   Wind Direction Degrees, Degrees            UD               
+   3231C48E    12   Air Temperature, Standard Placement, Deg   TA               
+   3231C48E    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   3231C48E    14   Relative Humidity, Percent                 XR               
+   3231C48E    15   Battery Voltage, volts                     VB               
+   3231C48E    17   Fuel Moisture, Percent                     MM               
+   3231C48E    18   Wind Direction, Peak, Degrees              UX               
+   3231C48E    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   3231C48E    20   Relative Humidity, 24 Hour High, Percent   XS               
+   3231C48E    21   Relative Humidity, 24 Hour Low, Percent    XQ               
+   3231C48E    22   Air Temperature, 24 Hour High, Degrees F   TX               
+   3231C48E    23   Air Temperature, 24 Hour Low, Degrees Fa   TN               
+   3231C48E    24   Solar Radiation, watts per meter squared   RD               

@@ -1,0 +1,34 @@
+
+WLSTINV1-Weather Station Inventory for                       45215              
+                                                                                
+Station: 045215   Name: GLEN ANNIE             NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 10-Feb-2005     Obs Time/Z: 13/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: 045115     Fcst Zone: 500                       
+                                                                                
+State: 06-CA   County: 083-Santa Barbara       Lat/Lon: 34 32  9, 119 47  0     
+Obs Agy: 1 (USDA FS )     Unit: USFS         Mnemonic: GLANN      FS Reg:   5   
+                                                                                
+Fuel Stk: 30-Apr-2001   Wdy FM Mea: ___________                                 
+Site: 1   Elev:   650   Asp: 5   Ann Prec:  22.00   Season:                     
+Ltng scale:    .34   Hum code: 1   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: ____________   Acc Lst: ________                                          
+Comments: FDR AREA 514, OBS BY STB WATER DISTRICT                               
+2/10/05 REQUESTED BY BETH LITTLE TO CHANGE STATION TYPE TO 7:HISTORIC, NON-ACTI 
+VE.                                                                             
+S.SHEPARD                                                                       
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

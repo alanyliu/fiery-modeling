@@ -1,0 +1,54 @@
+
+WLSTINV1-Weather Station Inventory for                       44310              
+                                                                                
+Station: 044310   Name: PARKFIELD              NESDIS: CA2352C6                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 14-Dec-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 524                       
+                                                                                
+State: 06-CA   County: 053-Monterey            Lat/Lon: 35 53 53, 120 25 59     
+Obs Agy: 5 (State   )     Unit: BEU          Mnemonic: PKF      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  1525   Asp: 5   Ann Prec:  15.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: WICA243   Acc Lst: PKF                                                    
+Comments: 7/15/19 ALSO ADDED L FOR SLU OBS                                      
+7/15/19 - ADDING SLU TO THE EOBS FOR THIS STATION PER CHIEF MORLAN              
+06/28/10 - UPDATED THE 90TH & 97TH PERCENTILE NUMBERS IN THE FUEL MODELS USING  
+THE WEATHER OBS THROUGH 2009.  DFORREST CALFIRE WX PROGRAM COORDINATOR          
+                                                                                
+ON 05/28/08 THE STATION WAS ENTIRELY CONVERTED TO NEW FTS EQUIPMENT AND TRANSMI 
+TS USING HIGH DATA RATE ON NEW CHANNEL. OBS TIME HAS NOW CHANGED. TESTED TIPPIN 
+G BUCKET AND RESET RAINFALL.  LAT/LONG, ELEV AMENDED BASED UPON ON-SITE GPS (NA 
+D83).  DFORREST CDF FIRE WX PROGRAM COORDINATOR (09/18/08)                      
+                                                                                
+NEXT TO FS  NFDRS ZONE 580                                                      
+                                                                                
+STATION NAME AND LAT/LONG CHANGED TO MATCH ASCADS RECORDS. LOCATION WAS VERIFIE 
+D WITH TOPOZONE AND WEB-BASED CALCULATOR. DFORREST CDF FIRE WX PROG 10/03/06    
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7A F 09-dec-19 01-apr-19 _ 2 A 2  BI 5  90  30  97  37                     
+   2 7G F 09-dec-19 01-apr-19 _ 2 A 2  BI 5  90  73  97  80                     
+   3 7L F 09-dec-19 _________ _ 2 A 2  __  90   97                              
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA2352C6     9   Rain Accumulation, Inches                  PC               
+   CA2352C6    10   Wind Speed MPH, Miles per Hour             US               
+   CA2352C6    11   Wind Direction Degrees, Degrees            UD               
+   CA2352C6    12   Air Temperature, Standard Placement, Deg   TA               
+   CA2352C6    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA2352C6    14   Relative Humidity, Percent                 XR               
+   CA2352C6    15   Battery Voltage, volts                     VB               
+   CA2352C6    17   Fuel Moisture, Percent                     MM               
+   CA2352C6    18   Wind Direction, Peak, Degrees              UX               
+   CA2352C6    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA2352C6    20   Solar Radiation, watts per meter squared   RD               

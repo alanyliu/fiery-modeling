@@ -1,0 +1,30 @@
+
+WLSTINV1-Weather Station Inventory for                       45311              
+                                                                                
+Station: 045311   Name: LITTLE TUJUNGA         NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 01-Jul-1998     Obs Time/Z: 13/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 509                       
+                                                                                
+State: 06-CA   County: 111-Ventura             Lat/Lon: 34 18  6, 118 22  6     
+Obs Agy: 1 (USDA FS )     Unit: ANF          Mnemonic: LTLTE      FS Reg:   5   
+                                                                                
+Fuel Stk: 10-May-1993   Wdy FM Mea: 03-Jun-1993                                 
+Site: 2   Elev:  1325   Asp: 3   Ann Prec:    Season:                           
+Ltng scale:   1.00   Hum code: 1   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: ____________   Acc Lst: ________                                          
+Comments:                                                                       
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

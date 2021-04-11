@@ -1,0 +1,44 @@
+
+WLSTINV1-Weather Station Inventory for                       42802              
+                                                                                
+Station: 042802   Name: MARKLEEVILLE           NESDIS: 326D4744                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 05-Nov-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 576                       
+                                                                                
+State: 06-CA   County: 003-Alpine              Lat/Lon: 38 41 25, 119 46 29     
+Obs Agy: 1 (USDA FS )     Unit: CARSON RD    Mnemonic: HTF      FS Reg:   4     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  5501   Asp: 8   Ann Prec:  24.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: BLM2430   Acc Lst: FIRES                                                  
+Comments: FS-RAWS/PERMENENT/PRIMARY/ZONE-273                                    
+[WIIMS DOES NOT ACCEPT 273 AS A VALID ZONE]                                     
+FM-G1P2/ERC 90/97% SFC-FDR RATING SCALE                                         
+FM-F1P2/BI 80/95% SFC-FDR RATING SCALE                                          
+FM-G1P2/ERC (SIERRA FRONT) FOR NATIONAL FIRE DANGER OVERLAY PJCT.               
+[HF/INTEL/2006]                                                                 
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G F 02-nov-19 13-may-19 _ 1 A 2  EC 5  90  92  97  96                     
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   326D4744     9   Rain Accumulation, Inches                  PC               
+   326D4744    10   Wind Speed MPH, Miles per Hour             US               
+   326D4744    11   Wind Direction Degrees, Degrees            UD               
+   326D4744    12   Air Temperature, Standard Placement, Deg   TA               
+   326D4744    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   326D4744    14   Relative Humidity, Percent                 XR               
+   326D4744    15   Battery Voltage, volts                     VB               
+   326D4744    17   Fuel Moisture, Percent                     MM               
+   326D4744    18   Wind Direction, Peak, Degrees              UX               
+   326D4744    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   326D4744    20   Solar Radiation, watts per meter squared   RD               

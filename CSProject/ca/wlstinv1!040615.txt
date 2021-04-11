@@ -1,0 +1,53 @@
+
+WLSTINV1-Weather Station Inventory for                       40615              
+                                                                                
+Station: 040615   Name: WHITMORE               NESDIS: CA20C0AA                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 13-Dec-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 596                       
+                                                                                
+State: 06-CA   County: 089-Shasta              Lat/Lon: 40 37 10, 121 53 58     
+Obs Agy: 5 (State   )     Unit: SHU          Mnemonic: WHT      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:  2499   Asp: 7   Ann Prec:  36.11   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: WICA589   Acc Lst: SHU ECC                                                
+Comments: G FUEL MODEL ADDED 9/19/2004 JDE.                                     
+STATION RECALCULATED ON 4/26/05 FROM 01-JAN-04. JDE                             
+ON 12/13/05 THE STATION WAS ENTIRELY CONVERTED TO NEW FTS EQUIPMENT AND TRANSMI 
+TS USING HIGH DATA RATE ON NEW CHANNEL. OBS TIME UNCHANGED. TESTED TIPPING BUCK 
+ET AND RESET RAINFALL.  DFORREST CDF FIRE WX PROGRAM COORDINATOR                
+LAT/LONG, ELEV AMENDED BASED UPON ON-SITE GPS (NAD83) WHEN STATION WAS UPGRADED 
+.  DFORREST CDF FIRE WX PROGRAM COORDINATOR 09/26/06                            
+THE GOES TRX TIME WAS REASSIGNED BY THE DEPOT TO THE 25TH MINUTE OF THE HOUR DU 
+E TO INTERFERENCE PROBLEMS. THIS CHANGES THE RS TO 1300HRS. T.VELIN 09/21/2012  
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7U F 27-nov-19 24-may-19 _ 3 A 2  BI 5  90  41  97  44                     
+   2 7G F 27-nov-19 24-may-19 _ 3 A 2  BI 5  90  66  97  71                     
+   3 16V _ _________ _________ _ 3 A   __                                       
+   4 16W _ _________ _________ _ 3 A   __                                       
+   5 16X _ _________ _________ _ 3 A   __                                       
+   6 16Y _ _________ _________ _ 3 A   BI 5  90  44  97  48                     
+   7 16Z _ _________ _________ _ 3 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA20C0AA     9   Rain Accumulation, Inches                  PC               
+   CA20C0AA    10   Wind Speed MPH, Miles per Hour             US               
+   CA20C0AA    11   Wind Direction Degrees, Degrees            UD               
+   CA20C0AA    12   Air Temperature, Standard Placement, Deg   TA               
+   CA20C0AA    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA20C0AA    14   Relative Humidity, Percent                 XR               
+   CA20C0AA    15   Battery Voltage, volts                     VB               
+   CA20C0AA    17   Fuel Moisture, Percent                     MM               
+   CA20C0AA    18   Wind Direction, Peak, Degrees              UX               
+   CA20C0AA    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA20C0AA    20   Solar Radiation, watts per meter squared   RD               

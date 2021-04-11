@@ -1,0 +1,30 @@
+
+WLSTINV1-Weather Station Inventory for                       41206              
+                                                                                
+Station: 041206   Name: SAWMILL                NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 03-Jan-2018     Obs Time/Z: 13/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 599                       
+                                                                                
+State: 06-CA   County: 007-Butte               Lat/Lon: 39 48  7, 121 33 40     
+Obs Agy: 5 (State   )     Unit: BTU          Mnemonic: _____      FS Reg:   5   
+                                                                                
+Fuel Stk: 11-Apr-1996   Wdy FM Mea: 11-Apr-1996                                 
+Site: 3   Elev:  3330   Asp: 5   Ann Prec:  35.00   Season:                     
+Ltng scale:   1.00   Hum code: 1   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: 6   Acc Lst: BTU                                                          
+Comments: ._HISTORICAL INACTIVE                                                 
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

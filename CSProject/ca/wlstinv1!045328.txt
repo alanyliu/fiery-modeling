@@ -1,0 +1,40 @@
+
+WLSTINV1-Weather Station Inventory for                       45328              
+                                                                                
+Station: 045328   Name: THOUSAND OAKS          NESDIS: CA26D312                 
+                                                                                
+Type: 3 (RAWS S non-NFDRS)   Create/Mod Date: 16-Feb-2012     Obs Time/Z: 13/PS 
+T                                                                               
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: ____                      
+                                                                                
+State: 06-CA   County: 111-Ventura             Lat/Lon: 34 12 26, 118 52 12     
+Obs Agy: 6 (Local Gv)     Unit: TKO          Mnemonic: TOK      FS Reg:   5     
+                                                                                
+Fuel Stk: 20-Oct-2002   Wdy FM Mea: 21-Oct-2002                                 
+Site: 1   Elev:   795   Asp: 4   Ann Prec:  15.06   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: FS11472   Acc Lst: ________                                               
+Comments:                                                                       
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA26D312     9   Rain Accumulation, Inches                  PC               
+   CA26D312    10   Windspeed, Miles per Hour                  US               
+   CA26D312    11   Wind Direction, Degrees                    UD               
+   CA26D312    12   Air Temperature, Standard Placement, Deg   TA               
+   CA26D312    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA26D312    14   Relative Humidity, Percent                 XR               
+   CA26D312    15   Battery Voltage, volts                     VB               
+   CA26D312    17   Fuel Moisture, Percent                     MM               
+   CA26D312    18   Wind Direction, Peak, Degrees              UX               
+   CA26D312    19   Windspeed, Peak, Miles per Hour            UP               
+   CA26D312    20   Solar Radiation, watts per meter squared   RD               

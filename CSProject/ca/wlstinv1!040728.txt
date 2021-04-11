@@ -1,0 +1,48 @@
+
+WLSTINV1-Weather Station Inventory for                       40728              
+                                                                                
+Station: 040728   Name: BULL FLAT              NESDIS: 3255808C                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 29-Dec-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 572                       
+                                                                                
+State: 06-CA   County: 035-Lassen              Lat/Lon: 40 28 53, 120  6 54     
+Obs Agy: 2 (USDI BLM)     Unit: NOD          Mnemonic: BULL      FS Reg:   5    
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  4678   Asp: 1   Ann Prec:  10.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: BLM2829   Acc Lst: SIFC                                                   
+Comments: RAWS STATION INSTALLED 1991, TRANSMIT MIN:25                          
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7T F 14-nov-19 15-may-19 _ 1 A 2  BI 5  80  72  95  92                     
+   2 7G F 14-nov-19 15-may-19 _ 1 A 2  BI 5  80  72  95  92                     
+   3 16V _ _________ _________ _ 1 A   __                                       
+   4 16W _ _________ _________ _ 1 A   BI  80  29  95  42                       
+   5 16X _ _________ _________ _ 1 A   BI  80 145  95 192                       
+   6 16Y _ _________ _________ _ 1 A   BI  90  36  97  42                       
+   7 16Z _ _________ _________ _ 1 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   3255808C     9   Rain Accumulation, Inches                  PC               
+   3255808C    10   Wind Speed MPH, Miles per Hour             US               
+   3255808C    11   Wind Direction Degrees, Degrees            UD               
+   3255808C    12   Air Temperature, Standard Placement, Deg   TA               
+   3255808C    14   Relative Humidity, Percent                 XR               
+   3255808C    15   Battery Voltage, volts                     VB               
+   3255808C    17   Wind Direction, Peak, Degrees              UX               
+   3255808C    18   Wind Speed Peak MPH, Miles per Hour        UP               
+   3255808C    19   Solar Radiation, watts per meter squared   RD               
+   3255808C    20   Snow Depth, Inches                         SD               
+   3255808C    23   Soil Temperature "C", Degrees Celsius      TG               
+   3255808C    26   Soil Temperature "C" 2, Degrees Celsius    TG               
+   3255808C    29   Soil Temperature "C" 3, Degrees Celsius    TG               
+   3255808C    32   Soil Temperature "C" 4, Degrees Celsius    TG               
+   3255808C    35   Soil Temperature "C" 5, Degrees Celsius    TG               

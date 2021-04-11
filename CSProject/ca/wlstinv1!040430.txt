@@ -1,0 +1,45 @@
+
+WLSTINV1-Weather Station Inventory for                       40430              
+                                                                                
+Station: 040430   Name: SLATE CREEK            NESDIS: 3274B602                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 07-Nov-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 555                       
+                                                                                
+State: 06-CA   County: 023-Humboldt            Lat/Lon: 41 20 30, 123 39 35     
+Obs Agy: 1 (USDA FS )     Unit: SRF          Mnemonic: SLATE      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  4178   Asp: 4   Ann Prec: ######   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: FS11381   Acc Lst: SRF                                                    
+Comments: STATION INSTALLED 11/15/2010. STATION IN SERVICE 01/09/2012. FTS F12S 
+. CH 146. TX TIME 00:57:24                                                      
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G F 08-sep-19 02-apr-19 _ 4 P 3  BI 5  90  67  97  75                     
+   2 16V _ _________ _________ _ 4 P   __  90   97                              
+   3 16W _ _________ _________ _ 4 P   __  90   97                              
+   4 16X _ _________ _________ _ 4 P   __  90   97                              
+   5 16Y _ _________ _________ _ 4 P   __  90   97                              
+   6 16Z _ _________ _________ _ 4 P   __  90   97                              
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   3274B602     9   Rain Accumulation, Inches                  PC               
+   3274B602    10   Wind Speed MPH, Miles per Hour             US               
+   3274B602    11   Wind Direction Degrees, Degrees            UD               
+   3274B602    12   Air Temperature, Standard Placement, Deg   TA               
+   3274B602    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   3274B602    14   Relative Humidity, Percent                 XR               
+   3274B602    15   Battery Voltage, volts                     VB               
+   3274B602    17   Fuel Moisture, Percent                     MM               
+   3274B602    18   Wind Direction, Peak, Degrees              UX               
+   3274B602    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   3274B602    20   Solar Radiation, watts per meter squared   RD               

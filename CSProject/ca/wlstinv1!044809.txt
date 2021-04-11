@@ -1,0 +1,45 @@
+
+WLSTINV1-Weather Station Inventory for                       44809              
+                                                                                
+Station: 044809   Name: HUNTER MOUNTAIN        NESDIS: FA45937A                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 08-Dec-2012     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: VEF                       
+                                                                                
+State: 06-CA   County: 027-Inyo                Lat/Lon: 36 33 45, 117 28 25     
+Obs Agy: 3 (USDI NPS)     Unit: DEATH VAL    Mnemonic: HUNT      FS Reg:   5    
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  6880   Asp: 4   Ann Prec:   3.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: FS11034   Acc Lst: ________                                               
+Comments: STATION ADDED TO WIMS 07/08/09                                        
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7A F 08-dec-12 21-apr-12 _ 2 A 1  BI 5  90  63  97  71                     
+   2 7B F 08-dec-12 21-apr-12 _ 2 A 1  BI 5  90  63  97  71                     
+   3 7G F 08-dec-12 21-apr-12 _ 2 A 1  BI 5  90  63  97  71                     
+   5 16V _ _________ _________ _ 2 A   __                                       
+   6 16W _ _________ _________ _ 2 A   __                                       
+   7 16X _ _________ _________ _ 2 A   __                                       
+   8 16Y _ _________ _________ _ 2 A   __                                       
+   9 16Z _ _________ _________ _ 2 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   FA45937A     9   Rain Accumulation, Inches                  PC               
+   FA45937A    10   Windspeed, Miles per Hour                  US               
+   FA45937A    11   Wind Direction, Degrees                    UD               
+   FA45937A    12   Air Temperature, Standard Placement, Deg   TA               
+   FA45937A    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   FA45937A    14   Relative Humidity, Percent                 XR               
+   FA45937A    15   Battery Voltage, volts                     VB               
+   FA45937A    17   Fuel Moisture, Percent                     MM               
+   FA45937A    18   Wind Direction, Peak, Degrees              UX               
+   FA45937A    19   Windspeed, Peak, Miles per Hour            UP               
+   FA45937A    20   Solar Radiation, watts per meter squared   RD               

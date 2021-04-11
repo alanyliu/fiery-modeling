@@ -1,0 +1,44 @@
+
+WLSTINV1-Weather Station Inventory for                       45614              
+                                                                                
+Station: 045614   Name: LOST HORSE             NESDIS: FA6065D0                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 02-Jul-2018     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 543                       
+                                                                                
+State: 06-CA   County: 065-Riverside           Lat/Lon: 34  1 4., 116 11 18     
+Obs Agy: 3 (USDI NPS)     Unit: JOTR         Mnemonic: LTH      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  4133   Asp: 0   Ann Prec:   4.50   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: 9a   Acc Lst: STATIONS                                                    
+Comments: HANDAR 540                                                            
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7L C 11-sep-18 01-apr-18 _ 2 P 1  BI 5  90  51  97  61                     
+   2 7G C 11-sep-18 01-apr-18 _ 2 P 1  BI 5  90  51  97  61                     
+   5 16V _ _________ _________ _ 2 P   __                                       
+   6 16W _ _________ _________ _ 2 P   __                                       
+   7 16X _ _________ _________ _ 2 P   __                                       
+   8 16Y _ _________ _________ _ 2 P   __                                       
+   9 16Z _ _________ _________ _ 2 P   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   FA6065D0     9   Rain Accumulation, Inches                  PC               
+   FA6065D0    10   Wind Speed MPH, Miles per Hour             US               
+   FA6065D0    11   Wind Direction Degrees, Degrees            UD               
+   FA6065D0    12   Air Temperature, Standard Placement, Deg   TA               
+   FA6065D0    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   FA6065D0    14   Relative Humidity, Percent                 XR               
+   FA6065D0    15   Battery Voltage, volts                     VB               
+   FA6065D0    17   Fuel Moisture, Percent                     MM               
+   FA6065D0    18   Wind Direction, Peak, Degrees              UX               
+   FA6065D0    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   FA6065D0    20   Solar Radiation, watts per meter squared   RD               

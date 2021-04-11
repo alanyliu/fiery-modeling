@@ -1,0 +1,47 @@
+
+WLSTINV1-Weather Station Inventory for                       41908              
+                                                                                
+Station: 041908   Name: SEEDORCHARD            NESDIS: 327455F0                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 01-Feb-2020     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: 041902     Fcst Zone: 536                       
+                                                                                
+State: 06-CA   County: 061-Placer              Lat/Lon: 39  5 29, 120 43 55     
+Obs Agy: 1 (USDA FS )     Unit: FORESTHIL    Mnemonic: SED      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  4355   Asp: 0   Ann Prec:  60.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS7771   Acc Lst: GRASS VALLEY                                            
+Comments:                                                                       
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G F 16-sep-19 28-may-19 _ 1 A 2  BI 5  90  53  97  58                     
+   2 16V _ _________ _________ _ 1 A   __                                       
+   3 16W _ _________ _________ _ 1 A   __                                       
+   4 16X _ _________ _________ _ 1 A   __                                       
+   5 16Y _ _________ _________ _ 1 A   BI 5  90  33  97  36                     
+   6 16Z _ _________ _________ _ 1 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   327455F0     9   Rain Accumulation, Inches                  PC               
+   327455F0    10   Wind Speed MPH, Miles per Hour             US               
+   327455F0    11   Wind Direction Degrees, Degrees            UD               
+   327455F0    12   Air Temperature, Standard Placement, Deg   TA               
+   327455F0    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   327455F0    14   Relative Humidity, Percent                 XR               
+   327455F0    15   Battery Voltage, volts                     VB               
+   327455F0    17   Fuel Moisture, Percent                     MM               
+   327455F0    18   Wind Direction, Peak, Degrees              UX               
+   327455F0    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   327455F0    20   Air Temperature, 24 Hour High, Degrees F   TX               
+   327455F0    21   Air Temperature, 24 Hour Low, Degrees Fa   TN               
+   327455F0    22   Relative Humidity, 24 Hour High, Percent   XS               
+   327455F0    23   Relative Humidity, 24 Hour Low, Percent    XQ               
+   327455F0    24   Solar Radiation, watts per meter squared   RD               

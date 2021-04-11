@@ -1,0 +1,75 @@
+
+WLSTINV1-Weather Station Inventory for                       40306              
+                                                                                
+Station: 040306   Name: TIMBER MOUNTAIN        NESDIS: 3285E690                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 13-Jan-2020     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 590                       
+                                                                                
+State: 06-CA   County: 049-Modoc               Lat/Lon: 41 37 40, 121 17 54     
+Obs Agy: 1 (USDA FS )     Unit: MDF          Mnemonic: TMBMT      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  5053   Asp: 6   Ann Prec:  13.15   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: 275   Acc Lst: MODO13                                                     
+Comments: CHANGED FROM MANUAL STN. TO RAWS AUGUST 2002. KEPT THE SAME NWS NUMBE 
+R.                                                                              
+                                                                                
+GREENED UP APRIL 26, 2010 PER VON GRUBER                                        
+                                                                                
+FROZEN SEP 21, 2010, PER DAVE MCMASTER, DB                                      
+                                                                                
+GREEN UP DATE 4/24/12  PER DIV 9   SM                                           
+                                                                                
+FREEZE UP DEC 12, 2011 PER VON GRUBER  DB                                       
+                                                                                
+GREENED UP 5/5/2011 MACK                                                        
+FREEZE UP DATE 9/21/2013 PER CH1 SM                                             
+                                                                                
+GREEN UP DATE 3/21/14 PER CH1 AND CH3 SM                                        
+FREEZE UP DATE 10/29/14 SM                                                      
+                                                                                
+GREEN UP 3/10/2015 PER CH2 & BC92  - SM                                         
+                                                                                
+GREEN UP 04/15/16 PER CH1, CH2 & BC91 -MM                                       
+FREEZE UP PER CHFS SPJ 11/30/16                                                 
+                                                                                
+GREEN UP 04/29/17 MM                                                            
+FREEZE UP PER DIV 11 SPJ 12/20/17                                               
+                                                                                
+GREEN UP 04/25/18 MM                                                            
+FREEZE UP 11/30/18 MM                                                           
+                                                                                
+GREEN UP 05-MAY-19 MM                                                           
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7K F 01-nov-19 29-may-19 _ 2 A 2  BI 5  90  84  97  99                     
+   2 7C F 01-nov-19 29-may-19 _ 2 A 2  BI 5  90  50  97  66                     
+   3 7G F 01-nov-19 29-may-19 _ 2 A 2  EC 5  90  91  97 117                     
+   4 7T F 01-nov-19 29-may-19 _ 2 A 2  BI 5  90  76  97 104                     
+   5 16V _ _________ _________ _ 2 A   __                                       
+   6 16W _ _________ _________ _ 2 A   __                                       
+   7 16X _ _________ _________ _ 2 A   __                                       
+   8 16Y _ _________ _________ _ 2 A   __                                       
+   9 16Z _ _________ _________ _ 2 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   3285E690     9   Rain Accumulation, Inches                  PC               
+   3285E690    10   Wind Speed MPH, Miles per Hour             US               
+   3285E690    11   Wind Direction Degrees, Degrees            UD               
+   3285E690    12   Air Temperature, Standard Placement, Deg   TA               
+   3285E690    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   3285E690    14   Relative Humidity, Percent                 XR               
+   3285E690    15   Battery Voltage, volts                     VB               
+   3285E690    17   Fuel Moisture, Percent                     MM               
+   3285E690    18   Wind Direction, Peak, Degrees              UX               
+   3285E690    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   3285E690    20   Solar Radiation, watts per meter squared   RD               

@@ -1,0 +1,47 @@
+
+WLSTINV1-Weather Station Inventory for                       40910              
+                                                                                
+Station: 040910   Name: QUINCY                 NESDIS: 32418228                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 13-Dec-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 599                       
+                                                                                
+State: 06-CA   County: 063-Plumas              Lat/Lon: 39 58 24, 120 56 31     
+Obs Agy: 1 (USDA FS )     Unit: PNF          Mnemonic: QNCY      FS Reg:   5    
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:  3652   Asp: 4   Ann Prec:  39.87   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: a24   Acc Lst: PNFDISP                                                    
+Comments: YEAR ROUND RAWS STATION - NO HEATED TB                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G F 20-aug-19 31-may-19 _ 2 P 3  BI 5  90  60  97  66                     
+   2 16V _ _________ _________ _ 2 P   __  90   97                              
+   3 16W _ _________ _________ _ 2 P   __  90   97                              
+   4 16X _ _________ _________ _ 2 P   __  90   97                              
+   5 16Y _ _________ _________ _ 2 P   BI 5  90  38  97  41                     
+   6 16Z _ _________ _________ _ 2 P   __  90   97                              
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   32418228     9   Rain Accumulation, Inches                  PC               
+   32418228    10   Wind Speed MPH, Miles per Hour             US               
+   32418228    11   Wind Direction Degrees, Degrees            UD               
+   32418228    12   Air Temperature, Standard Placement, Deg   TA               
+   32418228    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   32418228    14   Relative Humidity, Percent                 XR               
+   32418228    15   Battery Voltage, volts                     VB               
+   32418228    17   Fuel Moisture, Percent                     MM               
+   32418228    18   Wind Direction, Peak, Degrees              UX               
+   32418228    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   32418228    20   Air Temperature, 24 Hour High, Degrees F   TX               
+   32418228    21   Air Temperature, 24 Hour Low, Degrees Fa   TN               
+   32418228    22   Relative Humidity, 24 Hour High, Percent   XS               
+   32418228    23   Relative Humidity, 24 Hour Low, Percent    XQ               
+   32418228    24   Solar Radiation, watts per meter squared   RD               

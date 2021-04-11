@@ -1,0 +1,30 @@
+
+WLSTINV1-Weather Station Inventory for                       40799              
+                                                                                
+Station: 040799   Name: LIKELY (RNO)           NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 06-Dec-1996     Obs Time/Z: 13/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 572                       
+                                                                                
+State: 06-CA   County: 035-Lassen              Lat/Lon: 41  9 36, 120 33 36     
+Obs Agy: 2 (USDI BLM)     Unit: SUD          Mnemonic: LIKLY      FS Reg:   5   
+                                                                                
+Fuel Stk: 21-Nov-1996   Wdy FM Mea: 17-Mar-1996                                 
+Site: 3   Elev:  7376   Asp: 0   Ann Prec:  13.00   Season:                     
+Ltng scale:   1.00   Hum code: 1   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: ____________   Acc Lst: ________                                          
+Comments: MANUAL STATION, LOCATED AT LIKELY L.O.                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7C F 17-mar-96 31-may-95 _ 1 P 1  BI 5  80  64  95  84                     
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

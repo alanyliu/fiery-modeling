@@ -1,0 +1,43 @@
+
+WLSTINV1-Weather Station Inventory for                       43702              
+                                                                                
+Station: 043702   Name: BRIDGEPORT             NESDIS: 3285551E                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 05-Nov-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 576                       
+                                                                                
+State: 06-CA   County: 051-Mono                Lat/Lon: 38 16 19, 119 17 21     
+Obs Agy: 1 (USDA FS )     Unit: BPORT RD     Mnemonic: HTF      FS Reg:   4     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:  6650   Asp: 6   Ann Prec:  26.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: BLM2430   Acc Lst: FIRES                                                  
+Comments: FS-RAWS/PERMANENT/SECONDARY ZONE 273                                  
+[FORECAST ZONE:WIMS DOES NOT ACCEPT 273 AS VALID ZONE].                         
+STATION WAS MOVED IN FALL OF 2003; DATA BEFORE 2004 REFLECTS A WETTER MICROCLIM 
+ATE AT THE STATION.                                                             
+[HF/INTEL/2006]                                                                 
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G F 02-nov-19 13-may-19 _ 1 A 2  EC 5  90  95  97  99                     
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   3285551E     9   Rain Accumulation, Inches                  PC               
+   3285551E    10   Wind Speed MPH, Miles per Hour             US               
+   3285551E    11   Wind Direction Degrees, Degrees            UD               
+   3285551E    12   Air Temperature, Standard Placement, Deg   TA               
+   3285551E    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   3285551E    14   Relative Humidity, Percent                 XR               
+   3285551E    15   Battery Voltage, volts                     VB               
+   3285551E    17   Fuel Moisture, Percent                     MM               
+   3285551E    18   Wind Direction, Peak, Degrees              UX               
+   3285551E    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   3285551E    20   Solar Radiation, watts per meter squared   RD               

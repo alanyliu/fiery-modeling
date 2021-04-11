@@ -1,0 +1,65 @@
+
+WLSTINV1-Weather Station Inventory for                       43208              
+                                                                                
+Station: 043208   Name: ESPERANZA              NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 01-Mar-2014     Obs Time/Z: 13/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 539                       
+                                                                                
+State: 06-CA   County: 009-Calaveras           Lat/Lon: 38 14 33, 120 30 53     
+Obs Agy: 5 (State   )     Unit: TCU          Mnemonic: ESP      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:  2559   Asp: 7   Ann Prec:  40.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: WICA248   Acc Lst: ________                                               
+Comments: MARCH 1ST, 2014 ESPERANZA RAWS MOVED TO A NEW LOCATION WITH A NEW NAM 
+E.  STATION IS NOW CALL BANNER ROAD APPROXIMATELY 5.3 MILES NE OF ESPERANZA STA 
+TION ON BLM LAND.                                                               
+CHRIS WATERS                                                                    
+                                                                                
+GREEN UP 4-23-2013 MIKE B                                                       
+                                                                                
+PREV MAINT. TEMP/RH SENSOR, FUEL STICK AND WIND SPEED/DIRECTION SENSOR REPLACED 
+ MIKE B                                                                         
+                                                                                
+03/29/12 GREEN-UP..MJB                                                          
+                                                                                
+10/02/11 WIMS FROZEN. AJM                                                       
+                                                                                
+                                                                                
+FIRE SEASON 2011. THERE HAVE BEEN ISSUES WITH THE WIMS AND NEGATIVE NUMBERS FOR 
+ THE X1000. ALSO THE SOW IS NOW AUTOMATICALLY SHOWING A 1 OR 2 EVEN ON CLEAR DA 
+YS. ANOTHER STATE WIDE ISSUE. SEVERAL ATTEMPTS WERE MADE INCLUDING A RE-GREEN A 
+ND RE-CALC TO NO EFFECT.                                                        
+                                                                                
+03/27/11 GREENUP COMPLETED. AJM                                                 
+                                                                                
+ON 3/25/10 GREENUP COMPLETED TO 3/16/10 AND RECALC'ED. AMURPHY TCU ECC.         
+                                                                                
+ON 9/25/09 REPLACED THE WIND ANENOMETER AT THIS STATION. AMURPHY TCU ECC.       
+                                                                                
+ON 05/13/09 THE STATION WAS ENTIRELY CONVERTED TO NEW FTS EQUIPMENT AND TRANSMI 
+TS USING HIGH DATA RATE ON NEW CHANNEL & TIME SLOT.  OBS TIME DID NOT CHANGE.   
+TESTED TIPPING BUCKET AND RESET RAINFALL.  LAT/LONG, ELEV AMENDED BASED UPON ON 
+-SITE GPS (NAD83) WHEN STATION WAS UPGRADED.  DFORREST CDF FIRE WX PROGRAM COOR 
+DINATOR                                                                         
+07/23/09                                                                        
+                                                                                
+GREENUP COMPLETED ON 03/16/09. RECALC'ED TO 4/30/09.  STATION WAS REGREENED AND 
+ RECALCULATED FOR 2008 BY AM.                                                   
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

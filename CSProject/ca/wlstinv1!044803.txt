@@ -1,0 +1,67 @@
+
+WLSTINV1-Weather Station Inventory for                       44803              
+                                                                                
+Station: 044803   Name: OWENS VALLEY           NESDIS: CA49F15E                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 14-Sep-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 517                       
+                                                                                
+State: 06-CA   County: 027-Inyo                Lat/Lon: 37 23 27, 118 33 9.     
+Obs Agy: 5 (State   )     Unit: CA-BDU       Mnemonic: OV      FS Reg:   5      
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  4650   Asp: 0   Ann Prec:   5.70   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: 83   Acc Lst: 044803                                                      
+Comments: NAME CHANGE TO BE CONSISTANT WITH ASCADS                              
+DATE:  APRIL 24, 2003 BH                                                        
+RAWS STATION INSTALLED IN JUNE OF 1992, OBSERVATIONS PRIOR WERE MANUAL          
+OWNER:  CALIFORNIA DEPT. OF FORESTRY AND FIRE PROTECTION                        
+                                                                                
+ON 11/02/06 THE STATION WAS ENTIRELY CONVERTED TO NEW FTS EQUIPMENT AND TRANSMI 
+TS USING HIGH DATA RATE ON NEW CHANNEL. OBS TIME CHANGED. TESTED TIPPING BUCKET 
+ AND RESET RAINFALL.  LAT/LONG, ELEV AMENDED BASED UPON ON-SITE GPS (NAD83) WHE 
+N STATION WAS UPGRADED.  DFORREST CDF FIRE WX PROGRAM COORDINATOR               
+                                                                                
+CHANGES MADE UNDER EDIT STATION, ADDING WICA922 AND WICA350, MNEMONIC CHANGED T 
+O OV: FOR OWENS VALLEY, NOT TO BE CONFUSED WITH OWENS CAMP.  ACCESS CONTROL LIS 
+T CREATED TO PROVIDE CA-BDU WITH FULL RIGHTS, FS11108 FULL RIGHTS, AND INYO DIS 
+PATCHERS EDIT RIGHTS FOR OBSERVSATIONS.  UNIT NAME CHANGED FROM INYO N.F. TO CA 
+-BDU.  INYO DISPATCH TO STILL MAINTAIN WIMS, EDIT AND ENTER OBSERVATIONS DAILY. 
+                                                                                
+END. 11/07/06 B.HOLLOWELL                                                       
+                                                                                
+STATION OWNER CHANGED TO:                                                       
+JEREMY MITCHELL                                                                 
+CAL FIRE BDU                                                                    
+BATTALION CHIEF- 3509                                                           
+EMERGENCY COMMAND CENTER                                                        
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7T F 02-aug-19 16-may-19 _ 2 A 1  BI 5  90  89  97 115                     
+   2 7G F 02-aug-19 16-may-19 _ 2 A 1  EC 5  90 102  97 106                     
+   3 16V _ _________ _________ _ 2 A   __                                       
+   4 16W _ _________ _________ _ 2 A   __                                       
+   5 16X _ _________ _________ _ 2 A   __                                       
+   6 16Y _ _________ _________ _ 2 A   __                                       
+   7 16Z _ _________ _________ _ 2 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA49F15E     9   Rain Accumulation, Inches                  PC               
+   CA49F15E    10   Wind Speed MPH, Miles per Hour             US               
+   CA49F15E    11   Wind Direction Degrees, Degrees            UD               
+   CA49F15E    12   Air Temperature, Standard Placement, Deg   TA               
+   CA49F15E    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA49F15E    14   Relative Humidity, Percent                 XR               
+   CA49F15E    15   Battery Voltage, volts                     VB               
+   CA49F15E    17   Fuel Moisture, Percent                     MM               
+   CA49F15E    18   Wind Direction, Peak, Degrees              UX               
+   CA49F15E    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA49F15E    20   Solar Radiation, watts per meter squared   RD               

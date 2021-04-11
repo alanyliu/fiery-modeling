@@ -1,0 +1,48 @@
+
+WLSTINV1-Weather Station Inventory for                       45108              
+                                                                                
+Station: 045108   Name: LYTLE CREEK            NESDIS: 3275E484                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 13-Dec-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: 045408     Fcst Zone: 510                       
+                                                                                
+State: 06-CA   County: 071-San Bernardino      Lat/Lon: 34 14  2, 117 28 49     
+Obs Agy: 1 (USDA FS )     Unit: BDF          Mnemonic: LYTCR      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  2792   Asp: 3   Ann Prec:  34.85   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: 2c0   Acc Lst: STATIONS                                                   
+Comments: CONVERTED TWO NFDRS RAWS STATION FROM NFDRS MANUAL STATION ON 02/19/2 
+002 TS                                                                          
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7F F 27-nov-19 16-apr-19 _ 2 P 2  BI 5  90  41  97  56                     
+   2 7B F 27-nov-19 16-apr-19 _ 2 P 2  BI 5  90  67  97 109                     
+   3 7A F 27-nov-19 16-apr-19 _ 2 A 2  BI 5  90  43  97  52                     
+   4 7G F 27-nov-19 16-apr-19 _ 2 A 2  EC 5  90  64  97  73                     
+   5 16V _ _________ _________ _ 2 P   BI 5  90  29  97  36                     
+   6 16X _ _________ _________ _ 2 P   BI 5  90 135  97 155                     
+   7 16Y _ _________ _________ _ 2 P   EC 5  90  62  97  71                     
+   8 16W _ _________ _________ _ 2 P   __  90   97                              
+   9 16Z _ _________ _________ _ 2 P   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   3275E484     9   Rain Accumulation, Inches                  PC               
+   3275E484    10   Wind Speed MPH, Miles per Hour             US               
+   3275E484    11   Wind Direction Degrees, Degrees            UD               
+   3275E484    12   Air Temperature, Standard Placement, Deg   TA               
+   3275E484    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   3275E484    14   Relative Humidity, Percent                 XR               
+   3275E484    15   Battery Voltage, volts                     VB               
+   3275E484    17   Fuel Moisture, Percent                     MM               
+   3275E484    18   Wind Direction, Peak, Degrees              UX               
+   3275E484    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   3275E484    20   Solar Radiation, watts per meter squared   RD               

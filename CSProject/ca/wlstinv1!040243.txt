@@ -1,0 +1,55 @@
+
+WLSTINV1-Weather Station Inventory for                       40243              
+                                                                                
+Station: 040243   Name: VAN BREMMER            NESDIS: 324275A2                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 13-Dec-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 589                       
+                                                                                
+State: 06-CA   County: 093-Siskiyou            Lat/Lon: 41 38 34, 121 47 41     
+Obs Agy: 1 (USDA FS )     Unit: KNF          Mnemonic: VANBR      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  5303   Asp: 0   Ann Prec:  30.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS11259   Acc Lst: YICC                                                   
+Comments: UPDATED LAT/LONG/ELEV ON 2/11/2012-ANGI                               
+STATION ESTABLISHED IN JUNE 1993.  LOCATED AT THE OLD VAN BREMMER LOOKOUT SITE. 
+  XMITS ON CHANNEL 92W @ 00:46:15                                               
+LAT/LONG UPDATED W/GPS & WASS ON 18 AUGUST 2004 USING NAD 1983-RG.              
+FIRE DANGER RATING AREA 220.                                                    
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G F 01-aug-19 01-apr-19 _ 3 P 2  BI 5  90  76  97  85                     
+   2 7B F 01-aug-19 01-apr-19 _ 3 P 2  BI 5  90 141  97 162                     
+   3 7T F 01-aug-19 01-apr-19 _ 3 P 2  BI 5  90  62  97  71                     
+   4 7F F 01-aug-19 01-apr-19 _ 3 P 2  BI 5  90  94  97 113                     
+   5 16V _ _________ _________ _ 3 P   __                                       
+   6 16W _ _________ _________ _ 3 P   __                                       
+   7 16X _ _________ _________ _ 3 P   BI 5  90 138  97 161                     
+   8 16Y _ _________ _________ _ 3 P   BI 5  90  44  97  47                     
+   9 16Z _ _________ _________ _ 3 P   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   324275A2     9   Rain Accumulation, Inches                  PC               
+   324275A2    10   Wind Speed MPH, Miles per Hour             US               
+   324275A2    11   Wind Direction Degrees, Degrees            UD               
+   324275A2    12   Air Temperature, Standard Placement, Deg   TA               
+   324275A2    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   324275A2    14   Relative Humidity, Percent                 XR               
+   324275A2    15   Battery Voltage, volts                     VB               
+   324275A2    17   Fuel Moisture, Percent                     MM               
+   324275A2    18   Wind Direction, Peak, Degrees              UX               
+   324275A2    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   324275A2    20   Air Temperature, 24 Hour High, Degrees F   TX               
+   324275A2    21   Air Temperature, 24 Hour Low, Degrees Fa   TN               
+   324275A2    22   Relative Humidity, 24 Hour High, Percent   XS               
+   324275A2    23   Relative Humidity, 24 Hour Low, Percent    XQ               
+   324275A2    24   Solar Radiation, watts per meter squared   RD               

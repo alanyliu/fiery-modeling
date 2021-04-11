@@ -1,0 +1,44 @@
+
+WLSTINV1-Weather Station Inventory for                       45709              
+                                                                                
+Station: 045709   Name: MT LAGUNA              NESDIS: 326B6166                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 26-Oct-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 513                       
+                                                                                
+State: 06-CA   County: 073-San Diego           Lat/Lon: 32 52 52, 116 25 43     
+Obs Agy: 1 (USDA FS )     Unit: CA-CNF       Mnemonic: LGM      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:  5737   Asp: 6   Ann Prec:  33.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS11243   Acc Lst: CNF                                                    
+Comments: DRD MANUAL TO RAWS 96.03.01 AKA LAGUNA MOUNTAIN                       
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B F 26-oct-19 27-apr-19 _ 3 A 2  BI 5  90 128  97 144                     
+   2 7G F 26-oct-19 27-apr-19 _ 1 A 2  EC 5  90  83  97  88                     
+   5 16V _ _________ _________ _ 3 A   __                                       
+   6 16W _ _________ _________ _ 3 A   __                                       
+   7 16X _ _________ _________ _ 3 A   __                                       
+   8 16Y _ _________ _________ _ 3 A   __                                       
+   9 16Z _ _________ _________ _ 3 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   326B6166     9   Rain Accumulation, Inches                  PC               
+   326B6166    10   Wind Speed MPH, Miles per Hour             US               
+   326B6166    11   Wind Direction Degrees, Degrees            UD               
+   326B6166    12   Air Temperature, Standard Placement, Deg   TA               
+   326B6166    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   326B6166    14   Relative Humidity, Percent                 XR               
+   326B6166    15   Battery Voltage, volts                     VB               
+   326B6166    17   Fuel Moisture, Stick Weight, 10 Hour, Pe   MX               
+   326B6166    18   Wind Direction, Peak, Degrees              UX               
+   326B6166    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   326B6166    20   Solar Radiation, watts per meter squared   RD               

@@ -1,0 +1,55 @@
+
+WLSTINV1-Weather Station Inventory for                       40520              
+                                                                                
+Station: 040520   Name: FIVE CENT              NESDIS: 323640AE                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 14-Dec-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 591                       
+                                                                                
+State: 06-CA   County: 105-Trinity             Lat/Lon: 40 45 13, 122 55 55     
+Obs Agy: 1 (USDA FS )     Unit: SHF          Mnemonic: FIVE      FS Reg:   5    
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:  2602   Asp: 3   Ann Prec:  35.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: FS11083   Acc Lst: RAWS                                                   
+Comments: THIS STATION WAS PUT INTO PLACE ON 8/22/05.  IT IS THE FORMER WEAVERV 
+ILLE RAWS THAT WAS MOVED TO MEET NFDRS STANDARDS. STATION RELOCATED ON 7/21/15  
+DUE TO A LAND SWAP.  NEW SITE IS 1/2 MILE SSW OF THE OLD SITE AND 100 FEET HIGH 
+ER IN ELEVATION.  NESDIS ID AND NFDRS STATION NUMBER ARE UNCHANGED.             
+                                                                                
+FTS LOANER STATION INSTALLED AS A TEST SITE TO REPLACE WEAVERVILLE RAWS WHICH D 
+OES NOT MEET NFDRS STANDARDS                                                    
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G F 01-dec-19 15-apr-19 _ 3 A 3  BI 5  90  62  97  69                     
+   2 7G F 01-dec-19 15-apr-19 _ 2 A 3  BI 5  90  62  97  69                     
+   3 16V _ _________ _________ _ 3 A   __                                       
+   4 16W _ _________ _________ _ 3 A   __                                       
+   5 16X _ _________ _________ _ 3 A   __                                       
+   6 16Y _ _________ _________ _ 3 A   BI 5  90   97                            
+   7 16Z _ _________ _________ _ 3 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   323640AE     9   Rain Accumulation, Inches                  PC               
+   323640AE    10   Wind Speed MPH, Miles per Hour             US               
+   323640AE    11   Wind Direction Degrees, Degrees            UD               
+   323640AE    12   Air Temperature, Standard Placement, Deg   TA               
+   323640AE    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   323640AE    14   Relative Humidity, Percent                 XR               
+   323640AE    15   Battery Voltage, volts                     VB               
+   323640AE    17   Fuel Moisture, Percent                     MM               
+   323640AE    18   Wind Direction, Peak, Degrees              UX               
+   323640AE    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   323640AE    20   Solar Radiation, watts per meter squared   RD               
+   323640AE    21   Air Temperature, 24 Hour High, Degrees F   TX               
+   323640AE    22   Air Temperature, 24 Hour Low, Degrees Fa   TN               
+   323640AE    23   Relative Humidity, 24 Hour High, Percent   XS               
+   323640AE    24   Relative Humidity, 24 Hour Low, Percent    XQ               

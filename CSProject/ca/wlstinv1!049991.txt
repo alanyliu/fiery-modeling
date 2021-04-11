@@ -1,0 +1,46 @@
+
+WLSTINV1-Weather Station Inventory for                       49991              
+                                                                                
+Station: 049991   Name: BURNEY BASIN #1        NESDIS: 010F0730                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 19-Mar-2013     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: ____                      
+                                                                                
+State: 06-CA   County: ___-________________________Lat/Lon: 40  1 1., 121 29 37 
+Obs Agy: 1 (USDA FS )     Unit: CA-ONC       Mnemonic: BBP01      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  3968   Asp: 0   Ann Prec:  35.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: FS8374   Acc Lst: RDD-PSU                                                 
+Comments: BURNEY BASIN WIND STUDY; SUMMER 2010.  SITE LOCATED ON THE SW RIM OF  
+TIMBERED CRATER.  PRAWS #1 (010F0730) ACTIVATED ON 01JULY2010.  20 FOOT MAST AD 
+DED ON 22JUL2010, EFFECTIVE 1202 PST OBSERVATION.                               
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G P 29-jun-10 _________ _ 1 P 2  EC 5  90  50  97  60                     
+   5 16V _ _________ _________ _ 1 P   __                                       
+   6 16W _ _________ _________ _ 1 P   __                                       
+   7 16X _ _________ _________ _ 1 P   __                                       
+   8 16Y _ _________ _________ _ 1 P   __                                       
+   9 16Z _ _________ _________ _ 1 P   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   010F0730     9   Rain Accumulation, Inches                  PC               
+   010F0730    10   Windspeed, Miles per Hour                  US               
+   010F0730    11   Wind Direction, Degrees                    UD               
+   010F0730    12   Air Temperature, Standard Placement, Deg   TA               
+   010F0730    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   010F0730    14   Relative Humidity, Percent                 XR               
+   010F0730    15   Battery Voltage, volts                     VB               
+   010F0730    17   Fuel Moisture, Percent                     MM               
+   010F0730    18   Wind Direction, Peak, Degrees              UX               
+   010F0730    19   Windspeed, Peak, Miles per Hour            UP               
+   010F0730    20   Solar Radiation, watts per meter squared   RD               

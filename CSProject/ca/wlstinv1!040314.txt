@@ -1,0 +1,66 @@
+
+WLSTINV1-Weather Station Inventory for                       40314              
+                                                                                
+Station: 040314   Name: COLD SPRINGS           NESDIS: 328E2026                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 13-Jan-2020     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 590                       
+                                                                                
+State: 06-CA   County: 049-Modoc               Lat/Lon: 41 46 53, 120 19 9.     
+Obs Agy: 1 (USDA FS )     Unit: MDF          Mnemonic: COLD      FS Reg:   5    
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  6379   Asp: 0   Ann Prec:  16.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: 275   Acc Lst: MODO12                                                     
+Comments: PERM. FTS TOWER INSTALL COMPLETED 10/03/06                            
+LOANER STATION TAKEN DOWN ON JUNE 18,2004                                       
+GREEN DATE SET MAY 26, 2010  DFB                                                
+FROZEN SEP 21, 2010, PER DAVE MCMASTER, DB                                      
+FREEZE UP DEC 12, 2011 PER VON GRUBER  DB                                       
+GREEN UP DATE 4-24-12 PER DIV 9     SM                                          
+FREEZE UP DATE 9/21/2013 PER CH1 SM                                             
+                                                                                
+GREEN UP DATE 3/21/14 PER CH1 AND CH3 SM                                        
+FREEZE UP 10/14/14 PER INPUT FROM CHIEFS SM                                     
+                                                                                
+GREEN UP DATE 04/15/16 PER CH1, CH2 &BC91                                       
+FREEZE UP PER CHFS SPJ 11/30/16                                                 
+GREEN UP MM 04/29/17                                                            
+FREEZE UP PER DIV 11 12/20/17 SPJ                                               
+GREEN UP 04/25/18 MM                                                            
+FREEZE UP 11/30/18 MM                                                           
+                                                                                
+GREEN UP 05-MAY-19 MM                                                           
+FREEZE UP 11/26/2019 MM                                                         
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7K F 01-nov-19 02-may-19 _ 2 A 2  BI 5  90  78  97  78                     
+   2 7C F 01-nov-19 02-may-19 _ 2 A 2  BI 5  90  76  97  79                     
+   3 7G F 01-nov-19 02-may-19 _ 2 A 2  EC 5  90  78  97  78                     
+   4 7T F 01-nov-19 02-may-19 _ 2 A 2  BI 5  90  78  97  78                     
+   5 16V _ _________ _________ _ 2 A   __                                       
+   6 16W _ _________ _________ _ 2 A   __                                       
+   7 16X _ _________ _________ _ 2 A   __                                       
+   8 16Y _ _________ _________ _ 2 A   __                                       
+   9 16Z _ _________ _________ _ 2 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   328E2026     9   Rain Accumulation, Inches                  PC               
+   328E2026    10   Wind Speed MPH, Miles per Hour             US               
+   328E2026    11   Wind Direction Degrees, Degrees            UD               
+   328E2026    12   Air Temperature, Standard Placement, Deg   TA               
+   328E2026    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   328E2026    14   Relative Humidity, Percent                 XR               
+   328E2026    15   Battery Voltage, volts                     VB               
+   328E2026    17   Fuel Moisture, Percent                     MM               
+   328E2026    18   Wind Direction, Peak, Degrees              UX               
+   328E2026    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   328E2026    20   Solar Radiation, watts per meter squared   RD               

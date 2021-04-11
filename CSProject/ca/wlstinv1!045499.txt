@@ -1,0 +1,44 @@
+
+WLSTINV1-Weather Station Inventory for                       45499              
+                                                                                
+Station: 045499   Name: ANGELES PORTABLE       NESDIS: 323685B0                 
+                                                                                
+Type: 3 (RAWS S non-NFDRS)   Create/Mod Date: 03-Mar-1998     Obs Time/Z: 13/PS 
+T                                                                               
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 624                       
+                                                                                
+State: 06-CA   County: 037-Los Angeles         Lat/Lon: 34 31  5, 118 17 13     
+Obs Agy: 1 (USDA FS )     Unit: ANGELESNF    Mnemonic: AP1      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  2859   Asp: 0   Ann Prec:  30.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl:                                      
+                                                                                
+User: FS11115   Acc Lst: ________                                               
+Comments:                                                                       
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   323685B0     9   Rain Accumulation, Inches                  PC               
+   323685B0    10   Wind Speed MPH, Miles per Hour             US               
+   323685B0    11   Wind Direction Degrees, Degrees            UD               
+   323685B0    12   Air Temperature, Standard Placement, Deg   TA               
+   323685B0    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   323685B0    14   Relative Humidity, Percent                 XR               
+   323685B0    15   Battery Voltage, volts                     VB               
+   323685B0    17   Fuel Moisture, Percent                     MM               
+   323685B0    18   Wind Direction, Peak, Degrees              UX               
+   323685B0    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   323685B0    20   Air Temperature, 24 Hour High, Degrees F   TX               
+   323685B0    21   Air Temperature, 24 Hour Low, Degrees Fa   TN               
+   323685B0    22   Relative Humidity, 24 Hour High, Percent   XS               
+   323685B0    23   Relative Humidity, 24 Hour Low, Percent    XQ               
+   323685B0    24   Solar Radiation, watts per meter squared   RD               

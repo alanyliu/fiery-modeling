@@ -1,0 +1,47 @@
+
+WLSTINV1-Weather Station Inventory for                       40244              
+                                                                                
+Station: 040244   Name: ASH CREEK              NESDIS: 323AC726                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 07-Nov-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 584                       
+                                                                                
+State: 06-CA   County: 093-Siskiyou            Lat/Lon: 41 16 36, 121 58 50     
+Obs Agy: 1 (USDA FS )     Unit: SHF          Mnemonic: ASHCR      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  3677   Asp: 0   Ann Prec:  48.55   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 409   One/Ten Fl: N                                 
+                                                                                
+User: FS11083   Acc Lst: RAWS                                                   
+Comments: PLACED IN SERVICE MAY 1989.                                           
+FIRE DANGER RATING AREA 243                                                     
+FCST ZONE CHANGED TO MFR 584 4/22/04                                            
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G F 07-nov-19 15-jun-19 _ 2 P 3  BI 5  90  52  97  56                     
+   2 7G F 07-nov-19 15-jun-19 _ 1 P 3  BI 5  90  52  97  56                     
+   3 16V _ _________ _________ _ 2 P   __                                       
+   4 16W _ _________ _________ _ 2 P   __                                       
+   5 16X _ _________ _________ _ 2 P   __                                       
+   6 16Y _ _________ _________ _ 2 P   BI 5  90   97                            
+   7 16Z _ _________ _________ _ 2 P   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   323AC726     9   Rain Accumulation, Inches                  PC               
+   323AC726    10   Wind Speed MPH, Miles per Hour             US               
+   323AC726    11   Wind Direction Degrees, Degrees            UD               
+   323AC726    12   Air Temperature, Standard Placement, Deg   TA               
+   323AC726    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   323AC726    14   Relative Humidity, Percent                 XR               
+   323AC726    15   Battery Voltage, volts                     VB               
+   323AC726    17   Fuel Moisture, Percent                     MM               
+   323AC726    18   Wind Direction, Peak, Degrees              UX               
+   323AC726    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   323AC726    20   Solar Radiation, watts per meter squared   RD               

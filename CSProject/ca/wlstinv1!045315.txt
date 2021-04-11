@@ -1,0 +1,40 @@
+
+WLSTINV1-Weather Station Inventory for                       45315              
+                                                                                
+Station: 045315   Name: OJAI                   NESDIS: CA407116                 
+                                                                                
+Type: 3 (RAWS S non-NFDRS)   Create/Mod Date: 16-Feb-2012     Obs Time/Z: 13/PS 
+T                                                                               
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: ____                      
+                                                                                
+State: 06-CA   County: 111-Ventura             Lat/Lon: 34 26 54, 119 13 49     
+Obs Agy: 6 (Local Gv)     Unit: OJAI         Mnemonic: OJA      FS Reg:   5     
+                                                                                
+Fuel Stk: 22-Oct-2001   Wdy FM Mea: ___________                                 
+Site: 1   Elev:   765   Asp: 4   Ann Prec:  18.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: FS11472   Acc Lst: ________                                               
+Comments:                                                                       
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA407116     9   Rain Accumulation, Inches                  PC               
+   CA407116    10   Windspeed, Miles per Hour                  US               
+   CA407116    11   Wind Direction, Degrees                    UD               
+   CA407116    12   Air Temperature, Standard Placement, Deg   TA               
+   CA407116    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA407116    14   Relative Humidity, Percent                 XR               
+   CA407116    15   Battery Voltage, volts                     VB               
+   CA407116    17   Fuel Moisture, Percent                     MM               
+   CA407116    18   Wind Direction, Peak, Degrees              UX               
+   CA407116    19   Windspeed, Peak, Miles per Hour            UP               
+   CA407116    20   Solar Radiation, watts per meter squared   RD               

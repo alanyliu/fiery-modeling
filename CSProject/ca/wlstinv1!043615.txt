@@ -1,0 +1,46 @@
+
+WLSTINV1-Weather Station Inventory for                       43615              
+                                                                                
+Station: 043615   Name: PINECREST 2            NESDIS: AA103430                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 24-Jun-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: 043606     Fcst Zone: 540                       
+                                                                                
+State: 06-CA   County: 109-Tuolumne            Lat/Lon: 38 11 10, 120  0 38     
+Obs Agy: 1 (USDA FS )     Unit: CA-STF       Mnemonic: PINE2      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  5706   Asp: 0   Ann Prec:  45.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: 912   Acc Lst: STFECC                                                     
+Comments: ESTABLISHED JUNE 2011 1/4 MILE FROM FORMER PINECREST MANUAL STATION ( 
+043606)                                                                         
+RECALC 04/17/18                                                                 
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G C 11-jul-19 21-may-19 _ 2 A 3  EC 5  90  74  97  79                     
+   2 16V _ _________ _________ _ 2 A   __                                       
+   3 16W _ _________ _________ _ 2 A   __                                       
+   4 16X _ _________ _________ _ 2 A   __                                       
+   5 16Y _ _________ _________ _ 2 A   __                                       
+   6 16Z _ _________ _________ _ 2 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   AA103430     9   Rain Accumulation, Inches                  PC               
+   AA103430    10   Wind Speed MPH, Miles per Hour             US               
+   AA103430    11   Wind Direction Degrees, Degrees            UD               
+   AA103430    12   Air Temperature, Standard Placement, Deg   TA               
+   AA103430    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   AA103430    14   Relative Humidity, Percent                 XR               
+   AA103430    15   Battery Voltage, volts                     VB               
+   AA103430    17   Fuel Moisture, Percent                     MM               
+   AA103430    18   Wind Direction, Peak, Degrees              UX               
+   AA103430    19   Wind speed peak, Miles per Hour            UP               
+   AA103430    20   Solar Radiation, watts per meter squared   RD               

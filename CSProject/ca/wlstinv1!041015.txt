@@ -1,0 +1,53 @@
+
+WLSTINV1-Weather Station Inventory for                       41015              
+                                                                                
+Station: 041015   Name: RODEO VALLEY           NESDIS: CA4A334E                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 30-Jan-2020     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 557                       
+                                                                                
+State: 06-CA   County: 045-Mendocino           Lat/Lon: 39 40 4., 123 19 16     
+Obs Agy: 5 (State   )     Unit: MEU          Mnemonic: RDO      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:  2428   Asp: 5   Ann Prec:  39.92   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: WICA1143   Acc Lst: MEU                                                   
+Comments: ON 05/27/09 THE STATION WAS ENTIRELY CONVERTED TO NEW FTS EQUIPMENT A 
+ND TRANSMITS USING HIGH DATA RATE ON NEW CHANNEL & TIME SLOT.  OBS TIME DID CHA 
+NGE TO 1300.  TESTED TIPPING BUCKET AND RESET RAINFALL.  LAT/LONG, ELEV AMENDED 
+ BASED UPON ON-SITE GPS (NAD83) WHEN STATION WAS UPGRADED.  DFORREST CDF FIRE W 
+X PROGRAM COORDINATOR 07/23/09                                                  
+                                                                                
+G FUEL MODEL ADDED ON 3/11/05 BY MONTY SMITH. RECALC COMPLETED ON 3/11/05.      
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G F 07-dec-19 19-apr-19 _ 3 A 2  BI 5  90  66  97  74                     
+   2 7B F 07-dec-19 19-apr-19 _ 3 A 2  BI 5  90  76  97 120                     
+   3 7F F 07-dec-19 19-apr-19 _ 3 A 2  BI 5  90  36  97  43                     
+   4 7A F 07-dec-19 19-apr-19 _ 3 A 2  BI 5  90  33  97  37                     
+   5 16V _ _________ _________ _ 3 A   __                                       
+   6 16W _ _________ _________ _ 3 A   __                                       
+   7 16X _ _________ _________ _ 3 A   __                                       
+   8 16Y _ _________ _________ _ 3 A   __                                       
+   9 16Z _ _________ _________ _ 3 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA4A334E     9   Rain Accumulation, Inches                  PC               
+   CA4A334E    10   Wind Speed MPH, Miles per Hour             US               
+   CA4A334E    11   Wind Direction Degrees, Degrees            UD               
+   CA4A334E    12   Air Temperature, Standard Placement, Deg   TA               
+   CA4A334E    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA4A334E    14   Relative Humidity, Percent                 XR               
+   CA4A334E    15   Battery Voltage, volts                     VB               
+   CA4A334E    17   Fuel Moisture, Percent                     MM               
+   CA4A334E    18   Wind Direction, Peak, Degrees              UX               
+   CA4A334E    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA4A334E    20   Solar Radiation, watts per meter squared   RD               

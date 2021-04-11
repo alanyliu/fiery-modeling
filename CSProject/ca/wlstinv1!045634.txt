@@ -1,0 +1,40 @@
+
+WLSTINV1-Weather Station Inventory for                       45634              
+                                                                                
+Station: 045634   Name: CABAZON                NESDIS: 32517532                 
+                                                                                
+Type: 3 (RAWS S non-NFDRS)   Create/Mod Date: 07-Jun-2017     Obs Time/Z: 13/PS 
+T                                                                               
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: ____                      
+                                                                                
+State: 06-CA   County: 065-Riverside           Lat/Lon: 33 55 54, 116 48 19     
+Obs Agy: 2 (USDI BLM)     Unit: CA-CDD       Mnemonic: CABZN      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  2155   Asp: 0   Ann Prec:  99.99   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: 9a   Acc Lst: STATIONS                                                    
+Comments:                                                                       
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   32517532     9   Rain Accumulation, Inches                  PC               
+   32517532    10   Wind Speed MPH, Miles per Hour             US               
+   32517532    11   Wind Direction Degrees, Degrees            UD               
+   32517532    12   Air Temperature, Standard Placement, Deg   TA               
+   32517532    14   Relative Humidity, Percent                 XR               
+   32517532    15   Battery Voltage, volts                     VB               
+   32517532    17   Wind Direction, Peak, Degrees              UX               
+   32517532    18   Wind Speed Peak MPH, Miles per Hour        UP               
+   32517532    19   Solar Radiation, watts per meter squared   RD               
+   32517532    20   Soil Moisture, Percent                     MS               
+   32517532    21   Soil Temperature "F", Degrees Fahrenheit   TG               

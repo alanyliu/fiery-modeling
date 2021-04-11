@@ -1,0 +1,46 @@
+
+WLSTINV1-Weather Station Inventory for                       44302              
+                                                                                
+Station: 044302   Name: BIG SUR                NESDIS: 327F20C8                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 17-Dec-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 521                       
+                                                                                
+State: 06-CA   County: 053-Monterey            Lat/Lon: 36 14 43, 121 46 48     
+Obs Agy: 1 (USDA FS )     Unit: LPF          Mnemonic: BIGSR      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:   354   Asp: 0   Ann Prec:  40.00   Season:                     
+Ltng scale:    .13   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS7742   Acc Lst: LPF                                                     
+Comments: FDR AREA 507, EFFECTIVE 7/25/2001, STATION CONVERTED FROM A MANUAL TO 
+ A RAWS.                                                                        
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B F 30-nov-19 10-apr-19 _ 4 A 2  BI 5  90  37  97  44                     
+   2 7G F 25-mar-19 10-apr-19 _ 4 A 2  EC 5  90  35  97  40                     
+   3 16V _ _________ _________ _ 4 A   __                                       
+   4 16W _ _________ _________ _ 4 A   __                                       
+   5 16X _ _________ _________ _ 4 A   BI 5  90 137  97 172                     
+   6 16Y _ _________ _________ _ 4 A   EC 5  90  63  97  79                     
+   7 16Z _ _________ _________ _ 4 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   327F20C8     9   Rain Accumulation, Inches                  PC               
+   327F20C8    10   Wind Speed MPH, Miles per Hour             US               
+   327F20C8    11   Wind Direction Degrees, Degrees            UD               
+   327F20C8    12   Air Temperature, Standard Placement, Deg   TA               
+   327F20C8    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   327F20C8    14   Relative Humidity, Percent                 XR               
+   327F20C8    15   Battery Voltage, volts                     VB               
+   327F20C8    17   Fuel Moisture, Percent                     MM               
+   327F20C8    18   Wind Direction, Peak, Degrees              UX               
+   327F20C8    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   327F20C8    20   Solar Radiation, watts per meter squared   RD               

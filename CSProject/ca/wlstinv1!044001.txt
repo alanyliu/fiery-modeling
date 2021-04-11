@@ -1,0 +1,30 @@
+
+WLSTINV1-Weather Station Inventory for                       44001              
+                                                                                
+Station: 044001   Name: BASALT PEAK LO         NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 28-May-2015     Obs Time/Z: 13/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 545                       
+                                                                                
+State: 06-CA   County: 047-Merced              Lat/Lon: 37  0  0, 121  6  0     
+Obs Agy: 5 (State   )     Unit: MMU          Mnemonic: BASAL      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  1703   Asp:    Ann Prec:  12.00   Season:                      
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: 1f7   Acc Lst: ________                                                   
+Comments: RECOVERED STATION                                                     
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

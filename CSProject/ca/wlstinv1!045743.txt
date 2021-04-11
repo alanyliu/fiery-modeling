@@ -1,0 +1,51 @@
+
+WLSTINV1-Weather Station Inventory for                       45743              
+                                                                                
+Station: 045743   Name: MIRAMAR EAST           NESDIS: 32D4C6C4                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 20-Oct-2015     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 508                       
+                                                                                
+State: 06-CA   County: 073-San Diego           Lat/Lon: 32 52 31, 117  3 34     
+Obs Agy: 11 (Undef   )     Unit: CA-MSM       Mnemonic: MIRMR      FS Reg:   5  
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:   900   Asp: 0   Ann Prec:  12.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: WIDOD01   Acc Lst: MSM                                                    
+Comments: NEW SITE SITTING ON A RIDGETOP BETWEEN SAN CLEMENTE AND SYCAMORE CANY 
+ONS.                                                                            
+SITE ESTABLISHED AUGUST 2012.                                                   
+REPLACED AT/RH AND FM/FT SENSORS ON 2/9/14                                      
+STATION RECALCULATED FOR GREEN UP ON 10/15/15                                   
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7F C 09-dec-15 15-oct-15 _ 1 A 2  BI 5  90  40  97  96                     
+   2 7A C 09-dec-15 15-oct-15 _ 1 A 2  BI 5  90  36  97  48                     
+   3 7B C 09-dec-15 15-oct-15 _ 1 A 2  BI 5  90 101  97 150                     
+   4 7G C 09-dec-15 15-oct-15 _ 1 A 2  EC 5  90  51  97  58                     
+   5 16V _ _________ _________ _ 1 A   __                                       
+   6 16W _ _________ _________ _ 1 A   __                                       
+   7 16X _ _________ _________ _ 1 A   __                                       
+   8 16Y _ _________ _________ _ 1 A   __                                       
+   9 16Z _ _________ _________ _ 1 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   32D4C6C4     9   Rain Accumulation, Inches                  PC               
+   32D4C6C4    10   Windspeed, Miles per Hour                  US               
+   32D4C6C4    11   Wind Direction, Degrees                    UD               
+   32D4C6C4    12   Air Temperature, Standard Placement, Deg   TA               
+   32D4C6C4    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   32D4C6C4    14   Relative Humidity, Percent                 XR               
+   32D4C6C4    15   Battery Voltage, volts                     VB               
+   32D4C6C4    17   Fuel Moisture, Percent                     MM               
+   32D4C6C4    18   Wind Direction, Peak, Degrees              UX               
+   32D4C6C4    19   Wind speed peak, Miles per Hour            UP               
+   32D4C6C4    20   Solar Radiation, watts per meter squared   RD               

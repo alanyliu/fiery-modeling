@@ -1,0 +1,44 @@
+
+WLSTINV1-Weather Station Inventory for                       40427              
+                                                                                
+Station: 040427   Name: NOTCHKO                NESDIS: 15C19352                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 12-Nov-2017     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 556                       
+                                                                                
+State: 06-CA   County: 023-Humboldt            Lat/Lon: 41 17 23, 123 51 27     
+Obs Agy: 4 (USDI BIA)     Unit: YUROK        Mnemonic: CAYIA      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:   477   Asp: 4   Ann Prec:  75.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: c3e   Acc Lst: HUUACL                                                     
+Comments: NAME CHANGE INTIATED BY THE YUROK TRIBE, FEBRUARY 2014.               
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G C 03-jun-17 01-apr-16 _ 4 P 4  EC 6  90  50  97  58                     
+   5 16V _ _________ _________ _ 4 P   __                                       
+   6 16W _ _________ _________ _ 4 P   __                                       
+   7 16X _ _________ _________ _ 4 P   __                                       
+   8 16Y _ _________ _________ _ 4 P   __                                       
+   9 16Z _ _________ _________ _ 4 P   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   15C19352     9   Rain Accumulation, Inches                  PC               
+   15C19352    10   Wind Speed MPH, Miles per Hour             US               
+   15C19352    11   Wind Direction Degrees, Degrees            UD               
+   15C19352    12   Air Temperature, Standard Placement, Deg   TA               
+   15C19352    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   15C19352    14   Relative Humidity, Percent                 XR               
+   15C19352    15   Battery Voltage, volts                     VB               
+   15C19352    16   Barometric Pressure (no elevation adjust   PA               
+   15C19352    17   Fuel Moisture, Percent                     MM               
+   15C19352    18   Wind Direction, Peak, Degrees              UX               
+   15C19352    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   15C19352    20   Solar Radiation, watts per meter squared   RD               

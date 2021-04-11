@@ -1,0 +1,36 @@
+
+WLSTINV1-Weather Station Inventory for                       49917              
+                                                                                
+Station: 049917   Name: PRAYER ROCK            NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 24-May-2012     Obs Time/Z: 13/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: ____                      
+                                                                                
+State: 06-CA   County: 023-Humboldt            Lat/Lon: 41 17 30, 123 26 35     
+Obs Agy: 1 (USDA FS )     Unit: KNF          Mnemonic: UKONO      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  5450   Asp: 7   Ann Prec:  62.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: FS8374   Acc Lst: ________                                                
+Comments: PORTABLE RAWS ASSIGNED TO SOMES FIRE (ORLEANS COMPLEX-CASRF000997). S 
+TATION APPROXIMATELY 1 MILE NE FROM THE ORLEANS LOOKOUT. PERIOD OF OPERATION UN 
+KOWN.                                                                           
+                                                                                
+SITE UTILIZED NESDIS ID 327BA3E6. NO OBSERVATIONS IN KCFAST.  WEATHER STATION I 
+D TO BE RETURNED TO CA PREDICTIVE SERVICES.                                     
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

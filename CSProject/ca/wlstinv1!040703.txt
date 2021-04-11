@@ -1,0 +1,53 @@
+
+WLSTINV1-Weather Station Inventory for                       40703              
+                                                                                
+Station: 040703   Name: BOGARD                 NESDIS: 3237A1A6                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 13-Dec-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 598                       
+                                                                                
+State: 06-CA   County: 035-Lassen              Lat/Lon: 40 35 31, 121  4 40     
+Obs Agy: 1 (USDA FS )     Unit: LNF          Mnemonic: BOGRD      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  5673   Asp: 0   Ann Prec:  45.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: 7db   Acc Lst: SIFC                                                       
+Comments: FIRST LOCATION NEXT TO HELIPORT THIS WAS AT 40 35.30 BY 121 5.14 AT B 
+OGARD FIRE STATION.                                                             
+MOVED TO NEW LOCATION WITH THE CONCURANCE OF JOHN SNOOK.                        
+SAME NWS # 17-JULY-02                                                           
+                                                                                
+LAT/LONG/ELEVATION VALIDATED ON 12OCT12                                         
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G F 31-oct-19 29-may-19 _ 1 A 2  BI 5  90  61  97  73                     
+   2 16V _ _________ _________ _ 1 A   __                                       
+   3 16W _ _________ _________ _ 1 A   __                                       
+   4 16X _ _________ _________ _ 1 A   __                                       
+   5 16Y _ _________ _________ _ 1 A   EC 5  90  61  97  66                     
+   6 16Y _ _________ _________ _ 1 A   BI 5  90  35  97  39                     
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   3237A1A6     9   Rain Accumulation, Inches                  PC               
+   3237A1A6    10   Wind Speed MPH, Miles per Hour             US               
+   3237A1A6    11   Wind Direction Degrees, Degrees            UD               
+   3237A1A6    12   Air Temperature, Standard Placement, Deg   TA               
+   3237A1A6    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   3237A1A6    14   Relative Humidity, Percent                 XR               
+   3237A1A6    15   Battery Voltage, volts                     VB               
+   3237A1A6    17   Fuel Moisture, Percent                     MM               
+   3237A1A6    18   Wind Direction, Peak, Degrees              UX               
+   3237A1A6    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   3237A1A6    20   Solar Radiation, watts per meter squared   RD               
+   3237A1A6    21   Air Temperature, 24 Hour High, Degrees F   TX               
+   3237A1A6    22   Air Temperature, 24 Hour Low, Degrees Fa   TN               
+   3237A1A6    23   Relative Humidity, 24 Hour High, Percent   XS               
+   3237A1A6    24   Relative Humidity, 24 Hour Low, Percent    XQ               

@@ -1,0 +1,51 @@
+
+WLSTINV1-Weather Station Inventory for                       40801              
+                                                                                
+Station: 040801   Name: COLBY MTN              NESDIS: AAB5D654                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 13-Dec-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 597                       
+                                                                                
+State: 06-CA   County: 103-Tehama              Lat/Lon: 40  8 44, 121 31 21     
+Obs Agy: 1 (USDA FS )     Unit: LNF          Mnemonic: COLBY      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  6004   Asp: 5   Ann Prec:  72.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: 7db   Acc Lst: SIFC                                                       
+Comments: MANUAL WEATHER TAKEN @ LOOKOUT.  PEERIOD OF RECORD: 1961-2015 (SEASON 
+AL).         FIRE DANGER RATIING AREA 248.                                      
+                                                                                
+STATION UPDATED FROM "MANUAL" TO "RAWS" IN WIMS ON 20 FEB 2016.  RAWS DATA AT W 
+RCC BEGAN IN JUNE 2015.                                                         
+                                                                                
+NEW STATION SITE IS APPROXIMATELY 135 FEET SSW ON THE RETIRED MANUAL STATION SI 
+TE.                                                                             
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G F 01-jul-19 29-may-19 _ 2 A 3  BI 5  90  74  97  87                     
+   2 16V _ _________ _________ _ 2 A   __                                       
+   3 16W _ _________ _________ _ 2 A   __                                       
+   4 16X _ _________ _________ _ 2 A   __                                       
+   5 16Y _ _________ _________ _ 2 A   __                                       
+   6 16Z _ _________ _________ _ 2 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   AAB5D654     9   Rain Accumulation, Inches                  PC               
+   AAB5D654    10   Wind Speed MPH, Miles per Hour             US               
+   AAB5D654    11   Wind Direction Degrees, Degrees            UD               
+   AAB5D654    12   Air Temperature, Standard Placement, Deg   TA               
+   AAB5D654    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   AAB5D654    14   Relative Humidity, Percent                 XR               
+   AAB5D654    15   Battery Voltage, volts                     VB               
+   AAB5D654    17   Fuel Moisture, Percent                     MM               
+   AAB5D654    18   Wind Direction, Peak, Degrees              UX               
+   AAB5D654    19   Wind speed peak, Miles per Hour            UP               
+   AAB5D654    20   Solar Radiation, watts per meter squared   RD               

@@ -1,0 +1,46 @@
+
+WLSTINV1-Weather Station Inventory for                       45015              
+                                                                                
+Station: 045015   Name: INDIAN WELLS CANYON    NESDIS: 324B1618                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 07-Jun-2017     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 530                       
+                                                                                
+State: 06-CA   County: 029-Kern                Lat/Lon: 35 41 5., 117 53 22     
+Obs Agy: 2 (USDI BLM)     Unit: CDD          Mnemonic: INDW      FS Reg:   5    
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  3882   Asp: 0   Ann Prec:  10.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: 9a   Acc Lst: STATIONS                                                    
+Comments: BLM RAWS (RESECE/NFDRS STANDARDS). HAS SOIL MOISTURE SENSOR INSTALLED 
+ @18.0". ASCADS SHOWS STATION NWS ID AS 045016 WHICH NEEDS TO BE CHANGED.       
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7T F 15-oct-10 30-apr-10 _ 3 A 2  BI 5  80  70  95  91                     
+   2 7A F 15-oct-10 30-apr-10 _ 3 A 2  BI 5  80  44  95  54                     
+   5 16V _ _________ _________ _ 3 A   __                                       
+   6 16W _ _________ _________ _ 3 A   __                                       
+   7 16X _ _________ _________ _ 3 A   __                                       
+   8 16Y _ _________ _________ _ 3 A   __                                       
+   9 16Z _ _________ _________ _ 3 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   324B1618     9   Rain Accumulation, Inches                  PC               
+   324B1618    10   Wind Speed MPH, Miles per Hour             US               
+   324B1618    11   Wind Direction Degrees, Degrees            UD               
+   324B1618    12   Air Temperature, Standard Placement, Deg   TA               
+   324B1618    14   Relative Humidity, Percent                 XR               
+   324B1618    15   Battery Voltage, volts                     VB               
+   324B1618    17   Wind Direction, Peak, Degrees              UX               
+   324B1618    18   Wind Speed Peak MPH, Miles per Hour        UP               
+   324B1618    19   Solar Radiation, watts per meter squared   RD               
+   324B1618    20   Soil Moisture, Tension, Centibars          MS               
+   324B1618    21   Soil Temperature "F", Degrees Fahrenheit   TG               

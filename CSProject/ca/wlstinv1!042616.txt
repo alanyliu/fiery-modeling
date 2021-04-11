@@ -1,0 +1,61 @@
+
+WLSTINV1-Weather Station Inventory for                       42616              
+                                                                                
+Station: 042616   Name: BARON                  NESDIS: AA102746                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 14-May-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: 042607     Fcst Zone: 542                       
+                                                                                
+State: 06-CA   County: 017-El Dorado           Lat/Lon: 38 51 16, 120  1 27     
+Obs Agy: 1 (USDA FS )     Unit: CA-TMU       Mnemonic: BARON      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  6336   Asp: 0   Ann Prec:  30.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: FS11194   Acc Lst: DANAHER                                                
+Comments: THIS SITE REPLACES MEYERS (042607) AS THE PRIMARY NFDRS RAWS FOR THE  
+BASIN.  SITE IS APPROXIMATELY .5 MILES NNW OF THE MEYERS SITE AND 30 FEET LOWER 
+.  PERIOD OF RECORD BEGINS IN JULY 2011 AND THE TRANSITION WAS COMPLETE IN JANU 
+ARY 2012.                                                                       
+                                                                                
+SET TO FROZEN ON 11/13/14 PER JOHN WASHINGTON BY SCOTT WYLIE                    
+                                                                                
+GREEN UP ON 5/13/16 PER JOHN WASHINGTON BY SCOTT WYLIE                          
+                                                                                
+GREEN UP SET ON 3/19/15 PER JOHN WASHINGTON BY SCOTT WYLIE                      
+                                                                                
+GREEN UP SET ON 5-17-17 PER KYLE JACOBSON BY SEAN DUNN                          
+                                                                                
+GREEN UP SET ON 5/8/2018 PER JOHN WASHINGTON BY SCOTT WYLIE.                    
+                                                                                
+12/7/18: PER DIV-7, FREEZE ALL RAWS. SD                                         
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G T 01-jul-19 05-may-19 _ 2 P 2  BI 5  90  64  97  74                     
+   2 7U T 01-jul-19 05-may-19 _ 2 P 2  EC 5  90  32  97  39                     
+   3 7H T 01-jul-19 05-may-19 _ 2 P 2  BI 5  90  69  97  78                     
+   4 16V _ _________ _________ _ 2 P   __                                       
+   5 16W _ _________ _________ _ 2 P   __                                       
+   6 16X _ _________ _________ _ 2 P   __                                       
+   7 16Y _ _________ _________ _ 2 P   __                                       
+   8 16Z _ _________ _________ _ 2 P   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   AA102746     9   Rain Accumulation, Inches                  PC               
+   AA102746    10   Wind Speed MPH, Miles per Hour             US               
+   AA102746    11   Wind Direction Degrees, Degrees            UD               
+   AA102746    12   Air Temperature, Standard Placement, Deg   TA               
+   AA102746    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   AA102746    14   Relative Humidity, Percent                 XR               
+   AA102746    15   Battery Voltage, volts                     VB               
+   AA102746    17   Fuel Moisture, Percent                     MM               
+   AA102746    18   Wind Direction, Peak, Degrees              UX               
+   AA102746    19   Wind speed peak, Miles per Hour            UP               
+   AA102746    20   Solar Radiation, watts per meter squared   RD               

@@ -1,0 +1,48 @@
+
+WLSTINV1-Weather Station Inventory for                       43009              
+                                                                                
+Station: 043009   Name: LAS TRAMPAS            NESDIS: CA415500                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 18-Mar-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 547                       
+                                                                                
+State: 06-CA   County: 013-Contra Costa        Lat/Lon: 37 50  2, 122  4  1     
+Obs Agy: 6 (Local Gv)     Unit: EBY          Mnemonic: LTR      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  1760   Asp: 3   Ann Prec:  25.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 90   One/Ten Fl: N                                  
+                                                                                
+User: WIP0039   Acc Lst: EBRP                                                   
+Comments: THIS IS AN EAST BAY REGIONAL PARK DISTRICT STATION.                   
+                                                                                
+REGULAR SCHEDULED OBS TIME CHANGED FROM 12 TO 13 IN ACCORDANCE WITH WIMS TECHNO 
+TE-2010-01 - GROLEAU/EBY - 112410                                               
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7F C 17-mar-19 18-mar-19 _ 2 A 2  BI 5  90  43  97  57                     
+   2 7A C 17-mar-19 18-mar-19 _ 2 A 2  BI 5  90  41  97  52                     
+   3 7G C 17-mar-19 18-mar-19 _ 2 A 2  BI 5  90  74  97  84                     
+   4 7C C 17-mar-19 18-mar-19 _ 2 A 2  BI 5  90  45  97  52                     
+   5 16V _ _________ _________ _ 2 A   __                                       
+   6 16W _ _________ _________ _ 2 A   __                                       
+   7 16X _ _________ _________ _ 2 A   __                                       
+   8 16Y _ _________ _________ _ 2 A   __                                       
+   9 16Z _ _________ _________ _ 2 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA415500     9   Rain Accumulation, Inches                  PC               
+   CA415500    10   Wind Speed MPH, Miles per Hour             US               
+   CA415500    11   Wind Direction Degrees, Degrees            UD               
+   CA415500    12   Air Temperature, Standard Placement, Deg   TA               
+   CA415500    14   Relative Humidity, Percent                 XR               
+   CA415500    15   Battery Voltage, volts                     VB               
+   CA415500    17   Wind Direction, Peak, Degrees              UX               
+   CA415500    18   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA415500    19   Solar Radiation, watts per meter squared   RD               

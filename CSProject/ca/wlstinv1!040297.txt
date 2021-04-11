@@ -1,0 +1,46 @@
+
+WLSTINV1-Weather Station Inventory for                       40297              
+                                                                                
+Station: 040297   Name: KNF97 PORTABLE         NESDIS: 323EC21C                 
+                                                                                
+Type: 3 (RAWS S non-NFDRS)   Create/Mod Date: 21-Jul-2014     Obs Time/Z: 13/PS 
+T                                                                               
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 589                       
+                                                                                
+State: 06-CA   County: 093-Siskiyou            Lat/Lon: 41 34 20, 122 17 33     
+Obs Agy: 1 (USDA FS )     Unit: KNF          Mnemonic: GNMI      FS Reg:   5    
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  3300   Asp: 0   Ann Prec:  12.21   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: FS11259   Acc Lst: YICC                                                   
+Comments: NOT A PERMANENT SITE. USED FOR RX AND WILDFIRE SUPPORT. CURRENTLY AT  
+A-12 PILE RX.T43NR04WS15 WHITNEY CREEK DRAINAGE.                                
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   323EC21C     9   Rain Accumulation, Inches                  PC               
+   323EC21C    10   Windspeed, Miles per Hour                  US               
+   323EC21C    11   Wind Direction, Degrees                    UD               
+   323EC21C    12   Air Temperature, Standard Placement, Deg   TA               
+   323EC21C    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   323EC21C    14   Relative Humidity, Percent                 XR               
+   323EC21C    15   Battery Voltage, volts                     VB               
+   323EC21C    17   Fuel Moisture, Percent                     MM               
+   323EC21C    18   Wind Direction, Peak, Degrees              UX               
+   323EC21C    19   Windspeed, Peak, Miles per Hour            UP               
+   323EC21C    20   Air Temperature, 24 Hour High, Degrees F   TX               
+   323EC21C    21   Air Temperature, 24 Hour Low, Degrees Fa   TN               
+   323EC21C    22   Relative Humidity, 24 Hour High, Percent   XS               
+   323EC21C    23   Relative Humidity, 24 Hour Low, Percent    XQ               
+   323EC21C    24   Solar Radiation, watts per meter squared   RD               

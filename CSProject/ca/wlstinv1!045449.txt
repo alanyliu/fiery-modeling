@@ -1,0 +1,53 @@
+
+WLSTINV1-Weather Station Inventory for                       45449              
+                                                                                
+Station: 045449   Name: GRASS MOUNTAIN         NESDIS: 32880604                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 13-Dec-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 506                       
+                                                                                
+State: 06-CA   County: 037-Los Angeles         Lat/Lon: 34 38 27, 118 24 51     
+Obs Agy: 1 (USDA FS )     Unit: ANF          Mnemonic: GMTN      FS Reg:   5    
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  4626   Asp: 4   Ann Prec:  20.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: FS9632   Acc Lst: MCASTILLO                                               
+Comments: STATION WAS INSTALLED 12 09 2004 AT GRASS MOUNTAIN RADIO TOWER AREA   
+LOCATION  : 3 MILES NORTH OF GREEN VALLEY ON GRASS MOUNTAIN                     
+NFDRZ     : 690                                                                 
+NWSFZ     : 514                                                                 
+NWS FWPFZ : 254                                                                 
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B F 22-nov-19 09-mar-19 _ 5 A 2  BI 5  90 232  97 260                     
+   2 7G F 22-nov-19 09-mar-19 _ 5 A 2  EC 5  90 135  97 148                     
+   3 16V _ _________ _________ _ 5 A   __                                       
+   4 16W _ _________ _________ _ 5 A   __                                       
+   5 16X _ _________ _________ _ 5 A   BI 5  90 320  97 371                     
+   6 16Y _ _________ _________ _ 5 A   BI 5  90  81  97  89                     
+   7 16Z _ _________ _________ _ 5 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   32880604     9   Rain Accumulation, Inches                  PC               
+   32880604    10   Wind Speed MPH, Miles per Hour             US               
+   32880604    11   Wind Direction Degrees, Degrees            UD               
+   32880604    12   Air Temperature, Standard Placement, Deg   TA               
+   32880604    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   32880604    14   Relative Humidity, Percent                 XR               
+   32880604    15   Battery Voltage, volts                     VB               
+   32880604    17   Fuel Moisture, Percent                     MM               
+   32880604    18   Wind Direction, Peak, Degrees              UX               
+   32880604    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   32880604    20   Solar Radiation, watts per meter squared   RD               
+   32880604    21   Air Temperature, 24 Hour High, Degrees F   TX               
+   32880604    22   Air Temperature, 24 Hour Low, Degrees Fa   TN               
+   32880604    23   Relative Humidity, 24 Hour High, Percent   XS               
+   32880604    24   Relative Humidity, 24 Hour Low, Percent    XQ               

@@ -1,0 +1,49 @@
+
+WLSTINV1-Weather Station Inventory for                       42310              
+                                                                                
+Station: 042310   Name: BIG ROCK               NESDIS: CA28F196                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 28-Dec-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 559                       
+                                                                                
+State: 06-CA   County: 041-Marin               Lat/Lon: 38  2 22, 122 34 12     
+Obs Agy: 6 (Local Gv)     Unit: MRN          Mnemonic: BRK      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: 21-May-2008                                 
+Site: 1   Elev:  1500   Asp: 4   Ann Prec:  40.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: WICA922   Acc Lst: MRN                                                    
+Comments: SAN RAFAEL AND NAVATO CITY FIRE PURCHASED RAWS - CDF PROVIDED NESDIS  
+ID AND TIME SLOT.                                                               
+                                                                                
+!!! WICA922 (PETE?) - EMAIL TOM NUNES AT TNUNES@CO.MARIN.CA.US RE: MARIN RAWS U 
+NITS. THANKS.  04/25/05                                                         
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7A F 28-dec-19 09-apr-19 _ 2 A 2  BI  90   97                              
+   2 7G F 28-dec-19 09-apr-19 _ 2 A 2  BI  90   97                              
+   3 16V _ _________ _________ _ 2 A   __                                       
+   4 16W _ _________ _________ _ 2 A   __                                       
+   5 16X _ _________ _________ _ 2 A   __                                       
+   6 16Y _ _________ _________ _ 2 A   __                                       
+   7 16Z _ _________ _________ _ 2 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA28F196     9   Rain Accumulation, Inches                  PC               
+   CA28F196    10   Wind Speed MPH, Miles per Hour             US               
+   CA28F196    11   Wind Direction Degrees, Degrees            UD               
+   CA28F196    12   Air Temperature, Standard Placement, Deg   TA               
+   CA28F196    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA28F196    14   Relative Humidity, Percent                 XR               
+   CA28F196    15   Battery Voltage, volts                     VB               
+   CA28F196    17   Fuel Moisture, Percent                     MM               
+   CA28F196    18   Wind Direction, Peak, Degrees              UX               
+   CA28F196    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA28F196    20   Solar Radiation, watts per meter squared   RD               

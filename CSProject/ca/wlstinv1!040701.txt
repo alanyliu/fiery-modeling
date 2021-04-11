@@ -1,0 +1,30 @@
+
+WLSTINV1-Weather Station Inventory for                       40701              
+                                                                                
+Station: 040701   Name: BIEBER FFS             NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 21-Jan-2003     Obs Time/Z: 13/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 590                       
+                                                                                
+State: 06-CA   County: 035-Lassen              Lat/Lon: 41  6  0, 121  6  0     
+Obs Agy: 5 (State   )     Unit: LMU          Mnemonic: BIEBE      FS Reg:   5   
+                                                                                
+Fuel Stk: 11-Sep-2002   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  4125   Asp:    Ann Prec:    Season:                            
+Ltng scale:    Hum code: 2   Temp code: 1   Pres code: 1                        
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: WICA220   Acc Lst: ________                                               
+Comments: RECOVERED STATION                                                     
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

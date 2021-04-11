@@ -1,0 +1,38 @@
+
+WLSTINV1-Weather Station Inventory for                       40794              
+                                                                                
+Station: 040794   Name: LNF06 PORTABLE         NESDIS: 32416F08                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 07-Jul-2010     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: ____                      
+                                                                                
+State: 06-CA   County: 089-Shasta              Lat/Lon: 40 55 35, 121 35 4.     
+Obs Agy: 1 (USDA FS )     Unit: LNF          Mnemonic: LNF06      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  3300   Asp: 1   Ann Prec:  18.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl:                                      
+                                                                                
+User: FS8374   Acc Lst: ________                                                
+Comments: UNIT LOCATED AT THE SOLDIER MTN RAWS SITE - 30JUN2010 - DDMMMYYYY     
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   32416F08     9   Rain Accumulation, Inches                  PC               
+   32416F08    10   Wind Speed MPH, Miles per Hour             US               
+   32416F08    11   Wind Direction Degrees, Degrees            UD               
+   32416F08    12   Air Temperature, Standard Placement, Deg   TA               
+   32416F08    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   32416F08    14   Relative Humidity, Percent                 XR               
+   32416F08    15   Battery Voltage, volts                     VB               
+   32416F08    17   Fuel Moisture, Percent                     MM               
+   32416F08    18   Wind Direction, Peak, Degrees              UX               
+   32416F08    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   32416F08    20   Solar Radiation, watts per meter squared   RD               

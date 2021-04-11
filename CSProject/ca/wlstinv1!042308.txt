@@ -1,0 +1,42 @@
+
+WLSTINV1-Weather Station Inventory for                       42308              
+                                                                                
+Station: 042308   Name: BARNABE                NESDIS: FA5033DC                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 28-Dec-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 559                       
+                                                                                
+State: 06-CA   County: 041-Marin               Lat/Lon: 38  1 41, 122 42  8     
+Obs Agy: 6 (Local Gv)     Unit: MRN          Mnemonic: BNB      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: 21-May-2008                                 
+Site: 2   Elev:   810   Asp: 5   Ann Prec:  40.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: WIP0001   Acc Lst: ________                                               
+Comments: NEW ID# - WAS MISNUMBERED AS 402306                                   
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7A F 28-dec-19 09-apr-19 _ 2 A 2  BI 5  90   97                            
+   2 7G F 28-dec-19 09-apr-19 _ 2 A 2  BI 5  90   97                            
+   3 16V _ _________ _________ _ 2 A   __                                       
+   4 16W _ _________ _________ _ 2 A   __                                       
+   5 16X _ _________ _________ _ 2 A   __                                       
+   6 16Y _ _________ _________ _ 2 A   __                                       
+   7 16Z _ _________ _________ _ 2 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   FA5033DC     9   Rain Accumulation, Inches                  PC               
+   FA5033DC    10   Wind Speed MPH, Miles per Hour             US               
+   FA5033DC    11   Wind Direction Degrees, Degrees            UD               
+   FA5033DC    12   Air Temperature, Standard Placement, Deg   TA               
+   FA5033DC    14   Relative Humidity, Percent                 XR               
+   FA5033DC    15   Battery Voltage, volts                     VB               
+   FA5033DC    17   Wind Direction, Peak, Degrees              UX               
+   FA5033DC    18   Wind Speed Peak MPH, Miles per Hour        UP               
+   FA5033DC    19   Solar Radiation, watts per meter squared   RD               

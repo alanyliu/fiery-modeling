@@ -1,0 +1,49 @@
+
+WLSTINV1-Weather Station Inventory for                       43912              
+                                                                                
+Station: 043912   Name: LOS ALTOS              NESDIS: CA41F5F8                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 01-Dec-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 549                       
+                                                                                
+State: 06-CA   County: 085-Santa Clara         Lat/Lon: 37 21 17, 122  8 30     
+Obs Agy: 6 (Local Gv)     Unit: SCU          Mnemonic: LSA      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:   539   Asp: 6   Ann Prec:  25.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: WICA1124   Acc Lst: SCU                                                   
+Comments: OWNED/MAINTAINED BY SANTA CLARA COUNTY FIRE DISTRICT. 408-378-4010    
+                                                                                
+DATA STEWARDSHIP BY CAL FIRE MORGAN HILL ECC 408-201-0490 BC IVY WILLIAMS 408-4 
+72-1609                                                                         
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B F 01-dec-19 18-mar-19 _ 2 A 2  BI 5  90  39  97  61                     
+   2 7C F 01-dec-19 18-mar-19 _ 2 A 2  BI 5  90  31  97  34                     
+   3 7G F 01-dec-19 18-mar-19 _ 2 A 2  BI 5  90  50  97  54                     
+   4 16V _ _________ _________ _ 2 A   __                                       
+   5 16W _ _________ _________ _ 2 A   __                                       
+   6 16X _ _________ _________ _ 2 A   __                                       
+   7 16Y _ _________ _________ _ 2 A   __                                       
+   8 16Z _ _________ _________ _ 2 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA41F5F8     9   Rain Accumulation, Inches                  PC               
+   CA41F5F8    10   Wind Speed MPH, Miles per Hour             US               
+   CA41F5F8    11   Wind Direction Degrees, Degrees            UD               
+   CA41F5F8    12   Air Temperature, Standard Placement, Deg   TA               
+   CA41F5F8    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA41F5F8    14   Relative Humidity, Percent                 XR               
+   CA41F5F8    15   Battery Voltage, volts                     VB               
+   CA41F5F8    17   Fuel Moisture, Percent                     MM               
+   CA41F5F8    18   Wind Direction, Peak, Degrees              UX               
+   CA41F5F8    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA41F5F8    20   Solar Radiation, watts per meter squared   RD               

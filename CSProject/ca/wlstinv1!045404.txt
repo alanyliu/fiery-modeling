@@ -1,0 +1,30 @@
+
+WLSTINV1-Weather Station Inventory for                       45404              
+                                                                                
+Station: 045404   Name: CHATSWORTH             NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 01-Jul-1998     Obs Time/Z: 13/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 5                         
+                                                                                
+State: 06-CA   County: 111-Ventura             Lat/Lon: 34 16  0, 118 31 30     
+Obs Agy: 1 (USDA FS )     Unit: LAC          Mnemonic: CHATS      FS Reg:   5   
+                                                                                
+Fuel Stk: 15-Jun-1991   Wdy FM Mea: 22-Mar-1993                                 
+Site: 1   Elev:   900   Asp: 4   Ann Prec:    Season:                           
+Ltng scale:   1.00   Hum code: 1   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: ____________   Acc Lst: ________                                          
+Comments: LAC STATION 75--STATION CLOSED BY LAC                                 
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

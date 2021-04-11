@@ -1,0 +1,45 @@
+
+WLSTINV1-Weather Station Inventory for                       41091              
+                                                                                
+Station: 041091   Name: MNF01 PORTABLE         NESDIS: 3230E098                 
+                                                                                
+Type: 3 (RAWS S non-NFDRS)   Create/Mod Date: 26-Jun-2014     Obs Time/Z: 12/PS 
+T                                                                               
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: ____                      
+                                                                                
+State: 06-CA   County: ___-________________________Lat/Lon: 39 32 42, 122 39 53 
+Obs Agy: 1 (USDA FS )     Unit: MNF          Mnemonic: STMIC      FS Reg:   5   
+                                                                                
+Fuel Stk: 12-Apr-2001   Wdy FM Mea: ___________                                 
+Site:    Elev:  4913   Asp: 8   Ann Prec: ######   Season:                      
+Ltng scale:    Hum code: 2   Temp code: 1   Pres code: 1                        
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: FS7577   Acc Lst: MNF                                                     
+Comments: STONYFORD MICR. RX FIRE USE____4-13-01 NAME CHAN, 7/2/2013 SITE CHANG 
+E LOCATION TO POWDER HOUSE AREA;MNF 01 PORTABLE HAS BEEN DEPLOYED IN THE POWDER 
+ HOUSE AREA (GRINDSTONE CANYON ) AS OF 6-14-2014, STATION WAS DEPLOYED 200 FEET 
+ BELOW LAST YEARS SPOT AND IS NO LONGER VISIBLE FROM LOWER POND ROAD. N39:40.11 
+9 W122:36.640 ELEV. 1632                                                        
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   3230E098     9   Rain Accumulation, Inches                  PC               
+   3230E098    10   Wind Speed MPH, Miles per Hour             US               
+   3230E098    11   Wind Direction Degrees, Degrees            UD               
+   3230E098    12   Air Temperature, Standard Placement, Deg   TA               
+   3230E098    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   3230E098    14   Relative Humidity, Percent                 XR               
+   3230E098    15   Battery Voltage, volts                     VB               
+   3230E098    17   Fuel Moisture, Percent                     MM               
+   3230E098    18   Wind Direction, Peak, Degrees              UX               
+   3230E098    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   3230E098    20   Solar Radiation, watts per meter squared   RD               

@@ -1,0 +1,33 @@
+
+WLSTINV1-Weather Station Inventory for                       44321              
+                                                                                
+Station: 044321   Name: FORT ORD 2             NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 26-Aug-2011     Obs Time/Z: 13/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: 109692     Fcst Zone: 521                       
+                                                                                
+State: 06-CA   County: 053-Monterey            Lat/Lon: 36 35 58, 121 45  9     
+Obs Agy: 2 (USDI BLM)     Unit: CABBD        Mnemonic: FT OR      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site:    Elev:   768   Asp:    Ann Prec:  18.00   Season:                       
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: ____________   Acc Lst: ________                                          
+Comments: NESDIS # TAKEN FROM STA # 109692 ON 2/7/04.  THIS TEMP STA WILL BE RE 
+PLACED WITH PERM STA WHEN WE GET $.  AT THAT TIME WE WILL GET ITS OWN NESDIS #  
+AND RETURN THIS ONE BACK TO K. SHELLEY.                                         
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

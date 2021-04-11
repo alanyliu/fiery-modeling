@@ -1,0 +1,39 @@
+
+WLSTINV1-Weather Station Inventory for                       45229              
+                                                                                
+Station: 045229   Name: PURISIMA HILLS         NESDIS: 32A206B8                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 19-Feb-2020     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 500                       
+                                                                                
+State: 06-CA   County: 083-Santa Barbara       Lat/Lon: 34 42 43, 120 23 29     
+Obs Agy: 5 (State   )     Unit: SBC FIRE     Mnemonic: SBC      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  1170   Asp: 4   Ann Prec:  15.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: aeb   Acc Lst: ________                                                   
+Comments:                                                                       
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B F 19-nov-19 _________ _ 3 A 2  BI 5  90  55  97 100                     
+   2 7G F 19-nov-19 _________ _ 3 A 2  EC 5  90  55  97  60                     
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   32A206B8     9   Rain Accumulation, Inches                  PC               
+   32A206B8    10   Wind Speed MPH, Miles per Hour             US               
+   32A206B8    11   Wind Direction Degrees, Degrees            UD               
+   32A206B8    12   Air Temperature, Standard Placement, Deg   TA               
+   32A206B8    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   32A206B8    14   Relative Humidity, Percent                 XR               
+   32A206B8    15   Battery Voltage, volts                     VB               
+   32A206B8    17   Fuel Moisture, Percent                     MM               
+   32A206B8    18   Wind Direction, Peak, Degrees              UX               
+   32A206B8    19   Wind speed peak, Miles per Hour            UP               
+   32A206B8    20   Solar Radiation, watts per meter squared   RD               

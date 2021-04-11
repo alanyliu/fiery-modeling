@@ -1,0 +1,55 @@
+
+WLSTINV1-Weather Station Inventory for                       41215              
+                                                                                
+Station: 041215   Name: OPENSHAW               NESDIS: CA215732                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 10-Feb-2020     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 596                       
+                                                                                
+State: 06-CA   County: 007-Butte               Lat/Lon: 39 35 23, 121 38 6.     
+Obs Agy: 5 (State   )     Unit: BTU          Mnemonic: _____      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:   268   Asp: 0   Ann Prec:  35.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: 6   Acc Lst: BTU                                                          
+Comments: NEW SITE BEING TESTED TO REPLACE THE CHICO RAWS.  CURRENTLY USING A P 
+RAWS FROM BOISE WHICH IS COLLECTING WINDS FROM A 20' MAST.  WATERS 6/13/2013    
+                                                                                
+04/16/2014 ADDED FUEL MODEL G FOR PREDICTIVE SERVICES. TPERSON                  
+                                                                                
+04/17/2014 NESDIS ID 32D6F6AA (ID-BLM PRAWS 5) HAS BEEN REPLACED BY CA215732 (F 
+ROM CHICO 041210) THAT WAS MOVED TODAY. TPERSON BTU WIMS MANAGER.               
+                                                                                
+04/18/2014 NO SENSOR DATA WAS BEING RECEIVED FROM WFMI. CONTACTED THE RAWS HELP 
+ DESK AND THEY HAVE MADE UPDATES TO THE LAT/LONG AND ELEVATION IN WFMI. THIS CR 
+ITICAL CHANGE SHOULD RESYNC THE SENSORS. TPERSON                                
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7A F 28-nov-19 29-nov-18 _ 1 A 2  BI 5  90  41  97  55                     
+   2 7G F 28-nov-19 29-nov-18 _ 1 A 2  BI 5  90  68  97  88                     
+   3 16V _ _________ _________ _ 1 A   __                                       
+   4 16W _ _________ _________ _ 1 A   __                                       
+   5 16X _ _________ _________ _ 1 A   __                                       
+   6 16Y _ _________ _________ _ 1 A   __                                       
+   7 16Z _ _________ _________ _ 1 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA215732     9   Rain Accumulation, Inches                  PC               
+   CA215732    10   Wind Speed MPH, Miles per Hour             US               
+   CA215732    11   Wind Direction Degrees, Degrees            UD               
+   CA215732    12   Air Temperature, Standard Placement, Deg   TA               
+   CA215732    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA215732    14   Relative Humidity, Percent                 XR               
+   CA215732    15   Battery Voltage, volts                     VB               
+   CA215732    17   Fuel Moisture, Percent                     MM               
+   CA215732    18   Wind Direction, Peak, Degrees              UX               
+   CA215732    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA215732    20   Solar Radiation, watts per meter squared   RD               

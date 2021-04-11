@@ -1,0 +1,30 @@
+
+WLSTINV1-Weather Station Inventory for                       44903              
+                                                                                
+Station: 044903   Name: HIGH MOUNTAIN          NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 17-Dec-2001     Obs Time/Z: 13/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 520                       
+                                                                                
+State: 06-CA   County: 079-San Luis Obispo     Lat/Lon: 35 18  0, 120 24  0     
+Obs Agy: 5 (State   )     Unit: SLU          Mnemonic: HIGHM      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  3180   Asp:    Ann Prec:  25.00   Season:                      
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: 3b8   Acc Lst: ________                                                   
+Comments: RECOVERED STATION                                                     
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

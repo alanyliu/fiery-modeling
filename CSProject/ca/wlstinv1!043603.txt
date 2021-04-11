@@ -1,0 +1,35 @@
+
+WLSTINV1-Weather Station Inventory for                       43603              
+                                                                                
+Station: 043603   Name: BUCK MEADOWS           NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 17-Jun-2014     Obs Time/Z: 13/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 539                       
+                                                                                
+State: 06-CA   County: 109-Tuolumne            Lat/Lon: 37 49 24, 120  5 51     
+Obs Agy: 1 (USDA FS )     Unit: CA-STF       Mnemonic: BUCK      FS Reg:   5    
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  3200   Asp: 4   Ann Prec:  35.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS7543   Acc Lst: ________                                                
+Comments: CONVERTED TO AUTOMATED FTS STATION 3/12/98                            
+RECALC 05/08/07 LPHILLIPS                                                       
+CHANGED NESDIS ID FROM 326DF4CA TO 3334211E 05/29/12 WBARRIOS                   
+BUCK MDWS. RAWS RELOCATED TO SMITH PEAK, ABOUT 1.5 MILES TO THE SOUTH OF THE OR 
+IGINAL SITE IN MAY 2012.  NEW SITE IS 700 FEET HIGHER.                          
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

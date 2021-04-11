@@ -1,0 +1,50 @@
+
+WLSTINV1-Weather Station Inventory for                       43802              
+                                                                                
+Station: 043802   Name: CORRALITOS             NESDIS: CA22D628                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 22-Dec-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: 043805     Fcst Zone: 550                       
+                                                                                
+State: 06-CA   County: 087-Santa Cruz          Lat/Lon: 36 59 27, 121 48 17     
+Obs Agy: 5 (State   )     Unit: CZU          Mnemonic: CORRW      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:   327   Asp: 4   Ann Prec:  31.23   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: d67   Acc Lst: CZU                                                        
+Comments: ON 04/15/09 THE STATION WAS ENTIRELY CONVERTED TO NEW FTS EQUIPMENT A 
+ND TRANSMITS USING HIGH DATA RATE ON NEW CHANNEL & TIME SLOT.  OBS TIME DID NOT 
+ CHANGE.  TESTED TIPPING BUCKET AND RESET RAINFALL.  LAT/LONG, ELEV AMENDED BAS 
+ED UPON ON-SITE GPS (NAD83) WHEN STATION WAS UPGRADED.  DFORREST CDF FIRE WX PR 
+OGRAM COORDINATOR 07/23/09                                                      
+                                                                                
+RAIN SENSOR REPAIRED, SEASON TOTAL RESET 08-MAR-04.  J.BEATH                    
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G F 31-oct-19 21-mar-19 _ 2 A 3  BI 5  90  34  97  39                     
+   2 16V _ _________ _________ _ 2 A   __                                       
+   3 16W _ _________ _________ _ 2 A   __                                       
+   4 16X _ _________ _________ _ 2 A   __                                       
+   5 16Y _ _________ _________ _ 2 A   __                                       
+   6 16Z _ _________ _________ _ 2 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA22D628     9   Rain Accumulation, Inches                  PC               
+   CA22D628    10   Wind Speed MPH, Miles per Hour             US               
+   CA22D628    11   Wind Direction Degrees, Degrees            UD               
+   CA22D628    12   Air Temperature, Standard Placement, Deg   TA               
+   CA22D628    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA22D628    14   Relative Humidity, Percent                 XR               
+   CA22D628    15   Battery Voltage, volts                     VB               
+   CA22D628    17   Fuel Moisture, Percent                     MM               
+   CA22D628    18   Wind Direction, Peak, Degrees              UX               
+   CA22D628    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA22D628    20   Solar Radiation, watts per meter squared   RD               

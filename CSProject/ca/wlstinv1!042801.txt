@@ -1,0 +1,30 @@
+
+WLSTINV1-Weather Station Inventory for                       42801              
+                                                                                
+Station: 042801   Name: LEVIATHON LO           NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 27-Nov-2001     Obs Time/Z: 13/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 453                       
+                                                                                
+State: 06-CA   County: 003-Alpine              Lat/Lon: 39 41 54, 119 39 30     
+Obs Agy: 1 (USDA FS )     Unit: _________    Mnemonic: LEVLO      FS Reg:   4   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site:    Elev:  8985   Asp:    Ann Prec:  25.00   Season:                       
+Ltng scale:    Hum code:    Temp code:    Pres code: 1                          
+   Wind Spd code:    KBDI:    One/Ten Fl: N                                     
+                                                                                
+User: ____________   Acc Lst: ________                                          
+Comments: STATION CLOSED - RECAPTURE OF STATION CATALOG                         
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

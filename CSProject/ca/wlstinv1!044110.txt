@@ -1,0 +1,76 @@
+
+WLSTINV1-Weather Station Inventory for                       44110              
+                                                                                
+Station: 044110   Name: MIAMI                  NESDIS: 324015B0                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 24-Jan-2020     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: 044110     Fcst Zone: 532                       
+                                                                                
+State: 06-CA   County: 043-Mariposa            Lat/Lon: 37 25 9., 119 44 43     
+Obs Agy: 1 (USDA FS )     Unit: SNF          Mnemonic: MIAMI      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  4267   Asp: 4   Ann Prec:  38.00   Season:                     
+Ltng scale:   4.71   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: b7f   Acc Lst: CONTROL                                                    
+Comments: GREEN UP AND RECALC 23-APR-12, ANNUAL MAINT. COMPLETED 6/22/12 (AIR T 
+EMP/RH & FUEL MOISTURE/ FUEL TEMP SENSORD REPLACED. ANNUAL PRECIP AMOUNT RESET  
+TO .02 BY BC58 7/1.                                                             
+PER DISTRICT FUELS BC STATION SET TO FROZEN ON 25-OCT-2012 AND RE-CALC ON 02-NO 
+V-2012 (KTHOM)                                                                  
+                                                                                
+PER BC58 GREEN UP 3/17/14 KTHOM                                                 
+4/15/14 RAWS ANNUAL  MAINTENANCE FOR THE STATIONS ON THE BASS LAKE RD.  ALL STA 
+TIONS HAD THE FUEL STICK & AIR TEMPERATURE/RELATIVE HUMIDITY SENSORS CHANGED OU 
+T                                                                               
+                                                                                
+PER BC58 FUEL STICK REPLACED ON 3/5/15. MAS                                     
+                                                                                
+PER BC58 GREEN-UP/RECALC ON 3/18/15. MAS                                        
+                                                                                
+PER BC58 STATION FROZEN ON 12/4/15. BM                                          
+PER BC58 STATION SET TO GREEN UP 3/22/16                                        
+                                                                                
+PER BC58 RAWS ANNUAL MAINTENANCE COMPLETED 3/3/17 & FM STICK ALSO CHANGED OUT.  
+(ALC) 3/14/17                                                                   
+PER BC58 GREEN UP STATION AS OF 3/31/18                                         
+                                                                                
+PER CAPT.58 ANNUAL STATION MAINT COMPLETE. FUEL STICK REPLACED, AIR TEMP/RH SEN 
+SOR, SOLAR RADIATION SENSOR ALL REPLACED AND UPDATED IN WFMI. 2/28/19 BM        
+PER BC58 GREEN UP AS OF 4/7/19;SW                                               
+                                                                                
+PER BC58, MAINTENANCE COMPLETED 1/23/20. NEW FUEL STICK, AIR TEMP / RH AND SOLA 
+R RADIATION SENSORS REPLACED. BM                                                
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B C 25-apr-19 07-apr-18 _ 4 A 2  BI 5  90 171  97 195                     
+   2 7G C 25-apr-19 07-apr-18 _ 4 A 2  BI 5  90  96  97 105                     
+   3 16V _ _________ _________ _ 4 A   __                                       
+   4 16W _ _________ _________ _ 4 A   __                                       
+   5 16X _ _________ _________ _ 4 A   __                                       
+   6 16Y _ _________ _________ _ 4 A   __                                       
+   7 16Z _ _________ _________ _ 4 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   324015B0     9   Rain Accumulation, Inches                  PC               
+   324015B0    10   Wind Speed MPH, Miles per Hour             US               
+   324015B0    11   Wind Direction Degrees, Degrees            UD               
+   324015B0    12   Air Temperature, Standard Placement, Deg   TA               
+   324015B0    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   324015B0    14   Relative Humidity, Percent                 XR               
+   324015B0    15   Battery Voltage, volts                     VB               
+   324015B0    17   Fuel Moisture, Percent                     MM               
+   324015B0    18   Wind Direction, Peak, Degrees              UX               
+   324015B0    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   324015B0    20   Solar Radiation, watts per meter squared   RD               
+   324015B0    21   Air Temperature, 24 Hour High, Degrees F   TX               
+   324015B0    22   Air Temperature, 24 Hour Low, Degrees Fa   TN               
+   324015B0    23   Relative Humidity, 24 Hour High, Percent   XS               
+   324015B0    24   Relative Humidity, 24 Hour Low, Percent    XQ               

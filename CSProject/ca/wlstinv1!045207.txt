@@ -1,0 +1,30 @@
+
+WLSTINV1-Weather Station Inventory for                       45207              
+                                                                                
+Station: 045207   Name: SANTA YNEZ             NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 02-Nov-1998     Obs Time/Z: 13/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 502                       
+                                                                                
+State: 06-CA   County: 083-Santa Barbara       Lat/Lon: 34 36  0, 119  6  0     
+Obs Agy: 6 (Local Gv)     Unit: SBC          Mnemonic: SANTA      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:   600   Asp:    Ann Prec:    Season:                            
+Ltng scale:   1.00   Hum code:    Temp code: 1   Pres code: 1                   
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: ____________   Acc Lst: ________                                          
+Comments: RECOVERED STATION                                                     
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

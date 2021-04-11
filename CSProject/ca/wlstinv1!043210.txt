@@ -1,0 +1,49 @@
+
+WLSTINV1-Weather Station Inventory for                       43210              
+                                                                                
+Station: 043210   Name: COTTAGE                NESDIS: 32870096                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 24-Jun-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 539                       
+                                                                                
+State: 06-CA   County: 009-Calaveras           Lat/Lon: 38 20 45, 120 13 46     
+Obs Agy: 1 (USDA FS )     Unit: STF          Mnemonic: COTT      FS Reg:   5    
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  6064   Asp: 0   Ann Prec:  35.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: 912   Acc Lst: STFECC                                                     
+Comments: STATION ESTABLISHED ON SOUTH ASPECT NEAR TOP OF SUMMIT LEVEL RIDGE ON 
+ 10/8/2008. ORIGINAL STATION NAME: STF TEST (CALAVERAS), CALLED STANISLAUS IN R 
+OMAN, ORIGINAL WIMS ID: 049901                                                  
+STATION MOVED TO THE TOP OF SUMMIT LEVEL RIDGE 8/31/10 AT 1400. NEW STATION CAT 
+ALOG CREATED 9/20/2010 FOR NEW WIMS ID: 043210 AND NEW STATION NAME: COTTAGE    
+RECALC 4/17/18                                                                  
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G C 30-jun-19 21-may-19 _ 2 A 3  EC 5  90  79  97  84                     
+   2 16V _ _________ _________ _ 2 A   __                                       
+   3 16W _ _________ _________ _ 2 A   __                                       
+   4 16X _ _________ _________ _ 2 A   __                                       
+   5 16Y _ _________ _________ _ 2 A   __                                       
+   6 16Z _ _________ _________ _ 2 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   32870096     9   Rain Accumulation, Inches                  PC               
+   32870096    10   Wind Speed MPH, Miles per Hour             US               
+   32870096    11   Wind Direction Degrees, Degrees            UD               
+   32870096    12   Air Temperature, Standard Placement, Deg   TA               
+   32870096    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   32870096    14   Relative Humidity, Percent                 XR               
+   32870096    15   Battery Voltage, volts                     VB               
+   32870096    17   Fuel Moisture, Percent                     MM               
+   32870096    18   Wind Direction, Peak, Degrees              UX               
+   32870096    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   32870096    20   Solar Radiation, watts per meter squared   RD               

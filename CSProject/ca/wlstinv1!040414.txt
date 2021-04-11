@@ -1,0 +1,30 @@
+
+WLSTINV1-Weather Station Inventory for                       40414              
+                                                                                
+Station: 040414   Name: SHELTON BUTTE LO       NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 01-Jun-2012     Obs Time/Z: 13/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 555                       
+                                                                                
+State: 06-CA   County: 023-Humboldt            Lat/Lon: 41 14 20, 123 37 54     
+Obs Agy: 1 (USDA FS )     Unit: SRF          Mnemonic: SHELT      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  3567   Asp: 4   Ann Prec:  60.00   Season:                     
+Ltng scale:   1.00   Hum code: 1   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: FS11167   Acc Lst: SRF                                                    
+Comments: HISTORICAL RECORD 1961-1973_(NO DATA FOR 1971)                        
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

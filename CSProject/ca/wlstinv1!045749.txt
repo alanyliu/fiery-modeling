@@ -1,0 +1,50 @@
+
+WLSTINV1-Weather Station Inventory for                       45749              
+                                                                                
+Station: 045749   Name: WIRE MOUNTAIN          NESDIS: 923055A4                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 04-Feb-2020     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: SGX                       
+                                                                                
+State: 06-CA   County: 073-San Diego           Lat/Lon: 33 14 8., 117 22 4.     
+Obs Agy: 11 (Undef   )     Unit: CA-MCP       Mnemonic: WIRE      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:   245   Asp: 0   Ann Prec:  10.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: e02   Acc Lst: MCP RAWS                                                   
+Comments:                                                                       
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7F C 05-feb-20 15-jan-20 _ 2 A 2  BI 5  90 101  97 161                     
+   2 7G C 05-feb-20 15-jan-20 _ 2 A 2  EC 5  90  79  97 101                     
+   5 16V _ _________ _________ _ 2 A   __                                       
+   6 16W _ _________ _________ _ 2 A   __                                       
+   7 16X _ _________ _________ _ 2 A   __                                       
+   8 16Y _ _________ _________ _ 2 A   __                                       
+   9 16Z _ _________ _________ _ 2 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   923055A4     9   Rain Accumulation, Inches                  PC               
+   923055A4    10   Wind Speed MPH, Miles per Hour             US               
+   923055A4    11   Wind Direction Degrees, Degrees            UD               
+   923055A4    12   Air Temperature, Standard Placement, Deg   TA               
+   923055A4    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   923055A4    14   Relative Humidity, Percent                 XR               
+   923055A4    15   Battery Voltage, volts                     VB               
+   923055A4    17   Fuel Moisture, Percent                     MM               
+   923055A4    18   Wind Direction, Peak, Degrees              UX               
+   923055A4    19   Wind speed peak, Miles per Hour            UP               
+   923055A4    20   Solar Radiation, watts per meter squared   RD               
+   923055A4    21   Air Temperature, 24 Hour High, Degrees F   TX               
+   923055A4    22   Air Temperature, 24 Hour Low, Degrees Fa   TN               
+   923055A4    23   Relative Humidity, 24 Hour High, Percent   XS               
+   923055A4    24   Relative Humidity, 24 Hour Low, Percent    XQ               
+   923055A4    26   Soil Temperature "F", Degrees Fahrenheit   TG               
+   923055A4    28   Soil Temperature "F" 2, Degrees Fahrenhe   TG               

@@ -1,0 +1,43 @@
+
+WLSTINV1-Weather Station Inventory for                       40995              
+                                                                                
+Station: 040995   Name: PNF 11 PORTABLE        NESDIS: 3238C2D2                 
+                                                                                
+Type: 3 (RAWS S non-NFDRS)   Create/Mod Date: 10-Apr-2003     Obs Time/Z: 13/PS 
+T                                                                               
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 599                       
+                                                                                
+State: 06-CA   County: 063-Plumas              Lat/Lon: 39 56  3, 120 33  4     
+Obs Agy: 1 (USDA FS )     Unit: PLUMAS       Mnemonic: PNF11      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  6228   Asp: 0   Ann Prec:  32.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: FS6306   Acc Lst: PNFECC                                                  
+Comments:                                                                       
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   3238C2D2     9   Rain Accumulation, Inches                  PC               
+   3238C2D2    10   Windspeed, Miles per Hour                  US               
+   3238C2D2    11   Wind Direction, Degrees                    UD               
+   3238C2D2    12   Air Temperature, Standard Placement, Deg   TA               
+   3238C2D2    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   3238C2D2    14   Relative Humidity, Percent                 XR               
+   3238C2D2    15   Battery Voltage, volts                     VB               
+   3238C2D2    17   Fuel Moisture, Percent                     MM               
+   3238C2D2    18   Wind Direction, Peak, Degrees              UX               
+   3238C2D2    19   Windspeed, Peak, Miles per Hour            UP               
+   3238C2D2    20   Air Temperature, 12 Hour High, Degrees F   TX               
+   3238C2D2    21   Air Temperature, 12 Hour Low, Degrees Fa   TN               
+   3238C2D2    22   Relative Humidity, 12 Hour High, Percent   XS               
+   3238C2D2    23   Relative Humidity, 12 Hour Low , Percent   XQ               

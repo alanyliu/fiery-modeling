@@ -1,0 +1,39 @@
+
+WLSTINV1-Weather Station Inventory for                       45793              
+                                                                                
+Station: 045793   Name: CLEVELANDPORTABLE#2    NESDIS: 327050CA                 
+                                                                                
+Type: 3 (RAWS S non-NFDRS)   Create/Mod Date: 16-Jul-2003     Obs Time/Z: 13/PS 
+T                                                                               
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 513                       
+                                                                                
+State: 06-CA   County: 073-San Diego           Lat/Lon: 33 18 59, 116 44 3.     
+Obs Agy: 1 (USDA FS )     Unit: PRD          Mnemonic: CNFP      FS Reg:   5    
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  3727   Asp: 0   Ann Prec:  20.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: FS11243   Acc Lst: WOOD                                                   
+Comments: THIS IS A REMOTE RAWS TO BE USED FOR RX AND PROJECT BURNS.            
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   327050CA     9   Rain Accumulation, Inches                  PC               
+   327050CA    10   Wind Speed MPH, Miles per Hour             US               
+   327050CA    11   Wind Direction Degrees, Degrees            UD               
+   327050CA    12   Air Temperature, Standard Placement, Deg   TA               
+   327050CA    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   327050CA    14   Relative Humidity, Percent                 XR               
+   327050CA    15   Battery Voltage, volts                     VB               
+   327050CA    17   Fuel Moisture, Percent                     MM               
+   327050CA    18   Wind Direction, Peak, Degrees              UX               
+   327050CA    19   Wind Speed Peak MPH, Miles per Hour        UP               

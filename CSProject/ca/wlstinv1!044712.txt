@@ -1,0 +1,50 @@
+
+WLSTINV1-Weather Station Inventory for                       44712              
+                                                                                
+Station: 044712   Name: UHL/HOT SPRINGS        NESDIS: 3231429A                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 07-Jan-2020     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 529                       
+                                                                                
+State: 06-CA   County: 107-Tulare              Lat/Lon: 35 53 12, 118 38 54     
+Obs Agy: 1 (USDA FS )     Unit: SQF          Mnemonic: HTSPG      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  3768   Asp: 1   Ann Prec:  30.00   Season:                     
+Ltng scale:   2.90   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS11391   Acc Lst: DISPATCH                                               
+Comments: RAWS ACTIVATED 9 AUG 96                                               
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B F 14-nov-19 12-jun-19 _ 4 A 2  BI 5  90 150  97 162                     
+   2 7A F 14-nov-19 12-jun-19 _ 4 A 2  BI 5  90  48  97  54                     
+   3 7L F 14-nov-19 12-jun-19 _ 4 A 2  BI 5  90  58  97  66                     
+   4 7G F 14-nov-19 12-jun-19 _ 2 A 2  EC 5  90  80  97  85                     
+   5 16V _ _________ _________ _ 4 A   __                                       
+   6 16W _ _________ _________ _ 4 A   __                                       
+   7 16X _ _________ _________ _ 4 A   BI 5  90 195  97 223                     
+   8 16Y _ _________ _________ _ 4 A   BI 5  90  59  97  62                     
+   9 16Z _ _________ _________ _ 4 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   3231429A     9   Rain Accumulation, Inches                  PC               
+   3231429A    10   Wind Speed MPH, Miles per Hour             US               
+   3231429A    11   Wind Direction Degrees, Degrees            UD               
+   3231429A    12   Air Temperature, Standard Placement, Deg   TA               
+   3231429A    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   3231429A    14   Relative Humidity, Percent                 XR               
+   3231429A    15   Battery Voltage, volts                     VB               
+   3231429A    17   Fuel Moisture, Percent                     MM               
+   3231429A    18   Wind Direction, Peak, Degrees              UX               
+   3231429A    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   3231429A    20   Air Temperature, 24 Hour High, Degrees F   TX               
+   3231429A    21   Air Temperature, 24 Hour Low, Degrees Fa   TN               
+   3231429A    22   Relative Humidity, 24 Hour High, Percent   XS               
+   3231429A    23   Relative Humidity, 24 Hour Low, Percent    XQ               
+   3231429A    24   Solar Radiation, watts per meter squared   RD               

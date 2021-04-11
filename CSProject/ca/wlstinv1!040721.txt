@@ -1,0 +1,52 @@
+
+WLSTINV1-Weather Station Inventory for                       40721              
+                                                                                
+Station: 040721   Name: GRASSHOPPER            NESDIS: CA2090D6                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 12-Dec-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 598                       
+                                                                                
+State: 06-CA   County: 035-Lassen              Lat/Lon: 40 46 54, 120 47 3.     
+Obs Agy: 5 (State   )     Unit: LMU          Mnemonic: GRS      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:  6158   Asp: 6   Ann Prec:  16.50   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: WICA220   Acc Lst: LMU                                                    
+Comments: CHANGED THE REGULAR SCHEDULED OBS. TIME FROM 1300 TO 1200 HRS IN STAT 
+ION CATALOG. TX TIME IS 47 AFTER THE HOUR, 1247 IS CLOSER TO 1300 THEN 1347 THE 
+REFORE 1200 OBS SHOULD BE USED FOR DAILY OBS.  B.SCHIEBER CDF NORTHERN REGION W 
+X COORDINATOR 1/22/05.                                                          
+ON 07/20/06 THE STATION WAS ENTIRELY CONVERTED TO NEW FTS EQUIPMENT AND TRANSMI 
+TS USING HIGH DATA RATE ON NEW CHANNEL. OBS TIME UNCHANGED. TESTED TIPPING BUCK 
+ET AND RESET RAINFALL.  DFORREST CDF FIRE WX PROGRAM COORDINATOR                
+LAT/LONG, ELEV AMENDED BASED UPON ON-SITE GPS (NAD83) WHEN STATION WAS UPGRADED 
+ ON 07/20/06.  DFORREST CDF FIRE WX PROGRAM COORDINATOR 09/26/06                
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G F 14-nov-19 29-may-19 _ 1 P 2  BI 5  90  57  97  64                     
+   2 16V _ _________ _________ _ 1 P   __                                       
+   3 16W _ _________ _________ _ 1 P   __                                       
+   4 16X _ _________ _________ _ 1 P   __                                       
+   5 16Y _ _________ _________ _ 1 P   BI  90  30  97  33                       
+   6 16Z _ _________ _________ _ 1 P   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA2090D6     9   Rain Accumulation, Inches                  PC               
+   CA2090D6    10   Wind Speed MPH, Miles per Hour             US               
+   CA2090D6    11   Wind Direction Degrees, Degrees            UD               
+   CA2090D6    12   Air Temperature, Standard Placement, Deg   TA               
+   CA2090D6    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA2090D6    14   Relative Humidity, Percent                 XR               
+   CA2090D6    15   Battery Voltage, volts                     VB               
+   CA2090D6    17   Fuel Moisture, Percent                     MM               
+   CA2090D6    18   Wind Direction, Peak, Degrees              UX               
+   CA2090D6    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA2090D6    20   Solar Radiation, watts per meter squared   RD               

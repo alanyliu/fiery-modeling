@@ -1,0 +1,45 @@
+
+WLSTINV1-Weather Station Inventory for                       44190              
+                                                                                
+Station: 044190   Name: WOFFORD HEIGHTS        NESDIS: 3278E7E2                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 12-Dec-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 530                       
+                                                                                
+State: 06-CA   County: 029-Kern                Lat/Lon: 35 43 18, 118 29 56     
+Obs Agy: 2 (USDI BLM)     Unit: BLM/CND      Mnemonic: WOFF      FS Reg:   5    
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  3935   Asp: 4   Ann Prec:  15.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: FS11389   Acc Lst: DISPATCH                                               
+Comments: PORTABLE MICRO RAWS-HUNTER MTN RX, T04S,R15E,S11                      
+PORTABLE MICRO RAWS HAS BEEN AT WOFFORD HEIGHTS LOCATION APPROX 10 YEARS,       
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B F 12-dec-19 30-mar-19 _ 4 A 2  BI 5  90 192  97 207                     
+   2 16V _ _________ _________ _ 4 A   __                                       
+   3 16W _ _________ _________ _ 4 A   __                                       
+   4 16X _ _________ _________ _ 4 A   __                                       
+   5 16Y _ _________ _________ _ 4 A   __                                       
+   6 16Z _ _________ _________ _ 4 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   3278E7E2     9   Rain Accumulation, Inches                  PC               
+   3278E7E2    10   Wind Speed MPH, Miles per Hour             US               
+   3278E7E2    11   Wind Direction Degrees, Degrees            UD               
+   3278E7E2    12   Air Temperature, Standard Placement, Deg   TA               
+   3278E7E2    14   Relative Humidity, Percent                 XR               
+   3278E7E2    15   Battery Voltage, volts                     VB               
+   3278E7E2    17   Wind Direction, Peak, Degrees              UX               
+   3278E7E2    18   Wind Speed Peak MPH, Miles per Hour        UP               
+   3278E7E2    19   Solar Radiation, watts per meter squared   RD               
+   3278E7E2    20   Soil Moisture, Percent                     MS               
+   3278E7E2    21   Soil Temperature "F", Degrees Fahrenheit   TG               

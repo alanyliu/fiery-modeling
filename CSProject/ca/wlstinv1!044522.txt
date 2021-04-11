@@ -1,0 +1,76 @@
+
+WLSTINV1-Weather Station Inventory for                       44522              
+                                                                                
+Station: 044522   Name: SHAVER                 NESDIS: CA256792                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 15-Dec-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 528                       
+                                                                                
+State: 06-CA   County: 019-Fresno              Lat/Lon: 37  8 12, 119 15 42     
+Obs Agy: 5 (State   )     Unit: FKU          Mnemonic: SAV      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:  5632   Asp: 5   Ann Prec:  40.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: 3b0   Acc Lst: FKCC                                                       
+Comments: GREEN UP - 04-07-14 DW                                                
+                                                                                
+GREEN UP - 04-01-13 DW                                                          
+                                                                                
+FREEZE - 10/22/12 - DW                                                          
+                                                                                
+GREEN UP - 04-18-12 - DW                                                        
+                                                                                
+FREEZE - 10/20/11 - DW                                                          
+                                                                                
+GREEN UP - 03-01-11 - DW                                                        
+                                                                                
+FREEZE - 10/01/10 - DW                                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+GREEN UP - 04/07/10 - DW                                                        
+                                                                                
+ON 12/10/08 THE STATION WAS ENTIRELY CONVERTED TO NEW FTS EQUIPMENT AND TRANSMI 
+TS USING HIGH DATA RATE ON NEW CHANNEL. OBS TIME HAS NOW CHANGED. TESTED TIPPIN 
+G BUCKET AND RESET RAINFALL.  LAT/LONG, ELEV AMENDED BASED UPON ON-SITE GPS (NA 
+D83).  DFORREST CDF FIRE WX PROGRAM COORDINATOR (09/18/08)                      
+                                                                                
+GREEN-UP DATE 4-28-04; CURED 08-17-04; FROZEN 09-22-04. SB                      
+GREENUP 01-MAY-05. FREEZE 13-OCT-05.                                            
+GREENUP 01-JUN-06.                                                              
+GREEN-UP 05-18-07, BACKDATED TO 05-01-07, RECLAC BY DW.                         
+GREENUP 05-01-08 BY DW.                                                         
+FREEZE 11/17/08 - BE                                                            
+GREENUP 04-24-09 BY DW                                                          
+OWNERSHIP TRANFERRED FROM DWATKINS1 TO JDDAHLBERG W/ NEW ACL - FKCC. 12/15/2019 
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G F 30-nov-19 04-may-19 _ 2 A 3  BI 5  90  45  97  49                     
+   2 7H F 30-nov-19 04-may-19 _ 2 A 3  BI 5  90  18  97  21                     
+   5 16V _ _________ _________ _ 2 A   __                                       
+   6 16W _ _________ _________ _ 2 A   __                                       
+   7 16X _ _________ _________ _ 2 A   __                                       
+   8 16Y _ _________ _________ _ 2 A   __                                       
+   9 16Z _ _________ _________ _ 2 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA256792     9   Rain Accumulation, Inches                  PC               
+   CA256792    10   Wind Speed MPH, Miles per Hour             US               
+   CA256792    11   Wind Direction Degrees, Degrees            UD               
+   CA256792    12   Air Temperature, Standard Placement, Deg   TA               
+   CA256792    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA256792    14   Relative Humidity, Percent                 XR               
+   CA256792    15   Battery Voltage, volts                     VB               
+   CA256792    17   Fuel Moisture, Percent                     MM               
+   CA256792    18   Wind Direction, Peak, Degrees              UX               
+   CA256792    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA256792    20   Solar Radiation, watts per meter squared   RD               

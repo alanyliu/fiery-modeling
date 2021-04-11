@@ -1,0 +1,54 @@
+
+WLSTINV1-Weather Station Inventory for                       44409              
+                                                                                
+Station: 044409   Name: HERNANDEZ              NESDIS: CA2341B0                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 14-Dec-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 524                       
+                                                                                
+State: 06-CA   County: 069-San Benito          Lat/Lon: 36 22 57, 120 51 20     
+Obs Agy: 5 (State   )     Unit: BEU          Mnemonic: HDZ      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  3733   Asp: 6   Ann Prec:  15.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: WICA243   Acc Lst: BEU2                                                   
+Comments: SO. SAN BENITO CO. NFDRS ZONE 525                                     
+                                                                                
+06/12/06 - ON JUNE 8,2006 THE STATION WAS ENTIRELY CONVERTED TO NEW FTS EQUIPME 
+NT AND TRANSMITS USING HIGH DATA RATE ON NEW CHANNEL. OBS TIME UNCHANGED. TESTE 
+D TIPPING BUCKET (TWO TIPS-OKAY) BUT CURRENT RAINFALL DATA (MINUS 0.02) MUST BE 
+ RE-ENTERED INTO LOGGER FOR ACTUAL RAINFALL AMOUNT TO DATE. LOCAL RADIO TECH HA 
+S BEEN INFORMED OF NEED FOR PROPER RAINFALL RE-ENTRY.                           
+     ALSO, ON THIS DATE, THE STATION NAME, LATITUDE, LONGITUDE AND ELEVATION WE 
+RE CHANGED TO MATCH ASCADS DATA.  LAT, LONG AND ELEV WERE TAKEN ON-SITE DURING  
+THE RETROFIT USING NAD 83 DATUM.  DFORREST                                      
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B F 09-dec-19 01-apr-19 _ 3 A 2  BI 5  90 208  97 244                     
+   2 7G F 09-dec-19 01-apr-19 _ 3 A 2  BI 5  90  90  97  94                     
+   5 16V _ _________ _________ _ 3 A   __                                       
+   6 16W _ _________ _________ _ 3 A   __                                       
+   7 16X _ _________ _________ _ 3 A   __                                       
+   8 16Y _ _________ _________ _ 3 A   __                                       
+   9 16Z _ _________ _________ _ 3 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA2341B0     9   Rain Accumulation, Inches                  PC               
+   CA2341B0    10   Wind Speed MPH, Miles per Hour             US               
+   CA2341B0    11   Wind Direction Degrees, Degrees            UD               
+   CA2341B0    12   Air Temperature, Standard Placement, Deg   TA               
+   CA2341B0    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA2341B0    14   Relative Humidity, Percent                 XR               
+   CA2341B0    15   Battery Voltage, volts                     VB               
+   CA2341B0    17   Fuel Moisture, Percent                     MM               
+   CA2341B0    18   Wind Direction, Peak, Degrees              UX               
+   CA2341B0    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA2341B0    20   Solar Radiation, watts per meter squared   RD               

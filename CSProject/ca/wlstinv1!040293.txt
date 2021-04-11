@@ -1,0 +1,30 @@
+
+WLSTINV1-Weather Station Inventory for                       40293              
+                                                                                
+Station: 040293   Name: MT SHASTA 2            NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 17-Oct-2001     Obs Time/Z: 12/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 593                       
+                                                                                
+State: 06-CA   County: 093-Siskiyou            Lat/Lon: 41 18 54, 122 18 54     
+Obs Agy: 1 (USDA FS )     Unit: SHF          Mnemonic: MTSH2      FS Reg:   5   
+                                                                                
+Fuel Stk: 16-Oct-2001   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  3543   Asp: 0   Ann Prec:  36.72   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 473   One/Ten Fl: N                                 
+                                                                                
+User: ____________   Acc Lst: ________                                          
+Comments: BROUGHT ON LINE 7/8/99, RUNNING WITH MAN 40217                        
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

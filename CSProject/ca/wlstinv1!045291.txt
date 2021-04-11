@@ -1,0 +1,30 @@
+
+WLSTINV1-Weather Station Inventory for                       45291              
+                                                                                
+Station: 045291   Name: GLEN ANNIE             NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 15-Apr-1998     Obs Time/Z: 13/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 501                       
+                                                                                
+State: 06-CA   County: 083-Santa Barbara       Lat/Lon: 34 28 25, 119 52  7     
+Obs Agy: 1 (USDA FS )     Unit: LPF          Mnemonic: _____      FS Reg:   5   
+                                                                                
+Fuel Stk: 14-Apr-1998   Wdy FM Mea: ___________                                 
+Site: 2   Elev:   650   Asp: 4   Ann Prec:    Season:                           
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl:                                      
+                                                                                
+User: ____________   Acc Lst: ________                                          
+Comments: HISTORIC, STATION ID CHANGED TO 45215 IN 1993                         
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

@@ -1,0 +1,45 @@
+
+WLSTINV1-Weather Station Inventory for                       40920              
+                                                                                
+Station: 040920   Name: SWAIN                  NESDIS: 324485E8                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 13-Dec-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 597                       
+                                                                                
+State: 06-CA   County: 063-Plumas              Lat/Lon: 40 26 42, 121  6 14     
+Obs Agy: 1 (USDA FS )     Unit: LNF          Mnemonic: SWN      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  6099   Asp: 3   Ann Prec:  34.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: 7db   Acc Lst: SIFC                                                       
+Comments:                                                                       
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G F 11-jul-19 29-may-19 _ 1 A 2  BI 5  90  74  97  84                     
+   2 16V _ _________ _________ _ 1 A   __                                       
+   3 16W _ _________ _________ _ 1 A   __                                       
+   4 16X _ _________ _________ _ 1 A   __                                       
+   5 16Y _ _________ _________ _ 1 A   __                                       
+   6 16Z _ _________ _________ _ 1 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   324485E8     9   Rain Accumulation, Inches                  PC               
+   324485E8    10   Wind Speed MPH, Miles per Hour             US               
+   324485E8    11   Wind Direction Degrees, Degrees            UD               
+   324485E8    12   Air Temperature, Standard Placement, Deg   TA               
+   324485E8    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   324485E8    14   Relative Humidity, Percent                 XR               
+   324485E8    15   Battery Voltage, volts                     VB               
+   324485E8    17   Fuel Moisture, Percent                     MM               
+   324485E8    18   Wind Direction, Peak, Degrees              UX               
+   324485E8    19   Wind speed peak, Miles per Hour            UP               
+   324485E8    20   Solar Radiation, watts per meter squared   RD               
+   324485E8    21   Soil Moisture, Percent                     MS               
+   324485E8    22   Soil Temperature "F", Degrees Fahrenheit   TG               

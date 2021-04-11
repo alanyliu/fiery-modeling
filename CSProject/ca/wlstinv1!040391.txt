@@ -1,0 +1,41 @@
+
+WLSTINV1-Weather Station Inventory for                       40391              
+                                                                                
+Station: 040391   Name: SURPRISE PORTABLE      NESDIS: 3263C538                 
+                                                                                
+Type: 3 (RAWS S non-NFDRS)   Create/Mod Date: 23-Sep-2002     Obs Time/Z: 13/PS 
+T                                                                               
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 570                       
+                                                                                
+State: 06-CA   County: 049-Modoc               Lat/Lon: 41 10 15, 120  3 30     
+Obs Agy: 2 (USDI BLM)     Unit: NORCAL       Mnemonic: SURP      FS Reg:   5    
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:  5200   Asp: 0   Ann Prec:  10.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: BLM1201   Acc Lst: BLM                                                    
+Comments: PORTABLE MICRO RAWS.  TRANSMIT MIN/SEC: 34:50 HOURLY                  
+DCP MODEL: H555, CLASS: 4, CHANNEL: 46                                          
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   3263C538     9   Rain Accumulation, Inches                  PC               
+   3263C538    10   Windspeed, Miles per Hour                  US               
+   3263C538    11   Wind Direction, Degrees                    UD               
+   3263C538    12   Air Temperature, Standard Placement, Deg   TA               
+   3263C538    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   3263C538    14   Relative Humidity, Percent                 XR               
+   3263C538    15   Battery Voltage, volts                     VB               
+   3263C538    17   Fuel Moisture, Percent                     MM               
+   3263C538    18   Wind Direction, Peak, Degrees              UX               
+   3263C538    19   Windspeed, Peak, Miles per Hour            UP               

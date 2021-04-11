@@ -1,0 +1,50 @@
+
+WLSTINV1-Weather Station Inventory for                       43605              
+                                                                                
+Station: 043605   Name: MTELIZ                 NESDIS: 326DE7BC                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 13-Jun-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 539                       
+                                                                                
+State: 06-CA   County: 109-Tuolumne            Lat/Lon: 38  3 46, 120 14 50     
+Obs Agy: 1 (USDA FS )     Unit: STF          Mnemonic: MTELZ      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  4942   Asp: 7   Ann Prec:  35.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: 912   Acc Lst: STFECC                                                     
+Comments: CONVERTED TO AUTOMATED FTS STATION 3/12/98?CONVERTED TO SATELLITE 7/1 
+/99                                                                             
+RECALC 2004                                                                     
+RECALC 05/08/2007                                                               
+RECALC 04/17/18                                                                 
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G C 10-jun-19 22-apr-19 _ 3 A 3  BI 5  90  82  97  90                     
+   2 7G C 10-jun-19 22-apr-19 _ 3 A 3  EC 5  90  84  97  89                     
+   3 7G C 10-jun-19 22-apr-19 _ 2 A 3  EC 5  90  84  97  89                     
+   4 16V _ _________ _________ _ 3 A   __                                       
+   5 16W _ _________ _________ _ 3 A   __                                       
+   6 16X _ _________ _________ _ 3 A   __                                       
+   7 16Y _ _________ _________ _ 3 A   EC  90  40  97  50                       
+   8 16Z _ _________ _________ _ 3 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   326DE7BC     9   Rain Accumulation, Inches                  PC               
+   326DE7BC    10   Wind Speed MPH, Miles per Hour             US               
+   326DE7BC    11   Wind Direction Degrees, Degrees            UD               
+   326DE7BC    12   Air Temperature, Standard Placement, Deg   TA               
+   326DE7BC    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   326DE7BC    14   Relative Humidity, Percent                 XR               
+   326DE7BC    15   Battery Voltage, volts                     VB               
+   326DE7BC    17   Fuel Moisture, Stick Weight, 10 Hour, Pe   MX               
+   326DE7BC    18   Wind Direction, Peak, Degrees              UX               
+   326DE7BC    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   326DE7BC    20   Solar Radiation, watts per meter squared   RD               

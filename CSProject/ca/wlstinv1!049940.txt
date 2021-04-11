@@ -1,0 +1,43 @@
+
+WLSTINV1-Weather Station Inventory for                       49940              
+                                                                                
+Station: 049940   Name: CAMBRIA TEMPORARY      NESDIS: AAB61444                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 29-Oct-2015     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 500                       
+                                                                                
+State: 06-CA   County: 007-Butte               Lat/Lon: 39 28 11, 121 24 32     
+Obs Agy: 5 (State   )     Unit: SLU          Mnemonic: TT309      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  2162   Asp: 0   Ann Prec:  22.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: 3b8   Acc Lst: SLUECC                                                     
+Comments: ADDED TO WIMS 10/28/15 MC                                             
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G C 01-may-15 _________ _ 3 A 2  __ 3  90  41  97  68                     
+   5 16V _ _________ _________ _ 3 A   __                                       
+   6 16W _ _________ _________ _ 3 A   __                                       
+   7 16X _ _________ _________ _ 3 A   __                                       
+   8 16Y _ _________ _________ _ 3 A   __                                       
+   9 16Z _ _________ _________ _ 3 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   AAB61444     9   Rain Accumulation, Inches                  PC               
+   AAB61444    10   Wind Speed MPH, Miles per Hour             US               
+   AAB61444    11   Wind Direction Degrees, Degrees            UD               
+   AAB61444    12   Air Temperature, Standard Placement, Deg   TA               
+   AAB61444    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   AAB61444    14   Relative Humidity, Percent                 XR               
+   AAB61444    15   Battery Voltage, volts                     VB               
+   AAB61444    17   Fuel Moisture, Percent                     MM               
+   AAB61444    18   Wind Direction, Peak, Degrees              UX               
+   AAB61444    19   Wind speed peak, Miles per Hour            UP               
+   AAB61444    20   Solar Radiation, watts per meter squared   RD               

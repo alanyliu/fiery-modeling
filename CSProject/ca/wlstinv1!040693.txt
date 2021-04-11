@@ -1,0 +1,43 @@
+
+WLSTINV1-Weather Station Inventory for                       40693              
+                                                                                
+Station: 040693   Name: PNF23 PORTABLE         NESDIS: 3239A5CE                 
+                                                                                
+Type: 3 (RAWS S non-NFDRS)   Create/Mod Date: 08-Aug-2012     Obs Time/Z: 12/PS 
+T                                                                               
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 599                       
+                                                                                
+State: 06-CA   County: 063-Plumas              Lat/Lon: 39 52 25, 120 45 8.     
+Obs Agy: 1 (USDA FS )     Unit: PLUMAS       Mnemonic: PNF23      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  4400   Asp: 4   Ann Prec:  25.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS7753   Acc Lst: ________                                                
+Comments: THIS STATION WAS GIVEN TO THE PLUMAS BY BETH LITTLE AS AN UPGRADE.  T 
+HE ORIGINAL STATION NAME WAS R502 PORTABLE. THIS STATION IS CURRENTLY IN THE FU 
+ELS LOCKUP.                                                                     
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   3239A5CE     9   Rain Accumulation, Inches                  PC               
+   3239A5CE    10   Wind Speed MPH, Miles per Hour             US               
+   3239A5CE    11   Wind Direction Degrees, Degrees            UD               
+   3239A5CE    12   Air Temperature, Standard Placement, Deg   TA               
+   3239A5CE    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   3239A5CE    14   Relative Humidity, Percent                 XR               
+   3239A5CE    15   Battery Voltage, volts                     VB               
+   3239A5CE    17   Fuel Moisture, Percent                     MM               
+   3239A5CE    18   Wind Direction, Peak, Degrees              UX               
+   3239A5CE    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   3239A5CE    20   Solar Radiation, watts per meter squared   RD               

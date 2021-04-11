@@ -1,0 +1,43 @@
+
+WLSTINV1-Weather Station Inventory for                       43707              
+                                                                                
+Station: 043707   Name: WALKER                 NESDIS: 32729020                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 17-Dec-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 576                       
+                                                                                
+State: 06-CA   County: 051-Mono                Lat/Lon: 38 33 55, 119 27 33     
+Obs Agy: 1 (USDA FS )     Unit: D2           Mnemonic: TOF      FS Reg:   4     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  5440   Asp: 6   Ann Prec:  10.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: BLM2430   Acc Lst: FIRES                                                  
+Comments: FS-RAWS/PERMANENT/PRIMARY/ZONE-459 (RESIDES W/I ZONE-273)             
+[WIIMS DOES NOT ACCEPT ZONE 237 AS A VALID ZONE]                                
+FM-T1P2/BI 80/95% SFC-FDR RATING SCALE                                          
+FM-G1P2/ERC 90/97% SFC-FDR RATING SCALE                                         
+[HF/INTEL/2006]                                                                 
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G F 26-nov-19 01-may-19 _ 1 A 2  EC 5  90 102  97 106                     
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   32729020     9   Rain Accumulation, Inches                  PC               
+   32729020    10   Wind Speed MPH, Miles per Hour             US               
+   32729020    11   Wind Direction Degrees, Degrees            UD               
+   32729020    12   Air Temperature, Standard Placement, Deg   TA               
+   32729020    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   32729020    14   Relative Humidity, Percent                 XR               
+   32729020    15   Battery Voltage, volts                     VB               
+   32729020    17   Fuel Moisture, Percent                     MM               
+   32729020    18   Wind Direction, Peak, Degrees              UX               
+   32729020    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   32729020    20   Solar Radiation, watts per meter squared   RD               

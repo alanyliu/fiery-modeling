@@ -1,0 +1,1310 @@
+Far Fire
+7/6/2019
+Yuba
+38
+100%
+Scott Fire
+6/25/2019
+Yuba
+80
+100%
+Scott Fire
+6/24/2019
+Yuba
+80
+100%
+Levee Fire
+6/8/2019
+Yuba
+70
+100%
+Heavy Range Fire
+8/10/2019
+Yolo
+33
+100%
+Sand Fire
+6/8/2019
+Yolo
+2,512
+100%
+Maria Fire
+10/31/2019
+Ventura
+9,999
+100%
+Easy Fire
+10/30/2019
+Ventura
+1,806
+100%
+Olivas Fire
+10/11/2019
+Ventura
+200
+100%
+Wendy Fire
+10/10/2019
+Ventura
+91
+100%
+Snail Fire
+9/1/2019
+Ventura
+279
+100%
+South Fire
+7/14/2019
+Ventura
+131
+100%
+Tulloch Fire
+9/23/2019
+Tuolumne
+83
+100%
+Preston Fire
+8/8/2019
+Tuolumne
+21
+100%
+Broder Fire
+9/6/2019
+Tulare
+381
+100%
+Creek Fire
+8/31/2019
+Tulare
+756
+100%
+Springs Fire
+6/10/2019
+Tulare
+47
+100%
+Bear Fire
+6/3/2019
+Tulare
+25
+100%
+Yokohl Fire
+6/3/2019
+Tulare
+33
+100%
+Citrus Fire
+6/2/2019
+Tulare
+257
+100%
+Spruce Fire
+6/1/2019
+Tulare
+155
+100%
+Rams Horn Fire
+9/7/2019
+Trinity
+280
+100%
+Henthorne Fire
+9/5/2019
+Trinity
+244
+100%
+Ranch Fire
+11/3/2019
+Tehama
+2,534
+100%
+Rawson Fire
+10/26/2019
+Tehama
+605
+100%
+Inghram Fire
+10/9/2019
+Tehama
+10
+100%
+Corning Fire
+10/9/2019
+Tehama
+68
+100%
+Dales Fire
+10/7/2019
+Tehama
+11
+100%
+South Fire
+9/5/2019
+Tehama
+5,332
+100%
+Red Bank Fire
+9/5/2019
+Tehama
+8,838
+100%
+Paskenta Fire
+6/21/2019
+Tehama
+46
+100%
+Paskenta Fire
+5/20/2019
+Tehama
+63
+100%
+West Butte Fire
+6/8/2019
+Sutter
+1,350
+100%
+Ward Fire
+8/9/2019
+State of Oregon
+1,301
+100%
+Jasper Fire
+7/13/2019
+State of Nevada
+1,165
+100%
+Del Fire
+10/3/2019
+Stanislaus
+18
+100%
+Bridge Fire
+9/13/2019
+Stanislaus
+11
+100%
+Stuhr Fire
+9/11/2019
+Stanislaus
+190
+100%
+Rains Fire
+7/18/2019
+Stanislaus
+35
+100%
+Milton Fire
+7/15/2019
+Stanislaus
+202
+100%
+Rock Fire
+6/26/2019
+Stanislaus
+2,422
+100%
+Stuhr Fire
+6/7/2019
+Stanislaus
+600
+100%
+Kincade Fire
+10/23/2019
+Sonoma
+77,758
+100%
+Glencove Fire
+10/27/2019
+Solano
+140
+100%
+Mare Fire
+9/26/2019
+Solano
+30
+100%
+Timm Fire
+8/13/2019
+Solano
+81
+100%
+Marshview Fire
+7/24/2019
+Solano
+183
+100%
+Nelson Fire
+6/7/2019
+Solano
+24
+100%
+Bar Fire
+9/15/2019
+Siskiyou
+91
+100%
+Duzel Fire
+9/7/2019
+Siskiyou
+15
+100%
+Kidder 2 Fire
+9/7/2019
+Siskiyou
+227
+100%
+Lime Fire
+9/7/2019
+Siskiyou
+1,872
+100%
+Community Fire
+7/27/2019
+Siskiyou
+35
+100%
+Tree Fire
+7/27/2019
+Siskiyou
+83
+100%
+Lumgrey Fire
+6/17/2019
+Siskiyou
+207
+100%
+IronGate Fire
+6/16/2019
+Siskiyou
+10
+100%
+Rocky Fire
+6/14/2019
+Siskiyou
+17
+100%
+Plains Fire
+10/10/2019
+Shasta
+42
+100%
+Cow Fire
+9/24/2019
+Shasta
+16
+100%
+Mountain Fire
+8/22/2019
+Shasta
+600
+100%
+Cottage Fire
+8/15/2019
+Shasta
+156
+100%
+Lower Fire
+8/12/2019
+Shasta
+46
+100%
+Gilbert Fire
+8/4/2019
+Shasta
+30
+100%
+Horse Fire
+7/12/2019
+Shasta
+30
+100%
+Ranch Fire
+7/5/2019
+Shasta
+30
+100%
+Trinity Fire
+6/26/2019
+Shasta
+90
+100%
+Deer Fire
+9/3/2019
+Santa Cruz
+10
+100%
+Point Fire
+10/7/2019
+Santa Clara
+29
+100%
+Reservoir Fire
+9/21/2019
+Santa Clara
+128
+100%
+Jamieson Fire
+8/25/2019
+Santa Clara
+35
+100%
+Bayliss Fire
+8/15/2019
+Santa Clara
+60
+100%
+Sweigert Fire
+7/24/2019
+Santa Clara
+80
+100%
+Aborn Fire
+7/15/2019
+Santa Clara
+47
+100%
+Coyote Fire
+7/2/2019
+Santa Clara
+74
+100%
+Mines Fire
+6/26/2019
+Santa Clara
+17
+100%
+Calaveras Fire
+6/10/2019
+Santa Clara
+35
+100%
+Malech Fire
+6/9/2019
+Santa Clara
+210
+100%
+Canyon Fire
+5/30/2019
+Santa Clara
+144
+100%
+Cave Fire
+11/25/2019
+Santa Barbara
+3,126
+100%
+Real Fire
+10/17/2019
+Santa Barbara
+420
+100%
+McMurray Fire
+9/9/2019
+Santa Barbara
+200
+100%
+Range Fire
+7/28/2019
+Santa Barbara
+100
+100%
+Cabrillo Fire
+10/24/2019
+San Mateo
+62
+100%
+Bitter Fire
+10/11/2019
+San Luis Obispo
+30
+100%
+Ranch Fire
+10/1/2019
+San Luis Obispo
+52
+100%
+Lopez Fire
+9/21/2019
+San Luis Obispo
+220
+100%
+Thompson Fire
+7/24/2019
+San Luis Obispo
+95
+100%
+Gillis Fire
+7/8/2019
+San Luis Obispo
+974
+100%
+McMillan Fire
+6/12/2019
+San Luis Obispo
+1,764
+100%
+Bitter Fire
+6/10/2019
+San Luis Obispo
+120
+100%
+Boulder Fire
+6/5/2019
+San Luis Obispo
+1,127
+100%
+Belmont Fire
+5/29/2019
+San Luis Obispo
+835
+100%
+Flood Fire
+9/5/2019
+San Joaquin
+44
+100%
+Whiskey Fire
+7/16/2019
+San Joaquin
+90
+100%
+Hollow Fire
+7/3/2019
+San Joaquin
+283
+100%
+Copper Fire
+10/30/2019
+San Diego
+50
+100%
+Miller Fire
+10/25/2019
+San Diego
+37
+100%
+Sawday Fire
+10/25/2019
+San Diego
+97
+100%
+Fairmont Fire
+10/15/2019
+San Diego
+10
+100%
+Willow Fire
+9/25/2019
+San Diego
+52
+100%
+Dehesa Fire
+9/24/2019
+San Diego
+200
+100%
+Border 9 Fire
+8/15/2019
+San Diego
+80
+100%
+Caliente Fire
+8/1/2019
+San Diego
+448
+100%
+Dehesa Fire
+7/28/2019
+San Diego
+150
+100%
+Vista Fire
+7/17/2019
+San Diego
+25
+100%
+Border Fire
+7/12/2019
+San Diego
+100
+100%
+Otay Fire
+6/29/2019
+San Diego
+28
+100%
+Weisgarber Fire
+6/20/2019
+San Diego
+120
+100%
+Pauma Fire
+6/10/2019
+San Diego
+15
+100%
+Border Fire
+5/13/2019
+San Diego
+22
+100%
+Hillside Fire
+10/30/2019
+San Bernardino
+200
+100%
+Old Water Fire
+10/23/2019
+San Bernardino
+145
+100%
+Beaumont Fire
+10/21/2019
+San Bernardino
+11
+100%
+Telephone Fire
+9/2/2019
+San Bernardino
+15
+100%
+La Barisa Fire
+8/3/2019
+San Bernardino
+26
+100%
+Star Fire
+7/28/2019
+San Bernardino
+156
+100%
+Milpas Fire
+7/22/2019
+San Bernardino
+81
+100%
+Foster Fire
+9/4/2019
+San Benito
+17
+100%
+Antelope Fire
+9/2/2019
+San Benito
+167
+100%
+Prairie Fire
+8/2/2019
+Sacramento
+50
+100%
+Browns Fire
+8/2/2019
+Sacramento
+84
+100%
+Sobrante Fire
+11/1/2019
+Riverside
+19
+100%
+46 Fire
+10/30/2019
+Riverside
+328
+100%
+Hill Fire
+10/30/2019
+Riverside
+494
+100%
+Johnson Fire
+10/14/2019
+Riverside
+75
+100%
+Wolf Fire
+10/10/2019
+Riverside
+75
+100%
+Sandalwood Fire
+10/10/2019
+Riverside
+1,011
+100%
+Reche Fire
+10/10/2019
+Riverside
+350
+100%
+Eagle Fire
+10/10/2019
+Riverside
+9
+100%
+Warren Fire
+9/30/2019
+Riverside
+19
+100%
+Kennedy Fire
+9/21/2019
+Riverside
+98
+100%
+Bautista Fire
+9/15/2019
+Riverside
+167
+100%
+Horseshoe Fire
+9/14/2019
+Riverside
+520
+100%
+Redwood Fire
+9/12/2019
+Riverside
+34
+100%
+Bailey Fire
+9/10/2019
+Riverside
+10
+100%
+Sycamore Fire
+9/7/2019
+Riverside
+250
+100%
+Tenaja
+9/4/2019
+Riverside
+1,926
+100%
+Sage Fire
+8/27/2019
+Riverside
+12
+100%
+Ivy Fire
+8/25/2019
+Riverside
+80
+100%
+Yucca Fire
+8/22/2019
+Riverside
+34
+100%
+Radio Fire
+8/12/2019
+Riverside
+20
+100%
+Toro Fire
+8/5/2019
+Riverside
+94
+100%
+Meadow Fire
+7/16/2019
+Riverside
+81
+100%
+Orange fire
+7/13/2019
+Riverside
+96
+100%
+Lincoln Fire
+7/12/2019
+Riverside
+80
+100%
+Gibbel Fire
+7/11/2019
+Riverside
+20
+100%
+Wolf Fire
+6/29/2019
+Riverside
+214
+100%
+Nuevo Fire
+6/27/2019
+Riverside
+20
+100%
+Jerry Fire
+6/21/2019
+Riverside
+525
+100%
+Diversion Fire
+5/30/2019
+Riverside
+45
+100%
+66 Fire
+5/29/2019
+Riverside
+55
+100%
+Foothill Fire
+5/20/2019
+Riverside
+26
+100%
+Shady Fire
+5/18/2019
+Riverside
+130
+100%
+Girasol Fire
+4/9/2019
+Riverside
+30
+100%
+Walker Fire
+9/4/2019
+Plumas
+54,612
+100%
+Foothills Fire
+11/25/2019
+Placer
+355
+100%
+Baseline Fire
+9/20/2019
+Placer
+604
+100%
+Dyer Fire
+6/26/2019
+Placer
+148
+100%
+Watt Fire
+6/7/2019
+Placer
+27
+100%
+Sugar Fire
+5/10/2019
+Placer
+65
+100%
+Long Fire
+6/28/2019
+Nevada
+2
+100%
+American Fire
+10/6/2019
+Napa
+526
+100%
+Canyon Fire
+7/22/2019
+Napa
+64
+100%
+Ink Fire
+6/8/2019
+Napa
+50
+100%
+Cross Fire
+10/8/2019
+Monterey, San Luis Obispo
+289
+100%
+Jolon Fire
+9/1/2019
+Monterey
+66
+100%
+Mill Fire
+7/30/2019
+Monterey
+280
+100%
+Lake Fire
+7/29/2019
+Monterey
+316
+100%
+Sargent Fire
+7/9/2019
+Monterey
+190
+100%
+Lonoak Fire
+6/26/2019
+Monterey
+2,546
+100%
+Ardo Fire
+6/12/2019
+Monterey
+43
+100%
+Springs Fire
+9/6/2019
+Mono
+4,840
+100%
+Lone Fire
+9/6/2019
+Modoc
+5,737
+100%
+Meadow Fire (Not a CAL FIRE incident)
+8/2/2019
+Modoc
+103
+100%
+Tucker Fire
+7/28/2019
+Modoc
+14,217
+100%
+Goose 2 Fire
+7/17/2019
+Modoc
+128
+100%
+Border 10 Fire
+8/25/2019
+Mexico, San Diego
+25
+100%
+Border 8 Fire
+8/15/2019
+Mexico
+1,507
+100%
+Merced Fire
+6/29/2019
+Merced
+210
+100%
+Burris Fire
+10/27/2019
+Mendocino
+703
+100%
+Wilson Fire
+10/4/2019
+Mendocino
+10
+100%
+Moose Fire
+8/12/2019
+Mendocino
+225
+100%
+Usal Fire
+7/27/2019
+Mendocino
+130
+100%
+Briceburg Fire
+10/6/2019
+Mariposa
+5,563
+100%
+Gaines Fire
+8/16/2019
+Mariposa
+1,300
+100%
+Hunter Fire
+8/15/2019
+Mariposa
+423
+100%
+Valley Fire
+7/21/2019
+Mariposa
+149
+100%
+Lake Fire
+7/8/2019
+Mariposa
+244
+100%
+Muir Fire
+10/24/2019
+Marin
+67
+100%
+Madera Fire
+7/15/2019
+Madera
+213
+100%
+Getty Fire
+10/27/2019
+Los Angeles
+745
+100%
+Tick Fire
+10/24/2019
+Los Angeles
+4,615
+100%
+Palisades Fire
+10/21/2019
+Los Angeles
+42
+100%
+Saddle Ridge Fire
+10/10/2019
+Los Angeles
+8,799
+100%
+West Fire
+8/13/2019
+Los Angeles
+105
+100%
+Five Fire
+8/3/2019
+Los Angeles
+156
+100%
+Horse Fire
+10/13/2019
+Lassen
+55
+100%
+R-6 Fire
+9/6/2019
+Lassen
+260
+100%
+R-1 Fire
+8/28/2019
+Lassen
+3,380
+100%
+Long Valley Fire
+8/24/2019
+Lassen
+2,438
+100%
+Horse Fire
+8/24/2019
+Lassen
+131
+100%
+W1 McDonald Fire
+8/8/2019
+Lassen
+1,020
+100%
+3-2 Willow (Previously H-1 Fire)
+8/7/2019
+Lassen
+107
+100%
+R-1 Fire
+8/7/2019
+Lassen
+130
+100%
+Doyle Fire
+7/14/2019
+Lassen
+193
+100%
+Snowstorm Fire
+7/5/2019
+Lassen
+263
+100%
+Eagle Fire
+11/4/2019
+Lake
+75
+100%
+Grove Fire
+10/17/2019
+Lake
+25
+100%
+Oak Fire
+9/7/2019
+Lake
+53
+100%
+Glass Fire
+9/4/2019
+Lake
+28
+100%
+Golf Fire
+8/8/2019
+Lake
+20
+100%
+York Fire
+4/28/2019
+Kings
+161
+100%
+Caliente Fire
+8/5/2019
+Kern
+29
+100%
+Mesa Fire
+7/31/2019
+Kern
+448
+100%
+Tejon Fire
+7/21/2019
+Kern
+208
+100%
+Refuge Fire
+5/7/2019
+Kern
+2,500
+100%
+Vulcan Fire
+5/3/2019
+Kern
+172
+100%
+Woody Fire
+4/30/2019
+Kern
+115
+100%
+Taboose Fire
+9/6/2019
+Inyo
+10,296
+100%
+Cow Fire
+9/6/2019
+Inyo
+1,975
+100%
+Pilot Fire
+1/1/2019
+Humboldt
+30
+100%
+Elk Fire
+10/4/2019
+Glenn
+63
+100%
+Mud Fire
+10/18/2019
+Fresno
+137
+100%
+Frame Fire
+9/30/2019
+Fresno
+25
+100%
+Hill Fire
+5/29/2019
+Fresno
+121
+100%
+Caples Fire
+10/11/2019
+El Dorado
+3,435
+100%
+Chaparral Fire
+9/29/2019
+El Dorado
+22
+100%
+Country Fire
+9/3/2019
+El Dorado
+85
+100%
+Patterson Fire
+8/15/2019
+El Dorado
+35
+100%
+Greenstone Fire
+8/14/2019
+El Dorado
+16
+100%
+Carson Fire
+7/30/2019
+El Dorado
+13
+100%
+Forest Fire
+10/27/2019
+Contra Costa
+50
+100%
+Sky Fire
+10/27/2019
+Contra Costa
+150
+100%
+Cypress Complex
+10/27/2019
+Contra Costa
+200
+100%
+Nustar Fire
+10/15/2019
+Contra Costa
+15
+100%
+Merrill Fire
+10/9/2019
+Contra Costa
+40
+100%
+Sellers Fire
+8/7/2019
+Contra Costa
+58
+100%
+Marsh Complex
+8/2/2019
+Contra Costa
+757
+100%
+Fellow Fire
+7/5/2019
+Contra Costa
+24
+100%
+Willow Fire
+6/6/2019
+Contra Costa
+23
+100%
+Spring Fire
+8/14/2019
+Colusa
+20
+100%
+Lynette Fire
+9/22/2019
+Calaveras
+67
+100%
+Whiskey Fire
+7/18/2019
+Calaveras
+27
+100%
+Nelson Fire
+10/24/2019
+Butte
+80
+100%
+Hwy Fire
+9/28/2019
+Butte
+300
+100%
+Swedes Fire
+9/7/2019
+Butte
+496
+100%
+Forbestown Fire
+9/6/2019
+Butte
+58
+100%
+Moms Fire
+7/23/2019
+Butte
+10
+100%
+Mayberry Fire
+6/29/2019
+Butte
+12
+100%
+32 Fire
+6/15/2019
+Butte
+17
+100%
+Meridian Fire
+5/1/2019
+Butte
+50
+100%
+Cana Fire
+4/30/2019
+Butte
+10
+100%
+Electra Fire
+9/25/2019
+Amador
+10
+100%
+Mines Fire
+10/24/2019
+Alameda
+35
+100%
+Little Fire
+10/8/2019
+Alameda
+12
+100%
+Mines Fire
+9/2/2019
+Alameda
+11
+100%
+Carroll Fire
+8/31/2019
+Alameda
+19
+100%
+Patterson Fire
+8/21/2019
+Alameda
+139
+100%
+Harte Fire
+8/9/2019
+Alameda
+240
+100%
+Mid Fire
+7/12/2019
+Alameda
+22
+100%
+Bikeway Fire
+7/5/2019
+Alameda
+25
+100%
+Mountain Fire
+6/21/2019
+Alameda
+30
+100%

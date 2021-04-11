@@ -1,0 +1,30 @@
+
+WLSTINV1-Weather Station Inventory for                       40810              
+                                                                                
+Station: 040810   Name: VINA                   NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 22-Jan-1998     Obs Time/Z: __/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: ____                      
+                                                                                
+State: 06-CA   County: 103-Tehama              Lat/Lon:   ,                     
+Obs Agy: 5 (State   )     Unit: _________    Mnemonic: _____      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site:    Elev: 99999   Asp:    Ann Prec:    Season:                             
+Ltng scale:    Hum code:    Temp code:    Pres code: 1                          
+   Wind Spd code:    KBDI:    One/Ten Fl: N                                     
+                                                                                
+User: ____________   Acc Lst: ________                                          
+Comments:                                                                       
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

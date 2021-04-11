@@ -1,0 +1,48 @@
+
+WLSTINV1-Weather Station Inventory for                       45736              
+                                                                                
+Station: 045736   Name: FREMONT CANYON         NESDIS: CA4AF650                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 14-Jan-2020     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 509                       
+                                                                                
+State: 06-CA   County: 059-Orange              Lat/Lon: 33 48 40, 117 42 30     
+Obs Agy: 6 (Local Gv)     Unit: CA-ORC       Mnemonic: FMC      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  1781   Asp: 0   Ann Prec:  14.00   Season: 1                   
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: WICA1103   Acc Lst: ORC                                                   
+Comments: ORCO FIRE CONTACT: DAVE ERICKSON 714-573-6178 (OFFICE) 949-447-0549 ( 
+CELL)                                                                           
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7N C 31-jan-20 12-dec-19 _ 3 A 2  SC 5  90 240  97 258                     
+   2 7B C 31-jan-20 12-dec-19 _ 3 A 2  BI 5  90  54  97 140                     
+   3 7G C 31-jan-20 12-dec-19 _ 3 A 2  EC 5  90  60  97  65                     
+   4 7A C 31-jan-20 12-dec-19 _ 3 A 2  BI 5  90  30  97  45                     
+   5 16V _ _________ _________ _ 3 A   __  90   97                              
+   6 16W _ _________ _________ _ 3 A   __  90   97                              
+   7 16X _ _________ _________ _ 3 A   __  90   97                              
+   8 16Y _ _________ _________ _ 3 A   __  90   97                              
+   9 16Z _ _________ _________ _ 3 A   __  90   97                              
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA4AF650     9   Rain Accumulation, Inches                  PC               
+   CA4AF650    10   Wind Speed MPH, Miles per Hour             US               
+   CA4AF650    11   Wind Direction Degrees, Degrees            UD               
+   CA4AF650    12   Air Temperature, Standard Placement, Deg   TA               
+   CA4AF650    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA4AF650    14   Relative Humidity, Percent                 XR               
+   CA4AF650    15   Battery Voltage, volts                     VB               
+   CA4AF650    17   Fuel Moisture, Percent                     MM               
+   CA4AF650    18   Wind Direction, Peak, Degrees              UX               
+   CA4AF650    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA4AF650    20   Solar Radiation, watts per meter squared   RD               

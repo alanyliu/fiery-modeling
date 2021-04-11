@@ -1,0 +1,55 @@
+
+WLSTINV1-Weather Station Inventory for                       40507              
+                                                                                
+Station: 040507   Name: MAD RIVER              NESDIS: 3242B0BC                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 07-Nov-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 555                       
+                                                                                
+State: 06-CA   County: 105-Trinity             Lat/Lon: 40 27 46, 123 31 25     
+Obs Agy: 1 (USDA FS )     Unit: SRF          Mnemonic: MAD      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  2873   Asp: 4   Ann Prec:  63.49   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS11381   Acc Lst: SRF                                                    
+Comments: NEW 90/97 VALUES=1990-2010 7/2011.                                    
+                                                                                
+UPGRADED TO HDR 08/08.                                                          
+                                                                                
+CONVERTED TO H555 RAWS ON 10/22 (MOVED 1/4 MI). (90/97 VALUES=1972-2000).       
+90TH AND 97TH PERCENTILES WERE EDITED 7/22/15 2000-2015                         
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G F 09-aug-19 03-apr-19 _ 3 P 3  BI 5  90  59  97  66                     
+   2 7C F 09-aug-19 03-apr-19 _ 3 P 3  BI 5  90  34  97  40                     
+   3 7G F 09-aug-19 03-apr-19 _ 3 A 3  BI 5  90  58  97  65                     
+   4 16V _ _________ _________ _ 3 P   __                                       
+   5 16W _ _________ _________ _ 3 P   __                                       
+   6 16X _ _________ _________ _ 3 P   __                                       
+   7 16Y _ _________ _________ _ 3 P   BI  90  36  97  40                       
+   8 16Z _ _________ _________ _ 3 P   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   3242B0BC     9   Rain Accumulation, Inches                  PC               
+   3242B0BC    10   Wind Speed MPH, Miles per Hour             US               
+   3242B0BC    11   Wind Direction Degrees, Degrees            UD               
+   3242B0BC    12   Air Temperature, Standard Placement, Deg   TA               
+   3242B0BC    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   3242B0BC    14   Relative Humidity, Percent                 XR               
+   3242B0BC    15   Battery Voltage, volts                     VB               
+   3242B0BC    17   Fuel Moisture, Percent                     MM               
+   3242B0BC    18   Wind Direction, Peak, Degrees              UX               
+   3242B0BC    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   3242B0BC    20   Air Temperature, 24 Hour High, Degrees F   TX               
+   3242B0BC    21   Air Temperature, 24 Hour Low, Degrees Fa   TN               
+   3242B0BC    22   Relative Humidity, 24 Hour High, Percent   XS               
+   3242B0BC    23   Relative Humidity, 24 Hour Low, Percent    XQ               
+   3242B0BC    24   Solar Radiation, watts per meter squared   RD               

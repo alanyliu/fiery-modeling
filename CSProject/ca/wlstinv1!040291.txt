@@ -1,0 +1,44 @@
+
+WLSTINV1-Weather Station Inventory for                       40291              
+                                                                                
+Station: 040291   Name: KNF91 PORTABLE         NESDIS: 3239554A                 
+                                                                                
+Type: 3 (RAWS S non-NFDRS)   Create/Mod Date: 21-Jul-2014     Obs Time/Z: 0/PST 
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: ____                      
+                                                                                
+State: 06-CA   County: 093-Siskiyou            Lat/Lon: 41 47 55, 123 10 54     
+Obs Agy: 1 (USDA FS )     Unit: KNF          Mnemonic: OKMIC      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  4000   Asp: 0   Ann Prec:  21.18   Season:                     
+Ltng scale:    Hum code: 2   Temp code: 1   Pres code: 1                        
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS11259   Acc Lst: YICC                                                   
+Comments: OAK KNOLL MICR. NO PERMENANT SITE. RX FIRE USE                        
+3-25-2010                                                                       
+CHANGED LOCATION,PER MADELEINE LEVAGGI.                                         
+3-39-2010                                                                       
+CHANGED LAT&LONG AND ELEVATION PER MADELEINE LEVAGGI.                           
+04-06-2011-CHANGED LOCATION NEAR CADE MOUNTAIN FOR AN UNDERSTORY RX.            
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   3239554A     9   Rain Accumulation, Inches                  PC               
+   3239554A    10   Wind Speed MPH, Miles per Hour             US               
+   3239554A    11   Wind Direction Degrees, Degrees            UD               
+   3239554A    12   Air Temperature, Standard Placement, Deg   TA               
+   3239554A    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   3239554A    14   Relative Humidity, Percent                 XR               
+   3239554A    15   Battery Voltage, volts                     VB               
+   3239554A    17   Fuel Moisture, Percent                     MM               
+   3239554A    18   Wind Direction, Peak, Degrees              UX               
+   3239554A    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   3239554A    20   Solar Radiation, watts per meter squared   RD               

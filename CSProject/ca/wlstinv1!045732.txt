@@ -1,0 +1,50 @@
+
+WLSTINV1-Weather Station Inventory for                       45732              
+                                                                                
+Station: 045732   Name: ROBLAR CANYON          NESDIS: 92303042                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 04-Feb-2020     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 508                       
+                                                                                
+State: 06-CA   County: 073-San Diego           Lat/Lon: 33 22 19, 117 21 35     
+Obs Agy: 11 (Undef   )     Unit: CA-MCP       Mnemonic: ROBLR      FS Reg:   5  
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:   915   Asp: 5   Ann Prec:  11.00   Season:                     
+Ltng scale:    .03   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: e02   Acc Lst: MCP RAWS                                                   
+Comments: SWITCHED FROM 540 TO 555 20 APR 1999                                  
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7T T 04-feb-20 15-jan-20 _ 2 P 1  BI 5  90  37  95  97                     
+   2 7G T 04-feb-20 15-jan-20 _ 2 P 1  EC 5  90  48  97  55                     
+   5 16V _ _________ _________ _ 2 P   __                                       
+   6 16W _ _________ _________ _ 2 P   __                                       
+   7 16X _ _________ _________ _ 2 P   __                                       
+   8 16Y _ _________ _________ _ 2 P   __                                       
+   9 16Z _ _________ _________ _ 2 P   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   92303042     9   Rain Accumulation, Inches                  PC               
+   92303042    10   Wind Speed MPH, Miles per Hour             US               
+   92303042    11   Wind Direction Degrees, Degrees            UD               
+   92303042    12   Air Temperature, Standard Placement, Deg   TA               
+   92303042    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   92303042    14   Relative Humidity, Percent                 XR               
+   92303042    15   Battery Voltage, volts                     VB               
+   92303042    17   Fuel Moisture, Percent                     MM               
+   92303042    18   Wind Direction, Peak, Degrees              UX               
+   92303042    19   Wind speed peak, Miles per Hour            UP               
+   92303042    20   Solar Radiation, watts per meter squared   RD               
+   92303042    21   Air Temperature, 24 Hour High, Degrees F   TX               
+   92303042    22   Air Temperature, 24 Hour Low, Degrees Fa   TN               
+   92303042    23   Relative Humidity, 24 Hour High, Percent   XS               
+   92303042    24   Relative Humidity, 24 Hour Low, Percent    XQ               
+   92303042    26   Soil Temperature "F", Degrees Fahrenheit   TG               
+   92303042    28   Soil Temperature "F" 2, Degrees Fahrenhe   TG               

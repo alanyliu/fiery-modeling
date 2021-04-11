@@ -1,0 +1,42 @@
+
+WLSTINV1-Weather Station Inventory for                       41298              
+                                                                                
+Station: 041298   Name: PNF 34 PORTABLE        NESDIS: 328E56B6                 
+                                                                                
+Type: 3 (RAWS S non-NFDRS)   Create/Mod Date: 27-Sep-2007     Obs Time/Z: 13/PS 
+T                                                                               
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 599                       
+                                                                                
+State: 06-CA   County: 007-Butte               Lat/Lon: 39 38 7., 120 57 59     
+Obs Agy: 1 (USDA FS )     Unit: PLUMAS       Mnemonic: PNF34      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  5080   Asp: 4   Ann Prec:  65.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: FS6306   Acc Lst: PNFECC                                                  
+Comments: CURRENTLY UP ON SLIPPER RX - FEATHER RIVER RD                         
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   328E56B6     9   Rain Accumulation, Inches                  PC               
+   328E56B6    10   Wind Speed MPH, Miles per Hour             US               
+   328E56B6    11   Wind Direction Degrees, Degrees            UD               
+   328E56B6    12   Air Temperature, Standard Placement, Deg   TA               
+   328E56B6    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   328E56B6    14   Relative Humidity, Percent                 XR               
+   328E56B6    15   Battery Voltage, volts                     VB               
+   328E56B6    17   Fuel Moisture, Percent                     MM               
+   328E56B6    18   Wind Direction, Peak, Degrees              UX               
+   328E56B6    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   328E56B6    20   Solar Radiation, watts per meter squared   RD               
+   328E56B6    21   Wind Speed MPH 2, Miles per Hour           US               
+   328E56B6    22   Wind Direction Degrees Height 2, Degrees   UD               

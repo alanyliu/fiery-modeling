@@ -1,0 +1,30 @@
+
+WLSTINV1-Weather Station Inventory for                       40707              
+                                                                                
+Station: 040707   Name: EAGLE LAKE FFS         NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 10-Nov-1998     Obs Time/Z: 13/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 598                       
+                                                                                
+State: 06-CA   County: 035-Lassen              Lat/Lon: 40 30  0, 120 48  0     
+Obs Agy: 5 (State   )     Unit: LMU          Mnemonic: EAGLE      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site:    Elev:  5120   Asp:    Ann Prec:    Season:                             
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: WICA220   Acc Lst: ________                                               
+Comments: RECOVERED STATION                                                     
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

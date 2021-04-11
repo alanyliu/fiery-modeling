@@ -1,0 +1,34 @@
+
+WLSTINV1-Weather Station Inventory for                       49923              
+                                                                                
+Station: 049923   Name: SUGARLOAF ENF          NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 26-Oct-2009     Obs Time/Z: 13/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 538                       
+                                                                                
+State: 06-CA   County: 017-El Dorado           Lat/Lon: 38 47  2, 120 18 39     
+Obs Agy: 1 (USDA FS )     Unit: ENF          Mnemonic: SUGAR      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:  5653   Asp: 4   Ann Prec:  30.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: FS11194   Acc Lst: DANAHER                                                
+Comments: STATION WAS INSTALLED ON NOV 4 2004 AS A BAER UNIT IN THE HYW 50 CANY 
+ON AFTER THE 04 FIRES.  THIS CATALOG WAS CREATED OCT 18, 2006.  DATA WILL BE CO 
+LLECTED FROM WRCC, CONVERTED AND IMPORTED TO THE NIFMID DATABASE. STATION HAS A 
+ SOIL MOISTURE AND TEMPERATURE SENSORS.                                         
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

@@ -1,0 +1,68 @@
+
+WLSTINV1-Weather Station Inventory for                       40221              
+                                                                                
+Station: 040221   Name: ROUND MOUNTAIN         NESDIS: CA2083A0                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 12-Dec-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 590                       
+                                                                                
+State: 06-CA   County: 093-Siskiyou            Lat/Lon: 41 25 37, 121 27 45     
+Obs Agy: 1 (USDA FS )     Unit: MDF          Mnemonic: RND      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  5255   Asp: 4   Ann Prec:  14.71   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: 275   Acc Lst: MODO13                                                     
+Comments: GREENED UP ROUND MTN MAY 13, 2010 VLG                                 
+FROZEN SEP 21, 2010, PER DAVE MCMASTER, DB                                      
+FREEZE UP DEC 12, 2011 PER VON GRUBER  DB                                       
+GREEN UP 4/24/2012 PER DIV 9   SM                                               
+FREEZE UP DATE 9/21/2013 PER CH1 SM                                             
+GREEN UP 04/15 PER CH1, CH2 BC91                                                
+                                                                                
+GREEN UP DATE 3/21/14 PER CH1 AND CH3 SM                                        
+FREEZE UP 10/22/14 SM                                                           
+                                                                                
+GREEN UP 3/11/15 PER CH2 & BC92  - SM                                           
+                                                                                
+GREEN UP 04/15/16 PER CH1, CH2, & BC91 -MM                                      
+FREEZE UP 11/30/16 PER CHFS SPJ                                                 
+GREEN UP 04/29/17 -MM                                                           
+FREEZE UP 12/20/17-SPJ PER DIV11                                                
+                                                                                
+GREEN UP 04/25/19 -MM                                                           
+FREEZE UP 11/30/18-MM                                                           
+                                                                                
+GREEN UP 5/29/19-MM                                                             
+FREEZE UP 11/26/19-MM                                                           
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G F 26-nov-19 29-may-19 _ 2 A 2  EC 5  90  79  97  96                     
+   2 7K F 26-nov-19 29-may-19 _ 2 A 2  BI 5  90  74  97  86                     
+   3 7C F 26-nov-19 29-may-19 _ 2 A 2  BI 5  90  49  97  59                     
+   4 7T F 26-nov-19 29-may-19 _ 2 P 2  BI 5  90  72  97  95                     
+   5 16V _ _________ _________ _ 2 A   __                                       
+   6 16W _ _________ _________ _ 2 A   BI 5  90  30  97  36                     
+   7 16X _ _________ _________ _ 2 A   __                                       
+   8 16Y _ _________ _________ _ 2 A   BI  90  37  97  40                       
+   9 16Z _ _________ _________ _ 2 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA2083A0     9   Rain Accumulation, Inches                  PC               
+   CA2083A0    10   Wind Speed MPH, Miles per Hour             US               
+   CA2083A0    11   Wind Direction Degrees, Degrees            UD               
+   CA2083A0    12   Air Temperature, Standard Placement, Deg   TA               
+   CA2083A0    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA2083A0    14   Relative Humidity, Percent                 XR               
+   CA2083A0    15   Battery Voltage, volts                     VB               
+   CA2083A0    17   Fuel Moisture, Percent                     MM               
+   CA2083A0    18   Wind Direction, Peak, Degrees              UX               
+   CA2083A0    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA2083A0    20   Solar Radiation, watts per meter squared   RD               

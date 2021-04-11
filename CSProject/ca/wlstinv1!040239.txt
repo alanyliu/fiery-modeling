@@ -1,0 +1,52 @@
+
+WLSTINV1-Weather Station Inventory for                       40239              
+                                                                                
+Station: 040239   Name: QUARTZ HILL            NESDIS: CA20302E                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 19-Dec-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 587                       
+                                                                                
+State: 06-CA   County: 093-Siskiyou            Lat/Lon: 41 35 56, 122 56 1.     
+Obs Agy: 5 (State   )     Unit: SKU          Mnemonic: QTZ      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  4225   Asp: 4   Ann Prec:  35.00   Season:                     
+Ltng scale:    Hum code: 2   Temp code: 1   Pres code: 1                        
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: WICA1120   Acc Lst: YICC                                                  
+Comments: 5/10/11 FUEL MOISTURE DUFF BED INSTALLED.                             
+                                                                                
+ON 05/25/09 THE STATION WAS ENTIRELY CONVERTED TO NEW FTS EQUIPMENT AND TRANSMI 
+TS USING HIGH DATA RATE ON NEW CHANNEL & TIME SLOT.  OBS TIME DID CHANGE TO 130 
+0.  TESTED TIPPING BUCKET AND RESET RAINFALL.  LAT/LONG, ELEV AMENDED BASED UPO 
+N ON-SITE GPS (NAD83) WHEN STATION WAS UPGRADED.  DFORREST CDF FIRE WX PROGRAM  
+COORDINATOR 07/23/09                                                            
+                                                                                
+STATION RECORD 1982-1991__ACTIVE IN WIMS 5-17-97                                
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G F 01-aug-19 01-apr-19 _ 1 A 3  BI 5  90  54  97  64                     
+   2 16V _ _________ _________ _ 1 A   __                                       
+   3 16W _ _________ _________ _ 1 A   __                                       
+   4 16X _ _________ _________ _ 1 A   __                                       
+   5 16Y _ _________ _________ _ 1 A   BI 5  90  31  97  35                     
+   6 16Z _ _________ _________ _ 1 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA20302E     9   Rain Accumulation, Inches                  PC               
+   CA20302E    10   Wind Speed MPH, Miles per Hour             US               
+   CA20302E    11   Wind Direction Degrees, Degrees            UD               
+   CA20302E    12   Air Temperature, Standard Placement, Deg   TA               
+   CA20302E    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA20302E    14   Relative Humidity, Percent                 XR               
+   CA20302E    15   Battery Voltage, volts                     VB               
+   CA20302E    17   Fuel Moisture, Percent                     MM               
+   CA20302E    18   Wind Direction, Peak, Degrees              UX               
+   CA20302E    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA20302E    20   Solar Radiation, watts per meter squared   RD               

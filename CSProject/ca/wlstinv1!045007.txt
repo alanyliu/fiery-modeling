@@ -1,0 +1,34 @@
+
+WLSTINV1-Weather Station Inventory for                       45007              
+                                                                                
+Station: 045007   Name: BEAR VALLEY            NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 24-Apr-2009     Obs Time/Z: 12/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: ____                      
+                                                                                
+State: 06-CA   County: 029-Kern                Lat/Lon: 35 13  1, 118 37 30     
+Obs Agy: 5 (State   )     Unit: KRN          Mnemonic: BVA      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  4936   Asp: 4   Ann Prec:  14.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: WICA1102   Acc Lst: TUU                                                   
+Comments: DEACTIVATED, DISASSEMBLED AND REMOVED STATION ON FEB 10, 2009. DOUG F 
+ORREST, CAL FIRE-FIRE WX PROGRAM COORDINATOR                                    
+                                                                                
+INSTALLED ON 7/25/01.                                                           
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

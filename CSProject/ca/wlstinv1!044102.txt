@@ -1,0 +1,60 @@
+
+WLSTINV1-Weather Station Inventory for                       44102              
+                                                                                
+Station: 044102   Name: CRANE RAWS             NESDIS: FA60C528                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 02-Jul-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 531                       
+                                                                                
+State: 06-CA   County: 043-Mariposa            Lat/Lon: 37 45 34, 119 49 14     
+Obs Agy: 3 (USDI NPS)     Unit: YOSE         Mnemonic: YNP      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: 12-May-2005                                 
+Site: 3   Elev:  6634   Asp: 4   Ann Prec:  32.00   Season: 1                   
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: 591   Acc Lst: YOSE                                                       
+Comments: STATION OPERATES YEAR ROUND                                           
+2/11/10 - WORKED WITH CORKY CONOVER TO MOVE 2008 AND 2009 DATA FROM THE OLD CRA 
+NE FLAT RAWS STATION TO THIS PERMINANT STATION. OBSERVATIONS PRIOR TO 2008 WERE 
+ DONE MANUALLY. 2009- PRESENT THE OBSERVATIONS ARE FROM THE RAWS STATION (FORME 
+RLY 044195) ALSO CORRECTED THE LAT AND LONG AND ELEVATION TO MATCH WFMI METADAT 
+A. ENTERED BY ANSELY ROTHELL, YOSEMITE DISPATCH, 209-379-1999                   
+                                                                                
+5/15/13 HESTER/ERIC NEISWANGER ON SITE FOR ANNUAL REHAB AND STATION UPGRADE.    
+INSTALLED NEW FTS F6, RMY-SDI WS/WD, RG-T TB, SDI-SR, THS-3. NO FM/FT, NO RVT.  
+                                                                                
+WHITE BOX MOUNTING FOR 403 TOWER, HAD TO MODIFY TO FIT ON ROHN TOWER. TB LEFT  
+                                                                                
+AT 26.13" AND SET FOR AUTO RAIN RESET ON 1 JULY. NEW HDR TIME/CHANNEL. REPLACED 
+                                                                                
+GOES ANTENNA BECAUSE OF WEATHER DAMAGE. ROHN TOWER HAS FREEZE DAMAGE AT BASE,  
+                                                                                
+RECOMMEND TO POC TO REPLACE TOWER. ALL OTHER ASPECTS OF STATION MEET NFDRS.     
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G C 20-jun-19 30-apr-19 _ 2 P 3  EC 5  90  68  97  76                     
+   2 16V _ _________ _________ _ 2 P   __                                       
+   3 16W _ _________ _________ _ 2 P   __                                       
+   4 16X _ _________ _________ _ 2 P   __                                       
+   5 16Y _ _________ _________ _ 2 P   __                                       
+   6 16Z _ _________ _________ _ 2 P   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   FA60C528     9   Rain Accumulation, Inches                  PC               
+   FA60C528    10   Wind Speed MPH, Miles per Hour             US               
+   FA60C528    11   Wind Direction Degrees, Degrees            UD               
+   FA60C528    12   Air Temperature, Standard Placement, Deg   TA               
+   FA60C528    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   FA60C528    14   Relative Humidity, Percent                 XR               
+   FA60C528    15   Battery Voltage, volts                     VB               
+   FA60C528    17   Fuel Moisture, Percent                     MM               
+   FA60C528    18   Wind Direction, Peak, Degrees              UX               
+   FA60C528    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   FA60C528    20   Solar Radiation, watts per meter squared   RD               

@@ -1,0 +1,51 @@
+
+WLSTINV1-Weather Station Inventory for                       45133              
+                                                                                
+Station: 045133   Name: HEAPS PEAK             NESDIS: AAC0C74E                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 13-Dec-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 511                       
+                                                                                
+State: 06-CA   County: 071-San Bernardino      Lat/Lon: 34 14 5., 117  8 19     
+Obs Agy: 1 (USDA FS )     Unit: CA-BDF       Mnemonic: HEAPS      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  6455   Asp: 0   Ann Prec:  33.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: 2c0   Acc Lst: STATIONS                                                   
+Comments: LAT LONG FROM GOOGLE EARTH.  HEAPS PEAK REPLACES OLD MANUAL NFDR STAT 
+ION 045110 STRAWBERRY EFFFECTIVE 02/22/2011. TS                                 
+MOVED STATION APPROX. 380' TO THE NE (60 DEGREES), ELEVATION GAIN OF APPROX. 50 
+'.                                                                              
+EFFECTIVE 06/08/2017 DSO                                                        
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7C F 27-nov-19 16-apr-19 _ 2 P 2  BI 5  90  22  97  29                     
+   2 7B F 27-nov-19 16-apr-19 _ 2 P 2  BI 5  90  41  97  51                     
+   3 7A F 27-nov-19 16-apr-19 _ 2 A 2  BI 5  90  27  97  36                     
+   4 7G F 27-nov-19 16-apr-19 _ 2 A 2  BI 5  90  50  97  52                     
+   5 16Y _ _________ _________ _ 2 P   BI 5  90  43  97  48                     
+   6 16W _ _________ _________ _ 2 P   BI 5  90  20  97  31                     
+   7 16X _ _________ _________ _ 2 P   BI 5  90 117  97 149                     
+   8 16V _ _________ _________ _ 2 P   BI 5  90  20  97  31                     
+   9 16Z _ _________ _________ _ 2 P   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   AAC0C74E     9   Rain Accumulation, Inches                  PC               
+   AAC0C74E    10   Wind Speed MPH, Miles per Hour             US               
+   AAC0C74E    11   Wind Direction Degrees, Degrees            UD               
+   AAC0C74E    12   Air Temperature, Standard Placement, Deg   TA               
+   AAC0C74E    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   AAC0C74E    14   Relative Humidity, Percent                 XR               
+   AAC0C74E    15   Battery Voltage, volts                     VB               
+   AAC0C74E    17   Fuel Moisture, Percent                     MM               
+   AAC0C74E    18   Wind Direction, Peak, Degrees              UX               
+   AAC0C74E    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   AAC0C74E    20   Solar Radiation, watts per meter squared   RD               

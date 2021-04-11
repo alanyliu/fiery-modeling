@@ -1,0 +1,34 @@
+
+WLSTINV1-Weather Station Inventory for                       40993              
+                                                                                
+Station: 040993   Name: PNF 21 PORTABLE        NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 07-Jun-2007     Obs Time/Z: 13/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 599                       
+                                                                                
+State: 06-CA   County: 063-Plumas              Lat/Lon: 40  7 28, 120 38 47     
+Obs Agy: 1 (USDA FS )     Unit: PLUMAS       Mnemonic: PNF21      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  5181   Asp: 4   Ann Prec:  40.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS6306   Acc Lst: PNFECC                                                  
+Comments: THIS STATION "PNF21 PORTABLE" WAS REPLACED BY R501 PORTABLE - 040692  
+AS AN UPGRADE. THE ORIGINAL NESDIS ID, CHANNEL ASSIGNMENT, AND TIME WAS DELETED 
+ FROM THE ASCADS DATABASE AND THE R501 PORTABLE'S NAME WAS CHANGED TO PNF21 POR 
+TABLE IN ASCADS.                                                                
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

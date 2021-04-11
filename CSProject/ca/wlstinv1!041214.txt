@@ -1,0 +1,63 @@
+
+WLSTINV1-Weather Station Inventory for                       41214              
+                                                                                
+Station: 041214   Name: JARBO GAP              NESDIS: CA2B4516                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 10-Feb-2020     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 599                       
+                                                                                
+State: 06-CA   County: 007-Butte               Lat/Lon: 39 44 9., 121 29 20     
+Obs Agy: 5 (State   )     Unit: BTU          Mnemonic: JAR      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  2535   Asp: 0   Ann Prec:  60.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: 6   Acc Lst: BTU                                                          
+Comments: CHANGED THE REGULAR SCHEDULED OBS. TIME FROM 1300 TO 1200 HRS IN STAT 
+ION CATALOG. TX TIME IS 52 AFTER THE HOUR, 1252 IS CLOSER TO 1300 THEN 1352 THE 
+REFORE 1200 OBS SHOULD BE USED FOR DAILY OBS.  B.SCHIEBER CDF NORTHERN REGION W 
+X COORDINATOR 1/22/05.                                                          
+                                                                                
+ON 05/12/09 THE STATION WAS ENTIRELY CONVERTED TO NEW FTS EQUIPMENT AND TRANSMI 
+TS USING HIGH DATA RATE ON NEW CHANNEL & TIME SLOT.  OBS TIME DID CHANGE TO 130 
+0.  TESTED TIPPING BUCKET AND RESET RAINFALL.                                   
+                                                                                
+LAT/LONG, ELEV AMENDED BASED UPON ON-SITE GPS (NAD83) WHEN STATION WAS UPGRADED 
+.  DFORREST CDF FIRE WX PROGRAM COORDINATOR 07/23/09                            
+                                                                                
+ON 04/16/2014 CHANGED THE ASPECT FROM SOUTHWEST TO FLAT TO BETTER REPRESENT THE 
+ STATION'S LOCATION. REMOVED C FUEL MODEL. TPERSON BUTTE UNIT WIMS MANAGER      
+                                                                                
+04/18/2014 CHANGED REGULAR SCHEDULE OBS. TIME FOR CONSISTENCY IN THE THE UNIT.  
+ALL THE OTHER STATIONS IN BTU AT 12 OBS TIME. THIS WILL HELP TO ENSURE THAT OBS 
+ ARE ENTERED. TPERSON BTU WIMS MANAGER.                                         
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G F 28-nov-19 23-nov-18 _ 3 A 2  BI 5  90  71  97  88                     
+   2 7F F 28-nov-19 23-nov-18 _ 3 A 2  BI 5  90 104  97 126                     
+   3 7G F 28-nov-19 23-nov-18 _ 2 A 2  BI 5  90  61  97  82                     
+   4 16V _ _________ _________ _ 3 A   __                                       
+   5 16W _ _________ _________ _ 3 A   __                                       
+   6 16X _ _________ _________ _ 3 A   __                                       
+   7 16Y _ _________ _________ _ 3 A   __                                       
+   8 16Z _ _________ _________ _ 3 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA2B4516     9   Rain Accumulation, Inches                  PC               
+   CA2B4516    10   Wind Speed MPH, Miles per Hour             US               
+   CA2B4516    11   Wind Direction Degrees, Degrees            UD               
+   CA2B4516    12   Air Temperature, Standard Placement, Deg   TA               
+   CA2B4516    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA2B4516    14   Relative Humidity, Percent                 XR               
+   CA2B4516    15   Battery Voltage, volts                     VB               
+   CA2B4516    17   Fuel Moisture, Percent                     MM               
+   CA2B4516    18   Wind Direction, Peak, Degrees              UX               
+   CA2B4516    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA2B4516    20   Solar Radiation, watts per meter squared   RD               

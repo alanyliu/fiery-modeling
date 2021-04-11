@@ -1,0 +1,53 @@
+
+WLSTINV1-Weather Station Inventory for                       40814              
+                                                                                
+Station: 040814   Name: CORNING                NESDIS: CA21074E                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 20-Dec-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 595                       
+                                                                                
+State: 06-CA   County: 103-Tehama              Lat/Lon: 39 56 20, 122 10 11     
+Obs Agy: 5 (State   )     Unit: TGU          Mnemonic: CNG      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:   289   Asp: 3   Ann Prec:  20.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: eb4   Acc Lst: TGU                                                        
+Comments: 06/11/2015 - NEW BATTERY INSTALLED - J.KEENE                          
+                                                                                
+ON 05/05/08 THE STATION WAS ENTIRELY CONVERTED TO NEW FTS EQUIPMENT AND TRANSMI 
+TS USING HIGH DATA RATE ON NEW CHANNEL. OBS TIME REMAINS UNCHANGED. TESTED TIPP 
+ING BUCKET AND RESET RAINFALL.  LAT/LONG, ELEV AMENDED BASED UPON ON-SITE GPS ( 
+NAD83).  DFORREST CDF FIRE WX PROGRAM COORDINATOR (09/18/08)                    
+                                                                                
+OLD BAKER RAWS, (NOW HISTORIC STATION)                                          
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7A F 19-dec-19 30-mar-19 _ 1 A 2  BI 5  90  47  97  61                     
+   2 7L F 19-dec-19 30-mar-19 _ 1 A 2  BI 5  90  60  97  75                     
+   3 7G F 19-dec-19 30-mar-19 _ 1 A 2  BI 5  90  73  97  91                     
+   4 16V _ _________ _________ _ 1 A   SC 5  90   5  97  30                     
+   5 16W _ _________ _________ _ 1 A   __                                       
+   6 16X _ _________ _________ _ 1 A   __                                       
+   7 16Y _ _________ _________ _ 1 A   __                                       
+   8 16Z _ _________ _________ _ 1 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA21074E     9   Rain Accumulation, Inches                  PC               
+   CA21074E    10   Wind Speed MPH, Miles per Hour             US               
+   CA21074E    11   Wind Direction Degrees, Degrees            UD               
+   CA21074E    12   Air Temperature, Standard Placement, Deg   TA               
+   CA21074E    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA21074E    14   Relative Humidity, Percent                 XR               
+   CA21074E    15   Battery Voltage, volts                     VB               
+   CA21074E    17   Fuel Moisture, Percent                     MM               
+   CA21074E    18   Wind Direction, Peak, Degrees              UX               
+   CA21074E    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA21074E    20   Solar Radiation, watts per meter squared   RD               

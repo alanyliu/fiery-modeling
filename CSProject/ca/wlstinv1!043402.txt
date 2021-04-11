@@ -1,0 +1,52 @@
+
+WLSTINV1-Weather Station Inventory for                       43402              
+                                                                                
+Station: 043402   Name: OAKLAND NORTH          NESDIS: CA4A06D4                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 01-Dec-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 550                       
+                                                                                
+State: 06-CA   County: 001-Alameda             Lat/Lon: 37 51 54, 122 13 15     
+Obs Agy: 6 (Local Gv)     Unit: OKL          Mnemonic: ONO      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  1403   Asp: 0   Ann Prec:  25.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 150   One/Ten Fl: N                                 
+                                                                                
+User: WICA1124   Acc Lst: SCU                                                   
+Comments: THIS IS AN OAKLAND FIRE SERVICES AGENCY STATION. NICHOLAS LUBY        
+BATTALION CHIEF(?)OAKLAND FD   (NEW NAME, FOLEY,  SEPT 2018)                    
+510-867-8285                                                                    
+                                                                                
+                                                                                
+DATA STEWARDSHIP BY CAL FIRE MORGAN HILL 408-201-0490-BC IVY WILLIAMS 408-472-1 
+609                                                                             
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7F F 01-dec-19 18-mar-19 _ 2 A 2  BI 5  90  27  97  37                     
+   2 7A F 01-dec-19 18-mar-19 _ 2 A 2  BI 5  90  29  97  40                     
+   3 7G F 01-dec-19 18-mar-19 _ 2 A 2  BI 5  90  48  97  61                     
+   4 16V _ _________ _________ _ 2 A   __  90   97                              
+   5 16W _ _________ _________ _ 2 A   __  90   97                              
+   6 16X _ _________ _________ _ 2 A   __  90   97                              
+   7 16Y _ _________ _________ _ 2 A   __  90   97                              
+   8 16Z _ _________ _________ _ 2 A   __  90   97                              
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA4A06D4     9   Rain Accumulation, Inches                  PC               
+   CA4A06D4    10   Wind Speed MPH, Miles per Hour             US               
+   CA4A06D4    11   Wind Direction Degrees, Degrees            UD               
+   CA4A06D4    12   Air Temperature, Standard Placement, Deg   TA               
+   CA4A06D4    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA4A06D4    14   Relative Humidity, Percent                 XR               
+   CA4A06D4    15   Battery Voltage, volts                     VB               
+   CA4A06D4    17   Fuel Moisture, Percent                     MM               
+   CA4A06D4    18   Wind Direction, Peak, Degrees              UX               
+   CA4A06D4    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA4A06D4    20   Solar Radiation, watts per meter squared   RD               

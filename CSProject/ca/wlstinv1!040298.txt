@@ -1,0 +1,41 @@
+
+WLSTINV1-Weather Station Inventory for                       40298              
+                                                                                
+Station: 040298   Name: KNF98 PORTABLE         NESDIS: 32D527CC                 
+                                                                                
+Type: 3 (RAWS S non-NFDRS)   Create/Mod Date: 21-Jul-2014     Obs Time/Z: 13/PS 
+T                                                                               
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: ____                      
+                                                                                
+State: 06-CA   County: 093-Siskiyou            Lat/Lon: 41 44 21, 122 12 6.     
+Obs Agy: 1 (USDA FS )     Unit: KNF          Mnemonic: GNMI      FS Reg:   5    
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  6130   Asp: 0   Ann Prec:  12.21   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl:                                      
+                                                                                
+User: FS11259   Acc Lst: YICC                                                   
+Comments: NEW PORTABLE 2012. NOT A PERMANENT SITE. USED FOR RX AND WILDFIRE SUP 
+PORT.                                                                           
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   32D527CC     9   Rain Accumulation, Inches                  PC               
+   32D527CC    10   Wind Speed MPH, Miles per Hour             US               
+   32D527CC    11   Wind Direction Degrees, Degrees            UD               
+   32D527CC    12   Air Temperature, Standard Placement, Deg   TA               
+   32D527CC    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   32D527CC    14   Relative Humidity, Percent                 XR               
+   32D527CC    15   Battery Voltage, volts                     VB               
+   32D527CC    17   Fuel Moisture, Percent                     MM               
+   32D527CC    18   Wind Direction, Peak, Degrees              UX               
+   32D527CC    19   Wind speed peak, Miles per Hour            UP               

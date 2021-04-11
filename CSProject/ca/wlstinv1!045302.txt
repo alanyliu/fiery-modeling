@@ -1,0 +1,44 @@
+
+WLSTINV1-Weather Station Inventory for                       45302              
+                                                                                
+Station: 045302   Name: CHUCHUPATE             NESDIS: 3235614C                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 17-Dec-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: 045201     Fcst Zone: 503                       
+                                                                                
+State: 06-CA   County: 111-Ventura             Lat/Lon: 34 48 22, 119  0 49     
+Obs Agy: 1 (USDA FS )     Unit: LPF          Mnemonic: CHUCH      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  5280   Asp: 0   Ann Prec:  14.00   Season:                     
+Ltng scale:    .11   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS7742   Acc Lst: LPF                                                     
+Comments: FDR AREA 651, CONVERTED TO RAWS 2/17/99                               
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B F 18-sep-19 10-apr-19 _ 3 A 2  BI 5  90 129  97 166                     
+   2 7G F 18-sep-19 10-apr-19 _ 3 A 2  EC 5  90  72  97  82                     
+   3 16V _ _________ _________ _ 3 A   __                                       
+   4 16W _ _________ _________ _ 3 A   __                                       
+   5 16X _ _________ _________ _ 3 A   BI 5  90 193  97 226                     
+   6 16Y _ _________ _________ _ 3 A   EC 5  90  95  97 102                     
+   7 16Z _ _________ _________ _ 3 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   3235614C     9   Rain Accumulation, Inches                  PC               
+   3235614C    10   Wind Speed MPH, Miles per Hour             US               
+   3235614C    11   Wind Direction Degrees, Degrees            UD               
+   3235614C    12   Air Temperature, Standard Placement, Deg   TA               
+   3235614C    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   3235614C    14   Relative Humidity, Percent                 XR               
+   3235614C    15   Battery Voltage, volts                     VB               
+   3235614C    17   Fuel Moisture, Percent                     MM               
+   3235614C    18   Wind Direction, Peak, Degrees              UX               
+   3235614C    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   3235614C    20   Solar Radiation, watts per meter squared   RD               

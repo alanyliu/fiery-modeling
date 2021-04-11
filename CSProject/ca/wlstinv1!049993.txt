@@ -1,0 +1,33 @@
+
+WLSTINV1-Weather Station Inventory for                       49993              
+                                                                                
+Station: 049993   Name: BURNEY BASIN #3        NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 19-Mar-2013     Obs Time/Z: 13/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: 040606     Fcst Zone: ____                      
+                                                                                
+State: 06-CA   County: ___-________________________Lat/Lon: 40 48 31, 121 24 54 
+Obs Agy: 1 (USDA FS )     Unit: CA-ONC       Mnemonic: BBP03      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  5122   Asp: 0   Ann Prec:  30.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: FS8374   Acc Lst: RDD-PSU                                                 
+Comments: BURNEY BASIN WIND STUDY; SUMMER 2010.  SITE IS LOCATED AT THE HAT CRE 
+EK RIM LOOKOUT SITE.  PRAWS #3(323C02F6) ACTIVATED ON 01JULY2010. 20 FOOR MAST  
+INSTALLED 16JULY2010.                                                           
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G P 02-jul-10 _________ _ 2 P 2  BI 5  90  50  97  60                     
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

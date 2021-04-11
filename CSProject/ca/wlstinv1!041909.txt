@@ -1,0 +1,53 @@
+
+WLSTINV1-Weather Station Inventory for                       41909              
+                                                                                
+Station: 041909   Name: HOMEWOOD               NESDIS: 91C0165C                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 14-May-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 542                       
+                                                                                
+State: 06-CA   County: 061-Placer              Lat/Lon: 39  5 .6, 120 10 16     
+Obs Agy: 6 (Local Gv)     Unit: CA-ENF       Mnemonic: HOMWD      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  7121   Asp: 0   Ann Prec:  30.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: FS11194   Acc Lst: DANAHER                                                
+Comments: SET TO FROZEN ON 11/13/14 BY SCOTT WYLIE PER JOHN WASHINGTON.         
+SET TO GREEN UP ON 5/13/16 BY SCOTT WYLIE PER JOHN WASHINGTON.                  
+                                                                                
+SET TO GREEN UP ON 5/17/17 BY SEAN DUNN PER KYLE JACOBSON                       
+                                                                                
+SET TO GREEN UP ON 5/8/18 PER JOHN WASHINGTON BY SCOTT WYLIE.                   
+                                                                                
+12/7/18: PER DIV-7, FREEZE ALL RAWS. SD                                         
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G C 18-nov-19 05-may-19 _ 2 P 2  BI 5  90  69  97  78                     
+   2 7U C 18-nov-19 05-may-19 _ 2 P 2  EC 5  90  69  97  78                     
+   3 7H C 18-nov-19 05-may-19 _ 2 P 2  BI 5  90  69  97  78                     
+   4 16V _ _________ _________ _ 2 P   __                                       
+   5 16W _ _________ _________ _ 2 P   __                                       
+   6 16X _ _________ _________ _ 2 P   __                                       
+   7 16Y _ _________ _________ _ 2 P   __                                       
+   8 16Z _ _________ _________ _ 2 P   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   91C0165C     9   Rain Accumulation, Inches                  PC               
+   91C0165C    10   Wind Speed MPH, Miles per Hour             US               
+   91C0165C    11   Wind Direction Degrees, Degrees            UD               
+   91C0165C    12   Air Temperature, Standard Placement, Deg   TA               
+   91C0165C    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   91C0165C    14   Relative Humidity, Percent                 XR               
+   91C0165C    15   Battery Voltage, volts                     VB               
+   91C0165C    17   Fuel Moisture, Percent                     MM               
+   91C0165C    18   Wind Direction, Peak, Degrees              UX               
+   91C0165C    19   Wind speed peak, Miles per Hour            UP               
+   91C0165C    20   Solar Radiation, watts per meter squared   RD               

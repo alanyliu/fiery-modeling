@@ -1,0 +1,50 @@
+
+WLSTINV1-Weather Station Inventory for                       45744              
+                                                                                
+Station: 045744   Name: SWEETWATER             NESDIS: 327F8030                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 10-Oct-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: 045701     Fcst Zone: 509                       
+                                                                                
+State: 06-CA   County: 073-San Diego           Lat/Lon: 32 50 11, 116 40 17     
+Obs Agy: 1 (USDA FS )     Unit: CA-CNF       Mnemonic: SWT      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:  2797   Asp: 4   Ann Prec:  16.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: FS11243   Acc Lst: MVU                                                    
+Comments: STATION RELOCATED IN MARCH 2013 FROM THE ALPINE DISTRICT OFFICE. STAT 
+ION FORMALLY KNOW AS ALPINE FIRE STATION.   OBSERVATIONS BEGAN ON 5 MARCH 2013. 
+                                                                                
+                                                                                
+NEW SITE OS SOUTH OF I-8 EAST OF EAST WILLOWS RD, WEST OF VIEWPOINT.            
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B F 09-oct-19 11-apr-19 _ 3 A 2  BI 5  90 135  97 154                     
+   2 7G F 09-oct-19 11-apr-19 _ 1 A 2  EC 5  90  74  97  78                     
+   3 7Q F 09-oct-19 11-apr-19 _ 2 A 2  BI 5  90 115  97 129                     
+   4 16V _ _________ _________ _ 3 A   __                                       
+   5 16W _ _________ _________ _ 3 A   __                                       
+   6 16X _ _________ _________ _ 3 A   BI 5  90 199  97 242                     
+   7 16Y _ _________ _________ _ 3 A   __                                       
+   8 16Z _ _________ _________ _ 3 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   327F8030     9   Rain Accumulation, Inches                  PC               
+   327F8030    10   Wind Speed MPH, Miles per Hour             US               
+   327F8030    11   Wind Direction Degrees, Degrees            UD               
+   327F8030    12   Air Temperature, Standard Placement, Deg   TA               
+   327F8030    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   327F8030    14   Relative Humidity, Percent                 XR               
+   327F8030    15   Battery Voltage, volts                     VB               
+   327F8030    17   Fuel Moisture, Percent                     MM               
+   327F8030    18   Wind Direction, Peak, Degrees              UX               
+   327F8030    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   327F8030    20   Solar Radiation, watts per meter squared   RD               

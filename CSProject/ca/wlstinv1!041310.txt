@@ -1,0 +1,53 @@
+
+WLSTINV1-Weather Station Inventory for                       41310              
+                                                                                
+Station: 041310   Name: STAMPEDE               NESDIS: 3234B5DE                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 01-Feb-2020     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 541                       
+                                                                                
+State: 06-CA   County: 091-Sierra              Lat/Lon: 39 28 15, 120  5 13     
+Obs Agy: 1 (USDA FS )     Unit: TNF          Mnemonic: SPL      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:  6207   Asp: 6   Ann Prec:  24.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: FS7771   Acc Lst: GRASS VALLEY                                            
+Comments: THIS STATION WAS ESTABLISHED TO CORRECT A NUMBERING ERROR WHEN THE PL 
+ATFORM WAS MOVED FROM TRUCKEE AIRPORT TO ITS CURRENT LOCATION.  THE DATA FROM T 
+HE NEW LOCATION WILL BE MOVED TO THIS NUMBER SEPARATING IT FROM THE TRUCKEE STA 
+TION 041804 DATA.  TRUCKEE STATION WILL BE MADE HISTORICAL WHEN THIS CATALOG IS 
+ CREATED.                                                                       
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G F 02-sep-19 16-may-19 _ 2 P 2  BI 5  90  72  97  82                     
+   2 7T F 02-sep-19 16-may-19 _ 2 P 2  BI 5  90  64  97  78                     
+   3 16V _ _________ _________ _ 2 P   __                                       
+   4 16W _ _________ _________ _ 2 P   __                                       
+   5 16X _ _________ _________ _ 2 P   __                                       
+   6 16Y _ _________ _________ _ 2 P   BI 5  90  34  97  38                     
+   7 16Z _ _________ _________ _ 2 P   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   3234B5DE     9   Rain Accumulation, Inches                  PC               
+   3234B5DE    10   Wind Speed MPH, Miles per Hour             US               
+   3234B5DE    11   Wind Direction Degrees, Degrees            UD               
+   3234B5DE    12   Air Temperature, Standard Placement, Deg   TA               
+   3234B5DE    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   3234B5DE    14   Relative Humidity, Percent                 XR               
+   3234B5DE    15   Battery Voltage, volts                     VB               
+   3234B5DE    17   Fuel Moisture, Percent                     MM               
+   3234B5DE    18   Wind Direction, Peak, Degrees              UX               
+   3234B5DE    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   3234B5DE    20   Air Temperature, 24 Hour High, Degrees F   TX               
+   3234B5DE    21   Air Temperature, 24 Hour Low, Degrees Fa   TN               
+   3234B5DE    22   Relative Humidity, 24 Hour High, Percent   XS               
+   3234B5DE    23   Relative Humidity, 24 Hour Low, Percent    XQ               
+   3234B5DE    24   Solar Radiation, watts per meter squared   RD               

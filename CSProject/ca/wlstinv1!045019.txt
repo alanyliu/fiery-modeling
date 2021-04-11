@@ -1,0 +1,44 @@
+
+WLSTINV1-Weather Station Inventory for                       45019              
+                                                                                
+Station: 045019   Name: TWISSELMAN             NESDIS: CA52169A                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 30-Mar-2017     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: HNX                       
+                                                                                
+State: 06-CA   County: 029-Kern                Lat/Lon: 35 21 45, 119 49 24     
+Obs Agy: 6 (Local Gv)     Unit: KRN          Mnemonic: TWMC1      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  3232   Asp: 4   Ann Prec:  12.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: 8de   Acc Lst: ________                                                   
+Comments: EXISTING STATION, ADDING TO WIMS                                      
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7A G 30-mar-17 30-mar-17 _ 1 A 2  BI  90   97                              
+   2 7B G 30-mar-17 30-mar-17 _ 1 A 2  BI  90   97                              
+   5 16V _ _________ _________ _ 1 A   __                                       
+   6 16W _ _________ _________ _ 1 A   __                                       
+   7 16X _ _________ _________ _ 1 A   __                                       
+   8 16Y _ _________ _________ _ 1 A   __                                       
+   9 16Z _ _________ _________ _ 1 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA52169A     9   Rain Accumulation, Inches                  PC               
+   CA52169A    10   Wind Speed MPH, Miles per Hour             US               
+   CA52169A    11   Wind Direction Degrees, Degrees            UD               
+   CA52169A    12   Air Temperature, Standard Placement, Deg   TA               
+   CA52169A    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA52169A    14   Relative Humidity, Percent                 XR               
+   CA52169A    15   Battery Voltage, volts                     VB               
+   CA52169A    17   Fuel Moisture, Percent                     MM               
+   CA52169A    18   Wind Direction, Peak, Degrees              UX               
+   CA52169A    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA52169A    20   Solar Radiation, watts per meter squared   RD               

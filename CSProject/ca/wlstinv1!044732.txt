@@ -1,0 +1,44 @@
+
+WLSTINV1-Weather Station Inventory for                       44732              
+                                                                                
+Station: 044732   Name: WOLVERTON              NESDIS: FA60B3B8                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 04-Feb-2020     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 534                       
+                                                                                
+State: 06-CA   County: 107-Tulare              Lat/Lon: 36 26 42, 118 42 12     
+Obs Agy: 3 (USDI NPS)     Unit: SEKI/KNP     Mnemonic: WOLF      FS Reg:   5    
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:  5240   Asp: 4   Ann Prec:  25.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: NPS8561   Acc Lst: CAVEGIRL                                               
+Comments:                                                                       
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B F 02-dec-19 09-apr-19 _ 5 P 2  BI 5  90 175  97 202                     
+   2 7G F 02-dec-19 09-apr-19 _ 5 P 2  BI 5  90 101  97 109                     
+   3 16V _ _________ _________ _ 5 P   __                                       
+   4 16W _ _________ _________ _ 5 P   __                                       
+   5 16X _ _________ _________ _ 5 P   __                                       
+   6 16Y _ _________ _________ _ 5 P   __                                       
+   7 16Z _ _________ _________ _ 5 P   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   FA60B3B8     9   Rain Accumulation, Inches                  PC               
+   FA60B3B8    10   Wind Speed MPH, Miles per Hour             US               
+   FA60B3B8    11   Wind Direction Degrees, Degrees            UD               
+   FA60B3B8    12   Air Temperature, Standard Placement, Deg   TA               
+   FA60B3B8    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   FA60B3B8    14   Relative Humidity, Percent                 XR               
+   FA60B3B8    15   Battery Voltage, volts                     VB               
+   FA60B3B8    17   Fuel Moisture, Percent                     MM               
+   FA60B3B8    18   Wind Direction, Peak, Degrees              UX               
+   FA60B3B8    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   FA60B3B8    20   Solar Radiation, watts per meter squared   RD               

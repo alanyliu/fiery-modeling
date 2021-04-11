@@ -1,0 +1,44 @@
+
+WLSTINV1-Weather Station Inventory for                       45711              
+                                                                                
+Station: 045711   Name: PINE HILLS FIRE STA    NESDIS: 3230036A                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 10-Oct-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 513                       
+                                                                                
+State: 06-CA   County: 073-San Diego           Lat/Lon: 33  0 59, 116 38 7.     
+Obs Agy: 1 (USDA FS )     Unit: CA-CNF       Mnemonic: PNH      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:  3651   Asp: 4   Ann Prec:  30.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS11243   Acc Lst: CNF                                                    
+Comments: PALOMAR RANGER DISTRICT                                               
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B F 09-oct-19 27-apr-19 _ 3 A 2  BI 5  90 135  97 150                     
+   2 7G F 09-oct-19 27-apr-19 _ 1 A 2  EC 5  90  80  97  86                     
+   5 16V _ _________ _________ _ 3 A   __                                       
+   6 16W _ _________ _________ _ 3 A   __                                       
+   7 16X _ _________ _________ _ 3 A   __                                       
+   8 16Y _ _________ _________ _ 3 A   __                                       
+   9 16Z _ _________ _________ _ 3 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   3230036A     9   Rain Accumulation, Inches                  PC               
+   3230036A    10   Wind Speed MPH, Miles per Hour             US               
+   3230036A    11   Wind Direction Degrees, Degrees            UD               
+   3230036A    12   Air Temperature, Standard Placement, Deg   TA               
+   3230036A    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   3230036A    14   Relative Humidity, Percent                 XR               
+   3230036A    15   Battery Voltage, volts                     VB               
+   3230036A    17   Fuel Moisture, Percent                     MM               
+   3230036A    18   Wind Direction, Peak, Degrees              UX               
+   3230036A    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   3230036A    20   Solar Radiation, watts per meter squared   RD               

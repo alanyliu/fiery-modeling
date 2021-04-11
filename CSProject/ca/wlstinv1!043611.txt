@@ -1,0 +1,38 @@
+
+WLSTINV1-Weather Station Inventory for                       43611              
+                                                                                
+Station: 043611   Name: TUOLME RAWS            NESDIS: FA453382                 
+                                                                                
+Type: 3 (RAWS S non-NFDRS)   Create/Mod Date: 09-Feb-2016     Obs Time/Z: 12/PS 
+T                                                                               
+                                                                                
+Assoc Man: 044102     Prev Stn: ______     Fcst Zone: 531                       
+                                                                                
+State: 06-CA   County: 109-Tuolumne            Lat/Lon: 37 52  6, 119 19  9     
+Obs Agy: 3 (USDI NPS)     Unit: YOSE         Mnemonic: YNP      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: 01-Jun-2008                                 
+Site: 1   Elev:  9200   Asp: 4   Ann Prec:  38.00   Season: 1                   
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: 591   Acc Lst: YOSE                                                       
+Comments: THIS STATION OPERATES MAY-OCT                                         
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   FA453382     9   Rain Accumulation, Inches                  PC               
+   FA453382    10   Windspeed, Miles per Hour                  US               
+   FA453382    11   Wind Direction, Degrees                    UD               
+   FA453382    12   Air Temperature, Standard Placement, Deg   TA               
+   FA453382    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   FA453382    14   Relative Humidity, Percent                 XR               
+   FA453382    15   Battery Voltage, volts                     VB               
+   FA453382    17   Wind Direction, Peak, Degrees              UX               
+   FA453382    18   Windspeed, Peak, Miles per Hour            UP               

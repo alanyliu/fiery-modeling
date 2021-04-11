@@ -1,0 +1,61 @@
+
+WLSTINV1-Weather Station Inventory for                       43913              
+                                                                                
+Station: 043913   Name: LOS GATOS              NESDIS: CA4A56A8                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 01-Dec-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 549                       
+                                                                                
+State: 06-CA   County: 085-Santa Clara         Lat/Lon: 37 12 15, 121 57  3     
+Obs Agy: 6 (Local Gv)     Unit: SCU          Mnemonic: LSG      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  1842   Asp: 5   Ann Prec:  18.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: WICA1124   Acc Lst: SCU                                                   
+Comments: OWNED/MAINTAINED BY SANTA CLARA COUNTY FIRE DISTRICT. 408-378-4010    
+                                                                                
+DATA STEWARDSHIP BY CAL FIRE MORGAN HILL ECC 408-201-0490 BC IVY WILLIAMS 408-4 
+72-1609                                                                         
+                                                                                
+STATION'S PREVIOUSLY LISTED ELEVATION OF 800 FEET DIDN'T MATCH UP WITH MAP DATA 
+ OR PHYSICAL SITE DATA.  IT COULD OF POSSIBLY BEEN SWITCHED WITH LOS ALTOS STAT 
+ION.  I RESEARCHED MAP DATA BASED UPON THE LAT AND LONS AND CONCLUDED IT WAS NO 
+T ACCURATE. I EDITED THE ELEVATION FIELD TO COINCIDE ON 12/16/2004. DOUG FORRES 
+T, CDF FIRE WX PROGRAM COORD                                                    
+                                                                                
+CHANGED THE REGULAR SCHEDULED OBS. TIME FROM 1300 TO 1200 HRS IN STATION CATALO 
+G. TX TIME IS 32 AFTER THE HOUR, 1232 IS CLOSER TO 1300 THEN 1332 THEREFORE 120 
+0 OBS SHOULD BE USED FOR DAILY OBS. B. SCHIEBER CDF NORTHERN REGION WX COORDINA 
+TOR 1/22/05.                                                                    
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B F 01-dec-19 18-mar-19 _ 2 A 2  BI 5  90 114  97 142                     
+   2 7C F 01-dec-19 18-mar-19 _ 2 A 2  BI 5  90  42  97  49                     
+   3 7G F 01-dec-19 18-mar-19 _ 2 A 2  BI 5  90  69  97  80                     
+   4 7A F 01-dec-19 18-mar-19 _ 2 A 2  BI 5  90  38  97  47                     
+   5 16V _ _________ _________ _ 2 A   __                                       
+   6 16W _ _________ _________ _ 2 A   __                                       
+   7 16X _ _________ _________ _ 2 A   __                                       
+   8 16Y _ _________ _________ _ 2 A   __                                       
+   9 16Z _ _________ _________ _ 2 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA4A56A8     9   Rain Accumulation, Inches                  PC               
+   CA4A56A8    10   Wind Speed MPH, Miles per Hour             US               
+   CA4A56A8    11   Wind Direction Degrees, Degrees            UD               
+   CA4A56A8    12   Air Temperature, Standard Placement, Deg   TA               
+   CA4A56A8    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA4A56A8    14   Relative Humidity, Percent                 XR               
+   CA4A56A8    15   Battery Voltage, volts                     VB               
+   CA4A56A8    17   Fuel Moisture, Percent                     MM               
+   CA4A56A8    18   Wind Direction, Peak, Degrees              UX               
+   CA4A56A8    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA4A56A8    20   Solar Radiation, watts per meter squared   RD               

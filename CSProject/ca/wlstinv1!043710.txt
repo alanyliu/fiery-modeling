@@ -1,0 +1,53 @@
+
+WLSTINV1-Weather Station Inventory for                       43710              
+                                                                                
+Station: 043710   Name: ROCK CREEK             NESDIS: 325A6B3E                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 25-Oct-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 518                       
+                                                                                
+State: 06-CA   County: 051-Mono                Lat/Lon: 37 33 35, 118 40 42     
+Obs Agy: 1 (USDA FS )     Unit: INYO N.F.    Mnemonic: INF      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  7103   Asp: 0   Ann Prec:   8.60   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS11169   Acc Lst: INYO                                                   
+Comments: DATE:  APRIL 24, 2003 BH                                              
+RAWS STATION INSTALLED SEPT. 29, 1998, OBSERVATIONS PRIOR WERE MANUAL           
+ORIGINAL NAME:  ROCK CREEK                                                      
+OWNER:  INYO NATIONAL FOREST, 0504                                              
+END.                                                                            
+DATE: APRIL 29, 2003 BH                                                         
+THE RH/AT SENSOR POSITIONED 15 FEET ABOVE GROUND LEVEL                          
+END                                                                             
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7C F 17-oct-19 29-may-19 _ 2 A 1  BI 5  90  44  97  50                     
+   2 7T F 17-oct-19 29-may-19 _ 2 A 1  BI 5  90  66  97  77                     
+   3 7G F 17-oct-19 29-may-19 _ 2 A 1  EC 5  90  88  97  92                     
+   4 16V _ _________ _________ _ 2 A   __                                       
+   5 16W _ _________ _________ _ 2 A   __                                       
+   6 16X _ _________ _________ _ 2 A   __                                       
+   7 16Y _ _________ _________ _ 2 A   __                                       
+   8 16Z _ _________ _________ _ 2 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   325A6B3E     9   Rain Accumulation, Inches                  PC               
+   325A6B3E    10   Wind Speed MPH, Miles per Hour             US               
+   325A6B3E    11   Wind Direction Degrees, Degrees            UD               
+   325A6B3E    12   Air Temperature, Standard Placement, Deg   TA               
+   325A6B3E    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   325A6B3E    14   Relative Humidity, Percent                 XR               
+   325A6B3E    15   Battery Voltage, volts                     VB               
+   325A6B3E    17   Fuel Moisture, Percent                     MM               
+   325A6B3E    18   Wind Direction, Peak, Degrees              UX               
+   325A6B3E    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   325A6B3E    20   Solar Radiation, watts per meter squared   RD               

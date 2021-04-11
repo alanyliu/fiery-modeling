@@ -1,0 +1,35 @@
+
+WLSTINV1-Weather Station Inventory for                       45701              
+                                                                                
+Station: 045701   Name: ALPINE FIRE STATION    NESDIS: ________                 
+                                                                                
+Type: 2 (Man NFDRS)   Create/Mod Date: 22-Jul-2017     Obs Time/Z: 12/PST       
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 509                       
+                                                                                
+State: 06-CA   County: 073-San Diego           Lat/Lon: 32 50 3., 116 44 25     
+Obs Agy: 1 (USDA FS )     Unit: CA-CNF       Mnemonic: ALP      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:  2046   Asp: 4   Ann Prec:  16.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS8374   Acc Lst: ________                                                
+Comments: HISTORIC NFDRS STATION FOR THE DESCANSO RANGER DISTRICT.  LOCATED AT  
+THE DISTRICT OFFICE.  OPERATED FROM 1961 TO MARCH 3, 2013.                      
+                                                                                
+STATION RELOCATED IN MARCH 2013 7 MILES TO THE EAST.   NEW LOCATION SOUTH OF I- 
+8 EAST OF EAST WILLOWS OVERPASS.                                                
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B C 03-apr-15 18-mar-15 _ 3 A 2  BI 5  90  51  97  72                     
+   2 7G C 03-apr-15 18-mar-15 _ 3 A 2  BI 5  90  62  97  70                     
+   3 7Q C 03-apr-15 18-mar-15 _ 2 A 2  BI 5  90 122  97 135                     
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

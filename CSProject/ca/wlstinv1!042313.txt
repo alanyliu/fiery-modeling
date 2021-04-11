@@ -1,0 +1,46 @@
+
+WLSTINV1-Weather Station Inventory for                       42313              
+                                                                                
+Station: 042313   Name: ROBINHOOD              NESDIS: 52014684                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 28-Dec-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 559                       
+                                                                                
+State: 06-CA   County: 041-Marin               Lat/Lon: 38  6 45, 122 32 59     
+Obs Agy: 6 (Local Gv)     Unit: CA-MRN       Mnemonic: _____      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:   482   Asp: 4   Ann Prec:  28.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: WIP0001   Acc Lst: MA                                                     
+Comments: NEW STATION ESTABLISHED 1/22/2016 BY NOVATO FD - ACTIVE IN WIMS 7/5/2 
+016.                                                                            
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7A F 28-dec-19 10-apr-19 _ 2 A 2  BI  90  21  97  26                       
+   2 7G F 28-dec-19 10-apr-19 _ 2 A 2  BI  90  43  97  47                       
+   3 16V _ _________ _________ _ 2 A   __                                       
+   4 16W _ _________ _________ _ 2 A   __                                       
+   5 16X _ _________ _________ _ 2 A   __                                       
+   6 16Y _ _________ _________ _ 2 A   __                                       
+   7 16Z _ _________ _________ _ 2 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   52014684     9   Rain Accumulation, Inches                  PC               
+   52014684    10   Wind Speed MPH, Miles per Hour             US               
+   52014684    11   Wind Direction Degrees, Degrees            UD               
+   52014684    12   Air Temperature, Standard Placement, Deg   TA               
+   52014684    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   52014684    14   Relative Humidity, Percent                 XR               
+   52014684    15   Battery Voltage, volts                     VB               
+   52014684    17   Fuel Moisture, Percent                     MM               
+   52014684    18   Wind Direction, Peak, Degrees              UX               
+   52014684    19   Wind speed peak, Miles per Hour            UP               
+   52014684    20   Solar Radiation, watts per meter squared   RD               

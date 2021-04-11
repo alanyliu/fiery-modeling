@@ -1,0 +1,51 @@
+
+WLSTINV1-Weather Station Inventory for                       45440              
+                                                                                
+Station: 045440   Name: POPPY PARK             NESDIS: CA41B6F2                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 21-Feb-2020     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 519                       
+                                                                                
+State: 06-CA   County: 037-Los Angeles         Lat/Lon: 34 43 41, 118 23 38     
+Obs Agy: 6 (Local Gv)     Unit: CA-LAC       Mnemonic: POP      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  2760   Asp: 0   Ann Prec:  10.32   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: aec   Acc Lst: FORESTRY LAC                                               
+Comments: NAME      : POPPY PARK                                                
+LOCATION  : 15 MILES WEST OF AV FREEWAY -HWY 14 & LANCASTER                     
+NFDRZ     : 666                                                                 
+NWSFZ     : 519                                                                 
+NWS FWPFZ : 259                                                                 
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7T F 01-jan-20 12-mar-19 _ 1 A 2  BI 5  90 121  97 136                     
+   2 7K F 01-jan-20 12-mar-19 _ 1 A 2  BI 5  90 120  97 130                     
+   3 7A F 01-jan-20 12-mar-19 _ 1 A 2  BI 5  90  69  97  82                     
+   4 7G F 01-jan-20 12-mar-19 _ 1 A 2  EC 5  90  98  97 102                     
+   5 16V _ _________ _________ _ 1 A   __                                       
+   6 16W _ _________ _________ _ 1 A   __                                       
+   7 16X _ _________ _________ _ 1 A   __                                       
+   8 16Y _ _________ _________ _ 1 A   __                                       
+   9 16Z _ _________ _________ _ 1 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA41B6F2     9   Rain Accumulation, Inches                  PC               
+   CA41B6F2    10   Wind Speed MPH, Miles per Hour             US               
+   CA41B6F2    11   Wind Direction Degrees, Degrees            UD               
+   CA41B6F2    12   Air Temperature, Standard Placement, Deg   TA               
+   CA41B6F2    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA41B6F2    14   Relative Humidity, Percent                 XR               
+   CA41B6F2    15   Battery Voltage, volts                     VB               
+   CA41B6F2    17   Fuel Moisture, Percent                     MM               
+   CA41B6F2    18   Wind Direction, Peak, Degrees              UX               
+   CA41B6F2    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA41B6F2    20   Solar Radiation, watts per meter squared   RD               

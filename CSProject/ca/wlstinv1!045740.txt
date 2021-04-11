@@ -1,0 +1,44 @@
+
+WLSTINV1-Weather Station Inventory for                       45740              
+                                                                                
+Station: 045740   Name: PALOMAR                NESDIS: 328637F6                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 26-Oct-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 513                       
+                                                                                
+State: 06-CA   County: 073-San Diego           Lat/Lon: 33 21 7., 116 51 45     
+Obs Agy: 1 (USDA FS )     Unit: CA-CNF       Mnemonic: PALOM      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  5486   Asp: 4   Ann Prec:  30.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: FS11243   Acc Lst: CNF                                                    
+Comments:                                                                       
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B F 26-oct-19 27-apr-19 _ 3 A 2  BI 5  90 145  97 159                     
+   2 7G F 26-oct-19 27-apr-19 _ 1 A 2  EC 5  90  88  97  93                     
+   5 16V _ _________ _________ _ 3 A   __                                       
+   6 16W _ _________ _________ _ 3 A   __                                       
+   7 16X _ _________ _________ _ 3 A   __                                       
+   8 16Y _ _________ _________ _ 3 A   __                                       
+   9 16Z _ _________ _________ _ 3 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   328637F6     9   Rain Accumulation, Inches                  PC               
+   328637F6    10   Wind Speed MPH, Miles per Hour             US               
+   328637F6    11   Wind Direction Degrees, Degrees            UD               
+   328637F6    12   Air Temperature, Standard Placement, Deg   TA               
+   328637F6    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   328637F6    14   Relative Humidity, Percent                 XR               
+   328637F6    15   Battery Voltage, volts                     VB               
+   328637F6    17   Fuel Moisture, Percent                     MM               
+   328637F6    18   Wind Direction, Peak, Degrees              UX               
+   328637F6    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   328637F6    20   Solar Radiation, watts per meter squared   RD               

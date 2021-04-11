@@ -1,0 +1,54 @@
+
+WLSTINV1-Weather Station Inventory for                       45423              
+                                                                                
+Station: 045423   Name: VALYERMO               NESDIS: 3332D154                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 24-Nov-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 514                       
+                                                                                
+State: 06-CA   County: 037-Los Angeles         Lat/Lon: 34 26 44, 117 51  4     
+Obs Agy: 1 (USDA FS )     Unit: ANF          Mnemonic: VLYMO      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  3780   Asp: 4   Ann Prec:   9.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS9632   Acc Lst: MCASTILLO                                               
+Comments: LOCATION  : 300' NORTHEAST OF STATION IN WASH                         
+NFDRZ     : 690                                                                 
+NWSFZ     : 514                                                                 
+NWS FWPFZ : 259                                                                 
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B F 22-nov-19 09-mar-19 _ 4 A 1  BI 5  90 169  97 204                     
+   2 7T F 22-nov-19 09-mar-19 _ 4 A 1  BI 5  90  83  97 102                     
+   3 7A F 22-nov-19 09-mar-19 _ 4 A 1  BI 5  90  59  97  67                     
+   4 7G F 22-nov-19 09-mar-19 _ 4 A 1  EC 5  90 104  97 118                     
+   5 16X _ _________ _________ _ 4 A   EC 5  90 107  97 114                     
+   6 16X _ _________ _________ _ 4 A   BI 5  90 271  97 299                     
+   7 16Y _ _________ _________ _ 4 A   EC 5  90  82  97  87                     
+   8 16Y _ _________ _________ _ 4 A   BI 5  90  71  97  75                     
+   9 16Z _ _________ _________ _ 4 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   3332D154     9   Rain Accumulation, Inches                  PC               
+   3332D154    10   Wind Speed MPH, Miles per Hour             US               
+   3332D154    11   Wind Direction Degrees, Degrees            UD               
+   3332D154    12   Air Temperature, Standard Placement, Deg   TA               
+   3332D154    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   3332D154    14   Relative Humidity, Percent                 XR               
+   3332D154    15   Battery Voltage, volts                     VB               
+   3332D154    17   Fuel Moisture, Percent                     MM               
+   3332D154    18   Wind Direction, Peak, Degrees              UX               
+   3332D154    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   3332D154    20   Solar Radiation, watts per meter squared   RD               
+   3332D154    21   Air Temperature, 24 Hour High, Degrees F   TX               
+   3332D154    22   Air Temperature, 24 Hour Low, Degrees Fa   TN               
+   3332D154    23   Relative Humidity, 24 Hour High, Percent   XS               
+   3332D154    24   Relative Humidity, 24 Hour Low, Percent    XQ               

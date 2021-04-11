@@ -1,0 +1,49 @@
+
+WLSTINV1-Weather Station Inventory for                       40629              
+                                                                                
+Station: 040629   Name: WHISKEYTOWN HQ#2       NESDIS: FA410322                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 24-May-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: 040628     Fcst Zone: 595                       
+                                                                                
+State: 06-CA   County: 089-Shasta              Lat/Lon: 40 36 37, 122 31 38     
+Obs Agy: 3 (USDI NPS)     Unit: WNP          Mnemonic: WHIS2      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:  1360   Asp: 6   Ann Prec:  63.57   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: NPS8404   Acc Lst: WHIS                                                   
+Comments: THIS RAWS 040629 IS LOCATED ABOUT 400 FEET SOUTH OF MANUAL STATION 04 
+0628 AND WILL EVENTUALLY REPLACE MANUAL STATION ONCE ENOUGH DATA IS COLLECTED A 
+ND ANALYZED.                                                                    
+WHISKEYTOWN HQ#2 WAS SWITCHED FROM HANDAR VISALA 555 TO FTS F6 ON 3/09/12.      
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G C 20-jun-19 24-may-19 _ 3 A 2  BI 5  90  68  97  72                     
+   2 7B C 20-jun-19 24-may-19 _ 3 A 2  BI 5  90 115  97 125                     
+   3 7F C 20-jun-19 24-may-19 _ 3 A 2  BI 5  90  83  97 108                     
+   4 16V _ _________ _________ _ 3 A   __                                       
+   5 16W _ _________ _________ _ 3 A   __                                       
+   6 16X _ _________ _________ _ 3 A   __                                       
+   7 16Y _ _________ _________ _ 3 A   __                                       
+   8 16Z _ _________ _________ _ 3 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   FA410322     9   Rain Accumulation, Inches                  PC               
+   FA410322    10   Wind Speed MPH, Miles per Hour             US               
+   FA410322    11   Wind Direction Degrees, Degrees            UD               
+   FA410322    12   Air Temperature, Standard Placement, Deg   TA               
+   FA410322    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   FA410322    14   Relative Humidity, Percent                 XR               
+   FA410322    15   Battery Voltage, volts                     VB               
+   FA410322    17   Fuel Moisture, Percent                     MM               
+   FA410322    18   Wind Direction, Peak, Degrees              UX               
+   FA410322    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   FA410322    20   Solar Radiation, watts per meter squared   RD               

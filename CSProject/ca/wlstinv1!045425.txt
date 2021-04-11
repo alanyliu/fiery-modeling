@@ -1,0 +1,32 @@
+
+WLSTINV1-Weather Station Inventory for                       45425              
+                                                                                
+Station: 045425   Name: VINCENT                NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 05-Jun-2006     Obs Time/Z: 12/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: 045325     Fcst Zone: 506                       
+                                                                                
+State: 06-CA   County: 037-Los Angeles         Lat/Lon: 34 29 24, 118  8 24     
+Obs Agy: 6 (Local Gv)     Unit: LAC          Mnemonic: VNCNT      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  3135   Asp: 5   Ann Prec:  11.00   Season:                     
+Ltng scale:   2.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: ____________   Acc Lst: ________                                          
+Comments: LAC STATION 80.  LOCATED IN NFDRS AREA 690                            
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7F C 13-apr-04 17-mar-04 _ 3 A 2  BI 5  90 132  97 166                     
+   2 7B C 13-apr-04 17-mar-04 _ 3 A 2  BI 5  90 185  97 225                     
+   3 7G C 13-apr-04 17-mar-04 _ 3 A 2  EC 5  90  87  97  93                     
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

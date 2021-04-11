@@ -1,0 +1,30 @@
+
+WLSTINV1-Weather Station Inventory for                       44111              
+                                                                                
+Station: 044111   Name: VALLEY                 NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 09-Feb-2016     Obs Time/Z: 13/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 531                       
+                                                                                
+State: 06-CA   County: 043-Mariposa            Lat/Lon: 37 45  0, 119 35  0     
+Obs Agy: 3 (USDI NPS)     Unit: YOSE         Mnemonic: YNP      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  4000   Asp: 4   Ann Prec:  37.62   Season: 1                   
+Ltng scale:   1.00   Hum code: 1   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: 591   Acc Lst: YOSE                                                       
+Comments: STATION OPERATES MAY THROUGH OCTOBER                                  
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G G 15-apr-13 15-apr-13 _ 1 P 3  EC 5  90  66  97  73                     
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

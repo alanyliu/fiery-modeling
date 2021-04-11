@@ -1,0 +1,30 @@
+
+WLSTINV1-Weather Station Inventory for                       40226              
+                                                                                
+Station: 040226   Name: TENNANT GS             NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 16-Jan-1998     Obs Time/Z: 13/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 589                       
+                                                                                
+State: 06-CA   County: 093-Siskiyou            Lat/Lon: 41 35 18, 121 54 48     
+Obs Agy: 1 (USDA FS )     Unit: KNF          Mnemonic: TENAT      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  4800   Asp: 4   Ann Prec:  24.36   Season:                     
+Ltng scale:    Hum code: 1   Temp code: 1   Pres code: 1                        
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: FS11214   Acc Lst: ________                                               
+Comments: STATION RECORD___1961-1991                                            
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

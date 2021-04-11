@@ -1,0 +1,62 @@
+
+WLSTINV1-Weather Station Inventory for                       44511              
+                                                                                
+Station: 044511   Name: MT TOM                 NESDIS: 326DD226                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 12-Jun-2018     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 533                       
+                                                                                
+State: 06-CA   County: 019-Fresno              Lat/Lon: 37 22 35, 119 10 45     
+Obs Agy: 1 (USDA FS )     Unit: SNF          Mnemonic: MTTOM      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  8982   Asp: 1   Ann Prec:  50.00   Season:                     
+Ltng scale:   4.71   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: b7f   Acc Lst: CONTROL                                                    
+Comments: SET SNOW FLAG TO YES 01-FEB-12 MAS. GREEN UP 14-JUN-12 KTHOM,   ANNUA 
+L MAINT. COMPLETED JUNE/12 (AIR TEMP/RH & FUEL MOISTURE/ FUEL TEMP SENSORD REPL 
+ACED, WIND SENSOR REPAIRED).                                                    
+PER DISTRICT FUELS BC STATION SET TO FROZEN ON 25-OCT-2012 AND RE-CALC ON 02-NO 
+V-2012 (KTHOM)                                                                  
+PER CAPT38 GREEN-UP 5-30-13                                                     
+PER CAP 38 FROZEN ON 1/19/17                                                    
+PER CAPT38 REMOVE SNOW FLAG AND GREEN UP MAY 1-14 (KT)                          
+                                                                                
+PER CAPT38 GREEN-UP 5/1/15 AND RECALC. MAS 5/13/15.                             
+                                                                                
+PER BC58 STATION SET TO FROZEN. 12/4/15 BM                                      
+PER CAPT 38 SET STATION TO GREEN UP. 5/12/16 SW                                 
+PER CAP 48 GREEN UP ON 5/15/18 SW                                               
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7H C 11-jul-18 15-may-18 _ 3 P 3  BI 5  90  41  97  46                     
+   2 7G C 11-jul-18 15-may-18 _ 3 P 3  BI 5  90  95  97 105                     
+   3 16V _ _________ _________ _ 3 P   __                                       
+   4 16W _ _________ _________ _ 3 P   __                                       
+   5 16X _ _________ _________ _ 3 P   __                                       
+   6 16Y _ _________ _________ _ 3 P   __                                       
+   7 16Z _ _________ _________ _ 3 P   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   326DD226     9   Rain Accumulation, Inches                  PC               
+   326DD226    10   Wind Speed MPH, Miles per Hour             US               
+   326DD226    11   Wind Direction Degrees, Degrees            UD               
+   326DD226    12   Air Temperature, Standard Placement, Deg   TA               
+   326DD226    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   326DD226    14   Relative Humidity, Percent                 XR               
+   326DD226    15   Battery Voltage, volts                     VB               
+   326DD226    17   Fuel Moisture, Percent                     MM               
+   326DD226    18   Wind Direction, Peak, Degrees              UX               
+   326DD226    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   326DD226    20   Solar Radiation, watts per meter squared   RD               
+   326DD226    21   Air Temperature, 24 Hour High, Degrees F   TX               
+   326DD226    22   Air Temperature, 24 Hour Low, Degrees Fa   TN               
+   326DD226    23   Relative Humidity, 24 Hour High, Percent   XS               
+   326DD226    24   Relative Humidity, 24 Hour Low, Percent    XQ               

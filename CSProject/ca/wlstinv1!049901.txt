@@ -1,0 +1,43 @@
+
+WLSTINV1-Weather Station Inventory for                       49901              
+                                                                                
+Station: 049901   Name: STF03 - PINECREST      NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 08-Jun-2011     Obs Time/Z: 12/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 540                       
+                                                                                
+State: 06-CA   County: 109-Tuolumne            Lat/Lon: 38 11 11, 120  0 37     
+Obs Agy: 1 (USDA FS )     Unit: STF          Mnemonic: STF03      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  5698   Asp: 0   Ann Prec:  35.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: ____________   Acc Lst: ________                                          
+Comments: REMOVED PORTABLE FROM PINECREST LOCATION FALL 2010                    
+                                                                                
+9/21/10 - 49901 ASSIGNED TO STF03 PORTABLE, TEMPORARILY OPERATING IN PINECREST  
+TO TEST A PERMANENT RAWS LOCATION.                                              
+                                                                                
+REPOSITIONED TO A NEW TEST LOCATION AT SUMMIT LEVEL RIDGE ON 10/08/2008         
+                                                                                
+CONVERTED TO NFDRS (TYPE 4)ON 04/18/2008. DATA PRIOR TO JANUARY 1 2008 IS SUSPE 
+CT.                                                                             
+                                                                                
+INSTALLED JAN 2002 ON THE ANF AS A BAER STATION.  REMOVED IN 2005.  ANY DATA BE 
+TWEEN OCT OF 2007 AND SEP 2008 WILL BE DATA FROM A STF TEST SITE LOCATED ON STR 
+AWBERRY PEAK.                                                                   
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

@@ -1,0 +1,41 @@
+
+WLSTINV1-Weather Station Inventory for                       40424              
+                                                                                
+Station: 040424   Name: MAPLE CREEK            NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 14-Mar-2006     Obs Time/Z: 12/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 560                       
+                                                                                
+State: 06-CA   County: 023-Humboldt            Lat/Lon: 40 47 45, 123 56 14     
+Obs Agy: 5 (State   )     Unit: HUU          Mnemonic: MPC      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  1680   Asp: 6   Ann Prec:  57.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: 365   Acc Lst: HUU                                                        
+Comments: 02/08/2006 - MAPLE CREEK RAWS WAS ON PRIVATE TIMBERLAND AND TREES WER 
+E NOW OBSTRUCTING THE SITE. UNIT MOVED FROM MAPLE CREEK RAWS SITE AND CHANGED T 
+O KNEELAND RAWS LOCATED AT THE KNEELAND AIRPORT CDF HELITACK BASE. PLACED INTO  
+SERVICE ON FEB. 8, 2006. MAPLE CREEK NO LONGER IN SERVICE AS OF DEC. 17, 2005.  
+KNEELAND RAWS PLACED AS A NFDRS STATION FOR ZONE 100, COASTAL STRIP. TRANSMIT T 
+IME 47:45 ON TRANSMIT CHANNEL 74.                                               
+                                                                                
+CHANGED THE REGULAR SCHEDULED OBS. TIME FROM 1300 TO 1200 HRS IN STATION CATALO 
+G. TX TIME IS 48 AFTER THE HOUR, 1248 IS CLOSER TO 1300 THEN 1348 THEREFORE 120 
+0 OBS SHOULD BE USED FOR DAILY OBS.  B.SCHIEBER CDF NORTHERN REGION WX COORDINA 
+TOR 1/22/05.                                                                    
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

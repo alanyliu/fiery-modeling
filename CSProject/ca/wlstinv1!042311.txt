@@ -1,0 +1,44 @@
+
+WLSTINV1-Weather Station Inventory for                       42311              
+                                                                                
+Station: 042311   Name: MT TAMALPAIS           NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 26-Mar-2014     Obs Time/Z: 13/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 559                       
+                                                                                
+State: 06-CA   County: 041-Marin               Lat/Lon: 37 55 39, 122 35 15     
+Obs Agy: 6 (Local Gv)     Unit: MRN          Mnemonic: MTT      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: 21-May-2008                                 
+Site: 3   Elev:  2400   Asp: 4   Ann Prec:  45.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: ____________   Acc Lst: ________                                          
+Comments: 08/23/07 - SEE USER COMMENTS REGARDING THIS STATION IN MIDDLE PEAK RA 
+WS (042312).  ALSO ON THIS DATE THE ERRONEOUS NESDIS ID, WHICH WAS THE SAME AS  
+THE NWS ID, WAS ERASED. ALSO, THE STATION TYPE WAS CHANGED FROM A 4 TO A 2; COR 
+RESPONDING TO THE PREVIOUS RECORDED OBS AND LACK OF EXTRA DATA CHANNELS ON THIS 
+ CATALOG. THIS CHANGE IN STATION TYPE ALSO COINCIDES WITH VERBAL COMMUNICATION  
+WITH THE OBSERVING AGENCY.                                                      
+                                                                                
+THIS FOLLOWING NOTE (BEFORE 08/23/07) APPEARS TO BE IN ERROR - THINKING THAT TH 
+IS STATION WAS THE MIDDLE PEAK RAWS:  "MARIN COUNTY PURCHASE OF STATION. CDF AS 
+SIGNED THE NESDIS ID AND TRANSMIT TIME."                                        
+                                                                                
+!!! WICA922 (PETE?) - EMAIL TOM NUNES AT TNUNES@CO.MARIN.CA.US RE: MARIN RAWS U 
+NITS. THANKS.  04/25/05                                                         
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7A G 23-mar-14 23-mar-14 _ 2 A 2  __  90   97                              
+   2 7G G 23-mar-14 23-mar-14 _ 2 A 2  __  90   97                              
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

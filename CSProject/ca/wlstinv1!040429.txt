@@ -1,0 +1,53 @@
+
+WLSTINV1-Weather Station Inventory for                       40429              
+                                                                                
+Station: 040429   Name: KNEELAND               NESDIS: CA2AB768                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 20-May-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: 040424     Fcst Zone: 560                       
+                                                                                
+State: 06-CA   County: 023-Humboldt            Lat/Lon: 40 43 11, 123 55 41     
+Obs Agy: 5 (State   )     Unit: CDF          Mnemonic: KNEE      FS Reg:   5    
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  2737   Asp: 6   Ann Prec:  45.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: c3e   Acc Lst: HUUACL                                                     
+Comments: ON 01/23/08 THE STATION WAS ENTIRELY CONVERTED TO NEW FTS EQUIPMENT A 
+ND TRANSMITS USING HIGH DATA RATE ON NEW CHANNEL. OBS TIME UNCHANGED. TESTED TI 
+PPING BUCKET AND RESET RAINFALL.  LAT/LONG, ELEV AMENDED BASED UPON ON-SITE GPS 
+ (NAD83).  DFORREST CDF FIRE WX PROGRAM COORDINATOR                             
+                                                                                
+KNEELAND RAWS LOCATED AT THE KNEELAND AIRPORT CDF HELITACK BASE. PLACED INTO SE 
+RVICE ON FEB. 8, 2006. UNIT MOVED FROM MAPLE CREEK RAWS SITE. MAPLE CREEK NO LO 
+NGER IN SERVICE AS OF DEC. 17, 2005. MAPLE CREEK RAWS WAS ON PRIVATE TIMBERLAND 
+ AND TREES WERE NOW OBSTRUCTING THE SITE. KNEELAND RAWS PLACED AS A NFDRS STATI 
+ON FOR ZONE 100, COASTAL STRIP. TRANSMIT TIME 47:45 ON TRANSMIT CHANNEL 74.     
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G C 27-aug-19 01-may-19 _ 4 P 4  EC 5  90  52  97  58                     
+   2 16V _ _________ _________ _ 4 P   __                                       
+   3 16W _ _________ _________ _ 4 P   __                                       
+   4 16X _ _________ _________ _ 4 P   __                                       
+   5 16Y _ _________ _________ _ 4 P   __                                       
+   6 16Z _ _________ _________ _ 4 P   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA2AB768     9   Rain Accumulation, Inches                  PC               
+   CA2AB768    10   Wind Speed MPH, Miles per Hour             US               
+   CA2AB768    11   Wind Direction Degrees, Degrees            UD               
+   CA2AB768    12   Air Temperature, Standard Placement, Deg   TA               
+   CA2AB768    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA2AB768    14   Relative Humidity, Percent                 XR               
+   CA2AB768    15   Battery Voltage, volts                     VB               
+   CA2AB768    17   Fuel Moisture, Percent                     MM               
+   CA2AB768    18   Wind Direction, Peak, Degrees              UX               
+   CA2AB768    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA2AB768    20   Solar Radiation, watts per meter squared   RD               

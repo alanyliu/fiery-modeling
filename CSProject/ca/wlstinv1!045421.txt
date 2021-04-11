@@ -1,0 +1,52 @@
+
+WLSTINV1-Weather Station Inventory for                       45421              
+                                                                                
+Station: 045421   Name: TANBARK                NESDIS: 324837FA                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 28-Dec-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 509                       
+                                                                                
+State: 06-CA   County: 037-Los Angeles         Lat/Lon: 34 12 25, 117 45 38     
+Obs Agy: 1 (USDA FS )     Unit: ANF          Mnemonic: TNBRK      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:  2600   Asp: 4   Ann Prec:  28.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS9632   Acc Lst: MCASTILLO                                               
+Comments: LOCATION  : SOUTH OF SEWER PONDS IN TANBARK COMPOUND ON RIDGETOP      
+NFDRZ     : 655                                                                 
+NWSFZ     : 506                                                                 
+NWS FWPFZ : 254                                                                 
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B F 21-nov-19 09-mar-19 _ 3 A 2  BI 5  90 125  97 164                     
+   2 7G F 21-nov-19 09-mar-19 _ 3 A 2  EC 5  90  87  97 102                     
+   3 16Y _ _________ _________ _ 3 A   BI 5  90  51  97  56                     
+   4 16Y _ _________ _________ _ 3 A   EC 5  90  70  97  78                     
+   5 16X _ _________ _________ _ 3 A   BI 5  90 200  97 232                     
+   6 16X _ _________ _________ _ 3 A   EC 5  90 101  97 112                     
+   7 16Z _ _________ _________ _ 3 A   __  90   97                              
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   324837FA     9   Rain Accumulation, Inches                  PC               
+   324837FA    10   Wind Speed MPH, Miles per Hour             US               
+   324837FA    11   Wind Direction Degrees, Degrees            UD               
+   324837FA    12   Air Temperature, Standard Placement, Deg   TA               
+   324837FA    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   324837FA    14   Relative Humidity, Percent                 XR               
+   324837FA    15   Battery Voltage, volts                     VB               
+   324837FA    17   Fuel Moisture, Percent                     MM               
+   324837FA    18   Wind Direction, Peak, Degrees              UX               
+   324837FA    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   324837FA    20   Air Temperature, 24 Hour High, Degrees F   TX               
+   324837FA    21   Air Temperature, 24 Hour Low, Degrees Fa   TN               
+   324837FA    22   Relative Humidity, 24 Hour High, Percent   XS               
+   324837FA    23   Relative Humidity, 24 Hour Low, Percent    XQ               
+   324837FA    24   Solar Radiation, watts per meter squared   RD               

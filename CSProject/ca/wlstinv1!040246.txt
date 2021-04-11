@@ -1,0 +1,51 @@
+
+WLSTINV1-Weather Station Inventory for                       40246              
+                                                                                
+Station: 040246   Name: DUTCH INDY             NESDIS: 32A0034C                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 11-Sep-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 587                       
+                                                                                
+State: 06-CA   County: 093-Siskiyou            Lat/Lon: 41 38 36, 123 26 38     
+Obs Agy: 1 (USDA FS )     Unit: KNF          Mnemonic: DTI      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:  2296   Asp: 0   Ann Prec:  64.90   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: FS11259   Acc Lst: YICC                                                   
+Comments: UPDATED LAT/LONG/ELEV ON 2/11/2012-ANGI                               
+STATION INFORMATION CREATED ON 1/21/2009.                                       
+LOCATED BETWEEN DUTCH CREEK AND INDEPENDENCE CREEK ON HAPPY CAMP RD             
+NFDRA- 200                                                                      
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G F 01-aug-19 01-apr-19 _ 4 A 3  BI 5  90  80  97  91                     
+   5 16V _ _________ _________ _ 4 A   __                                       
+   6 16W _ _________ _________ _ 4 A   __                                       
+   7 16X _ _________ _________ _ 4 A   __                                       
+   8 16Y _ _________ _________ _ 4 A   __                                       
+   9 16Z _ _________ _________ _ 4 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   32A0034C     9   Rain Accumulation, Inches                  PC               
+   32A0034C    10   Wind Speed MPH, Miles per Hour             US               
+   32A0034C    11   Wind Direction Degrees, Degrees            UD               
+   32A0034C    12   Air Temperature, Standard Placement, Deg   TA               
+   32A0034C    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   32A0034C    14   Relative Humidity, Percent                 XR               
+   32A0034C    15   Battery Voltage, volts                     VB               
+   32A0034C    17   Fuel Moisture, Percent                     MM               
+   32A0034C    18   Wind Direction, Peak, Degrees              UX               
+   32A0034C    19   Wind speed peak, Miles per Hour            UP               
+   32A0034C    20   Solar Radiation, watts per meter squared   RD               
+   32A0034C    21   Air Temperature, 24 Hour High, Degrees F   TX               
+   32A0034C    22   Air Temperature, 24 Hour Low, Degrees Fa   TN               
+   32A0034C    23   Relative Humidity, 24 Hour High, Percent   XS               
+   32A0034C    24   Relative Humidity, 24 Hour Low, Percent    XQ               

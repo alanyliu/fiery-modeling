@@ -1,0 +1,50 @@
+
+WLSTINV1-Weather Station Inventory for                       40402              
+                                                                                
+Station: 040402   Name: BIGHILL                NESDIS: 5212E6EC                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 07-Nov-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 555                       
+                                                                                
+State: 06-CA   County: 023-Humboldt            Lat/Lon: 41  5 50, 123 38 9.     
+Obs Agy: 4 (USDI BIA)     Unit: CBIA         Mnemonic: BHILL      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  3570   Asp: 4   Ann Prec:  63.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS11381   Acc Lst: HIA                                                    
+Comments: RAWS STATION INSTALLED 5/13/1997.                                     
+                                                                                
+WIMS OWNERSHIP TRANSFERRED TO FS11167 ON 5/31/2012. FICC WILL MAINTAIN STATION  
+IN WIMS, PER AGREEMENT WITH HOOPA TRIBE AND NANCY WILSON, BIA NATIONAL RAWS COO 
+RDINATOR.                                                                       
+90TH AND 97TH PERCENTILES WERE EDITED 7/22/15 2000-2015                         
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G F 05-sep-19 06-apr-19 _ 3 A 3  BI 5  90  57  97  62                     
+   2 7Q F 05-sep-19 06-apr-19 _ 3 A 3  BI 5  90  78  97  85                     
+   3 16V _ _________ _________ _ 3 A   __  90   97                              
+   4 16W _ _________ _________ _ 3 A   __  90   97                              
+   5 16X _ _________ _________ _ 3 A   __  90   97                              
+   6 16Y _ _________ _________ _ 3 A   __  90   97                              
+   7 16Z _ _________ _________ _ 3 A   __  90   97                              
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   5212E6EC     9   Rain Accumulation, Inches                  PC               
+   5212E6EC    10   Wind Speed MPH, Miles per Hour             US               
+   5212E6EC    11   Wind Direction Degrees, Degrees            UD               
+   5212E6EC    12   Air Temperature, Standard Placement, Deg   TA               
+   5212E6EC    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   5212E6EC    14   Relative Humidity, Percent                 XR               
+   5212E6EC    15   Battery Voltage, volts                     VB               
+   5212E6EC    17   Fuel Moisture, Percent                     MM               
+   5212E6EC    18   Wind Direction, Peak, Degrees              UX               
+   5212E6EC    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   5212E6EC    20   Solar Radiation, watts per meter squared   RD               

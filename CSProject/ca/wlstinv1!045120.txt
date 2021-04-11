@@ -1,0 +1,31 @@
+
+WLSTINV1-Weather Station Inventory for                       45120              
+                                                                                
+Station: 045120   Name: SALT WELLS             NESDIS: ________                 
+                                                                                
+Type: 2 (Man NFDRS)   Create/Mod Date: 08-Dec-2012     Obs Time/Z: 13/PST       
+Assoc Man: ______     Prev Stn: 045420     Fcst Zone: 543                       
+                                                                                
+State: 06-CA   County: 071-San Bernardino      Lat/Lon: 35 50  0, 117 35  0     
+Obs Agy: 2 (USDI BLM)     Unit: CDD          Mnemonic: SALTW      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  2540   Asp: 8   Ann Prec:   4.27   Season:                     
+Ltng scale:   1.00   Hum code: 1   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS11034   Acc Lst: STATIONS                                               
+Comments:                                                                       
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7A F 08-dec-12 21-apr-12 _ 2 A 1  BI 5  90  63  97  71                     
+   2 7B F 08-dec-12 21-apr-12 _ 2 A 1  BI 5  90   97                            
+   3 7F F 08-dec-12 21-apr-12 _ 2 A 1  BI 5  90   97                            
+   4 7G F 08-dec-12 21-apr-12 _ 2 A 1  BI 5  90  63  97  71                     
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

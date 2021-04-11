@@ -1,0 +1,31 @@
+
+WLSTINV1-Weather Station Inventory for                       40902              
+                                                                                
+Station: 040902   Name: BOULDER CREEK          NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 06-Mar-1998     Obs Time/Z: 13/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 599                       
+                                                                                
+State: 06-CA   County: 063-Plumas              Lat/Lon: 40 11 42, 120 36 48     
+Obs Agy: 1 (USDA FS )     Unit: PNF          Mnemonic: BLDRC      FS Reg:   5   
+                                                                                
+Fuel Stk: 09-Jun-1997   Wdy FM Mea: 09-Jun-1997                                 
+Site: 1   Elev:  5025   Asp: 3   Ann Prec:  35.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: ____________   Acc Lst: ________                                          
+Comments: HISTORICAL,STATION CURRENTLY INACTIVE                                 
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B P 25-mar-97 _________ _ 2 P 3  BI 5  90  96  97 139                     
+   2 7G P 25-mar-97 _________ _ 2 P 3  BI 5  90  58  97  68                     
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

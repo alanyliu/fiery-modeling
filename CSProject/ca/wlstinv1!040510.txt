@@ -1,0 +1,37 @@
+
+WLSTINV1-Weather Station Inventory for                       40510              
+                                                                                
+Station: 040510   Name: WEAVERVILLE (RAWS)     NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 19-Mar-2012     Obs Time/Z: 12/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 591                       
+                                                                                
+State: 06-CA   County: 105-Trinity             Lat/Lon: 40 44  1, 122 56  7     
+Obs Agy: 1 (USDA FS )     Unit: SHF          Mnemonic: WVRAW      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  2047   Asp: 0   Ann Prec:  35.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS11083   Acc Lst: SHF                                                    
+Comments: STATION WAS MOVED 2 MILES NORTH OF WEAVERVILLE TO MEET NFDRS STANDARD 
+S 8/22/05.  THIS STATION IS NOW A HISTORICAL STATION.  CJOHNSON  REPLACEMENT ST 
+ATION IS FIVE CENT.                                                             
+                                                                                
+PLACED INTO SERVICE AS A NFDRS RAWS ON 10/5/98.                                 
+FIRE DANGER RATING AREA 230.                                                    
+PERIOD OF RECORD: 1961 - 2005                                                   
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

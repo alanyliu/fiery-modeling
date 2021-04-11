@@ -1,0 +1,49 @@
+
+WLSTINV1-Weather Station Inventory for                       40724              
+                                                                                
+Station: 040724   Name: DOYLE                  NESDIS: 325694F4                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 05-Nov-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 450                       
+                                                                                
+State: 06-CA   County: 035-Lassen              Lat/Lon: 40  3 31, 120  5 37     
+Obs Agy: 2 (USDI BLM)     Unit: CCD          Mnemonic: BLM      FS Reg:   4     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  4320   Asp: 2   Ann Prec:  10.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: BLM2430   Acc Lst: FIRES                                                  
+Comments: RAWS/PERMANENT/SECONDARY                                              
+[HF/INTEL/2006]                                                                 
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G C 01-may-19 01-may-19 _ 1 A 2  EC 5  80  91  95  97                     
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   325694F4     9   Rain Accumulation, Inches                  PC               
+   325694F4    10   Wind Speed MPH, Miles per Hour             US               
+   325694F4    11   Wind Direction Degrees, Degrees            UD               
+   325694F4    12   Air Temperature, Standard Placement, Deg   TA               
+   325694F4    14   Relative Humidity, Percent                 XR               
+   325694F4    15   Battery Voltage, volts                     VB               
+   325694F4    17   Wind Direction, Peak, Degrees              UX               
+   325694F4    18   Wind Speed Peak MPH, Miles per Hour        UP               
+   325694F4    19   Solar Radiation, watts per meter squared   RD               
+   325694F4    20   Snow Depth, Inches                         SD               
+   325694F4    21   Soil Moisture, Percent                     MS               
+   325694F4    23   Soil Temperature "C", Degrees Celsius      TG               
+   325694F4    24   Soil Moisture, 2nd sensor, Percent         MS               
+   325694F4    26   Soil Temperature "C" 2, Degrees Celsius    TG               
+   325694F4    27   Soil Moisture, 3rd sensor, Percent         MS               
+   325694F4    29   Soil Temperature "C" 3, Degrees Celsius    TG               
+   325694F4    30   Soil Moisture 4th sensor, Percent          MS               
+   325694F4    32   Soil Temperature "C" 4, Degrees Celsius    TG               
+   325694F4    33   Soil Moisture 5th sensor, Percent          MS               
+   325694F4    35   Soil Temperature "C" 5, Degrees Celsius    TG               

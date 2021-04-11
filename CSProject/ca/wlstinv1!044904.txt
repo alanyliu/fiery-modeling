@@ -1,0 +1,68 @@
+
+WLSTINV1-Weather Station Inventory for                       44904              
+                                                                                
+Station: 044904   Name: LAS TABLAS             NESDIS: CA23742A                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 16-Dec-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 520                       
+                                                                                
+State: 06-CA   County: 079-San Luis Obispo     Lat/Lon: 35 39 23, 120 55 26     
+Obs Agy: 5 (State   )     Unit: CDF-SLU      Mnemonic: LTB      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:   967   Asp: 2   Ann Prec:  17.00   Season: 4                   
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: 9ae   Acc Lst: SLUECC                                                     
+Comments: GREEN UP 3/1/14 SS                                                    
+GREEN UP AND RECLAC FOR 2009 ON 01-MAY-09  PROCESSED ON 24 MAY 09 ELP           
+GREEN UP AND RECALC FOR 2008 ON 15 MAY O8. ENTERED ON JULY 10  08 WITH RECALC.  
+ELP GREEN UP AND RECALC FOR MAY 07 DONE ON 10/15/07  ELP                        
+                                                                                
+MISSED OBS FOR 2004 ADDED.  FUEL FROZEN AUG. 14.  STATION INFO RECALCULATED 2/6 
+/05.EP                                                                          
+FUEL GREENED MAR 07, 05.  ELP                                                   
+FROZEN AND RECLAC 11/23/05. ELP                                                 
+GREEN UP 05/01/06 ELP                                                           
+ON 04/06/06 THE STATION WAS ENTIRELY CONVERTED TO NEW FTS EQUIPMENT AND TRANSMI 
+TS USING HIGH DATA RATE ON NEW CHANNEL. OBS TIME UNCHANGED. TESTED TIPPING BUCK 
+ET AND RESET RAINFALL.  DFORREST CDF FIRE WX PROGRAM COORDINATOR                
+LAT/LONG, ELEV AMENDED BASED UPON ON-SITE GPS (NAD83) WHEN STATION WAS UPGRADED 
+ 04/06/06.  DFORREST CDF FIRE WX PROGRAM COORDINATOR 09/26/06                   
+FROZEN AND RECALC. 11/13/06 EEE                                                 
+FROZEN WITH RECALC ON 11/30/07.  ACTUAL ENTRIES MADE IN WIMS 1/1/08.  ELP       
+FROZEN WITH RECALC ON 10/07/09.  ACTUAL ENTRIES MADE IN WIMS 10/25/09  ELP      
+GREEN UP ON 5/29/10                                                             
+FROZEN AND RECALC ON 10/3/10                                                    
+GREEN UP 5-13-12  ELP                                                           
+FROZEN AND RECALC 10/14/12  ELP                                                 
+GREEN UP 03/01/13 AND RECALC 03/13/13 EET                                       
+FROZEN 9/22/13 MA                                                               
+GREEN UP 3/1/14                                                                 
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G F 13-dec-19 01-apr-19 _ 2 A 2  BI 3  90  23  97  54                     
+   2 16V _ _________ _________ _ 2 A   __  90   97                              
+   3 16W _ _________ _________ _ 2 A   __  90   97                              
+   4 16X _ _________ _________ _ 2 A   __  90   97                              
+   5 16Y _ _________ _________ _ 2 A   __  90   97                              
+   6 16Z _ _________ _________ _ 2 A   __  90   97                              
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA23742A     9   Rain Accumulation, Inches                  PC               
+   CA23742A    10   Wind Speed MPH, Miles per Hour             US               
+   CA23742A    11   Wind Direction Degrees, Degrees            UD               
+   CA23742A    12   Air Temperature, Standard Placement, Deg   TA               
+   CA23742A    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA23742A    14   Relative Humidity, Percent                 XR               
+   CA23742A    15   Battery Voltage, volts                     VB               
+   CA23742A    17   Fuel Moisture, Percent                     MM               
+   CA23742A    18   Wind Direction, Peak, Degrees              UX               
+   CA23742A    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA23742A    20   Solar Radiation, watts per meter squared   RD               

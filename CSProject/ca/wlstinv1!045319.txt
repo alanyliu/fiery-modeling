@@ -1,0 +1,40 @@
+
+WLSTINV1-Weather Station Inventory for                       45319              
+                                                                                
+Station: 045319   Name: PIRU                   NESDIS: CA26E688                 
+                                                                                
+Type: 3 (RAWS S non-NFDRS)   Create/Mod Date: 16-Feb-2012     Obs Time/Z: 13/PS 
+T                                                                               
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: ____                      
+                                                                                
+State: 06-CA   County: 111-Ventura             Lat/Lon: 34 24 16, 118 48 36     
+Obs Agy: 6 (Local Gv)     Unit: PIU          Mnemonic: PIU      FS Reg:   5     
+                                                                                
+Fuel Stk: 18-Apr-2002   Wdy FM Mea: ___________                                 
+Site: 1   Elev:   624   Asp: 4   Ann Prec:  15.53   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: FS11472   Acc Lst: ________                                               
+Comments:                                                                       
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA26E688     9   Rain Accumulation, Inches                  PC               
+   CA26E688    10   Windspeed, Miles per Hour                  US               
+   CA26E688    11   Wind Direction, Degrees                    UD               
+   CA26E688    12   Air Temperature, Standard Placement, Deg   TA               
+   CA26E688    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA26E688    14   Relative Humidity, Percent                 XR               
+   CA26E688    15   Battery Voltage, volts                     VB               
+   CA26E688    17   Fuel Moisture, Percent                     MM               
+   CA26E688    18   Wind Direction, Peak, Degrees              UX               
+   CA26E688    19   Windspeed, Peak, Miles per Hour            UP               
+   CA26E688    20   Solar Radiation, watts per meter squared   RD               

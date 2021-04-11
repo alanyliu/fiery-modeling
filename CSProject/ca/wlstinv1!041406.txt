@@ -1,0 +1,51 @@
+
+WLSTINV1-Weather Station Inventory for                       41406              
+                                                                                
+Station: 041406   Name: SODA CREEK             NESDIS: 325F07CA                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 24-Jan-2020     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 557                       
+                                                                                
+State: 06-CA   County: 033-Lake                Lat/Lon: 39 25 30, 122 58 38     
+Obs Agy: 1 (USDA FS )     Unit: MNF          Mnemonic: SODA      FS Reg:   5    
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  1725   Asp: 0   Ann Prec:  33.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS7770   Acc Lst: MNF                                                     
+Comments: FDRA 162                                                              
+5/10/06 - GREENED-UP STATION ON 4/15/06. AED.....FROZE 11/12/06 AED             
+5/1/07 - GREENED-UP STATION 4/15/07 AED...FROZE 9/29/07 AED                     
+5/5/08 - GREENED-UP STATION 10/7/08 FROZE AED                                   
+GREENED-UP STATION 4/1/09 AED...FROZE 11/01/09 AED                              
+CHANGED REG SHEDULE OBS TIME FROM 1200 TO 1300. AED                             
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G F 01-dec-19 01-apr-19 _ 3 A 3  BI 5  90  63  97  69                     
+   2 7F F 01-dec-19 01-apr-19 _ 3 A 3  BI 5  90  45  97  70                     
+   3 7B F 01-dec-19 01-apr-19 _ 3 A 3  BI 5  90  86  97 128                     
+   4 16V _ _________ _________ _ 3 A   __                                       
+   5 16W _ _________ _________ _ 3 A   __                                       
+   6 16X _ _________ _________ _ 3 A   __                                       
+   7 16Y _ _________ _________ _ 3 A   __                                       
+   8 16Z _ _________ _________ _ 3 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   325F07CA     9   Rain Accumulation, Inches                  PC               
+   325F07CA    10   Wind Speed MPH, Miles per Hour             US               
+   325F07CA    11   Wind Direction Degrees, Degrees            UD               
+   325F07CA    12   Air Temperature, Standard Placement, Deg   TA               
+   325F07CA    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   325F07CA    14   Relative Humidity, Percent                 XR               
+   325F07CA    15   Battery Voltage, volts                     VB               
+   325F07CA    17   Fuel Moisture, Percent                     MM               
+   325F07CA    18   Wind Direction, Peak, Degrees              UX               
+   325F07CA    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   325F07CA    20   Solar Radiation, watts per meter squared   RD               

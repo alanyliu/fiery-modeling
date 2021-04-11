@@ -1,0 +1,30 @@
+
+WLSTINV1-Weather Station Inventory for                       43202              
+                                                                                
+Station: 043202   Name: BAILEY RIDGE FFS       NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 27-Nov-2001     Obs Time/Z: 13/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 540                       
+                                                                                
+State: 06-CA   County: 009-Calaveras           Lat/Lon: 38 24  0, 120 18  0     
+Obs Agy: 5 (State   )     Unit: _________    Mnemonic: BAILY      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  4600   Asp: 4   Ann Prec:  50.00   Season:                     
+Ltng scale:    Hum code: 1   Temp code: 1   Pres code: 1                        
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: ____________   Acc Lst: ________                                          
+Comments: DATA 1962-1969                                                        
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

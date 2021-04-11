@@ -1,0 +1,44 @@
+
+WLSTINV1-Weather Station Inventory for                       44719              
+                                                                                
+Station: 044719   Name: CEDAR GROVE            NESDIS: FA6197AE                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 03-Feb-2020     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 534                       
+                                                                                
+State: 06-CA   County: 107-Tulare              Lat/Lon: 36 47 16, 118 39 22     
+Obs Agy: 3 (USDI NPS)     Unit: SEKI/KNP     Mnemonic: CEDAR      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  4720   Asp: 4   Ann Prec:  35.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: NPS8561   Acc Lst: CAVEGIRL                                               
+Comments: WAS AT MILK RANCH UNTIL  SEPT. 1997                                   
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7U F 02-dec-19 02-apr-19 _ 5 A 2  BI 5  90  61  97  69                     
+   2 7G F 02-dec-19 02-apr-19 _ 5 A 2  BI 5  90 103  97 113                     
+   3 16V _ _________ _________ _ 5 A   __                                       
+   4 16W _ _________ _________ _ 5 A   __                                       
+   5 16X _ _________ _________ _ 5 A   __                                       
+   6 16Y _ _________ _________ _ 5 A   __                                       
+   7 16Z _ _________ _________ _ 5 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   FA6197AE     9   Rain Accumulation, Inches                  PC               
+   FA6197AE    10   Wind Speed MPH, Miles per Hour             US               
+   FA6197AE    11   Wind Direction Degrees, Degrees            UD               
+   FA6197AE    12   Air Temperature, Standard Placement, Deg   TA               
+   FA6197AE    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   FA6197AE    14   Relative Humidity, Percent                 XR               
+   FA6197AE    15   Battery Voltage, volts                     VB               
+   FA6197AE    17   Fuel Moisture, Percent                     MM               
+   FA6197AE    18   Wind Direction, Peak, Degrees              UX               
+   FA6197AE    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   FA6197AE    20   Solar Radiation, watts per meter squared   RD               

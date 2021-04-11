@@ -1,0 +1,57 @@
+
+WLSTINV1-Weather Station Inventory for                       44410              
+                                                                                
+Station: 044410   Name: PINNACLES              NESDIS: FA61672A                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 04-Feb-2020     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 524                       
+                                                                                
+State: 06-CA   County: 069-San Benito          Lat/Lon: 36 28 14, 121  8 50     
+Obs Agy: 3 (USDI NPS)     Unit: PIP          Mnemonic: PNN      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  1322   Asp: 4   Ann Prec:  14.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: 29b   Acc Lst: PINN-RAWS                                                  
+Comments: 01-APR-11:                                                            
+GREEN UP COMPLETED.                                                             
+20-MAY-11:                                                                      
+REPLACED WIND SP/DR CABLE ON UNIT. WIND SPEED SENSOR SEVERELY DAMAGED DUE TO WX 
+.                                                                               
+ORDERED NEW PART ON MAY-20.                                                     
+03-JUN-11:                                                                      
+REPLACED WIND SPEED. STATION NOW SENDING SPEED/DIRECTION                        
+11-DEC-11:                                                                      
+FREEZED UP STATION                                                              
+31-MAR-12:                                                                      
+PRE-GREENED STATION AND RECALCED (O/R-N-F)                                      
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B F 02-dec-19 15-mar-19 _ 2 A 2  BI 5  90 100  97 150                     
+   2 16V _ _________ _________ _ 2 A   __                                       
+   3 16W _ _________ _________ _ 2 A   __                                       
+   4 16X _ _________ _________ _ 2 A   __                                       
+   5 16Y _ _________ _________ _ 2 A   __                                       
+   6 16Z _ _________ _________ _ 2 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   FA61672A     9   Rain Accumulation, Inches                  PC               
+   FA61672A    10   Wind Speed MPH, Miles per Hour             US               
+   FA61672A    11   Wind Direction Degrees, Degrees            UD               
+   FA61672A    12   Air Temperature, Standard Placement, Deg   TA               
+   FA61672A    14   Relative Humidity, Percent                 XR               
+   FA61672A    15   Battery Voltage, volts                     VB               
+   FA61672A    17   Wind Direction, Peak, Degrees              UX               
+   FA61672A    18   Wind Speed Peak MPH, Miles per Hour        UP               
+   FA61672A    19   Solar Radiation, watts per meter squared   RD               
+   FA61672A    20   Air Temperature, 24 Hour High, Degrees F   TX               
+   FA61672A    21   Air Temperature, 24 Hour Low, Degrees Fa   TN               
+   FA61672A    22   Relative Humidity, 24 Hour High, Percent   XS               
+   FA61672A    23   Relative Humidity, 24 Hour Low, Percent    XQ               

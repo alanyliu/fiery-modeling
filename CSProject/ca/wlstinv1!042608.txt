@@ -1,0 +1,59 @@
+
+WLSTINV1-Weather Station Inventory for                       42608              
+                                                                                
+Station: 042608   Name: HELL HOLE              NESDIS: 3239D35E                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 14-Jan-2020     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 538                       
+                                                                                
+State: 06-CA   County: 061-Placer              Lat/Lon: 39  4 10, 120 25 11     
+Obs Agy: 1 (USDA FS )     Unit: ENF          Mnemonic: HELHO      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  5240   Asp: 4   Ann Prec:  30.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 0   One/Ten Fl: N                                   
+                                                                                
+User: FS11194   Acc Lst: DANAHER                                                
+Comments: 2014 ANNUAL MAINTENANCE PERFORMED ON 5/23/2014.                       
+                                                                                
+STATION WAS SWITCHED TO GREEN UP ON 5/16/16 BY SCOTT WYLIE.                     
+                                                                                
+PER CHIEF 3, GREEN UP HELL HOLE AND OWENS 6/2/17.                               
+                                                                                
+PER CHIEF 3, GREEN UP HELL HOLE 6/28/18                                         
+                                                                                
+STATION WAS SWITCHED TO FROZEN ON 11/28/17 BY SCOTT WYLIE.                      
+                                                                                
+12/7/18: PER DIV-7, FREEZE ALL RAWS. SD                                         
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G C 28-jul-19 14-may-19 _ 2 P 3  BI 3  90  72  97  80                     
+   2 7B C 28-jul-19 14-may-19 _ 2 P 3  BI 3  90 121  97 135                     
+   3 16V _ _________ _________ _ 2 P   __                                       
+   4 16X _ _________ _________ _ 2 P   BI 3  90 144  97 170                     
+   5 16X _ _________ _________ _ 2 P   EC 3  90  85  97  95                     
+   6 16Y _ _________ _________ _ 2 P   BI 3  90  42  97  45                     
+   7 16Y _ _________ _________ _ 2 P   EC 3  90  68  97  73                     
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   3239D35E     9   Rain Accumulation, Inches                  PC               
+   3239D35E    10   Wind Speed MPH, Miles per Hour             US               
+   3239D35E    11   Wind Direction Degrees, Degrees            UD               
+   3239D35E    12   Air Temperature, Standard Placement, Deg   TA               
+   3239D35E    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   3239D35E    14   Relative Humidity, Percent                 XR               
+   3239D35E    15   Battery Voltage, volts                     VB               
+   3239D35E    17   Fuel Moisture, Percent                     MM               
+   3239D35E    18   Wind Direction, Peak, Degrees              UX               
+   3239D35E    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   3239D35E    20   Air Temperature, 24 Hour High, Degrees F   TX               
+   3239D35E    21   Air Temperature, 24 Hour Low, Degrees Fa   TN               
+   3239D35E    22   Relative Humidity, 24 Hour High, Percent   XS               
+   3239D35E    23   Relative Humidity, 24 Hour Low, Percent    XQ               
+   3239D35E    24   Solar Radiation, watts per meter squared   RD               

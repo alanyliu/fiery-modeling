@@ -1,0 +1,51 @@
+
+WLSTINV1-Weather Station Inventory for                       45454              
+                                                                                
+Station: 045454   Name: NEWHALL PASS           NESDIS: CA293672                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 21-Feb-2020     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 505                       
+                                                                                
+State: 06-CA   County: 037-Los Angeles         Lat/Lon: 34 20 13, 118 31 13     
+Obs Agy: 6 (Local Gv)     Unit: CA-LAC       Mnemonic: NHP      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  2135   Asp: 6   Ann Prec:  17.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: aec   Acc Lst: FORESTRY LAC                                               
+Comments: NAME      : NEWHALL PASS                                              
+LOCATION  : WELDON MOTORWAY                                                     
+NFDRZ     : 655                                                                 
+NWSFZ     : 505                                                                 
+NWS FWPFZ : 254                                                                 
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7F P 12-feb-20 13-mar-19 _ 3 A 2  BI 5  90 108  97 140                     
+   2 7K P 12-feb-20 13-mar-19 _ 3 A 2  BI 5  90  84  97  93                     
+   3 7G P 12-feb-20 13-mar-19 _ 3 A 2  BI 5  90  81  97  88                     
+   4 7B P 12-feb-20 13-mar-19 _ 3 A 2  BI 5  90 188  97 217                     
+   5 16V _ _________ _________ _ 3 A   __                                       
+   6 16W _ _________ _________ _ 3 A   __                                       
+   7 16X _ _________ _________ _ 3 A   __                                       
+   8 16Y _ _________ _________ _ 3 A   __                                       
+   9 16Z _ _________ _________ _ 3 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA293672     9   Rain Accumulation, Inches                  PC               
+   CA293672    10   Wind Speed MPH, Miles per Hour             US               
+   CA293672    11   Wind Direction Degrees, Degrees            UD               
+   CA293672    12   Air Temperature, Standard Placement, Deg   TA               
+   CA293672    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA293672    14   Relative Humidity, Percent                 XR               
+   CA293672    15   Battery Voltage, volts                     VB               
+   CA293672    17   Fuel Moisture, Percent                     MM               
+   CA293672    18   Wind Direction, Peak, Degrees              UX               
+   CA293672    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA293672    20   Solar Radiation, watts per meter squared   RD               

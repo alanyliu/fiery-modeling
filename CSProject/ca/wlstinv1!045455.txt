@@ -1,0 +1,49 @@
+
+WLSTINV1-Weather Station Inventory for                       45455              
+                                                                                
+Station: 045455   Name: MT WASHINGTON          NESDIS: 2E914602                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 24-Apr-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 505                       
+                                                                                
+State: 06-CA   County: 037-Los Angeles         Lat/Lon: 34  6 14, 118 12 53     
+Obs Agy: 6 (Local Gv)     Unit: LA COUNTY    Mnemonic: WASH      FS Reg:   5    
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:   920   Asp: 4   Ann Prec:  15.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: aec   Acc Lst: FORESTRY LAC                                               
+Comments: "MT WASHINGTON"                                                       
+LOCATION : 721 LARK CT. LOS ANGELES                                             
+NFDRZ : 624                                                                     
+NWSFZ : 505                                                                     
+NWS FWPFZ : 249                                                                 
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B C 16-may-14 13-apr-14 _ 2 A 2  BI 5  90  97  97 105                     
+   5 16V _ _________ _________ _ 2 A   __                                       
+   6 16W _ _________ _________ _ 2 A   __                                       
+   7 16X _ _________ _________ _ 2 A   __                                       
+   8 16Y _ _________ _________ _ 2 A   __                                       
+   9 16Z _ _________ _________ _ 2 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   2E914602     9   Rain Accumulation, Inches                  PC               
+   2E914602    10   Windspeed, Miles per Hour                  US               
+   2E914602    11   Wind Direction, Degrees                    UD               
+   2E914602    12   Air Temperature, Standard Placement, Deg   TA               
+   2E914602    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   2E914602    14   Relative Humidity, Percent                 XR               
+   2E914602    15   Battery Voltage, volts                     VB               
+   2E914602    17   Barometric Pressure, Millibars             PL               
+   2E914602    18   Fuel Moisture, Percent                     MM               
+   2E914602    19   Wind Direction, Peak, Degrees              UX               
+   2E914602    20   Windspeed, Peak, Miles per Hour            UP               
+   2E914602    21   Solar Radiation, watts per meter squared   RD               

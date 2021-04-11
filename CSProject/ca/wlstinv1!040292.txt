@@ -1,0 +1,38 @@
+
+WLSTINV1-Weather Station Inventory for                       40292              
+                                                                                
+Station: 040292   Name: KNF92 PORTABLE         NESDIS: 328052DE                 
+                                                                                
+Type: 3 (RAWS S non-NFDRS)   Create/Mod Date: 21-Jul-2014     Obs Time/Z: 0/PST 
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 585                       
+                                                                                
+State: 06-CA   County: 093-Siskiyou            Lat/Lon: 41 29 50, 122 59 34     
+Obs Agy: 1 (USDA FS )     Unit: KNF          Mnemonic: HPCMI      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site:    Elev:  6400   Asp:    Ann Prec:  46.85   Season:                       
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: FS11259   Acc Lst: YICC                                                   
+Comments: NOT PERMANENT SITE. USED FOR RX FIRE                                  
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   328052DE     9   Rain Accumulation, Inches                  PC               
+   328052DE    10   Wind Speed MPH, Miles per Hour             US               
+   328052DE    11   Wind Direction Degrees, Degrees            UD               
+   328052DE    12   Air Temperature, Standard Placement, Deg   TA               
+   328052DE    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   328052DE    14   Relative Humidity, Percent                 XR               
+   328052DE    15   Battery Voltage, volts                     VB               
+   328052DE    17   Fuel Moisture, Percent                     MM               
+   328052DE    18   Wind Direction, Peak, Degrees              UX               
+   328052DE    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   328052DE    20   Solar Radiation, watts per meter squared   RD               

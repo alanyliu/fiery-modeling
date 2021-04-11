@@ -1,0 +1,30 @@
+
+WLSTINV1-Weather Station Inventory for                       45407              
+                                                                                
+Station: 045407   Name: EATON CANYON F. S.     NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 24-Nov-2002     Obs Time/Z: 13/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: ____                      
+                                                                                
+State: 06-CA   County: 037-Los Angeles         Lat/Lon:  0  0  0,   0  0  0     
+Obs Agy: 6 (Local Gv)     Unit: LACO         Mnemonic: ENTCY      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:  9999   Asp: 0   Ann Prec:  99.99   Season:                     
+Ltng scale:   1.00   Hum code: 1   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: FS8374   Acc Lst: ________                                                
+Comments: PERIOD OF RECORD: 1961 - 1968.                                        
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

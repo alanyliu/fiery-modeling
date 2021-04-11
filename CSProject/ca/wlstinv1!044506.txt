@@ -1,0 +1,30 @@
+
+WLSTINV1-Weather Station Inventory for                       44506              
+                                                                                
+Station: 044506   Name: PLS VALLEY             NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 28-Jan-1998     Obs Time/Z: 13/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: 044506     Fcst Zone: 526                       
+                                                                                
+State: 06-CA   County: 019-Fresno              Lat/Lon: 36  8  7, 120 16  8     
+Obs Agy: 5 (State   )     Unit: _________    Mnemonic: _____      FS Reg:   5   
+                                                                                
+Fuel Stk: 01-Jul-1993   Wdy FM Mea: ___________                                 
+Site: 1   Elev:   590   Asp: 0   Ann Prec:    Season:                           
+Ltng scale:   1.00   Hum code: 1   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: WICA430   Acc Lst: FKU                                                    
+Comments: MANUAL STATION..CLOSED AS OF 4/97                                     
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

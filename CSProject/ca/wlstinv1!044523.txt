@@ -1,0 +1,43 @@
+
+WLSTINV1-Weather Station Inventory for                       44523              
+                                                                                
+Station: 044523   Name: ALCALDE                NESDIS: 32A16450                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 15-Dec-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 526                       
+                                                                                
+State: 06-CA   County: 019-Fresno              Lat/Lon: 36 11  0, 120 29 55     
+Obs Agy: 5 (State   )     Unit: CDF          Mnemonic: _____      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  2728   Asp: 5   Ann Prec:   5.90   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: 3b0   Acc Lst: FKCC                                                       
+Comments: STATION ADDED TO WIMS ON AUGUST 15, 2018 - SENSOR DATA IS NOT TRANSMI 
+TTING TO RAWS HOWEVER IS SHOWING UP IN OTHER SOURCES.  IIA HELPDESK TICKET #136 
+6937 CREATED ON 09/05/2018.  - DW                                               
+OWNERSHIP TRANFERRED FROM DWATKINS1 TO JDDAHLBERG W/ NEW ACL - FKCC. 12/15/2019 
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B F 30-nov-19 25-mar-19 _ 2 A 1  BI 5  90  45  97  49                     
+   2 7G F 30-nov-19 25-mar-19 _ 2 A 1  BI 5  90  18  97  21                     
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   32A16450     9   Rain Accumulation, Inches                  PC               
+   32A16450    10   Wind Speed MPH, Miles per Hour             US               
+   32A16450    11   Wind Direction Degrees, Degrees            UD               
+   32A16450    12   Air Temperature, Standard Placement, Deg   TA               
+   32A16450    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   32A16450    14   Relative Humidity, Percent                 XR               
+   32A16450    15   Battery Voltage, volts                     VB               
+   32A16450    17   Fuel Moisture, Percent                     MM               
+   32A16450    18   Wind Direction, Peak, Degrees              UX               
+   32A16450    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   32A16450    20   Solar Radiation, watts per meter squared   RD               

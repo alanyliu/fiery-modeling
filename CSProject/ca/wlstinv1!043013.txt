@@ -1,0 +1,52 @@
+
+WLSTINV1-Weather Station Inventory for                       43013              
+                                                                                
+Station: 043013   Name: LOS VAQUEROS           NESDIS: CA270780                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 01-Dec-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 547                       
+                                                                                
+State: 06-CA   County: 013-Contra Costa        Lat/Lon: 37 47 18, 121 44  5     
+Obs Agy: 6 (Local Gv)     Unit: SCU          Mnemonic: LVQ      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  1100   Asp: 4   Ann Prec:  12.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: WICA1124   Acc Lst: SCU                                                   
+Comments: THIS IS A CONTRA COSTA WATER DISTRICT STATION AND MAINTAINED BY JOHN  
+HOWARD                                                                          
+925-240-2370  OR  925-381-3968   JHOWARD@CCWATER.COM  (SEPT 2018)               
+                                                                                
+                                                                                
+                                                                                
+DATA STEWARDSHIP BY CAL FIRE MORGAN HILL ECC 408-201-0490 BC IVY WILLIAMS 408-4 
+72-1609                                                                         
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7A F 01-dec-19 18-mar-19 _ 2 A 2  BI 5  90  52  97  59                     
+   2 7B F 01-dec-19 18-mar-19 _ 2 A 2  BI 5  90  95  97 131                     
+   3 7F F 01-dec-19 18-mar-19 _ 2 A 2  BI 5  90  52  97  67                     
+   4 7G F 01-dec-19 18-mar-19 _ 2 A 2  BI 5  90  94  97 109                     
+   5 16V _ _________ _________ _ 2 A   __                                       
+   6 16W _ _________ _________ _ 2 A   __                                       
+   7 16X _ _________ _________ _ 2 A   __                                       
+   8 16Y _ _________ _________ _ 2 A   __                                       
+   9 16Z _ _________ _________ _ 2 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA270780     9   Rain Accumulation, Inches                  PC               
+   CA270780    10   Wind Speed MPH, Miles per Hour             US               
+   CA270780    11   Wind Direction Degrees, Degrees            UD               
+   CA270780    12   Air Temperature, Standard Placement, Deg   TA               
+   CA270780    14   Relative Humidity, Percent                 XR               
+   CA270780    15   Battery Voltage, volts                     VB               
+   CA270780    17   Wind Direction, Peak, Degrees              UX               
+   CA270780    18   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA270780    19   Solar Radiation, watts per meter squared   RD               

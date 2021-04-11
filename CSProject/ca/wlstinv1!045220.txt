@@ -1,0 +1,49 @@
+
+WLSTINV1-Weather Station Inventory for                       45220              
+                                                                                
+Station: 045220   Name: VANDENBERG             NESDIS: 3285A59A                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 17-Dec-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 500                       
+                                                                                
+State: 06-CA   County: 083-Santa Barbara       Lat/Lon: 34 45 31, 120 29 9.     
+Obs Agy: 1 (USDA FS )     Unit: LPF          Mnemonic: AFV      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:  1017   Asp: 4   Ann Prec:  20.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: FS7742   Acc Lst: LPF                                                     
+Comments: STATION WAS MOVED FROM ITS PREVIOUS LOCATION REQUIRING A NEW NWS NUMB 
+ER. THE PREVIOUS STATION WAS 045219.  STATION WAS IN A VERY BAD LOCATION AND WA 
+S MOVED TO MEET NFDRS STANDARDS.  NONE OF THE PREVIOUS DATA SHOULD BE ASSOCIATE 
+D WITH THIS NEW STATION.  DATA FOR THIS STATION STARTS 04 11 02.  EAL           
+FDRA 512                                                                        
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B F 30-nov-19 23-apr-18 _ 3 A 3  BI 5  90  44  97  56                     
+   2 7G F 30-nov-19 23-apr-18 _ 3 A 3  EC 5  90  45  97  49                     
+   3 16V _ _________ _________ _ 3 A   __                                       
+   4 16W _ _________ _________ _ 3 A   __  90   97                              
+   5 16X _ _________ _________ _ 3 A   BI 5  90 156  97 206                     
+   6 16Y _ _________ _________ _ 3 A   EC 5  90  62  97  83                     
+   7 16Z _ _________ _________ _ 3 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   3285A59A     9   Rain Accumulation, Inches                  PC               
+   3285A59A    10   Wind Speed MPH, Miles per Hour             US               
+   3285A59A    11   Wind Direction Degrees, Degrees            UD               
+   3285A59A    12   Air Temperature, Standard Placement, Deg   TA               
+   3285A59A    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   3285A59A    14   Relative Humidity, Percent                 XR               
+   3285A59A    15   Battery Voltage, volts                     VB               
+   3285A59A    17   Fuel Moisture, Percent                     MM               
+   3285A59A    18   Wind Direction, Peak, Degrees              UX               
+   3285A59A    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   3285A59A    20   Solar Radiation, watts per meter squared   RD               

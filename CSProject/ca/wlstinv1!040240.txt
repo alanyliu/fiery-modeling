@@ -1,0 +1,54 @@
+
+WLSTINV1-Weather Station Inventory for                       40240              
+                                                                                
+Station: 040240   Name: JUANITA                NESDIS: 3238715C                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 13-Dec-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 589                       
+                                                                                
+State: 06-CA   County: 093-Siskiyou            Lat/Lon: 41 48 6., 122  6 34     
+Obs Agy: 1 (USDA FS )     Unit: KNF          Mnemonic: JUAN      FS Reg:   5    
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:  5173   Asp: 4   Ann Prec:  12.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS11259   Acc Lst: YICC                                                   
+Comments: UPDATED LAT/LONG/ELEV ON 2/11/2012-ANGI                               
+NEAR JUANITA LAKE, GOOSESNEST RD; XMITS ON CHANNEL 92W @ 00:45:00  RAWS INSTALL 
+ED IN 1994.                                                                     
+                                                                                
+LAT/LONG UPDATED W/GPS & WASS ON 18 AUGUST 2004 USING NAD 1983- RG.             
+                                                                                
+FIRE DANGER RATING AREA 220.                                                    
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G F 01-aug-19 01-apr-19 _ 2 P 2  BI 5  90  56  97  62                     
+   5 16V _ _________ _________ _ 2 P   __                                       
+   6 16W _ _________ _________ _ 2 P   __                                       
+   7 16X _ _________ _________ _ 2 P   __                                       
+   8 16Y _ _________ _________ _ 2 P   BI 5  90  30  97  33                     
+   9 16Z _ _________ _________ _ 2 P   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   3238715C     9   Rain Accumulation, Inches                  PC               
+   3238715C    10   Wind Speed MPH, Miles per Hour             US               
+   3238715C    11   Wind Direction Degrees, Degrees            UD               
+   3238715C    12   Air Temperature, Standard Placement, Deg   TA               
+   3238715C    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   3238715C    14   Relative Humidity, Percent                 XR               
+   3238715C    15   Battery Voltage, volts                     VB               
+   3238715C    17   Fuel Moisture, Stick Weight, 10 Hour, Pe   MX               
+   3238715C    18   Wind Direction, Peak, Degrees              UX               
+   3238715C    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   3238715C    20   Air Temperature, 24 Hour High, Degrees F   TX               
+   3238715C    21   Air Temperature, 24 Hour Low, Degrees Fa   TN               
+   3238715C    22   Relative Humidity, 24 Hour High, Percent   XS               
+   3238715C    23   Relative Humidity, 24 Hour Low, Percent    XQ               
+   3238715C    24   Solar Radiation, watts per meter squared   RD               

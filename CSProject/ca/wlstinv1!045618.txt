@@ -1,0 +1,37 @@
+
+WLSTINV1-Weather Station Inventory for                       45618              
+                                                                                
+Station: 045618   Name: CORONA                 NESDIS: ________                 
+                                                                                
+Type: 2 (Man NFDRS)   Create/Mod Date: 22-Jul-2017     Obs Time/Z: 13/PST       
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 509                       
+                                                                                
+State: 06-CA   County: 065-Riverside           Lat/Lon: 33 52 32, 117 33 3.     
+Obs Agy: 1 (USDA FS )     Unit: CA-CNF       Mnemonic: COR      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  1951   Asp: 4   Ann Prec:  11.00   Season: 4                   
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS8374   Acc Lst: ________                                                
+Comments: HISTORIC NFDRS WEATHER STATION LOCATED AT THE TRABUCO RANGER STATION. 
+  THE STATION OPERATED FROM JUNE 1985 TO DECEMBER 5, 2011                       
+                                                                                
+NEW STATION SITE (CORONA 2/045636)IS LOCATED ALONG THE RIDGE ON THE NORTH SIDE  
+OF MAIN STREET CANYON ABOVE CORONA. THE STATION WAS RELOCATED FROM THE CORONA R 
+ANGER DISTRICT OFFICE ON DECEMBER 6, 2011.                                      
+                                                                                
+THE NEW SITE IS APPROXIMATELY 4.1 MILES SSW OF THE ORIGINAL SITE AND 1500 FEET  
+HIGHER.                                                                         
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B C 04-apr-15 19-mar-15 _ 3 A 2  BI 5  90  49  97  65                     
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

@@ -1,0 +1,53 @@
+
+WLSTINV1-Weather Station Inventory for                       45016              
+                                                                                
+Station: 045016   Name: RIVER KERN             NESDIS: 326C7024                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 07-Jan-2020     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 530                       
+                                                                                
+State: 06-CA   County: 029-Kern                Lat/Lon: 35 46 37, 118 26 1.     
+Obs Agy: 1 (USDA FS )     Unit: SQF          Mnemonic: RIVKR      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  3044   Asp: 4   Ann Prec:  12.00   Season:                     
+Ltng scale:   2.63   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: FS11391   Acc Lst: DISPATCH                                               
+Comments: THIS IS A LOANER RAWS STATION TO COMPARE OBS BETWEEN THIS STATION AND 
+ THE KERNVILLE RAWS FOR ONE YEAR.  AS OF 02/09/2006 THE STATION EQUIP FROM KERN 
+VILLE HAS BEEN MOVED TO THIS LOCATION TO REPLACE THE KV LOANER EQUIP FROM BLM R 
+AWS DEPOT. STATION DATA WAS COMMING IN FROM NESIS 324DB62E CLASS III 1-C.       
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B F 14-nov-19 29-mar-19 _ 4 A 2  BI 5  90 255  97 276                     
+   2 7A F 14-nov-19 29-mar-19 _ 4 A 2  BI 5  90  80  97  87                     
+   3 7G F 14-nov-19 29-mar-19 _ 2 A 2  EC 5  90  98  97 101                     
+   4 16V _ _________ _________ _ 4 A   __                                       
+   5 16W _ _________ _________ _ 4 A   __                                       
+   6 16X _ _________ _________ _ 4 A   BI 5  90 346  97 374                     
+   7 16Y _ _________ _________ _ 4 A   BI 5  90  77  97  82                     
+   8 16Z _ _________ _________ _ 4 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   326C7024     9   Rain Accumulation, Inches                  PC               
+   326C7024    10   Wind Speed MPH, Miles per Hour             US               
+   326C7024    11   Wind Direction Degrees, Degrees            UD               
+   326C7024    12   Air Temperature, Standard Placement, Deg   TA               
+   326C7024    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   326C7024    14   Relative Humidity, Percent                 XR               
+   326C7024    15   Battery Voltage, volts                     VB               
+   326C7024    17   Fuel Moisture, Percent                     MM               
+   326C7024    18   Wind Direction, Peak, Degrees              UX               
+   326C7024    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   326C7024    20   Air Temperature, 24 Hour High, Degrees F   TX               
+   326C7024    21   Air Temperature, 24 Hour Low, Degrees Fa   TN               
+   326C7024    22   Relative Humidity, 24 Hour High, Percent   XS               
+   326C7024    23   Relative Humidity, 24 Hour Low, Percent    XQ               
+   326C7024    24   Solar Radiation, watts per meter squared   RD               

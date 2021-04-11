@@ -1,0 +1,46 @@
+
+WLSTINV1-Weather Station Inventory for                       40106              
+                                                                                
+Station: 040106   Name: CRAZY PEAK             NESDIS: 3267B692                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 03-Dec-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 621                       
+                                                                                
+State: 06-CA   County: 015-Del Norte           Lat/Lon: 41 58 35, 123 36 44     
+Obs Agy: 1 (USDA FS )     Unit: OR-RSF       Mnemonic: 1104      FS Reg:   6    
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: 08-Jun-2007                                 
+Site: 3   Elev:  3970   Asp: 5   Ann Prec:  60.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS8458   Acc Lst: MICFS                                                   
+Comments: STATION INSTALLED 7/84                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G C 03-nov-19 18-jun-19 _ 3 P 3  EC 6  90  44  97  55                     
+   2 7G C 03-nov-19 18-jun-19 _ 3 P 3  BI 6  90  48  97  57                     
+   3 7G C 03-nov-19 18-jun-19 _ 3 P 3  EC 6  90  54  97  65                     
+   4 7J C 03-nov-19 18-jun-19 _ 3 P 3  BI 6  90  95  97 110                     
+   5 16V _ _________ _________ _ 3 P   __                                       
+   6 16W _ _________ _________ _ 3 P   __                                       
+   7 16X _ _________ _________ _ 3 P   __                                       
+   8 16Y _ _________ _________ _ 3 P   EC 5  90  53  97  60                     
+   9 16Z _ _________ _________ _ 3 P   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   3267B692     9   Rain Accumulation, Inches                  PC               
+   3267B692    10   Wind Speed MPH, Miles per Hour             US               
+   3267B692    11   Wind Direction Degrees, Degrees            UD               
+   3267B692    12   Air Temperature, Standard Placement, Deg   TA               
+   3267B692    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   3267B692    14   Relative Humidity, Percent                 XR               
+   3267B692    15   Battery Voltage, volts                     VB               
+   3267B692    17   Fuel Moisture, Percent                     MM               
+   3267B692    18   Wind Direction, Peak, Degrees              UX               
+   3267B692    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   3267B692    20   Solar Radiation, watts per meter squared   RD               

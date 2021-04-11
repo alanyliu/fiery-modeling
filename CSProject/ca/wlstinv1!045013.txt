@@ -1,0 +1,46 @@
+
+WLSTINV1-Weather Station Inventory for                       45013              
+                                                                                
+Station: 045013   Name: JAWBONE                NESDIS: 32538042                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 13-Dec-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 530                       
+                                                                                
+State: 06-CA   County: 029-Kern                Lat/Lon: 35 17 41, 118 13 36     
+Obs Agy: 2 (USDI BLM)     Unit: CDD          Mnemonic: JAW      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:  4545   Asp: 8   Ann Prec:  10.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: 9a   Acc Lst: STATIONS                                                    
+Comments: BLM RAWS IN CA DESERT DISTRICT.  SQF IS NO LONGER DOING OBSERVATIONS. 
+  TRANSFERRED TO LARRY STANFORD 06/01/11 BY MARIBEL MORENO SQF.                 
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7A F 15-oct-10 30-apr-10 _ 3 A 1  BI 5  90  58  97  73                     
+   2 7T F 15-oct-10 30-apr-10 _ 3 A 1  BI 5  90  78  97  97                     
+   3 16V _ _________ _________ _ 3 A   __                                       
+   4 16W _ _________ _________ _ 3 A   __                                       
+   5 16X _ _________ _________ _ 3 A   __                                       
+   6 16Y _ _________ _________ _ 3 A   __                                       
+   7 16Z _ _________ _________ _ 3 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   32538042     9   Rain Accumulation, Inches                  PC               
+   32538042    10   Wind Speed MPH, Miles per Hour             US               
+   32538042    11   Wind Direction Degrees, Degrees            UD               
+   32538042    12   Air Temperature, Standard Placement, Deg   TA               
+   32538042    14   Relative Humidity, Percent                 XR               
+   32538042    15   Battery Voltage, volts                     VB               
+   32538042    17   Wind Direction, Peak, Degrees              UX               
+   32538042    18   Wind Speed Peak MPH, Miles per Hour        UP               
+   32538042    19   Solar Radiation, watts per meter squared   RD               
+   32538042    20   Soil Moisture, Tension, Centibars          MS               
+   32538042    21   Soil Temperature "F", Degrees Fahrenheit   TG               

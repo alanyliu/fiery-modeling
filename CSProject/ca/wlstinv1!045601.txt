@@ -1,0 +1,48 @@
+
+WLSTINV1-Weather Station Inventory for                       45601              
+                                                                                
+Station: 045601   Name: BANNING                NESDIS: 32A101B6                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 13-Dec-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 510                       
+                                                                                
+State: 06-CA   County: 065-Riverside           Lat/Lon: 33 58 24, 116 54 45     
+Obs Agy: 1 (USDA FS )     Unit: CA-BDF       Mnemonic: BANNG      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:  3607   Asp: 3   Ann Prec:  17.33   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: 2c0   Acc Lst: STATIONS                                                   
+Comments: STATION UPGRADED FROM MANUAL ON OCTOBER 12TH, 2017 IN THE SAME LOCATI 
+ON THE HISTORIC MANUAL OBS WERE TAKEN.                                          
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7F F 27-nov-19 16-apr-19 _ 2 P 2  BI 5  90  98  97 154                     
+   2 7A F 27-nov-19 16-apr-19 _ 2 A 2  BI 5  90  51  97  60                     
+   3 7B F 27-nov-19 16-apr-19 _ 2 P 2  BI 5  90 159  97 212                     
+   4 7G F 27-nov-19 16-apr-19 _ 2 A 2  BI 5  90  60  97  75                     
+   5 16V _ _________ _________ _ 2 P   BI 5  90  73  97  86                     
+   6 16X _ _________ _________ _ 2 P   BI 5  90 251  97 275                     
+   7 16Y _ _________ _________ _ 2 P   BI 5  90  49  97  53                     
+   8 16Y _ _________ _________ _ 2 P   __                                       
+   9 16Z _ _________ _________ _ 2 P   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   32A101B6     9   Rain Accumulation, Inches                  PC               
+   32A101B6    10   Wind Speed MPH, Miles per Hour             US               
+   32A101B6    11   Wind Direction Degrees, Degrees            UD               
+   32A101B6    12   Air Temperature, Standard Placement, Deg   TA               
+   32A101B6    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   32A101B6    14   Relative Humidity, Percent                 XR               
+   32A101B6    15   Battery Voltage, volts                     VB               
+   32A101B6    17   Fuel Moisture, Percent                     MM               
+   32A101B6    18   Wind Direction, Peak, Degrees              UX               
+   32A101B6    19   Wind speed peak, Miles per Hour            UP               
+   32A101B6    20   Solar Radiation, watts per meter squared   RD               

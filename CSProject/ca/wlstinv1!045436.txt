@@ -1,0 +1,53 @@
+
+WLSTINV1-Weather Station Inventory for                       45436              
+                                                                                
+Station: 045436   Name: CHILAO                 NESDIS: 32486786                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 10-Apr-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: 045324     Fcst Zone: 507                       
+                                                                                
+State: 06-CA   County: 037-Los Angeles         Lat/Lon: 34 19 54, 118  1 49     
+Obs Agy: 1 (USDA FS )     Unit: ANF          Mnemonic: CHLAO      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  5450   Asp: 5   Ann Prec:  35.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS9632   Acc Lst: MCASTILLO                                               
+Comments: EARLIER STATION  VETTER L.O.(MAJOR GAP IN DATA)                       
+LOCATION  : NORTH OF HELIPORT ON RIDGE AT THE OLD BONEYARD, SEWER PONDS         
+NFDRZ     : 655                                                                 
+NWSFZ     : 507                                                                 
+NWS FWPFZ : 254                                                                 
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B C 04-jun-19 09-mar-19 _ 5 A 2  BI 5  90 308  97 359                     
+   2 7G C 04-jun-19 09-mar-19 _ 5 A 2  EC 5  90 105  97 119                     
+   3 16X _ _________ _________ _ 5 A   EC 5  90 108  97 116                     
+   4 16X _ _________ _________ _ 5 A   BI 5  90 361  97 392                     
+   5 16Y _ _________ _________ _ 5 A   EC 5  90  80  97  84                     
+   6 16Y _ _________ _________ _ 5 A   BI 5  90  95  97 101                     
+   7 16Z _ _________ _________ _ 5 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   32486786     9   Rain Accumulation, Inches                  PC               
+   32486786    10   Wind Speed MPH, Miles per Hour             US               
+   32486786    11   Wind Direction Degrees, Degrees            UD               
+   32486786    12   Air Temperature, Standard Placement, Deg   TA               
+   32486786    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   32486786    14   Relative Humidity, Percent                 XR               
+   32486786    15   Battery Voltage, volts                     VB               
+   32486786    17   Fuel Moisture, Percent                     MM               
+   32486786    18   Wind Direction, Peak, Degrees              UX               
+   32486786    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   32486786    20   Air Temperature, 24 Hour High, Degrees F   TX               
+   32486786    21   Air Temperature, 24 Hour Low, Degrees Fa   TN               
+   32486786    22   Relative Humidity, 24 Hour High, Percent   XS               
+   32486786    23   Relative Humidity, 24 Hour Low, Percent    XQ               
+   32486786    24   Solar Radiation, watts per meter squared   RD               

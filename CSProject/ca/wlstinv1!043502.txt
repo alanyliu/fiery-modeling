@@ -1,0 +1,54 @@
+
+WLSTINV1-Weather Station Inventory for                       43502              
+                                                                                
+Station: 043502   Name: DIABLO GRANDE          NESDIS: CA2302BA                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 01-Dec-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 546                       
+                                                                                
+State: 06-CA   County: 099-Stanislaus          Lat/Lon: 37 19 45, 121 17 43     
+Obs Agy: 5 (State   )     Unit: SCU          Mnemonic: DBL      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  1861   Asp: 5   Ann Prec:  13.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: WICA1124   Acc Lst: SCU                                                   
+Comments: OWNED AND MAINTAINED BY CAL FIRE MORGAN HILL ECC 408-201-0490. BC IVY 
+ WILLIAMS 408-472-1609                                                          
+                                                                                
+05/20/2010-FTS ANNUAL MAINTENANCE, REPLACED AT/RH AND FUEL TEMP/MOISTURE SENSOR 
+S, UPGRADE FIRMWARE. CRAWFORD                                                   
+                                                                                
+LAT/LONG, ELEV AMENDED BASED UPON ON-SITE GPS (NAD83) WHEN STATION WAS UPGRADED 
+.  DFORREST CDF FIRE WX PROGRAM COORDINATOR 07/09/07                            
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B F 01-dec-19 18-mar-19 _ 2 A 2  BI 5  90 158  97 176                     
+   2 7C F 01-dec-19 18-mar-19 _ 2 A 2  BI 5  90  51  97  56                     
+   3 7G F 01-dec-19 18-mar-19 _ 2 A 2  BI 5  90  86  97  94                     
+   4 7A F 01-dec-19 18-mar-19 _ 2 A 2  BI 5  90  50  97  57                     
+   5 16V _ _________ _________ _ 2 A   __                                       
+   6 16W _ _________ _________ _ 2 A   __                                       
+   7 16X _ _________ _________ _ 2 A   __                                       
+   8 16Y _ _________ _________ _ 2 A   __                                       
+   9 16Z _ _________ _________ _ 2 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA2302BA     9   Rain Accumulation, Inches                  PC               
+   CA2302BA    10   Wind Speed MPH, Miles per Hour             US               
+   CA2302BA    11   Wind Direction Degrees, Degrees            UD               
+   CA2302BA    12   Air Temperature, Standard Placement, Deg   TA               
+   CA2302BA    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA2302BA    14   Relative Humidity, Percent                 XR               
+   CA2302BA    15   Battery Voltage, volts                     VB               
+   CA2302BA    17   Fuel Moisture, Percent                     MM               
+   CA2302BA    18   Wind Direction, Peak, Degrees              UX               
+   CA2302BA    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA2302BA    20   Solar Radiation, watts per meter squared   RD               

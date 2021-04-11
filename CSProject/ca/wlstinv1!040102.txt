@@ -1,0 +1,55 @@
+
+WLSTINV1-Weather Station Inventory for                       40102              
+                                                                                
+Station: 040102   Name: GASQUET 2              NESDIS: 3239C028                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 07-Nov-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 556                       
+                                                                                
+State: 06-CA   County: 015-Del Norte           Lat/Lon: 41 50 17, 123 56 43     
+Obs Agy: 1 (USDA FS )     Unit: SRF          Mnemonic: GASQ      FS Reg:   5    
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:   452   Asp: 4   Ann Prec:  95.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS11381   Acc Lst: SRF                                                    
+Comments: NEW 90/97 VALUES=1990-2010 7/2011                                     
+                                                                                
+93 MOVED .5 MILE EAST/10/27/99 CONVERTED TO RAWS                                
+(90/97 VALUES=1972-2000                                                         
+90TH AND 97TH PERCENTILES WERE EDITED 7/22/15 2000-2015                         
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G F 10-aug-19 03-mar-19 _ 3 P 3  BI 5  90  42  97  46                     
+   2 7G F 10-aug-19 03-mar-19 _ 3 A 3  BI 5  90  43  97  47                     
+   3 7G F 10-aug-19 03-mar-19 _ 3 P 3  EC 5  90  46  97  51                     
+   4 16V _ _________ _________ _ 3 P   __                                       
+   5 16W _ _________ _________ _ 3 P   __                                       
+   6 16X _ _________ _________ _ 3 P   __                                       
+   7 16Y _ _________ _________ _ 3 P   BI 5  90  31  97  36                     
+   8 16Z _ _________ _________ _ 3 P   __                                       
+   9 16Y _ _________ _________ _ 3 P   EC 5  90  39  97  46                     
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   3239C028     9   Rain Accumulation, Inches                  PC               
+   3239C028    10   Wind Speed MPH, Miles per Hour             US               
+   3239C028    11   Wind Direction Degrees, Degrees            UD               
+   3239C028    12   Air Temperature, Standard Placement, Deg   TA               
+   3239C028    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   3239C028    14   Relative Humidity, Percent                 XR               
+   3239C028    15   Battery Voltage, volts                     VB               
+   3239C028    17   Fuel Moisture, Percent                     MM               
+   3239C028    18   Wind Direction, Peak, Degrees              UX               
+   3239C028    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   3239C028    20   Air Temperature, 24 Hour High, Degrees F   TX               
+   3239C028    21   Air Temperature, 24 Hour Low, Degrees Fa   TN               
+   3239C028    22   Relative Humidity, 24 Hour High, Percent   XS               
+   3239C028    23   Relative Humidity, 24 Hour Low, Percent    XQ               
+   3239C028    24   Solar Radiation, watts per meter squared   RD               

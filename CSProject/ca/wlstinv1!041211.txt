@@ -1,0 +1,59 @@
+
+WLSTINV1-Weather Station Inventory for                       41211              
+                                                                                
+Station: 041211   Name: COHASSET               NESDIS: CA214444                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 10-Feb-2020     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 596                       
+                                                                                
+State: 06-CA   County: 007-Butte               Lat/Lon: 39 52 18, 121 46 8.     
+Obs Agy: 5 (State   )     Unit: BUTTE        Mnemonic: CST      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  1733   Asp: 5   Ann Prec:  40.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: 6   Acc Lst: BTU                                                          
+Comments: MODIFIED 3/31/97 FOR SETTING DISPATCH LEVELS 97                       
+CHANGED PRIMARY FUEL MODEL TO F 5/12/04 AND CLIMATE CLASS FROM 2 TO 1, TO HAVE  
+OUTPUTS BETTER REFLECT ACTUAL CONDITIONS.  BSCHIEBER(NOPS)                      
+                                                                                
+ON 12/12/05 THE STATION WAS ENTIRELY CONVERTED TO NEW FTS EQUIPMENT AND TRANSMI 
+TS USING HIGH DATA RATE ON NEW CHANNEL. OBS TIME UNCHANGED. TESTED TIPPING BUCK 
+ET AND RESET RAINFALL.  DFORREST CDF FIRE WX PROGRAM COORDINATOR                
+LAT/LONG, ELEV AMENDED BASED UPON ON-SITE GPS (NAD83) WHEN STATION WAS MOVED AB 
+OUT 250 FEET NORTH/NORTHEAST ON 07/24/06.  DFORREST CDF FIRE WX PROGRAM COORDIN 
+ATOR 09/26/06                                                                   
+                                                                                
+ON 04/16/2014 CHANGED THE CLIMATE CLASS FROM 1 TO 2 AND ASPECT FROM SOUTH TO SO 
+UTHWEST FIELDS TO BETTER REPRESENT THE STATION'S LOCATION. TPERSON BUTTE UNIT W 
+IMS MANAGER                                                                     
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7F F 28-nov-19 29-nov-18 _ 3 A 2  BI 5  90 104  97 126                     
+   2 7G F 28-nov-19 29-nov-18 _ 3 A 2  BI 5  90  88  97  99                     
+   3 7B F 28-nov-19 29-nov-18 _ 3 A 2  BI 5  90 155  97 179                     
+   4 16V _ _________ _________ _ 3 A   __                                       
+   5 16W _ _________ _________ _ 3 A   __                                       
+   6 16X _ _________ _________ _ 3 A   __                                       
+   7 16Y _ _________ _________ _ 3 A   __                                       
+   8 16Z _ _________ _________ _ 3 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA214444     9   Rain Accumulation, Inches                  PC               
+   CA214444    10   Wind Speed MPH, Miles per Hour             US               
+   CA214444    11   Wind Direction Degrees, Degrees            UD               
+   CA214444    12   Air Temperature, Standard Placement, Deg   TA               
+   CA214444    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA214444    14   Relative Humidity, Percent                 XR               
+   CA214444    15   Battery Voltage, volts                     VB               
+   CA214444    17   Fuel Moisture, Percent                     MM               
+   CA214444    18   Wind Direction, Peak, Degrees              UX               
+   CA214444    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA214444    20   Solar Radiation, watts per meter squared   RD               

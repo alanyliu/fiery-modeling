@@ -1,0 +1,56 @@
+
+WLSTINV1-Weather Station Inventory for                       44003              
+                                                                                
+Station: 044003   Name: LOS BANOS              NESDIS: CA2311CC                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 17-Dec-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 526                       
+                                                                                
+State: 06-CA   County: 047-Merced              Lat/Lon: 37  3 17, 121  3 11     
+Obs Agy: 5 (State   )     Unit: MMU          Mnemonic: LBN      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:   323   Asp: 1   Ann Prec:   9.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: 229   Acc Lst: MMUECC                                                     
+Comments: 01/25/08 - ON JULY 25, 2007 THE 1000 HR OB REPORTED AN ERRONEOUS ONE  
+HOUR DURATION, 51.05 INCHES OF PRECIP OBSERVATION.  THIS ERROR WAS NOT CAUGHT U 
+NTIL JAN 2008.  THE RADIO TECH RE-PROGRAMED THE CORRECT CURRENT RAINFALL TO DAT 
+E INTO THE DATALOGGER AS 6.22 INCHES.                                           
+                                                                                
+ON 05/29/07 THE STATION WAS ENTIRELY CONVERTED TO NEW FTS EQUIPMENT AND TRANSMI 
+TS USING HIGH DATA RATE ON NEW CHANNEL. OBS TIME UNCHANGED. TESTED TIPPING BUCK 
+ET AND RESET RAINFALL.  DFORREST CDF FIRE WX PROGRAM COORDINATOR                
+LAT/LONG, ELEV AMENDED BASED UPON ON-SITE GPS (NAD83) WHEN STATION WAS UPGRADED 
+.  DFORREST CDF FIRE WX PROGRAM COORDINATOR 07/09/07                            
+                                                                                
+ON 02/22/13 STATION WAS SERVICED BY FTS.                                        
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7A F 06-dec-19 19-mar-19 _ 1 A 1  SC 5  90 107  97 130                     
+   2 7G F 06-dec-19 19-mar-19 _ 1 A 1  BI 5  90   97                            
+   3 16V _ _________ _________ _ 1 A   __                                       
+   4 16W _ _________ _________ _ 1 A   __                                       
+   5 16X _ _________ _________ _ 1 A   __                                       
+   6 16Y _ _________ _________ _ 1 A   __                                       
+   7 16Z _ _________ _________ _ 1 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA2311CC     9   Rain Accumulation, Inches                  PC               
+   CA2311CC    10   Wind Speed MPH, Miles per Hour             US               
+   CA2311CC    11   Wind Direction Degrees, Degrees            UD               
+   CA2311CC    12   Air Temperature, Standard Placement, Deg   TA               
+   CA2311CC    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA2311CC    14   Relative Humidity, Percent                 XR               
+   CA2311CC    15   Battery Voltage, volts                     VB               
+   CA2311CC    17   Fuel Moisture, Percent                     MM               
+   CA2311CC    18   Wind Direction, Peak, Degrees              UX               
+   CA2311CC    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA2311CC    20   Solar Radiation, watts per meter squared   RD               

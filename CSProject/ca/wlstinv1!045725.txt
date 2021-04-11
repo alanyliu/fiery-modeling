@@ -1,0 +1,30 @@
+
+WLSTINV1-Weather Station Inventory for                       45725              
+                                                                                
+Station: 045725   Name: POWAY                  NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 27-Jul-1998     Obs Time/Z: 13/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 508                       
+                                                                                
+State: 06-CA   County: 073-San Diego           Lat/Lon: 32 57  0, 117  3 35     
+Obs Agy: 6 (Local Gv)     Unit: CNF          Mnemonic: POW      FS Reg:   5     
+                                                                                
+Fuel Stk: 01-Jul-1997   Wdy FM Mea: 01-Jul-1997                                 
+Site: 1   Elev:   530   Asp: 6   Ann Prec:    Season:                           
+Ltng scale:    .34   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: ____________   Acc Lst: ________                                          
+Comments: UNUSED SINCE AT LEAST AUGUST 1996                                     
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B C 05-may-97 19-apr-96 _ 3 A 2  BI 5  90  44  97  55                     
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

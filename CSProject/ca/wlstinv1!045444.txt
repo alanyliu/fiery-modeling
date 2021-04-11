@@ -1,0 +1,51 @@
+
+WLSTINV1-Weather Station Inventory for                       45444              
+                                                                                
+Station: 045444   Name: SADDLEBACK BUTTE       NESDIS: CA421104                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 21-Feb-2020     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 519                       
+                                                                                
+State: 06-CA   County: 037-Los Angeles         Lat/Lon: 34 40 6., 117 49 18     
+Obs Agy: 6 (Local Gv)     Unit: CA-LAC       Mnemonic: SDD      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  2590   Asp: 5   Ann Prec:   3.12   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: aec   Acc Lst: FORESTRY LAC                                               
+Comments: NAME      : SADDLEBACK                                                
+LOCATION  : SADDLEBACK BUTTE STATE PARK                                         
+NFDRZ     : 666                                                                 
+NWSFZ     : 519                                                                 
+NWS FWPFZ : 259                                                                 
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7T P 12-feb-20 12-mar-19 _ 1 A 2  BI 5  90  87  97 103                     
+   2 7K P 12-feb-20 12-mar-19 _ 1 A 2  BI 5  90  92  97 105                     
+   3 7A P 12-feb-20 12-mar-19 _ 1 A 2  BI 5  90  60  97  73                     
+   4 7G P 12-feb-20 12-mar-19 _ 1 A 2  EC 5  90  84  97 102                     
+   5 16V _ _________ _________ _ 1 A   __                                       
+   6 16W _ _________ _________ _ 1 A   __                                       
+   7 16X _ _________ _________ _ 1 A   __                                       
+   8 16Y _ _________ _________ _ 1 A   __                                       
+   9 16Z _ _________ _________ _ 1 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA421104     9   Rain Accumulation, Inches                  PC               
+   CA421104    10   Wind Speed MPH, Miles per Hour             US               
+   CA421104    11   Wind Direction Degrees, Degrees            UD               
+   CA421104    12   Air Temperature, Standard Placement, Deg   TA               
+   CA421104    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA421104    14   Relative Humidity, Percent                 XR               
+   CA421104    15   Battery Voltage, volts                     VB               
+   CA421104    17   Fuel Moisture, Percent                     MM               
+   CA421104    18   Wind Direction, Peak, Degrees              UX               
+   CA421104    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA421104    20   Solar Radiation, watts per meter squared   RD               

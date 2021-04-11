@@ -1,0 +1,55 @@
+
+WLSTINV1-Weather Station Inventory for                       40245              
+                                                                                
+Station: 040245   Name: CALLAHAN #2            NESDIS: 323857B0                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 13-Dec-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: 040204     Fcst Zone: 587                       
+                                                                                
+State: 06-CA   County: 093-Siskiyou            Lat/Lon: 41 17 59, 122 49 31     
+Obs Agy: 1 (USDA FS )     Unit: KNF          Mnemonic: CALH2      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  3910   Asp: 5   Ann Prec:  21.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: FS11259   Acc Lst: YICC                                                   
+Comments: UPDATED NEW LAT/LONG/ELEV ON 2/11/2012-ANGI                           
+STATION ESTABLISHED IN DECEMBER, 2003 TO EVALUATE A NEW SITE FOR THE EXISTING C 
+ALLAHAN RAWS (040204).  NEW SITE IS LOCATED 1.6 MILES WSW AND 788 FEET HIGHER T 
+HAN THE EXISTING CALLAHAN SITE.  T40N, R9W, S24, SE, NE.                        
+                                                                                
+CALLAHAN #2 BECAME THE THE OPERATIONAL SITE IN APRIL 2005.                      
+                                                                                
+FIRE DANGER RATING AREA 208.                                                    
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G F 01-aug-19 01-apr-19 _ 3 A 2  BI 5  90  79  97 103                     
+   5 16V _ _________ _________ _ 3 A   __                                       
+   6 16W _ _________ _________ _ 3 A   __                                       
+   7 16X _ _________ _________ _ 3 A   __                                       
+   8 16Y _ _________ _________ _ 3 A   BI 5  90  46  97  54                     
+   9 16Z _ _________ _________ _ 3 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   323857B0     9   Rain Accumulation, Inches                  PC               
+   323857B0    10   Wind Speed MPH, Miles per Hour             US               
+   323857B0    11   Wind Direction Degrees, Degrees            UD               
+   323857B0    12   Air Temperature, Standard Placement, Deg   TA               
+   323857B0    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   323857B0    14   Relative Humidity, Percent                 XR               
+   323857B0    15   Battery Voltage, volts                     VB               
+   323857B0    17   Fuel Moisture, Percent                     MM               
+   323857B0    18   Wind Direction, Peak, Degrees              UX               
+   323857B0    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   323857B0    20   Air Temperature, 24 Hour High, Degrees F   TX               
+   323857B0    21   Air Temperature, 24 Hour Low, Degrees Fa   TN               
+   323857B0    22   Relative Humidity, 24 Hour High, Percent   XS               
+   323857B0    23   Relative Humidity, 24 Hour Low, Percent    XQ               
+   323857B0    24   Solar Radiation, watts per meter squared   RD               

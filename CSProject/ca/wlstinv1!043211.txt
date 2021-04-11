@@ -1,0 +1,48 @@
+
+WLSTINV1-Weather Station Inventory for                       43211              
+                                                                                
+Station: 043211   Name: BANNER ROAD            NESDIS: CA21F7CA                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 16-Jan-2020     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: 043208     Fcst Zone: 539                       
+                                                                                
+State: 06-CA   County: 009-Calaveras           Lat/Lon: 38 17 3., 120 29 23     
+Obs Agy: 5 (State   )     Unit: TCU          Mnemonic: _____      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  2803   Asp: 0   Ann Prec:  40.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: 15   Acc Lst: ECC                                                         
+Comments: 1/16/2020 FUEL MODELS FROZEN AND BACK DATED TO 11/25/2019 EAW         
+                                                                                
+3/14/19 GREEN UP EAW                                                            
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B F 25-nov-19 14-mar-19 _ 3 A 2  BI 5  90 117  97 137                     
+   2 7A F 25-nov-19 14-mar-19 _ 3 A 2  BI 5  90  36  97  43                     
+   3 7G F 25-nov-19 14-mar-19 _ 3 A 2  BI 5  90  67  97  76                     
+   4 16V _ _________ _________ _ 3 A   __                                       
+   5 16W _ _________ _________ _ 3 A   __                                       
+   6 16X _ _________ _________ _ 3 A   __                                       
+   7 16Y _ _________ _________ _ 3 A   __                                       
+   8 16Z _ _________ _________ _ 3 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA21F7CA     9   Rain Accumulation, Inches                  PC               
+   CA21F7CA    10   Wind Speed MPH, Miles per Hour             US               
+   CA21F7CA    11   Wind Direction Degrees, Degrees            UD               
+   CA21F7CA    12   Air Temperature, Standard Placement, Deg   TA               
+   CA21F7CA    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA21F7CA    14   Relative Humidity, Percent                 XR               
+   CA21F7CA    15   Battery Voltage, volts                     VB               
+   CA21F7CA    17   Fuel Moisture, Percent                     MM               
+   CA21F7CA    18   Wind Direction, Peak, Degrees              UX               
+   CA21F7CA    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA21F7CA    20   Solar Radiation, watts per meter squared   RD               

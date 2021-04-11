@@ -1,0 +1,42 @@
+
+WLSTINV1-Weather Station Inventory for                       49919              
+                                                                                
+Station: 049919   Name: LNP02                  NESDIS: FA40C4C6                 
+                                                                                
+Type: 3 (RAWS S non-NFDRS)   Create/Mod Date: 24-Jul-2014     Obs Time/Z: 13/WS 
+T                                                                               
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: STO                       
+                                                                                
+State: 06-CA   County: 089-Shasta              Lat/Lon: 43 33 55, 116 12 31     
+Obs Agy: 3 (USDI NPS)     Unit: LVNP         Mnemonic: _____      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site:    Elev:  2865   Asp:    Ann Prec:  20.00   Season:                       
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: FS11381   Acc Lst: ________                                               
+Comments: HANDAR 555 PORTABLE RAWS FOR PRESCRIBED AND WILDLAND FIRE INCIDENT US 
+E.                                                                              
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   FA40C4C6     9   Rain Accumulation, Inches                  PC               
+   FA40C4C6    10   Windspeed, Miles per Hour                  US               
+   FA40C4C6    11   Wind Direction, Degrees                    UD               
+   FA40C4C6    12   Air Temperature, Standard Placement, Deg   TA               
+   FA40C4C6    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   FA40C4C6    14   Relative Humidity, Percent                 XR               
+   FA40C4C6    15   Battery Voltage, volts                     VB               
+   FA40C4C6    17   Fuel Moisture, Percent                     MM               
+   FA40C4C6    18   Wind Direction, Peak, Degrees              UX               
+   FA40C4C6    19   Windspeed, Peak, Miles per Hour            UP               
+   FA40C4C6    20   Solar Radiation, watts per meter squared   RD               

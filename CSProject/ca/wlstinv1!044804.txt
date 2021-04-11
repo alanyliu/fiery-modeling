@@ -1,0 +1,51 @@
+
+WLSTINV1-Weather Station Inventory for                       44804              
+                                                                                
+Station: 044804   Name: OAK CREEK              NESDIS: 3265650E                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 14-Sep-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 517                       
+                                                                                
+State: 06-CA   County: 027-Inyo                Lat/Lon: 36 50 37, 118 15 56     
+Obs Agy: 1 (USDA FS )     Unit: INYO N.F.    Mnemonic: INF      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  4900   Asp: 2   Ann Prec:   5.15   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS11169   Acc Lst: INYO                                                   
+Comments: NAME CHANGE TO BE CONSISTANT WITH ASCADS                              
+DATE:  APRIL 24, 2003 BH                                                        
+RAWS STATION INSTALLED IN MAY OF 1994, OBSERVATION PRIOR TO 5/94 WERE MANUAL    
+BOISE: ADVISED THAT NO NAME CHANGE RECORDED IN ASCADS?                          
+OWNER:  BLM                                                                     
+OAK CREEK RAWS GOT BURNED OVER IN 2007 AND STATION WAS MOVED. OLD:  36 50 0 X 1 
+18 15 8, NEW:  36 50 37 X 118 15 56.                                            
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7T F 31-jul-19 16-may-19 _ 3 A 1  BI 5  90  93  97 110                     
+   2 7G F 31-jul-19 16-may-19 _ 3 A 1  EC 5  90 100  97 104                     
+   3 16V _ _________ _________ _ 3 A   __                                       
+   4 16W _ _________ _________ _ 3 A   __                                       
+   5 16X _ _________ _________ _ 3 A   __                                       
+   6 16Y _ _________ _________ _ 3 A   EC 5  90  94  97 100                     
+   7 16Z _ _________ _________ _ 3 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   3265650E     9   Rain Accumulation, Inches                  PC               
+   3265650E    10   Wind Speed MPH, Miles per Hour             US               
+   3265650E    11   Wind Direction Degrees, Degrees            UD               
+   3265650E    12   Air Temperature, Standard Placement, Deg   TA               
+   3265650E    14   Relative Humidity, Percent                 XR               
+   3265650E    15   Battery Voltage, volts                     VB               
+   3265650E    17   Wind Direction, Peak, Degrees              UX               
+   3265650E    18   Wind Speed Peak MPH, Miles per Hour        UP               
+   3265650E    19   Solar Radiation, watts per meter squared   RD               
+   3265650E    20   Soil Moisture, Percent                     MS               
+   3265650E    21   Soil Temperature "F", Degrees Fahrenheit   TG               

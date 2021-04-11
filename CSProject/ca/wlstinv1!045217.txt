@@ -1,0 +1,50 @@
+
+WLSTINV1-Weather Station Inventory for                       45217              
+                                                                                
+Station: 045217   Name: SANTA ROSA ISLAND      NESDIS: FA45E5EA                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 17-Dec-2019     Obs Time/Z: 13/PST    
+Assoc Man: 045330     Prev Stn: ______     Fcst Zone: 501                       
+                                                                                
+State: 06-CA   County: 083-Santa Barbara       Lat/Lon: 33 58 43, 120  4 43     
+Obs Agy: 3 (USDI NPS)     Unit: CHIS         Mnemonic: CNP      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  1284   Asp: 7   Ann Prec:  14.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: Y                                 
+                                                                                
+User: 63a   Acc Lst: CHIS                                                       
+Comments: NAME      : SANTA ROSA ISLAND                                         
+LOCATION  : RIDGETOP BLACK MOUNTAIN                                             
+NFDRZ     :                                                                     
+NWSFZ     :                                                                     
+NWS FWPFZ :                                                                     
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7A F 30-nov-19 10-apr-19 _ 2 A 2  BI 5  90  52  97  55                     
+   2 7B F 30-nov-19 10-apr-19 _ 3 A 2  BI 5  90  52  97  55                     
+   3 7G F 30-nov-19 10-apr-19 _ 3 A 2  EC 5  90  52  97  55                     
+   4 16V _ _________ _________ _ 2 A   BI 5  90  29  97  45                     
+   5 16W _ _________ _________ _ 2 A   __                                       
+   6 16X _ _________ _________ _ 2 A   BI 5  90   97                            
+   7 16Y _ _________ _________ _ 2 A   EC 5  90   2  97   3                     
+   8 16Z _ _________ _________ _ 2 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   FA45E5EA     9   Rain Accumulation, Inches                  PC               
+   FA45E5EA    10   Wind Speed MPH, Miles per Hour             US               
+   FA45E5EA    11   Wind Direction Degrees, Degrees            UD               
+   FA45E5EA    12   Air Temperature, Standard Placement, Deg   TA               
+   FA45E5EA    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   FA45E5EA    14   Relative Humidity, Percent                 XR               
+   FA45E5EA    15   Battery Voltage, volts                     VB               
+   FA45E5EA    17   Fuel Moisture, Percent                     MM               
+   FA45E5EA    18   Wind Direction, Peak, Degrees              UX               
+   FA45E5EA    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   FA45E5EA    20   Solar Radiation, watts per meter squared   RD               

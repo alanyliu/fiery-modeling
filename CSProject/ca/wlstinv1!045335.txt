@@ -1,0 +1,47 @@
+
+WLSTINV1-Weather Station Inventory for                       45335              
+                                                                                
+Station: 045335   Name: WILEY RIDGE            NESDIS: CA90047C                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 18-Dec-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 504                       
+                                                                                
+State: 06-CA   County: 111-Ventura             Lat/Lon: 34 22 18, 118 50 27     
+Obs Agy: 5 (State   )     Unit: CA-VNC       Mnemonic: WLR      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  1625   Asp: 4   Ann Prec:  15.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: 67f   Acc Lst: VENTURA                                                    
+Comments: 04/30/19 - REPLACED ALL SENSORS AND DATTALOGGER (FTS F6). STATION NOW 
+ NFDRS COMPLIANT AND BACK IN SERVICE. KV                                        
+                                                                                
+11/21/06 - CHANGED LAT/LONG BASED UPON ON-SITE READING IN NAD83; ALSO MATCHES A 
+SCADS DATA.  CHANGED REGULAR SCHEDULED OBS TIME TO 1200 BASED UPON TRANSMIT TIM 
+E OF 00:43:00 HRS.                                                              
+                                                                                
+NEW STATION INSTALLED OCTOBER 2003. DESTROYED BY FIRE OCTOBER 2003. BACK IN SER 
+VICE ON 09/22/2005.                                                             
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B F 18-dec-19 _________ _ 3 A 2  BI 5  90  82  97 141                     
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA90047C     9   Rain Accumulation, Inches                  PC               
+   CA90047C    10   Wind Speed MPH, Miles per Hour             US               
+   CA90047C    11   Wind Direction Degrees, Degrees            UD               
+   CA90047C    12   Air Temperature, Standard Placement, Deg   TA               
+   CA90047C    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA90047C    14   Relative Humidity, Percent                 XR               
+   CA90047C    15   Battery Voltage, volts                     VB               
+   CA90047C    17   Fuel Moisture, Percent                     MM               
+   CA90047C    18   Wind Direction, Peak, Degrees              UX               
+   CA90047C    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA90047C    20   Solar Radiation, watts per meter squared   RD               

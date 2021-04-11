@@ -1,0 +1,49 @@
+
+WLSTINV1-Weather Station Inventory for                       43708              
+                                                                                
+Station: 043708   Name: BENTON                 NESDIS: 3254B7EC                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 14-Sep-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 518                       
+                                                                                
+State: 06-CA   County: 051-Mono                Lat/Lon: 37 50 36, 118 28 42     
+Obs Agy: 1 (USDA FS )     Unit: INYO N.F.    Mnemonic: INF      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  5450   Asp: 0   Ann Prec:   5.65   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS11169   Acc Lst: INYO                                                   
+Comments: DATE:  APRIL 24, 2003 BH                                              
+RAWS STATION INSTALLED IN MAY OF 1994.  OBSERVATIONS PRIOR TO 5/94 WERE MANUAL 
+                                                                                
+ORIGINAL NAME:  BENTON                                                          
+OWNER:  BLM                                                                     
+END.                                                                            
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7T F 02-sep-19 15-may-19 _ 1 A 1  BI 5  90  94  97 110                     
+   2 7C F 02-sep-19 15-may-19 _ 1 A 1  BI 5  90  60  97  69                     
+   3 7G F 02-sep-19 15-may-19 _ 1 A 1  EC 5  90  98  97 104                     
+   4 16V _ _________ _________ _ 1 A   __                                       
+   5 16W _ _________ _________ _ 1 A   __                                       
+   6 16X _ _________ _________ _ 1 A   __                                       
+   7 16Y _ _________ _________ _ 1 A   __                                       
+   8 16Z _ _________ _________ _ 1 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   3254B7EC     9   Rain Accumulation, Inches                  PC               
+   3254B7EC    10   Wind Speed MPH, Miles per Hour             US               
+   3254B7EC    11   Wind Direction Degrees, Degrees            UD               
+   3254B7EC    12   Air Temperature, Standard Placement, Deg   TA               
+   3254B7EC    14   Relative Humidity, Percent                 XR               
+   3254B7EC    15   Battery Voltage, volts                     VB               
+   3254B7EC    17   Wind Direction, Peak, Degrees              UX               
+   3254B7EC    18   Wind Speed Peak MPH, Miles per Hour        UP               
+   3254B7EC    19   Solar Radiation, watts per meter squared   RD               

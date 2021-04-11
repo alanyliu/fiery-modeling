@@ -1,0 +1,51 @@
+
+WLSTINV1-Weather Station Inventory for                       45412              
+                                                                                
+Station: 045412   Name: SAUGUS                 NESDIS: CA418368                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 21-Feb-2020     Obs Time/Z: 12/PST    
+Assoc Man: 045430     Prev Stn: ______     Fcst Zone: 505                       
+                                                                                
+State: 06-CA   County: 037-Los Angeles         Lat/Lon: 34 26 6., 118 30 47     
+Obs Agy: 6 (Local Gv)     Unit: CA-LAC       Mnemonic: SAU      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  1450   Asp: 0   Ann Prec:  13.24   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: aec   Acc Lst: FORESTRY LAC                                               
+Comments: NAME      : SAUGUS                                                    
+LOCATION  : SITE LOCATED AT CASTAIC WATER AG. - BOUQUET CYN.                    
+NFDRZ     : 620                                                                 
+NWSFZ     : 505                                                                 
+NWS FWPFZ : 245                                                                 
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7F P 12-feb-20 13-mar-19 _ 3 A 2  BI 5  90 133  97 161                     
+   2 7K P 12-feb-20 13-mar-19 _ 3 A 2  BI 5  90  95  97 106                     
+   3 7G P 12-feb-20 13-mar-19 _ 3 A 2  EC 5  90  80  97  84                     
+   4 7B P 12-feb-20 13-mar-19 _ 3 A 2  BI 5  90 181  97 213                     
+   5 16V _ _________ _________ _ 3 A   __                                       
+   6 16W _ _________ _________ _ 3 A   __                                       
+   7 16X _ _________ _________ _ 3 A   __                                       
+   8 16Y _ _________ _________ _ 3 A   __                                       
+   9 16Z _ _________ _________ _ 3 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA418368     9   Rain Accumulation, Inches                  PC               
+   CA418368    10   Wind Speed MPH, Miles per Hour             US               
+   CA418368    11   Wind Direction Degrees, Degrees            UD               
+   CA418368    12   Air Temperature, Standard Placement, Deg   TA               
+   CA418368    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA418368    14   Relative Humidity, Percent                 XR               
+   CA418368    15   Battery Voltage, volts                     VB               
+   CA418368    17   Fuel Moisture, Percent                     MM               
+   CA418368    18   Wind Direction, Peak, Degrees              UX               
+   CA418368    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA418368    20   Solar Radiation, watts per meter squared   RD               

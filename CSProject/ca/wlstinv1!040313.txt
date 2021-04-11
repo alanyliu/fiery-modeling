@@ -1,0 +1,68 @@
+
+WLSTINV1-Weather Station Inventory for                       40313              
+                                                                                
+Station: 040313   Name: BEAR FLAT              NESDIS: 32891788                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 13-Jan-2020     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 590                       
+                                                                                
+State: 06-CA   County: 049-Modoc               Lat/Lon: 41 17 43, 120 18 50     
+Obs Agy: 1 (USDA FS )     Unit: MDF          Mnemonic: _____      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  5972   Asp: 5   Ann Prec:  16.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: 275   Acc Lst: MODO13                                                     
+Comments: CHANGED OWNER 3/22/10                                                 
+GREEN DATE SET MAY 26, 2010 DFB                                                 
+FROZEN SEP 21, 2010, PER DAVE MCMASTER, DB                                      
+GREENED UP 05/17/2011 PER CH1 AND DIV 9                                         
+FREEZE UP DEC 12, 2011 PER VON GRUBER  DB                                       
+GREEN UP 05/01/2012 PER DIV 9   SM                                              
+FREEZE UP 10/24/2012                                                            
+FREEZE UP DATE 9/21/2013 PER CH1 SM                                             
+                                                                                
+GREEN UP DATE 3/21/14 PER CH1 AND CH3 SM                                        
+EDITED STATION ELEVATION PER FUELS 32 ELEVATION INFORMATION                     
+FREEZE UP 10/14/14 PER INPUT FROM CHIEFS SM                                     
+                                                                                
+GREEN UP 3/12/15 PER CH2 AND BC92  - SM                                         
+                                                                                
+GREEN UP 04/15/16 PER CH1, CH2, AND BC91 - MM                                   
+FREEZE UP PER CHFS SPJ 11/30/16                                                 
+                                                                                
+GREEN UP 04/29/17 MM                                                            
+FREEZE UP PER DIV 11 12/20/17 SPJ                                               
+                                                                                
+GREEN UP 4/25/18 MM                                                             
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7K F 01-nov-19 29-may-19 _ 2 A 2  BI 5  90  68  97  78                     
+   2 7G F 01-nov-19 29-may-19 _ 2 A 2  EC 5  90  68  97  80                     
+   3 7C F 01-nov-19 29-may-19 _ 2 A 2  BI 5  90  68  97  80                     
+   4 7T F 01-nov-19 29-may-19 _ 2 A 2  BI 5  90  68  97  80                     
+   5 16V _ _________ _________ _ 2 A   __                                       
+   6 16W _ _________ _________ _ 2 A   __                                       
+   7 16X _ _________ _________ _ 2 A   __                                       
+   8 16Y _ _________ _________ _ 2 A   __                                       
+   9 16Z _ _________ _________ _ 2 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   32891788     9   Rain Accumulation, Inches                  PC               
+   32891788    10   Wind Speed MPH, Miles per Hour             US               
+   32891788    11   Wind Direction Degrees, Degrees            UD               
+   32891788    12   Air Temperature, Standard Placement, Deg   TA               
+   32891788    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   32891788    14   Relative Humidity, Percent                 XR               
+   32891788    15   Battery Voltage, volts                     VB               
+   32891788    17   Fuel Moisture, Percent                     MM               
+   32891788    18   Wind Direction, Peak, Degrees              UX               
+   32891788    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   32891788    20   Solar Radiation, watts per meter squared   RD               

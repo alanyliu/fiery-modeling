@@ -1,0 +1,57 @@
+
+WLSTINV1-Weather Station Inventory for                       44112              
+                                                                                
+Station: 044112   Name: EL PORTAL RAWS         NESDIS: FA6724EE                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 02-Jul-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 531                       
+                                                                                
+State: 06-CA   County: 043-Mariposa            Lat/Lon: 37 40 31, 119 47 16     
+Obs Agy: 3 (USDI NPS)     Unit: YOSE         Mnemonic: YNP      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  2073   Asp: 4   Ann Prec:  30.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: 591   Acc Lst: YOSE                                                       
+Comments: NEW RAWS INSTALLED 6/27/2006                                          
+ADDED MISSING WINTER OBSERVATIONS USING THE STATE OF THE WEATHER FROM STANISLAU 
+S' MOUNT ELIZABETH(043605)ON 03/24/2009 A.ROTHELL.  CHANGED SLP CLS TO 3, ADDED 
+ FM G, ADDED SL BREAKPOINTS FOR FM B AND G, CHANGED HS AND HERB DATE TO C AND 0 
+2-JUN-09.  PERFORMED RECALC FROM 01-FEB-09 TO 20-JUL-09.  J.SHULTZ.             
+7/29/11 A. ROTHELL AND K. MARTIN CHANGED STAFFING THRESHOLDS TO LOW 80 AND HIGH 
+ 95 FROM LOW 85 AND  HIGH 97.                                                   
+                                                                                
+5/14/13 HESTER/ERIC NEISWANGER ON SITE FOR ANNUAL REHAB. R&R RH/AT, TB, FM/FT,  
+                                                                                
+SR, DCP BATTERY. ALL VOLTAGE CHECKS GOOD. TB LEFT AT 21.03" AND DCP             
+REPROGRAMMED FOR AUTO RAIN RESET ON 1 JULY. A FEW TREES NEED TO BE REMOVED FOR  
+                                                                                
+NFDRS. ALL SENSORS F-SCAN GOOD IAW NFRDS.                                       
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B C 03-jul-19 02-mar-19 _ 3 A 2  BI 5  80 121  95 132                     
+   2 16V _ _________ _________ _ 3 A   __                                       
+   3 16W _ _________ _________ _ 3 A   __                                       
+   4 16X _ _________ _________ _ 3 A   __                                       
+   5 16Y _ _________ _________ _ 3 A   __                                       
+   6 16Z _ _________ _________ _ 3 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   FA6724EE     9   Rain Accumulation, Inches                  PC               
+   FA6724EE    10   Wind Speed MPH, Miles per Hour             US               
+   FA6724EE    11   Wind Direction Degrees, Degrees            UD               
+   FA6724EE    12   Air Temperature, Standard Placement, Deg   TA               
+   FA6724EE    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   FA6724EE    14   Relative Humidity, Percent                 XR               
+   FA6724EE    15   Battery Voltage, volts                     VB               
+   FA6724EE    17   Fuel Moisture, Percent                     MM               
+   FA6724EE    18   Wind Direction, Peak, Degrees              UX               
+   FA6724EE    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   FA6724EE    20   Solar Radiation, watts per meter squared   RD               

@@ -1,0 +1,38 @@
+
+WLSTINV1-Weather Station Inventory for                       45338              
+                                                                                
+Station: 045338   Name: MILLER RANCH           NESDIS: 32A2D0D0                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 13-Feb-2020     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 504                       
+                                                                                
+State: 06-CA   County: 111-Ventura             Lat/Lon: 34  8 54, 119  0 39     
+Obs Agy: 6 (Local Gv)     Unit: CA-VNC       Mnemonic: _____      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:   837   Asp: 0   Ann Prec:  14.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: 67f   Acc Lst: VENTURA                                                    
+Comments: NEW STATION INSTALLED 01/06/2020.                                     
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B F 14-jan-20 _________ _ 1 A 2  BI 5  90  80  97 104                     
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   32A2D0D0     9   Rain Accumulation, Inches                  PC               
+   32A2D0D0    10   Wind Speed MPH, Miles per Hour             US               
+   32A2D0D0    11   Wind Direction Degrees, Degrees            UD               
+   32A2D0D0    12   Air Temperature, Standard Placement, Deg   TA               
+   32A2D0D0    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   32A2D0D0    14   Relative Humidity, Percent                 XR               
+   32A2D0D0    15   Battery Voltage, volts                     VB               
+   32A2D0D0    17   Fuel Moisture, Percent                     MM               
+   32A2D0D0    18   Wind Direction, Peak, Degrees              UX               
+   32A2D0D0    19   Wind speed peak, Miles per Hour            UP               
+   32A2D0D0    20   Solar Radiation, watts per meter squared   RD               

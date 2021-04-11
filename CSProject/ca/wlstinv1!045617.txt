@@ -1,0 +1,72 @@
+
+WLSTINV1-Weather Station Inventory for                       45617              
+                                                                                
+Station: 045617   Name: BEAUMONT               NESDIS: CA264670                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 17-Dec-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 510                       
+                                                                                
+State: 06-CA   County: 065-Riverside           Lat/Lon: 33 55 49, 116 56 59     
+Obs Agy: 5 (State   )     Unit: RRU          Mnemonic: BEA      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  2604   Asp: 3   Ann Prec:  14.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: WICA1002   Acc Lst: RRU                                                   
+Comments: 2/23/2016  STATION MOVED FROM BEAUMONT FOREST FIRE STATION 33 55' 49. 
+7966,  116 56 59.7 TO NEW LOCATION AT COUNTY TRANSPORTATION YARD  N 33°  57.811 
+ W 117° 0.417   ELEVATION 2588, APPROX 4 MI TO THE NW, 16' ELEVATION LOWER.   
+                                                                                
+                                                                                
+                                                                                
+1/29/13 SET HVC TO P                                                            
+1/29/13 UPDATED 90TH AND 97TH PERCENTILE BASED ON COMPLETED QC'D FFP DATABASE D 
+ATA FROM 2003-2012  -TIM CHAVEZ                                                 
+                                                                                
+06/23/10 - ADDED FUEL MODEL G WITH 90TH AND 97TH PERCENTILE NUMBERS DERIVED FRO 
+M FF+V4 AND BASED UPON WEATHER OBS THROUGH 2009. DID RECALC WITH SAME GREENUP D 
+ATE OF 03/07/10. UPDATED THE 90TH & 97TH PERCENTILE NUMBERS IN THE OTHER FUEL M 
+ODELS USING THE WEATHER OBS THROUGH 2009.  DFORREST CALFIRE WX PROGRAM COORDINA 
+TOR                                                                             
+                                                                                
+ON 04/21/09 THE STATION WAS ENTIRELY CONVERTED TO NEW FTS EQUIPMENT AND TRANSMI 
+TS USING HIGH DATA RATE ON NEW CHANNEL & TIME SLOT.  OBS TIME DID NOT CHANGE.   
+TESTED TIPPING BUCKET AND RESET RAINFALL.  LAT/LONG, ELEV AMENDED BASED UPON ON 
+-SITE GPS (NAD83) WHEN STATION WAS UPGRADED.  DFORREST CDF FIRE WX PROGRAM COOR 
+DINATOR 07/23/09                                                                
+                                                                                
+SL PERCENTILE THRESHOLDS UPDATED 3/23/07                                        
+STATION UPGRADED TO A RAWS 5-13-03. MOVED 200 FEET TO WEST, STILL ON STATION GR 
+OUNDS.                                                                          
+TRANSMIT TIME 00:12:15                                                          
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7K C 29-jan-20 17-dec-19 _ 2 A 2  BI 5  90  73  97  97                     
+   2 7F C 29-jan-20 17-dec-19 _ 2 A 2  BI 5  90  95  97 119                     
+   3 7A C 29-jan-20 17-dec-19 _ 2 A 2  BI 5  90  55  97  73                     
+   4 7G C 29-jan-20 17-dec-19 _ 2 A 2  BI 5  90  80  97  97                     
+   5 16V _ _________ _________ _ 2 A   BI 5  90  62  97  80                     
+   6 16W _ _________ _________ _ 2 A   BI 5  90  54  97  68                     
+   7 16X _ _________ _________ _ 2 A   BI 5  90 222  97 273                     
+   8 16Y _ _________ _________ _ 2 A   BI 5  90  42  97  48                     
+   9 16Z _ _________ _________ _ 2 A   BI 5  90 115  97 141                     
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA264670     9   Rain Accumulation, Inches                  PC               
+   CA264670    10   Wind Speed MPH, Miles per Hour             US               
+   CA264670    11   Wind Direction Degrees, Degrees            UD               
+   CA264670    12   Air Temperature, Standard Placement, Deg   TA               
+   CA264670    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA264670    14   Relative Humidity, Percent                 XR               
+   CA264670    15   Battery Voltage, volts                     VB               
+   CA264670    17   Fuel Moisture, Percent                     MM               
+   CA264670    18   Wind Direction, Peak, Degrees              UX               
+   CA264670    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA264670    20   Solar Radiation, watts per meter squared   RD               

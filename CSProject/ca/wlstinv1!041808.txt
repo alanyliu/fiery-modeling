@@ -1,0 +1,51 @@
+
+WLSTINV1-Weather Station Inventory for                       41808              
+                                                                                
+Station: 041808   Name: SECRET TOWN            NESDIS: CA21815A                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 03-Dec-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 535                       
+                                                                                
+State: 06-CA   County: 057-Nevada              Lat/Lon: 39 11 1., 120 53 3.     
+Obs Agy: 5 (State   )     Unit: NEU          Mnemonic: SRT      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:  2757   Asp: 6   Ann Prec:  56.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: WICA230   Acc Lst: MASTER                                                 
+Comments: ON 05/11/09 THE STATION WAS ENTIRELY CONVERTED TO NEW FTS EQUIPMENT A 
+ND TRANSMITS USING HIGH DATA RATE ON NEW CHANNEL & TIME SLOT.  OBS TIME DID CHA 
+NGE TO 1300.  TESTED TIPPING BUCKET AND RESET RAINFALL.  DFORREST CDF FIRE WX P 
+ROGRAM COORDINATOR 07/23/09                                                     
+                                                                                
+10/26/06 - CHANGED LAT/LONG AND ELEVATION BASED UPON ON-SITE GPS RECORDING IN N 
+AD83 AND TO CORRESPOND WITH ASCADS DATA. DFORREST                               
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G F 29-oct-19 07-apr-19 _ 2 A 2  BI 5  90  54  97  58                     
+   2 7B F 29-oct-19 07-apr-19 _ 2 A 2  BI 5  90 101  97 109                     
+   3 16V _ _________ _________ _ 2 A   __                                       
+   4 16W _ _________ _________ _ 2 A   __                                       
+   5 16X _ _________ _________ _ 2 A   __                                       
+   6 16Y _ _________ _________ _ 2 A   __                                       
+   7 16Z _ _________ _________ _ 2 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA21815A     9   Rain Accumulation, Inches                  PC               
+   CA21815A    10   Wind Speed MPH, Miles per Hour             US               
+   CA21815A    11   Wind Direction Degrees, Degrees            UD               
+   CA21815A    12   Air Temperature, Standard Placement, Deg   TA               
+   CA21815A    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA21815A    14   Relative Humidity, Percent                 XR               
+   CA21815A    15   Battery Voltage, volts                     VB               
+   CA21815A    17   Fuel Moisture, Percent                     MM               
+   CA21815A    18   Wind Direction, Peak, Degrees              UX               
+   CA21815A    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA21815A    20   Solar Radiation, watts per meter squared   RD               

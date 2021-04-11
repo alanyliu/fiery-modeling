@@ -1,0 +1,42 @@
+
+WLSTINV1-Weather Station Inventory for                       41410              
+                                                                                
+Station: 041410   Name: COUNTY LINE            NESDIS: 32657678                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 08-Aug-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: STO                       
+                                                                                
+State: 06-CA   County: 033-Lake                Lat/Lon: 39  1 7., 122 24 42     
+Obs Agy: 2 (USDI BLM)     Unit: NOD          Mnemonic: COUNT      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  2085   Asp: 0   Ann Prec:  25.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: BLM2438   Acc Lst: MNFECC2012                                             
+Comments:                                                                       
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G C 09-jun-19 01-apr-19 _ 1 A 2  BI 5  90  88  97  96                     
+   2 7B C 09-jun-19 01-apr-19 _ 1 A 2  BI 5  90   97                            
+   5 16V _ _________ _________ _ 1 A   __                                       
+   6 16W _ _________ _________ _ 1 A   __                                       
+   7 16X _ _________ _________ _ 1 A   __                                       
+   8 16Y _ _________ _________ _ 1 A   __                                       
+   9 16Z _ _________ _________ _ 1 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   32657678     9   Rain Accumulation, Inches                  PC               
+   32657678    10   Wind Speed MPH, Miles per Hour             US               
+   32657678    11   Wind Direction Degrees, Degrees            UD               
+   32657678    12   Air Temperature, Standard Placement, Deg   TA               
+   32657678    14   Relative Humidity, Percent                 XR               
+   32657678    15   Battery Voltage, volts                     VB               
+   32657678    17   Wind Direction, Peak, Degrees              UX               
+   32657678    18   Wind Speed Peak MPH, Miles per Hour        UP               
+   32657678    19   Solar Radiation, watts per meter squared   RD               

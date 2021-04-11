@@ -1,0 +1,49 @@
+
+WLSTINV1-Weather Station Inventory for                       44707              
+                                                                                
+Station: 044707   Name: JOHNSONDALE            NESDIS: 324006C6                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 07-Jan-2020     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 534                       
+                                                                                
+State: 06-CA   County: 107-Tulare              Lat/Lon: 35 58 16, 118 32 26     
+Obs Agy: 1 (USDA FS )     Unit: SQF          Mnemonic: JOHNS      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  4684   Asp: 4   Ann Prec:  24.00   Season:                     
+Ltng scale:   3.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS11391   Acc Lst: DISPATCH                                               
+Comments: 5/7/98 COVERTED FROM MANUAL TO RAWS STATION                           
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7H F 14-nov-19 12-jun-19 _ 3 A 2  EC 5  90  39  97  43                     
+   2 7K F 14-nov-19 12-jun-19 _ 3 A 2  BI 5  90  68  97  73                     
+   3 7G C 14-nov-19 12-jun-19 _ 2 A 2  EC 5  90  69  97  75                     
+   4 16V _ _________ _________ _ 3 A   __                                       
+   5 16W _ _________ _________ _ 3 A   __                                       
+   6 16X _ _________ _________ _ 3 A   __                                       
+   7 16Y _ _________ _________ _ 3 A   BI  90  41  97  43                       
+   8 16Z _ _________ _________ _ 3 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   324006C6     9   Rain Accumulation, Inches                  PC               
+   324006C6    10   Wind Speed MPH, Miles per Hour             US               
+   324006C6    11   Wind Direction Degrees, Degrees            UD               
+   324006C6    12   Air Temperature, Standard Placement, Deg   TA               
+   324006C6    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   324006C6    14   Relative Humidity, Percent                 XR               
+   324006C6    15   Battery Voltage, volts                     VB               
+   324006C6    17   Fuel Moisture, Percent                     MM               
+   324006C6    18   Wind Direction, Peak, Degrees              UX               
+   324006C6    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   324006C6    20   Air Temperature, 24 Hour High, Degrees F   TX               
+   324006C6    21   Air Temperature, 24 Hour Low, Degrees Fa   TN               
+   324006C6    22   Relative Humidity, 24 Hour High, Percent   XS               
+   324006C6    23   Relative Humidity, 24 Hour Low, Percent    XQ               
+   324006C6    24   Solar Radiation, watts per meter squared   RD               

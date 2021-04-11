@@ -1,0 +1,50 @@
+
+WLSTINV1-Weather Station Inventory for                       40632              
+                                                                                
+Station: 040632   Name: ARBUCKLE BASIN         NESDIS: CA2AF462                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 13-Dec-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 595                       
+                                                                                
+State: 06-CA   County: 089-Shasta              Lat/Lon: 40 26 16, 122 49 51     
+Obs Agy: 5 (State   )     Unit: SHU          Mnemonic: ARB      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:  2452   Asp: 6   Ann Prec:  33.99   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: WICA589   Acc Lst: SHU ECC                                                
+Comments: ON 05/06/08 THE STATION WAS ENTIRELY CONVERTED TO NEW FTS EQUIPMENT A 
+ND TRANSMITS USING HIGH DATA RATE ON NEW CHANNEL. OBS TIME REMAINS UNCHANGED. T 
+ESTED TIPPING BUCKET AND RESET RAINFALL.  LAT/LONG, ELEV AMENDED BASED UPON ON- 
+SITE GPS (NAD83).  DFORREST CDF FIRE WX PROGRAM COORDINATOR (09/18/08)          
+                                                                                
+G FUEL MODEL ADDED TO STATION ON 5/17/2005. JDE                                 
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7F F 27-nov-19 24-may-19 _ 2 A 2  BI 5  90 115  97 130                     
+   2 7G F 27-nov-19 24-may-19 _ 2 A 2  BI 5  90  92  97 100                     
+   3 16V _ _________ _________ _ 2 A   __                                       
+   4 16W _ _________ _________ _ 2 A   __                                       
+   5 16X _ _________ _________ _ 2 A   BI 5  90 236  97 264                     
+   6 16Y _ _________ _________ _ 2 A   BI 5  90  49  97  53                     
+   7 16Z _ _________ _________ _ 2 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA2AF462     9   Rain Accumulation, Inches                  PC               
+   CA2AF462    10   Wind Speed MPH, Miles per Hour             US               
+   CA2AF462    11   Wind Direction Degrees, Degrees            UD               
+   CA2AF462    12   Air Temperature, Standard Placement, Deg   TA               
+   CA2AF462    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA2AF462    14   Relative Humidity, Percent                 XR               
+   CA2AF462    15   Battery Voltage, volts                     VB               
+   CA2AF462    17   Fuel Moisture, Percent                     MM               
+   CA2AF462    18   Wind Direction, Peak, Degrees              UX               
+   CA2AF462    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA2AF462    20   Solar Radiation, watts per meter squared   RD               

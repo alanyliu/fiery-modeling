@@ -1,0 +1,54 @@
+
+WLSTINV1-Weather Station Inventory for                       42202              
+                                                                                
+Station: 042202   Name: BROOKS                 NESDIS: CA45503A                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 13-Dec-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 558                       
+                                                                                
+State: 06-CA   County: 113-Yolo                Lat/Lon: 38 44 18, 122  8 40     
+Obs Agy: 5 (State   )     Unit: LNU          Mnemonic: BSS      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:   354   Asp: 5   Ann Prec:  20.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: WICA1061   Acc Lst: LNU ECC                                               
+Comments: BROOKS FFS ON HWY 16 SOUTH OF GUINDA.                                 
+RECALC ON 2/17/05  JGAHAGAN LNU                                                 
+ON 01/31/06 THE STATION WAS ENTIRELY CONVERTED TO NEW FTS EQUIPMENT AND TRANSMI 
+TS USING HIGH DATA RATE ON NEW CHANNEL. OBS TIME UNCHANGED. TESTED TIPPING BUCK 
+ET AND RESET RAINFALL.  DFORREST CDF FIRE WX PROGRAM COORDINATOR                
+LAT/LONG, ELEV AMENDED BASED UPON ON-SITE GPS (NAD83) TAKEN 07/07/06.  DFORREST 
+ CDF FIRE WX PROGRAM COORDINATOR 09/26/06                                       
+03/07/2019 - BATTERY REPLACED  CD.                                              
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B F 09-jun-19 05-apr-19 _ 3 A 2  BI 5  90 137  97 160                     
+   2 7A F 09-jun-19 05-apr-19 _ 2 A 2  BI 5  90  41  97  51                     
+   3 7F F 09-jun-19 05-apr-19 _ 2 A 2  BI 5  90  87  97 108                     
+   4 7G F 09-jun-19 05-apr-19 _ 2 A 2  BI 5  90  76  97  85                     
+   5 16V _ _________ _________ _ 3 A   BI 5  90  42  97  51                     
+   6 16W _ _________ _________ _ 3 A   BI 5  90  42  97  50                     
+   7 16X _ _________ _________ _ 3 A   BI 5  90 180  97 206                     
+   8 16Y _ _________ _________ _ 3 A   BI 5  90  46  97  50                     
+   9 16Z _ _________ _________ _ 3 A   BI 5  90 107  97 121                     
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA45503A     9   Rain Accumulation, Inches                  PC               
+   CA45503A    10   Wind Speed MPH, Miles per Hour             US               
+   CA45503A    11   Wind Direction Degrees, Degrees            UD               
+   CA45503A    12   Air Temperature, Standard Placement, Deg   TA               
+   CA45503A    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA45503A    14   Relative Humidity, Percent                 XR               
+   CA45503A    15   Battery Voltage, volts                     VB               
+   CA45503A    17   Fuel Moisture, Percent                     MM               
+   CA45503A    18   Wind Direction, Peak, Degrees              UX               
+   CA45503A    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA45503A    20   Solar Radiation, watts per meter squared   RD               

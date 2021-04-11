@@ -1,0 +1,62 @@
+
+WLSTINV1-Weather Station Inventory for                       42611              
+                                                                                
+Station: 042611   Name: OWENS CAMP             NESDIS: 32399054                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 14-Jan-2020     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 538                       
+                                                                                
+State: 06-CA   County: 017-El Dorado           Lat/Lon: 38 44 8., 120 14 29     
+Obs Agy: 1 (USDA FS )     Unit: ENF          Mnemonic: OWENS      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  5240   Asp: 6   Ann Prec:  30.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS11194   Acc Lst: DANAHER                                                
+Comments: THIS STATION STOPPED REPORTING AROUND 12:00 HOURS ON 01/13/2011. HAVE 
+ NOTIFIED THE TECH AND CC MESSAGE TO RUSS GRIPP AT REGION 5. S.WYLIE.           
+                                                                                
+ON 01/15/2011 THE STATION BEGAN TO REPORT AGAIN. NO PROBLEMS SINCE. S.WYLIE.    
+                                                                                
+STATION WAS SWITCHED TO GREEN UP ON 5/16/16 BY SCOTT WYLIE.                     
+                                                                                
+STATION WAS SWITCHED TO FROZEN ON 11/28/17 BY SCOTT WYLIE.                      
+                                                                                
+PER CHIEF 3, GREEN UP HELL HOLE AND OWENS 6/2/17.                               
+                                                                                
+PER B62, GREEN UP. 6/12/18                                                      
+                                                                                
+12/7/18: PER DIV-7, FREEZE ALL RAWS. SD                                         
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G C 27-aug-19 14-may-19 _ 2 P 3  BI 3  90  56  97  62                     
+   2 7B C 27-aug-19 14-may-19 _ 2 P 3  BI 3  90  97  97 111                     
+   3 16V _ _________ _________ _ 2 P   __                                       
+   4 16X _ _________ _________ _ 2 P   BI 3  90 104  97 125                     
+   5 16X _ _________ _________ _ 2 P   EC 3  90  71  97  80                     
+   6 16Y _ _________ _________ _ 2 P   BI 3  90  35  97  37                     
+   7 16Y _ _________ _________ _ 2 P   EC 3  90  60  97  65                     
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   32399054     9   Rain Accumulation, Inches                  PC               
+   32399054    10   Wind Speed MPH, Miles per Hour             US               
+   32399054    11   Wind Direction Degrees, Degrees            UD               
+   32399054    12   Air Temperature, Standard Placement, Deg   TA               
+   32399054    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   32399054    14   Relative Humidity, Percent                 XR               
+   32399054    15   Battery Voltage, volts                     VB               
+   32399054    17   Fuel Moisture, Percent                     MM               
+   32399054    18   Wind Direction, Peak, Degrees              UX               
+   32399054    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   32399054    20   Air Temperature, 24 Hour High, Degrees F   TX               
+   32399054    21   Air Temperature, 24 Hour Low, Degrees Fa   TN               
+   32399054    22   Relative Humidity, 24 Hour High, Percent   XS               
+   32399054    23   Relative Humidity, 24 Hour Low, Percent    XQ               
+   32399054    24   Solar Radiation, watts per meter squared   RD               

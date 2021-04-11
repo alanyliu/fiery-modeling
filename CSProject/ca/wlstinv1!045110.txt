@@ -1,0 +1,33 @@
+
+WLSTINV1-Weather Station Inventory for                       45110              
+                                                                                
+Station: 045110   Name: STRAWBERRY             NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 07-Feb-2017     Obs Time/Z: 13/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: 045410     Fcst Zone: 511                       
+                                                                                
+State: 06-CA   County: 071-San Bernardino      Lat/Lon: 34 14 30, 117 14 49     
+Obs Agy: 1 (USDA FS )     Unit: BDF          Mnemonic: HEAPS      FS Reg:   5   
+                                                                                
+Fuel Stk: 31-Oct-2010   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  6150   Asp: 8   Ann Prec:  40.80   Season:                     
+Ltng scale:   1.00   Hum code: 1   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: 91e   Acc Lst: STATIONS                                                   
+Comments: STRAWBERRY STATION WAS MOVED TO DEERLICK A FEW YEARS BACK.  IT IS NOW 
+ NON ACTIVE AS OF 02/22/11.  I NEW FTS NFDRS RAWS IS TAKING ITS PLACE LOCATED B 
+ETWEEN STRAWBERRY AND DEERLICK.  HEAPS PEAK IS 045133 NESDIS AACOC74E.  TS      
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

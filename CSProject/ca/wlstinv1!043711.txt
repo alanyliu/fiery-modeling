@@ -1,0 +1,48 @@
+
+WLSTINV1-Weather Station Inventory for                       43711              
+                                                                                
+Station: 043711   Name: DEXTER                 NESDIS: 32429650                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 24-Oct-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 518                       
+                                                                                
+State: 06-CA   County: 051-Mono                Lat/Lon: 37 50 19, 118 46 18     
+Obs Agy: 1 (USDA FS )     Unit: INF          Mnemonic: DEXTR      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:  7981   Asp: 0   Ann Prec:  10.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: FS11169   Acc Lst: INYO                                                   
+Comments: STATION ACTIVATED SEPTEMBER 2009. ERRORS WERE NOTED IN OBSERVATIONS F 
+OLLOWING ACTIVATIO IN 2009.  IN 2010 BAUER DID REHAB ON STATION SENSORS ON 8/6/ 
+10. OBSERVATION AND DATA ENTRY INITIATED ON 8/14/10 BY OVICC.)                  
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7C F 17-oct-19 08-jun-19 _ 1 P 1  BI 5  90  40  97  47                     
+   2 7T F 17-oct-19 08-jun-19 _ 1 P 1  BI 5  90  60  97  72                     
+   3 7G F 17-oct-19 08-jun-19 _ 1 P 1  EC 5  90  79  97  84                     
+   4 16V _ _________ _________ _ 1 P   __                                       
+   5 16W _ _________ _________ _ 1 P   __                                       
+   6 16X _ _________ _________ _ 1 P   __                                       
+   7 16Y _ _________ _________ _ 1 P   __                                       
+   8 16Z _ _________ _________ _ 1 P   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   32429650     9   Rain Accumulation, Inches                  PC               
+   32429650    10   Wind Speed MPH, Miles per Hour             US               
+   32429650    11   Wind Direction Degrees, Degrees            UD               
+   32429650    12   Air Temperature, Standard Placement, Deg   TA               
+   32429650    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   32429650    14   Relative Humidity, Percent                 XR               
+   32429650    15   Battery Voltage, volts                     VB               
+   32429650    17   Fuel Moisture, Percent                     MM               
+   32429650    18   Wind Direction, Peak, Degrees              UX               
+   32429650    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   32429650    20   Solar Radiation, watts per meter squared   RD               

@@ -1,0 +1,53 @@
+
+WLSTINV1-Weather Station Inventory for                       45729              
+                                                                                
+Station: 045729   Name: RANCHITA               NESDIS: CA4526AA                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 26-Oct-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 513                       
+                                                                                
+State: 06-CA   County: 073-San Diego           Lat/Lon: 33 13 20, 116 29 50     
+Obs Agy: 5 (State   )     Unit: MVU          Mnemonic: RAN      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:  4415   Asp: 4   Ann Prec:  20.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS11243   Acc Lst: MVU                                                    
+Comments: 01/30/09 - ADDED A "G" MODEL, AND DID RECALC FROM THIS DATE BACK TO 1 
+5-OCT-07 ON ALL FUEL MODELS.  DFORREST CDF FIRE WX PROGRAM COORDINATOR          
+                                                                                
+ON 04/05/06 THE STATION WAS ENTIRELY CONVERTED TO NEW FTS EQUIPMENT AND TRANSMI 
+TS USING HIGH DATA RATE ON NEW CHANNEL. OBS TIME UNCHANGED. TESTED TIPPING BUCK 
+ET AND RESET RAINFALL.  DFORREST CDF FIRE WX PROGRAM COORDINATOR                
+LAT/LONG, ELEV AMENDED BASED UPON ON-SITE GPS IN ASCADS ROUTE DATA FILE. DFORRE 
+ST CDF FIRE WX PROGRAM COORDINATOR 09/26/06                                     
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B F 26-oct-19 27-apr-19 _ 1 A 1  BI 5  90 180  97 209                     
+   2 7G F 26-oct-19 27-apr-19 _ 1 A 1  EC 5  90  89  97  94                     
+   3 7Q F 26-oct-19 27-apr-19 _ 1 A 2  BI 5  90 127  97 142                     
+   5 16V _ _________ _________ _ 1 A   __                                       
+   6 16W _ _________ _________ _ 1 A   __                                       
+   7 16X _ _________ _________ _ 1 A   __                                       
+   8 16Y _ _________ _________ _ 1 A   __                                       
+   9 16Z _ _________ _________ _ 1 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA4526AA     9   Rain Accumulation, Inches                  PC               
+   CA4526AA    10   Wind Speed MPH, Miles per Hour             US               
+   CA4526AA    11   Wind Direction Degrees, Degrees            UD               
+   CA4526AA    12   Air Temperature, Standard Placement, Deg   TA               
+   CA4526AA    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA4526AA    14   Relative Humidity, Percent                 XR               
+   CA4526AA    15   Battery Voltage, volts                     VB               
+   CA4526AA    17   Fuel Moisture, Percent                     MM               
+   CA4526AA    18   Wind Direction, Peak, Degrees              UX               
+   CA4526AA    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA4526AA    20   Solar Radiation, watts per meter squared   RD               

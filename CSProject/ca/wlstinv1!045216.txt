@@ -1,0 +1,50 @@
+
+WLSTINV1-Weather Station Inventory for                       45216              
+                                                                                
+Station: 045216   Name: SANTA CRUZ ISLAND      NESDIS: FA45F69C                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 17-Dec-2019     Obs Time/Z: 13/PST    
+Assoc Man: 045330     Prev Stn: ______     Fcst Zone: 501                       
+                                                                                
+State: 06-CA   County: 083-Santa Barbara       Lat/Lon: 33 59 34, 119 42 58     
+Obs Agy: 3 (USDI NPS)     Unit: CHIS         Mnemonic: SCRUZ      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: 29-Mar-1994                                 
+Site: 1   Elev:   292   Asp: 8   Ann Prec:  14.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: Y                                 
+                                                                                
+User: 63a   Acc Lst: CHIS                                                       
+Comments: NAME      : SANTA CRUZ ISLAND                                         
+LOCATION  : MID CENTRAL VALLEY                                                  
+NFDRZ     :                                                                     
+NWSFZ     :                                                                     
+NWS FWPFZ :                                                                     
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7A F 30-nov-19 10-apr-19 _ 2 A 2  BI 5  90  52  97                         
+   2 7B F 30-nov-19 10-apr-19 _ 2 A 2  BI 5  90  52  97                         
+   3 7G F 30-nov-19 10-apr-19 _ 2 A 2  EC 5  90  52  97                         
+   4 16V _ _________ _________ _ 2 A   BI 5  90  16  97  31                     
+   5 16W _ _________ _________ _ 2 A   __                                       
+   6 16X _ _________ _________ _ 2 A   BI 5  90   97                            
+   7 16Y _ _________ _________ _ 2 A   EC 5  90   2  97   6                     
+   8 16Z _ _________ _________ _ 2 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   FA45F69C     9   Rain Accumulation, Inches                  PC               
+   FA45F69C    10   Wind Speed MPH, Miles per Hour             US               
+   FA45F69C    11   Wind Direction Degrees, Degrees            UD               
+   FA45F69C    12   Air Temperature, Standard Placement, Deg   TA               
+   FA45F69C    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   FA45F69C    14   Relative Humidity, Percent                 XR               
+   FA45F69C    15   Battery Voltage, volts                     VB               
+   FA45F69C    17   Fuel Moisture, Percent                     MM               
+   FA45F69C    18   Wind Direction, Peak, Degrees              UX               
+   FA45F69C    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   FA45F69C    20   Solar Radiation, watts per meter squared   RD               

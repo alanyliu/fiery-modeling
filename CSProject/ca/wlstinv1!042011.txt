@@ -1,0 +1,33 @@
+
+WLSTINV1-Weather Station Inventory for                       42011              
+                                                                                
+Station: 042011   Name: GOLD RIDGE             NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 05-Aug-1998     Obs Time/Z: 13/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 559                       
+                                                                                
+State: 06-CA   County: 097-Sonoma              Lat/Lon: 38 22 45, 122 50  6     
+Obs Agy: 6 (Local Gv)     Unit: GOLD RIDG    Mnemonic: GLD      FS Reg:   5     
+                                                                                
+Fuel Stk: 24-Jul-1996   Wdy FM Mea: 12-Jul-1996                                 
+Site: 3   Elev:   330   Asp: 0   Ann Prec:  36.00   Season: 3                   
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: ____________   Acc Lst: ________                                          
+Comments: GOLD RIDGE FPD OPERATED, DATA ENTERED BY CDF SNU                      
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7A P 04-aug-08 _________ _ 2 A 2  BI 3  90  40  97  52                     
+   2 8A _ _________ _________ E 2 A 2  BI 3  90  40  97  52                     
+   3 7B P 04-aug-08 _________ _ 2 A 2  BI 3  90  85  97 130                     
+   4 8B _ _________ _________ E 2 A 2  BI 3  90  85  97 130                     
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

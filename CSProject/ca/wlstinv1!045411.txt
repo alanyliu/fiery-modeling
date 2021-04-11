@@ -1,0 +1,52 @@
+
+WLSTINV1-Weather Station Inventory for                       45411              
+                                                                                
+Station: 045411   Name: LITTLE TUJUNGA         NESDIS: 3332C222                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 24-Nov-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: 045311     Fcst Zone: 509                       
+                                                                                
+State: 06-CA   County: 037-Los Angeles         Lat/Lon: 34 17 37, 118 21 39     
+Obs Agy: 1 (USDA FS )     Unit: ANF          Mnemonic: LTLTE      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:  1390   Asp: 3   Ann Prec:  24.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS9632   Acc Lst: MCASTILLO                                               
+Comments: LOCATION  : EAST OF THE DISTRICT OFFICE ON RIDGELINE                  
+NFDRZ     : 655                                                                 
+NWSFZ     : 505                                                                 
+NWS FWPFZ : 547                                                                 
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B F 22-nov-19 09-mar-19 _ 4 A 2  BI 5  90  60  97  79                     
+   2 7G F 22-nov-19 09-mar-19 _ 4 A 2  EC 5  90  50  97  65                     
+   3 16X _ _________ _________ _ 4 A   BI 5  90 175  97 209                     
+   4 16X _ _________ _________ _ 4 A   EC 5  90  77  97  92                     
+   5 16Y _ _________ _________ _ 4 A   BI 5  90  54  97  62                     
+   6 16Y _ _________ _________ _ 4 A   EC 5  90  56  97  66                     
+   7 16Z _ _________ _________ _ 4 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   3332C222     9   Rain Accumulation, Inches                  PC               
+   3332C222    10   Wind Speed MPH, Miles per Hour             US               
+   3332C222    11   Wind Direction Degrees, Degrees            UD               
+   3332C222    12   Air Temperature, Standard Placement, Deg   TA               
+   3332C222    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   3332C222    14   Relative Humidity, Percent                 XR               
+   3332C222    15   Battery Voltage, volts                     VB               
+   3332C222    17   Fuel Moisture, Percent                     MM               
+   3332C222    18   Wind Direction, Peak, Degrees              UX               
+   3332C222    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   3332C222    20   Solar Radiation, watts per meter squared   RD               
+   3332C222    21   Air Temperature, 24 Hour High, Degrees F   TX               
+   3332C222    22   Air Temperature, 24 Hour Low, Degrees Fa   TN               
+   3332C222    23   Relative Humidity, 24 Hour High, Percent   XS               
+   3332C222    24   Relative Humidity, 24 Hour Low, Percent    XQ               

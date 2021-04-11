@@ -1,0 +1,69 @@
+
+WLSTINV1-Weather Station Inventory for                       44708              
+                                                                                
+Station: 044708   Name: MILO                   NESDIS: CA258460                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 13-Dec-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 529                       
+                                                                                
+State: 06-CA   County: 107-Tulare              Lat/Lon: 36 13 52, 118 52 8.     
+Obs Agy: 5 (State   )     Unit: TUU          Mnemonic: MLO      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:  1923   Asp: 4   Ann Prec:  32.00   Season: 4                   
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: ceb   Acc Lst: TUU                                                        
+Comments: 11/4/15 - CHANGE OBS TIME TO 1300 FOR PDT  ECARLOS                    
+3/10/15 - CHANGE OBS TIME TO 1200 FOR DST  ECARLOS                              
+2/14 - GREEN UP AND RECALCULATION   E. CARLOS                                   
+11/1 - EDITED OBS. TIME AFTER END OF DST.  E CARLOS                             
+4/21 - EDITED OBS. TIME TO COINCIDE WITH DST AS PER NIFC DIRECTION.  E CARLOS   
+3/20/14 - GREEN UP DATE 2/19/14, RECALCULATEE, E.CARLOS                         
+3/16/13 - GREEN UP DATE 2/25/13, RECALCULATED.  E. CARLOS                       
+4/30/11 - GREEN UP DATE 4/1/11,  DID RECALC. S. MITCHELL                        
+06/29/10 - ADDED FUEL MODEL G WITH 90TH AND 97TH PERCENTILE NUMBERS DERIVED FRO 
+M FF+V4 AND BASED UPON WEATHER OBS THROUGH 2009. DID RECALC WITH SAME GREENUP D 
+ATE OF 04/07/10. UPDATED THE 90TH & 97TH PERCENTILE NUMBERS IN THE OTHER FUEL M 
+ODELS USING THE WEATHER OBS THROUGH 2009.  DFORREST CALFIRE WX PROGRAM COORDINA 
+TOR                                                                             
+                                                                                
+RAWS WAS MOVED ON 11/18/2009                                                    
+                                                                                
+ON 04/13/09 THE STATION WAS ENTIRELY CONVERTED TO NEW FTS EQUIPMENT AND TRANSMI 
+TS USING HIGH DATA RATE ON NEW CHANNEL & TIME SLOT.  OBS TIME DID NOT CHANGE.   
+TESTED TIPPING BUCKET AND RESET RAINFALL.  LAT/LONG, ELEV AMENDED BASED UPON ON 
+-SITE GPS (NAD83) WHEN STATION WAS UPGRADED.  DFORREST CDF FIRE WX PROGRAM COOR 
+DINATOR 07/23/09                                                                
+                                                                                
+CONVERTED TO RAWS 7/24/01. SAME SITE AS MANUAL STATION.                         
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7A F 01-dec-19 14-apr-19 _ 2 A 2  BI 5  90  35  97  39                     
+   2 7B F 01-dec-19 14-apr-19 _ 2 A 2  BI 5  90 118  97 133                     
+   3 7T F 01-dec-19 14-apr-19 _ 2 A 2  BI 5  90  53  97  58                     
+   4 7G F 01-dec-19 14-apr-19 _ 2 A 2  BI 5  90  66  97  71                     
+   5 16W _ _________ _________ _ 2 A   BI 5  90  49  97  53                     
+   6 16Y _ _________ _________ _ 2 A   BI 5  90  45  97  48                     
+   7 16X _ _________ _________ _ 2 A   __                                       
+   8 16V _ _________ _________ _ 2 A   BI 5  90  48  97  52                     
+   9 16Z _ _________ _________ _ 2 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA258460     9   Rain Accumulation, Inches                  PC               
+   CA258460    10   Wind Speed MPH, Miles per Hour             US               
+   CA258460    11   Wind Direction Degrees, Degrees            UD               
+   CA258460    12   Air Temperature, Standard Placement, Deg   TA               
+   CA258460    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA258460    14   Relative Humidity, Percent                 XR               
+   CA258460    15   Battery Voltage, volts                     VB               
+   CA258460    17   Fuel Moisture, Percent                     MM               
+   CA258460    18   Wind Direction, Peak, Degrees              UX               
+   CA258460    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA258460    20   Solar Radiation, watts per meter squared   RD               

@@ -1,0 +1,33 @@
+
+WLSTINV1-Weather Station Inventory for                       40198              
+                                                                                
+Station: 040198   Name: SRF02 PORTABLE         NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 01-Jun-2012     Obs Time/Z: 13/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 555                       
+                                                                                
+State: 06-CA   County: 015-Del Norte           Lat/Lon: 41 51  0, 123 58  0     
+Obs Agy: 8 (Oth Fed )     Unit: SRF          Mnemonic: SRF2      FS Reg:   5    
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  5300   Asp: 3   Ann Prec:  92.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS11167   Acc Lst: SRF                                                    
+Comments: MICRO 545C FOR RX BURNS ON MONKEY.  NAME CHANGED ON 2/3/03 FROM "MICR 
+O SHIP MTN" TO PRESENT STANDARD NAMING CONVENTION. STATION TYPE CHANGED TO HIST 
+ORIC/NON-ACTIVE SEPTEMBER 2005.  STATION NO LONGER EXISTS ON SRF.               
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

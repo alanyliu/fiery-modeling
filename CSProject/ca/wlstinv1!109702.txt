@@ -1,0 +1,38 @@
+
+WLSTINV1-Weather Station Inventory for                      109702              
+                                                                                
+Station: 109702   Name: SANTA BARBARA          NESDIS: FA61D4A4                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 15-Jan-2010     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: ____                      
+                                                                                
+State: 06-CA   County: ___-________________________Lat/Lon: 33 29 14, 119  1 49 
+Obs Agy: 1 (USDA FS )     Unit: CLE          Mnemonic: SANB      FS Reg:   5    
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:   360   Asp: 0   Ann Prec:  58.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: BLM1738   Acc Lst: ________                                               
+Comments:                                                                       
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   FA61D4A4     9   Rain Accumulation, Inches                  PC               
+   FA61D4A4    10   Wind Speed MPH, Miles per Hour             US               
+   FA61D4A4    11   Wind Direction Degrees, Degrees            UD               
+   FA61D4A4    12   Air Temperature, Standard Placement, Deg   TA               
+   FA61D4A4    14   Relative Humidity, Percent                 XR               
+   FA61D4A4    15   Battery Voltage, volts                     VB               
+   FA61D4A4    17   Wind Direction, Peak, Degrees              UX               
+   FA61D4A4    18   Wind Speed Peak MPH, Miles per Hour        UP               
+   FA61D4A4    19   Solar Radiation, watts per meter squared   RD               
+   FA61D4A4    20   Air Temperature, 2nd Sensor, Degrees Fah   TA               
+   FA61D4A4    21   Relative Humidity, Special, Percent        XR               

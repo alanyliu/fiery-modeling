@@ -1,0 +1,47 @@
+
+WLSTINV1-Weather Station Inventory for                       40637              
+                                                                                
+Station: 040637   Name: MULE MOUNTAIN          NESDIS: FA61C7D2                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 13-Dec-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 595                       
+                                                                                
+State: 06-CA   County: 089-Shasta              Lat/Lon: 40 34  9, 122 30 11     
+Obs Agy: 3 (USDI NPS)     Unit: WNP          Mnemonic: MULE      FS Reg:   5    
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  2044   Asp: 0   Ann Prec:  63.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: NPS8404   Acc Lst: WHIS                                                   
+Comments: CONVERTED MULE MOUNTAIN FROM HANDAR VISALA 555 TO FTS F6 ON APRIL 24, 
+ 2012 @1500 HRS                                                                 
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B F 27-nov-19 24-may-19 _ 3 A 2  BI 5  90 134  97 149                     
+   2 7F F 27-nov-19 24-may-19 _ 3 A 2  BI 5  90  94  97 106                     
+   3 7G F 27-nov-19 24-may-19 _ 3 A 2  BI 5  90  74  97  80                     
+   4 16V _ _________ _________ _ 3 A   __                                       
+   5 16W _ _________ _________ _ 3 A   __                                       
+   6 16X _ _________ _________ _ 3 A   BI 5  90 198  97 213                     
+   7 16Y _ _________ _________ _ 3 A   BI 5  90  51  97  54                     
+   8 16Z _ _________ _________ _ 3 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   FA61C7D2     9   Rain Accumulation, Inches                  PC               
+   FA61C7D2    10   Wind Speed MPH, Miles per Hour             US               
+   FA61C7D2    11   Wind Direction Degrees, Degrees            UD               
+   FA61C7D2    12   Air Temperature, Standard Placement, Deg   TA               
+   FA61C7D2    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   FA61C7D2    14   Relative Humidity, Percent                 XR               
+   FA61C7D2    15   Battery Voltage, volts                     VB               
+   FA61C7D2    17   Fuel Moisture, Percent                     MM               
+   FA61C7D2    18   Wind Direction, Peak, Degrees              UX               
+   FA61C7D2    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   FA61C7D2    20   Solar Radiation, watts per meter squared   RD               

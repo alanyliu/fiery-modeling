@@ -1,0 +1,69 @@
+
+WLSTINV1-Weather Station Inventory for                       44521              
+                                                                                
+Station: 044521   Name: DINKEY                 NESDIS: 326EF3C4                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 24-May-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 533                       
+                                                                                
+State: 06-CA   County: 019-Fresno              Lat/Lon: 37  3 59, 119  9 26     
+Obs Agy: 1 (USDA FS )     Unit: SNF          Mnemonic: DINKE      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  5737   Asp: 2   Ann Prec:  40.00   Season:                     
+Ltng scale:   4.71   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: b7f   Acc Lst: CONTROL                                                    
+Comments: A NEW TRI-TOWER WAS PUT UP FOR THE DINKEY STATION. THE RAIN GUAGE WAS 
+ SET TO ZERO. THE GUAGE MALFUNCTIONED AND SHOT UP TO 64.71.THIS WAS CORRECTED A 
+ND THE SEASON TOTAL IS NOW 13.10.MAS 36-JAN-12.SET SNOW FLAG TO YES 01-FEB-12 M 
+AS. GREEM UP AND RECALC 14-MAY-12. A NEW FUEL STICK FOR THE SEASON HAS BEEN PLA 
+CED AT THE DINKEY RAWS STATION.ANNUAL MAINTENANCE HAS BEEN COMPLETED FOR THE DI 
+NKEY RAWS STATION AND A NEW FUEL STICK HAS BEEN INSTALLED, SO IF YOU NOTICE A D 
+IFFERENCE /DROP IN THE FUEL STICK READING THAT IS WHY, AT LEAST UNTIL IT GETS A 
+CCLIMATIZED.MAS 1-JUN-12.                                                       
+PER DISTRICT FUELS BC STATION SET TO FROZEN ON 25-OCT-2012 AND RE-CALC ON 02-NO 
+V-2012 (KTHOM)                                                                  
+                                                                                
+PER BC38 REMOVE SNOW FLAG AND GREEN UP 3/24/2014                                
+                                                                                
+PER CAPT38 GREEN-UP STARTING ARPIL 1ST. RECALC COMPLETED. MAS 4/16/15           
+                                                                                
+PER BC58 STATION FROZEN. 12/4/15 BM                                             
+PER CAPT.38 STATION T6AKEN OFF FROZEN BUT NOT YET GREEN UP. 4/1/16 BM           
+PER CAPT.38 STATION GREEN UP - 5/5/26 BM                                        
+PER CAP 38 FROZEN ON 1/27/17                                                    
+PER CAP 48 GREEN UP ON 5/15/18                                                  
+PER CAP 48 GREEN UP ON 5/20/19; 5/24/19 SW                                      
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G C 15-jun-19 20-may-19 _ 4 A 3  BI 5  90  67  97  73                     
+   2 7H C 15-jun-19 20-may-19 _ 4 A 3  BI 5  90  29  97  32                     
+   3 16V _ _________ _________ _ 4 A   __                                       
+   4 16W _ _________ _________ _ 4 A   __                                       
+   5 16X _ _________ _________ _ 4 A   __                                       
+   6 16Y _ _________ _________ _ 4 A   __                                       
+   7 16Z _ _________ _________ _ 4 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   326EF3C4     9   Rain Accumulation, Inches                  PC               
+   326EF3C4    10   Wind Speed MPH, Miles per Hour             US               
+   326EF3C4    11   Wind Direction Degrees, Degrees            UD               
+   326EF3C4    12   Air Temperature, Standard Placement, Deg   TA               
+   326EF3C4    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   326EF3C4    14   Relative Humidity, Percent                 XR               
+   326EF3C4    15   Battery Voltage, volts                     VB               
+   326EF3C4    17   Fuel Moisture, Percent                     MM               
+   326EF3C4    18   Wind Direction, Peak, Degrees              UX               
+   326EF3C4    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   326EF3C4    20   Solar Radiation, watts per meter squared   RD               
+   326EF3C4    21   Air Temperature, 24 Hour High, Degrees F   TX               
+   326EF3C4    22   Air Temperature, 24 Hour Low, Degrees Fa   TN               
+   326EF3C4    23   Relative Humidity, 24 Hour High, Percent   XS               
+   326EF3C4    24   Relative Humidity, 24 Hour Low, Percent    XQ               

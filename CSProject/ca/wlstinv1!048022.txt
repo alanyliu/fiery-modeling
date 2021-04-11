@@ -1,0 +1,28 @@
+
+WLSTINV1-Weather Station Inventory for                       48022              
+                                                                                
+Station: 048022   Name: MARKLEEVILLE           NESDIS: ________                 
+                                                                                
+Type: 2 (Man NFDRS)   Create/Mod Date: 10-Apr-1998     Obs Time/Z: 13/PST       
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 576                       
+                                                                                
+State: 06-CA   County: 3-________________________Lat/Lon: 38 41  6, 119 46  6   
+Obs Agy: 1 (USDA FS )     Unit: CARSON RD    Mnemonic: TOF      FS Reg:   4     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  5501   Asp: 0   Ann Prec:    Season:                           
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: BLM1615   Acc Lst: WIMS                                                   
+Comments: MANUAL/SEASONAL                                                       
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7C P 25-jun-95 _________ _ 2 P 2  BI 5  90  52  97  63                     
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

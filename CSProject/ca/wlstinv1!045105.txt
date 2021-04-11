@@ -1,0 +1,46 @@
+
+WLSTINV1-Weather Station Inventory for                       45105              
+                                                                                
+Station: 045105   Name: CONVERSE               NESDIS: 3237D736                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 13-Dec-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: 045405     Fcst Zone: 511                       
+                                                                                
+State: 06-CA   County: 071-San Bernardino      Lat/Lon: 34 11 39, 116 54 47     
+Obs Agy: 1 (USDA FS )     Unit: BDF          Mnemonic: CONVR      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:  5618   Asp: 4   Ann Prec:  38.01   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: 2c0   Acc Lst: STATIONS                                                   
+Comments: MANUAL TO RAWS 1997                                                   
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7C C 25-oct-19 16-apr-19 _ 3 P 2  BI 5  90  53  97  61                     
+   2 7B C 25-oct-19 16-apr-19 _ 3 P 2  BI 5  90 145  97 191                     
+   3 7A C 16-aug-19 16-apr-19 _ 3 A 2  BI 5  90  54  97  62                     
+   4 7G C 16-aug-19 16-apr-19 _ 3 A 2  EC 5  90  75  97  84                     
+   5 16Y _ _________ _________ _ 3 P   EC 5  90  68  97  73                     
+   6 16X _ _________ _________ _ 3 P   BI 5  90 166  97 191                     
+   7 16V _ _________ _________ _ 3 P   BI 5  90  35  97  46                     
+   8 16W _ _________ _________ _ 3 P   BI 5  90  40  97  48                     
+   9 16Z _ _________ _________ _ 3 P   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   3237D736     9   Rain Accumulation, Inches                  PC               
+   3237D736    10   Wind Speed MPH, Miles per Hour             US               
+   3237D736    11   Wind Direction Degrees, Degrees            UD               
+   3237D736    12   Air Temperature, Standard Placement, Deg   TA               
+   3237D736    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   3237D736    14   Relative Humidity, Percent                 XR               
+   3237D736    15   Battery Voltage, volts                     VB               
+   3237D736    17   Fuel Moisture, Percent                     MM               
+   3237D736    18   Wind Direction, Peak, Degrees              UX               
+   3237D736    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   3237D736    20   Solar Radiation, watts per meter squared   RD               

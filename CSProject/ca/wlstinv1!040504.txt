@@ -1,0 +1,30 @@
+
+WLSTINV1-Weather Station Inventory for                       40504              
+                                                                                
+Station: 040504   Name: HYAMPOM G.S.           NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 21-Jan-1998     Obs Time/Z: 13/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 591                       
+                                                                                
+State: 06-CA   County: 105-Trinity             Lat/Lon: 40 37 24, 123 29  6     
+Obs Agy: 1 (USDA FS )     Unit: SHF          Mnemonic: HYAMP      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  1200   Asp: 0   Ann Prec:  42.52   Season:                     
+Ltng scale:    Hum code: 1   Temp code: 1   Pres code: 1                        
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: ____________   Acc Lst: ________                                          
+Comments: STATION RECORD 1961 THRU 1979                                         
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

@@ -1,0 +1,30 @@
+
+WLSTINV1-Weather Station Inventory for                       42307              
+                                                                                
+Station: 042307   Name: SKYOAKS                NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 21-Jul-2006     Obs Time/Z: 13/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 559                       
+                                                                                
+State: 06-CA   County: 041-Marin               Lat/Lon: 37 57  0, 122 36  0     
+Obs Agy: 6 (Local Gv)     Unit: MMWD         Mnemonic: SKY      FS Reg:   5     
+                                                                                
+Fuel Stk: 20-Jun-2006   Wdy FM Mea: 18-Jul-2006                                 
+Site: 2   Elev:   700   Asp: 4   Ann Prec:    Season:                           
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: WIP0001   Acc Lst: ________                                               
+Comments:                                                                       
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7A C 10-jun-06 15-mar-03 _ 2 A 2  BI 5  90  40  97  50                     
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

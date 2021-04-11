@@ -1,0 +1,40 @@
+
+WLSTINV1-Weather Station Inventory for                       45317              
+                                                                                
+Station: 045317   Name: SIMI VALLEY            NESDIS: CA26F5FE                 
+                                                                                
+Type: 3 (RAWS S non-NFDRS)   Create/Mod Date: 16-Feb-2012     Obs Time/Z: 13/PS 
+T                                                                               
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: ____                      
+                                                                                
+State: 06-CA   County: 111-Ventura             Lat/Lon: 34 17 28, 118 48 52     
+Obs Agy: 6 (Local Gv)     Unit: SIMI         Mnemonic: SMV      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:   914   Asp: 4   Ann Prec:  15.12   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: FS11472   Acc Lst: ________                                               
+Comments:                                                                       
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA26F5FE     9   Rain Accumulation, Inches                  PC               
+   CA26F5FE    10   Windspeed, Miles per Hour                  US               
+   CA26F5FE    11   Wind Direction, Degrees                    UD               
+   CA26F5FE    12   Air Temperature, Standard Placement, Deg   TA               
+   CA26F5FE    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA26F5FE    14   Relative Humidity, Percent                 XR               
+   CA26F5FE    15   Battery Voltage, volts                     VB               
+   CA26F5FE    17   Fuel Moisture, Percent                     MM               
+   CA26F5FE    18   Wind Direction, Peak, Degrees              UX               
+   CA26F5FE    19   Windspeed, Peak, Miles per Hour            UP               
+   CA26F5FE    20   Solar Radiation, watts per meter squared   RD               

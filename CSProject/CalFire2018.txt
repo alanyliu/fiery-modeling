@@ -1,0 +1,1520 @@
+Eighty Eight Fire
+7/18/2018
+Yolo
+822
+100%
+Madison FIre
+6/1/2018
+Yolo
+14
+100%
+Briggs Fire
+11/14/2018
+Ventura
+150
+100%
+Peak Fire
+11/12/2018
+Ventura
+186
+100%
+Hill Fire
+11/8/2018
+Ventura
+4,531
+100%
+Tulloch Fire
+9/8/2018
+Tuolumne
+573
+100%
+Donnell Fire
+8/1/2018
+Tuolumne
+36,450
+100%
+Flat Fire
+6/24/2018
+Tuolumne
+163
+100%
+Market Fire
+10/24/2018
+Tulare
+120
+100%
+River Fire
+8/15/2018
+Tulare
+668
+100%
+Balch Fire
+7/27/2018
+Tulare
+100
+100%
+Horse Creek Fire
+7/19/2018
+Tulare
+34
+100%
+White Fire
+5/18/2018
+Tulare
+26
+100%
+Wilcox Fire
+2/18/2018
+Tulare
+33
+100%
+Kerlin Fire
+9/4/2018
+Trinity
+1,751
+100%
+Flat Fire
+6/28/2018
+Trinity
+300
+100%
+Adams Fire
+11/5/2018
+Tehama
+60
+100%
+Sun Fire
+10/7/2018
+Tehama
+3,889
+100%
+Wilson Fire
+9/28/2018
+Tehama
+261
+100%
+Tuscan Fire
+7/15/2018
+Tehama
+50
+100%
+Lariat Fire
+7/14/2018
+Tehama
+33
+100%
+Dale Fire
+7/9/2018
+Tehama
+856
+100%
+Sierra Fire
+6/23/2018
+Tehama
+170
+100%
+Stoll Fire
+6/23/2018
+Tehama
+268
+100%
+Lane Fire
+6/23/2018
+Tehama
+3,716
+100%
+Spring Fire
+6/13/2018
+Tehama
+70
+100%
+Apple Fire
+6/9/2018
+Tehama
+2,956
+100%
+Black Fire
+6/3/2018
+Tehama
+10
+100%
+Plymire Fire
+6/1/2018
+Tehama
+23
+100%
+Jelly Fire
+5/18/2018
+Tehama
+103
+100%
+Butte Fire
+7/31/2018
+Sutter
+1,200
+100%
+Stuhr Fire
+5/29/2018
+Stanislaus
+63
+100%
+Pallet Fire
+6/5/2018
+Sonoma
+10
+100%
+Nurse Fire
+11/8/2018
+Solano
+1,500
+100%
+Winters Fire
+10/12/2018
+Solano
+160
+100%
+Branscombe Fire
+10/7/2018
+Solano
+4,500
+100%
+Nelson Fire
+8/10/2018
+Solano
+2,162
+100%
+Iron Gate Fire
+10/10/2018
+Siskiyou
+15
+100%
+Lott Fire
+7/17/2018
+Siskiyou
+10
+100%
+Steamboat Fire
+7/15/2018
+Siskiyou
+224
+100%
+Klamathon Fire
+7/5/2018
+Siskiyou
+38,008
+100%
+Petersburg Fire
+7/1/2018
+Siskiyou
+215
+100%
+Cherry Fire
+6/27/2018
+Siskiyou
+63
+100%
+Meamber Fire
+6/4/2018
+Siskiyou
+12
+100%
+Martin Fire
+6/3/2018
+Siskiyou
+37
+100%
+Ager Fire
+5/19/2018
+Siskiyou
+27
+100%
+Shastina Fire
+5/9/2018
+Siskiyou
+127
+100%
+Delta Fire
+9/5/2018
+Shasta, Trinity
+63,311
+100%
+Carr Fire
+7/23/2018
+Shasta, Trinity
+229,651
+100%
+Masonic Fire
+10/14/2018
+Shasta
+38
+100%
+Tower Fire
+10/13/2018
+Shasta
+12
+100%
+Silver Fire
+9/28/2018
+Shasta
+76
+100%
+Ranchera Fire
+9/4/2018
+Shasta
+13
+100%
+Gorge Fire
+8/19/2018
+Shasta
+155
+100%
+Hat Fire
+8/9/2018
+Shasta
+1,900
+100%
+Hirz Fire
+8/8/2018
+Shasta
+46,150
+100%
+Corner Fire
+7/29/2018
+Shasta
+35
+100%
+Crestline Fire
+7/24/2018
+Shasta
+51
+100%
+Highland Fire
+7/20/2018
+Shasta
+63
+100%
+Vista Fire
+7/8/2018
+Shasta
+31
+100%
+Creek Fire
+6/24/2018
+Shasta
+1,678
+100%
+Bascom Fire
+6/23/2018
+Shasta
+328
+100%
+Rock Fire
+3/27/2018
+Shasta
+11
+100%
+Bear Fire
+11/16/2018
+Santa Cruz
+10
+100%
+Rincon Fire
+11/3/2018
+Santa Cruz
+17
+100%
+Park Fire
+10/7/2018
+Santa Clara
+63
+100%
+Quimby Fire
+9/23/2018
+Santa Clara
+30
+100%
+Church Fire
+7/25/2018
+Santa Clara
+20
+100%
+Country Fire
+7/22/2018
+Santa Clara
+320
+100%
+Hale Fire
+7/10/2018
+Santa Clara
+51
+100%
+Curie Fire
+7/10/2018
+Santa Clara
+70
+100%
+Bridle Fire
+7/6/2018
+Santa Clara
+116
+100%
+Tesla Fire
+6/29/2018
+Santa Clara
+70
+100%
+Keeler Fire
+5/27/2018
+Santa Clara
+16
+100%
+Ogilvy Fire
+9/1/2018
+Santa Barbara
+172
+100%
+Front Fire
+8/19/2018
+Santa Barbara
+1,014
+100%
+Windmill Fire
+7/20/2018
+Santa Barbara
+110
+100%
+Cruces Fire
+7/18/2018
+Santa Barbara
+77
+100%
+Holiday Fire
+7/6/2018
+Santa Barbara
+113
+100%
+Happy Fire
+5/17/2018
+Santa Barbara
+60
+100%
+Santa Cruz Fire
+3/27/2018
+Santa Barbara
+258
+100%
+Camino Fire
+10/19/2018
+San Luis Obispo
+58
+100%
+Shandon Fire
+9/29/2018
+San Luis Obispo
+80
+100%
+Reservoir Fire
+9/16/2018
+San Luis Obispo
+51
+100%
+Rock Fire
+7/21/2018
+San Luis Obispo
+30
+100%
+Mustang Fire
+7/21/2018
+San Luis Obispo
+37
+100%
+Camp Fire
+7/17/2018
+San Luis Obispo
+14
+100%
+Fox Fire
+6/26/2018
+San Luis Obispo
+260
+100%
+Creek Fire
+6/21/2018
+San Luis Obispo
+10
+100%
+Yankee Fire
+6/20/2018
+San Luis Obispo
+1,500
+100%
+Creston FIre
+6/14/2018
+San Luis Obispo
+60
+100%
+Vista Fire
+6/13/2018
+San Luis Obispo
+60
+100%
+Resort Fire
+6/3/2018
+San Luis Obispo
+12
+100%
+Vineyard Fire
+5/29/2018
+San Luis Obispo
+25
+100%
+Water Fire
+5/24/2018
+San Luis Obispo
+100
+100%
+Waverly Fire
+6/29/2018
+San Joaquin
+12,300
+100%
+Liberty Fire
+6/11/2018
+San Joaquin
+62
+100%
+Cloverdale Fire
+8/13/2018
+San Diego
+100
+100%
+Rangeland Fire
+8/9/2018
+San Diego
+250
+100%
+Casner Fire
+8/6/2018
+San Diego
+14
+100%
+Rock Fire
+7/28/2018
+San Diego
+207
+100%
+Pasqual Fire
+7/27/2018
+San Diego
+365
+100%
+Cinnamon Fire
+7/20/2018
+San Diego
+13
+100%
+Border Fire
+7/17/2018
+San Diego
+28
+100%
+West Fire
+7/6/2018
+San Diego
+504
+100%
+Building Fire
+7/6/2018
+San Diego
+10
+100%
+Recycle Fire
+6/6/2018
+San Diego
+265
+100%
+Vista Fire
+6/5/2018
+San Diego
+12
+100%
+Green Fire
+6/3/2018
+San Diego
+10
+100%
+Adobe Fire
+6/3/2018
+San Diego
+38
+100%
+Agua Fire
+5/22/2018
+San Diego
+59
+100%
+Volcan Fire
+5/10/2018
+San Diego
+12
+100%
+Jacques Fire
+5/9/2018
+San Diego
+18
+100%
+Alpha Fire
+5/4/2018
+San Diego
+300
+100%
+Sierra Fire
+11/13/2018
+San Bernardino
+147
+100%
+Keenbrook Fire
+9/26/2018
+San Bernardino
+53
+100%
+Sterling
+8/31/2018
+San Bernardino
+125
+100%
+Gray Fire
+7/13/2018
+San Bernardino
+12
+100%
+Valley Fire
+7/6/2018
+San Bernardino
+1,350
+100%
+Box Fire
+7/6/2018
+San Bernardino
+100
+100%
+Creek Fire
+6/30/2018
+San Bernardino
+33
+100%
+Hidden Fire
+7/25/2018
+San Benito
+39
+100%
+Idria Fire
+7/12/2018
+San Benito
+116
+100%
+Panoche Fire
+7/11/2018
+San Benito
+278
+100%
+Beaver Fire
+6/12/2018
+San Benito
+215
+100%
+Panoche Fire
+6/4/2018
+San Benito
+64
+100%
+Eastern Fire
+6/4/2018
+San Benito
+513
+100%
+Airline Fire
+6/4/2018
+San Benito
+1,314
+100%
+Fairview Fire
+6/3/2018
+San Benito
+35
+100%
+Grant Fire
+6/29/2018
+Sacramento
+30
+100%
+Soboba Fire
+9/14/2018
+Riverside
+25
+100%
+Winchester Fire
+8/27/2018
+Riverside
+36
+100%
+Country Fire
+8/25/2018
+Riverside
+32
+100%
+Land Fire
+8/22/2018
+Riverside
+23
+100%
+Keller Fire
+8/19/2018
+Riverside
+10
+100%
+Terra Fire
+8/6/2018
+Riverside
+35
+100%
+Sobrante Fire
+7/28/2018
+Riverside
+30
+100%
+Ribbon Fire
+7/26/2018
+Riverside
+205
+100%
+Cranston Fire
+7/25/2018
+Riverside
+13,139
+100%
+Martinez Fire
+7/23/2018
+Riverside
+40
+100%
+Skyline Fire
+7/19/2018
+Riverside
+282
+100%
+Benton Fire
+7/4/2018
+Riverside
+63
+100%
+Bridle Fire
+6/14/2018
+Riverside
+20
+100%
+Euclid Fire
+6/12/2018
+Riverside
+154
+100%
+Ethanac Fire
+6/3/2018
+Riverside
+17
+100%
+Grande Fire
+6/3/2018
+Riverside
+11
+100%
+Jardin Fire
+6/2/2018
+Riverside
+10
+100%
+70th Fire
+5/28/2018
+Riverside
+10
+100%
+Patterson Fire
+5/17/2018
+Riverside
+1,261
+100%
+Woodchuck Fire
+5/4/2018
+Riverside
+15
+100%
+Tornado Fire
+5/4/2018
+Riverside
+70
+100%
+Main Fire
+4/28/2018
+Riverside
+73
+100%
+Lago Fire
+4/22/2018
+Riverside
+18
+100%
+Tyler Fire
+4/14/2018
+Riverside
+15
+100%
+Meadow Fire
+4/9/2018
+Riverside
+21
+100%
+Murphy Fire
+8/6/2018
+Plumas
+117
+100%
+French Fire
+4/26/2018
+Plumas
+20
+100%
+North Fire
+9/3/2018
+Placer
+1,120
+100%
+Sunset Fire
+8/1/2018
+Placer
+700
+100%
+Holy Fire
+8/6/2018
+Orange
+23,136
+100%
+Santiago Fire
+6/11/2018
+Orange
+155
+100%
+Aliso Fire
+6/2/2018
+Orange
+175
+100%
+Oak Fire
+8/12/2018
+State of Nevada
+16
+100%
+County Fire
+6/30/2018
+Napa, Yolo
+90,288
+100%
+Snell Fire
+9/8/2018
+Napa
+2,490
+100%
+Syar Fire
+8/9/2018
+Napa
+10
+100%
+Steele Fire
+7/28/2018
+Napa
+135
+100%
+Bellagio Fire
+5/21/2018
+Napa
+12
+100%
+Priest Fire
+10/13/2018
+Monterey
+167
+100%
+Nacimiento Fire
+10/2/2018
+Monterey
+150
+100%
+Metz Fire
+9/13/2018
+Monterey
+400
+100%
+Gulch Fire
+8/11/2018
+Monterey
+650
+100%
+Turkey Fire
+8/6/2018
+Monterey
+2,225
+100%
+San Ardo
+6/26/2018
+Monterey
+375
+100%
+Ranchita Fire
+6/19/2018
+Monterey
+10
+100%
+Sam Fire
+6/9/2018
+Monterey
+96
+100%
+Haycamp Fire
+2/7/2018
+Monterey
+50
+100%
+Boot Fire
+9/4/2018
+Mono
+6,974
+100%
+Essex Fire
+9/2/2018
+Modoc
+15
+100%
+Stone Fire
+8/15/2018
+Modoc
+39,387
+100%
+Kelley Fire
+7/14/2018
+Modoc
+52
+100%
+Eagle Fire
+7/13/2018
+Modoc
+2,100
+100%
+Romero Fire
+6/24/2018
+Merced
+68
+100%
+Dinosaur Fire
+6/17/2018
+Merced
+185
+100%
+Planada Fire
+6/15/2018
+Merced
+4,564
+100%
+Bear Fire
+6/7/2018
+Merced
+200
+100%
+Plaza Fire
+5/20/2018
+Merced
+88
+100%
+Nees Fire
+5/2/2018
+Merced
+1,756
+100%
+Brushy Fire
+11/8/2018
+Mendocino
+35
+100%
+Western Fire
+8/1/2018
+Mendocino
+106
+100%
+Eel Fire
+7/31/2018
+Mendocino
+972
+100%
+Heart Fire
+7/21/2018
+Mendocino
+67
+100%
+Peach Fire
+7/5/2018
+Mendocino
+90
+100%
+Wagner Fire
+8/4/2018
+Mariposa
+22
+100%
+Ben Fire
+7/19/2018
+Mariposa
+40
+100%
+Ferguson Fire
+7/13/2018
+Mariposa
+96,901
+100%
+Wheeler Fire
+6/18/2018
+Mariposa
+115
+100%
+Boyer Fire
+6/15/2018
+Mariposa
+53
+100%
+Irving Fire
+9/10/2018
+Marin
+152
+100%
+Mission Fire
+6/9/2018
+Marin
+12
+100%
+Bridge Fire
+12/31/1969
+Marin
+45
+100%
+Oak Fire
+9/22/2018
+Madera
+360
+100%
+Redinger Fire
+8/27/2018
+Madera
+88
+100%
+Eastman Fire
+8/23/2018
+Madera
+289
+100%
+School Fire
+7/10/2018
+Madera
+12
+100%
+Cornerstone Fire
+7/9/2018
+Madera
+11
+100%
+Raymond Fire
+6/15/2018
+Madera
+60
+100%
+Lions Fire
+6/11/2018
+Madera
+4,064
+100%
+ONeals Fire
+6/4/2018
+Madera
+300
+100%
+Experimental Fire
+5/23/2018
+Madera
+56
+100%
+Woolsey Fire
+11/8/2018
+Los Angeles, Ventura
+96,949
+100%
+Charlie Fire
+9/22/2018
+Los Angeles
+3,380
+100%
+Fork Fire
+9/9/2018
+Los Angeles
+166
+100%
+Pico Fire
+7/23/2018
+Los Angeles
+128
+100%
+Canyon Fire
+6/23/2018
+Los Angeles
+62
+100%
+Portola Fire
+6/12/2018
+Los Angeles
+20
+100%
+South Fire
+6/9/2018
+Los Angeles
+175
+100%
+Stone Fire
+6/4/2018
+Los Angeles
+1,352
+100%
+Horn Fire
+11/8/2018
+Lassen
+88
+100%
+Copper Fire
+9/22/2018
+Lassen
+53
+100%
+Whaleback Fire
+7/27/2018
+Lassen
+18,703
+100%
+Roxie Fire (Formerly 1-1 Fire)
+7/24/2018
+Lassen
+167
+100%
+3-16 Fire
+7/15/2018
+Lassen
+89
+100%
+3-18 Fire
+7/15/2018
+Lassen
+32
+100%
+3-10 Fire
+7/15/2018
+Lassen
+56
+100%
+3-2 Fire
+7/14/2018
+Lassen
+14
+100%
+Hyatt Fire
+6/27/2018
+Lassen
+441
+100%
+Tumbleweed Fire
+6/14/2018
+Lassen
+646
+100%
+Kelsey Fire
+9/3/2018
+Lake
+24
+100%
+Ridge Fire
+9/2/2018
+Lake
+36
+100%
+Grade Fire
+8/30/2018
+Lake
+60
+100%
+Cache Fire
+8/26/2018
+Lake
+103
+100%
+Carder Fire
+7/21/2018
+Lake
+50
+100%
+Spring 2 Fire
+7/9/2018
+Lake
+80
+100%
+Pawnee Fire
+6/23/2018
+Lake
+15,185
+100%
+Creek Fire
+6/16/2018
+Lake
+32
+100%
+Five Fire
+8/6/2018
+Kings
+2,995
+100%
+Water Fire
+9/12/2018
+Kern
+200
+100%
+Call Fire
+8/18/2018
+Kern
+367
+100%
+Marcel Fire
+8/17/2018
+Kern
+34
+100%
+Pine Fire
+8/16/2018
+Kern
+114
+100%
+Tarina Fire
+8/3/2018
+Kern
+2,950
+100%
+Breckenridge Fire
+7/27/2018
+Kern
+993
+100%
+Lebec Fire
+7/8/2018
+Kern
+62
+100%
+Sheep Fire
+6/29/2018
+Kern
+95
+100%
+Twisselman Fire
+5/16/2018
+Kern
+293
+100%
+Owens Fire
+7/31/2018
+Inyo
+338
+100%
+Georges Fire
+7/8/2018
+Inyo
+2,883
+100%
+Moffat Fire
+4/19/2018
+Inyo
+1,265
+100%
+Pleasant Fire
+2/18/2018
+Inyo
+2,070
+100%
+Green Hill Fire
+11/12/2018
+Humboldt
+10
+100%
+Mill Creek 1 Fire
+8/16/2018
+Humboldt
+3,674
+100%
+Johnson Fire
+7/15/2018
+Humboldt
+16
+100%
+Chrome Fire
+6/9/2018
+Glenn
+2,290
+100%
+Open Fire
+6/1/2018
+Glenn
+127
+100%
+Chrome Fire
+5/28/2018
+Glenn
+75
+100%
+Eagle Fire
+10/2/2018
+Fresno
+32
+100%
+Anchor Fire
+6/27/2018
+Fresno
+76
+100%
+Coldwell Fire
+6/2/2018
+Fresno
+13
+100%
+Cobble Fire
+5/26/2018
+Fresno
+108
+100%
+Aqueduct Fire
+4/12/2018
+Fresno
+30
+100%
+Meyers Fire
+9/20/2018
+El Dorado
+12
+100%
+Sliger Fire
+9/4/2018
+El Dorado
+150
+100%
+Omega Fire
+8/1/2018
+El Dorado
+66
+100%
+Bumper Fire
+8/1/2018
+El Dorado
+67
+100%
+Shingle Fire
+7/4/2018
+El Dorado
+316
+100%
+Morgan Fire
+11/15/2018
+Contra Costa
+20
+100%
+Alhambra Fire
+8/17/2018
+Contra Costa
+30
+100%
+Marsh Fire
+7/25/2018
+Contra Costa
+247
+100%
+Bruce Fire
+7/8/2018
+Contra Costa
+56
+100%
+Buckingham Fire
+7/2/2018
+Contra Costa
+45
+100%
+Valley Fire
+6/29/2018
+Contra Costa
+268
+100%
+Iron Fire
+6/19/2018
+Contra Costa
+40
+100%
+Willow Fire
+6/16/2018
+Contra Costa
+25
+100%
+Glen Fire
+6/2/2018
+Contra Costa
+23
+100%
+River Fire (Mendocino Complex)
+7/27/2018
+Colusa, Lake, Mendocino
+48,920
+100%
+Ranch Fire (Mendocino Complex)
+7/27/2018
+Colusa, Glenn, Lake, Mendocino
+410,203
+100%
+Stony Fire
+7/4/2018
+Colusa
+75
+100%
+South Fire
+8/6/2018
+Calaveras
+290
+100%
+Parrots Fire
+8/4/2018
+Calaveras
+136
+100%
+Horse Fire
+6/24/2018
+Calaveras
+80
+100%
+Camp Fire
+11/7/2018
+Butte
+153,336
+100%
+June Fire
+10/30/2018
+Butte
+550
+100%
+Powellton Fire
+10/15/2018
+Butte
+10
+100%
+Nimshew Fire
+9/23/2018
+Butte
+33
+100%
+Simmons Fire
+7/19/2018
+Butte
+43
+100%
+Stoney Fire
+7/12/2018
+Butte
+962
+100%
+Dark Fire
+7/10/2018
+Butte
+11
+100%
+Par Fire
+7/4/2018
+Butte
+191
+100%
+Llano Fire
+6/29/2018
+Butte
+10
+100%
+Shippee Fire
+6/26/2018
+Butte
+347
+100%
+Oregon Fire
+6/16/2018
+Butte
+40
+100%
+70 Fire
+6/14/2018
+Butte
+20
+100%
+Irish Fire
+7/6/2018
+Amador
+825
+100%
+China Fire
+6/17/2018
+Amador
+17
+100%
+Niles Fire
+11/14/2018
+Alameda
+20
+100%
+Castro Fire
+8/26/2018
+Alameda
+48
+100%
+Creek Fire
+8/4/2018
+Alameda
+30
+100%
+Patterson Fire
+7/25/2018
+Alameda
+34
+100%
+Grant Fire
+7/8/2018
+Alameda
+640
+100%
+Vallecitos Fire
+6/17/2018
+Alameda
+20
+100%
+Grant Fire
+5/30/2018
+Alameda
+484
+100%
+Grant Fire
+5/14/2018
+Alameda
+12
+100%
+Natchez Fire
+7/15/2018
+Siskiyou
+38,134
+100%

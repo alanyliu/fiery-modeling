@@ -1,0 +1,30 @@
+
+WLSTINV1-Weather Station Inventory for                       40214              
+                                                                                
+Station: 040214   Name: MCCLOUD R.S.           NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 17-Jun-2002     Obs Time/Z: 13/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 593                       
+                                                                                
+State: 06-CA   County: 093-Siskiyou            Lat/Lon: 40 15 12, 122  7 48     
+Obs Agy: 1 (USDA FS )     Unit: SHF          Mnemonic: MCLOD      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site:    Elev:  3200   Asp:    Ann Prec:  48.55   Season:                       
+Ltng scale:    Hum code: 1   Temp code: 1   Pres code: 1                        
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: FS8374   Acc Lst: SHF                                                     
+Comments: STATION RECORD 1972-1991; RAWS ACTIVE FROM 1992                       
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

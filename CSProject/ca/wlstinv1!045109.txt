@@ -1,0 +1,49 @@
+
+WLSTINV1-Weather Station Inventory for                       45109              
+                                                                                
+Station: 045109   Name: MILL CREEK             NESDIS: 3230B0E4                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 13-Dec-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: 045409     Fcst Zone: 510                       
+                                                                                
+State: 06-CA   County: 071-San Bernardino      Lat/Lon: 34  4 47, 117  2 48     
+Obs Agy: 1 (USDA FS )     Unit: BDF          Mnemonic: MILCR      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  2950   Asp: 5   Ann Prec:  21.38   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: 2c0   Acc Lst: STATIONS                                                   
+Comments: CHANGED TO RAWS 3/27/98                                               
+REGULAR SCHEDULED OBS TIME CHANGED TO "12" FOR INCREASED MANAGEMENT EFFICENCY O 
+N 24JUL2014.                                                                    
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B F 27-nov-19 16-apr-19 _ 4 P 2  BI 5  90 127  97 163                     
+   2 7F F 27-nov-19 16-apr-19 _ 4 P 2  BI 5  90  59  97 105                     
+   3 7A F 27-nov-19 16-apr-19 _ 2 A 2  BI 5  90  42  97  51                     
+   4 7G F 27-nov-19 16-apr-19 _ 2 A 2  EC 5  90  71  97  78                     
+   5 16V _ _________ _________ _ 4 P   BI 5  90  54  97  65                     
+   6 16X _ _________ _________ _ 4 P   BI 5  90 233  97 263                     
+   7 16Y _ _________ _________ _ 4 P   EC 5  90  65  97  71                     
+   8 16Y _ _________ _________ _ 4 P   __                                       
+   9 16Z _ _________ _________ _ 4 P   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   3230B0E4     9   Rain Accumulation, Inches                  PC               
+   3230B0E4    10   Wind Speed MPH, Miles per Hour             US               
+   3230B0E4    11   Wind Direction Degrees, Degrees            UD               
+   3230B0E4    12   Air Temperature, Standard Placement, Deg   TA               
+   3230B0E4    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   3230B0E4    14   Relative Humidity, Percent                 XR               
+   3230B0E4    15   Battery Voltage, volts                     VB               
+   3230B0E4    17   Fuel Moisture, Percent                     MM               
+   3230B0E4    18   Wind Direction, Peak, Degrees              UX               
+   3230B0E4    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   3230B0E4    20   Solar Radiation, watts per meter squared   RD               

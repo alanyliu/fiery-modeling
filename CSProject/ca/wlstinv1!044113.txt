@@ -1,0 +1,38 @@
+
+WLSTINV1-Weather Station Inventory for                       44113              
+                                                                                
+Station: 044113   Name: MGROVE RAWS            NESDIS: FA455664                 
+                                                                                
+Type: 3 (RAWS S non-NFDRS)   Create/Mod Date: 09-Feb-2016     Obs Time/Z: 12/PS 
+T                                                                               
+                                                                                
+Assoc Man: 044109     Prev Stn: ______     Fcst Zone: 531                       
+                                                                                
+State: 06-CA   County: 043-Mariposa            Lat/Lon: 37 30  0, 119 36  0     
+Obs Agy: 3 (USDI NPS)     Unit: YOSE         Mnemonic: YNP      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: 12-May-2005                                 
+Site: 3   Elev:  6400   Asp: 4   Ann Prec:  30.00   Season: 1                   
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: 591   Acc Lst: YOSE                                                       
+Comments: STATION OPERATES ALL YEAR                                             
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   FA455664     9   Rain Accumulation, Inches                  PC               
+   FA455664    10   Windspeed, Miles per Hour                  US               
+   FA455664    11   Wind Direction, Degrees                    UD               
+   FA455664    12   Air Temperature, Standard Placement, Deg   TA               
+   FA455664    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   FA455664    14   Relative Humidity, Percent                 XR               
+   FA455664    15   Battery Voltage, volts                     VB               
+   FA455664    17   Wind Direction, Peak, Degrees              UX               
+   FA455664    18   Windspeed, Peak, Miles per Hour            UP               

@@ -1,0 +1,65 @@
+
+WLSTINV1-Weather Station Inventory for                       40233              
+                                                                                
+Station: 040233   Name: INDIAN WELL            NESDIS: FA5020AA                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 26-Nov-2019     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 590                       
+                                                                                
+State: 06-CA   County: 093-Siskiyou            Lat/Lon: 41 42 42, 121 30 23     
+Obs Agy: 3 (USDI NPS)     Unit: LABE         Mnemonic: BNP      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  4777   Asp: 5   Ann Prec:  15.29   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: 275   Acc Lst: MODO12                                                     
+Comments: MANUAL STATION AT INDIAN WELL HQ, LAVA BEDS N.M.,  GREEN UP APRIL 20, 
+ 2010 PER SYNDY ZERR, FREEZ UP SEP 21, 2010 PER DAVE MCMASTER                   
+GREENED UP INDIAN WELL RAWS STATION ON 4/29/2011 PER DIRECTION FROM DIV 7.      
+FREEZE UP ON DEC 12, 2011 PER VON.                                              
+GREEN UP DATE 4-24-12 PER DIV9                                                  
+FREEZE UP DATE 9/21/2013 PER CH1 SM                                             
+GREEN UP DATE 3/21/14 PER CH1 AND CH3 SM                                        
+FREEZE UP DATE 10/29/14 SM                                                      
+                                                                                
+GREEN UP 3/10/2015 PER BC92 & DIV7  - SM                                        
+CURRED DATE 6/27/2015 PER DIV 7 AND CH1                                         
+GREEN UP 04/11/2016 PER DIV7 & BC91 - MM                                        
+FREEZE UP PER CHFS SPJ                                                          
+GREEN UP 04/29/2017 - MM & DIV 7                                                
+FREEZE UP PER DIV 11                                                            
+GREEN UP 04/25/18 - DIV7+BC91 - MM                                              
+FREEZE UP 11/01/18                                                              
+GREEN UP 05/29/19 - MM                                                          
+FREEZE UP 11/26/19-MM                                                           
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7F F 26-nov-19 29-may-19 _ 2 A 2  BI 5  90  81  97  97                     
+   2 7T F 26-nov-19 29-may-19 _ 2 A 2  BI 5  90  57  97  75                     
+   3 7U F 26-nov-19 29-may-19 _ 2 P 2  BI 5  90  42  97  51                     
+   4 7G F 26-nov-19 29-may-19 _ 2 A 2  EC 5  90  74  97  90                     
+   5 16V _ _________ _________ _ 2 A   __                                       
+   6 16W _ _________ _________ _ 2 A   __                                       
+   7 16X _ _________ _________ _ 2 A   __                                       
+   8 16Y _ _________ _________ _ 2 A   __                                       
+   9 16Z _ _________ _________ _ 2 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   FA5020AA     9   Rain Accumulation, Inches                  PC               
+   FA5020AA    10   Wind Speed MPH, Miles per Hour             US               
+   FA5020AA    11   Wind Direction Degrees, Degrees            UD               
+   FA5020AA    12   Air Temperature, Standard Placement, Deg   TA               
+   FA5020AA    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   FA5020AA    14   Relative Humidity, Percent                 XR               
+   FA5020AA    15   Battery Voltage, volts                     VB               
+   FA5020AA    17   Fuel Moisture, Percent                     MM               
+   FA5020AA    18   Wind Direction, Peak, Degrees              UX               
+   FA5020AA    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   FA5020AA    20   Solar Radiation, watts per meter squared   RD               

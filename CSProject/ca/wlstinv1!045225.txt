@@ -1,0 +1,47 @@
+
+WLSTINV1-Weather Station Inventory for                       45225              
+                                                                                
+Station: 045225   Name: TEPUSQUET              NESDIS: CF101798                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 12-Dec-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 500                       
+                                                                                
+State: 06-CA   County: 083-Santa Barbara       Lat/Lon: 34 55 11, 120 10 52     
+Obs Agy: 5 (State   )     Unit: SBC FIRE     Mnemonic: SBC      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  3200   Asp: 0   Ann Prec:  18.00   Season:                     
+Ltng scale:    .04   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: aeb   Acc Lst: SLU                                                        
+Comments: RAWS INSTALLED 10/06/2015. LOCATED ON A RIDGE TOP NORTH OF THE TEPUSQ 
+UET REPEATER SITE                                                               
+WITH PREDOMINATE SOUTH ASPECT. MIXED CHAPARRAL FUEL BED. SBC FDRA MOUNTAIN.     
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B F 11-oct-19 01-apr-19 _ 4 A 2  BI 5  90 100  97 200                     
+   2 7G F 11-oct-19 01-apr-19 _ 4 A 2  EC 5  90  76  97  82                     
+   3 16V _ _________ _________ _ 4 A   __                                       
+   4 16W _ _________ _________ _ 4 A   __                                       
+   5 16X _ _________ _________ _ 4 A   __                                       
+   6 16Y _ _________ _________ _ 4 A   __                                       
+   7 16Z _ _________ _________ _ 4 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CF101798     9   Rain Accumulation, Inches                  PC               
+   CF101798    10   Wind Speed MPH, Miles per Hour             US               
+   CF101798    11   Wind Direction Degrees, Degrees            UD               
+   CF101798    12   Air Temperature, Standard Placement, Deg   TA               
+   CF101798    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CF101798    14   Relative Humidity, Percent                 XR               
+   CF101798    15   Battery Voltage, volts                     VB               
+   CF101798    17   Fuel Moisture, Percent                     MM               
+   CF101798    18   Wind Direction, Peak, Degrees              UX               
+   CF101798    19   Wind speed peak, Miles per Hour            UP               
+   CF101798    20   Solar Radiation, watts per meter squared   RD               

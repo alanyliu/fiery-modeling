@@ -1,0 +1,45 @@
+
+WLSTINV1-Weather Station Inventory for                       45127              
+                                                                                
+Station: 045127   Name: OPAL MOUNTAIN          NESDIS: 3257960E                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 02-Jul-2018     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 543                       
+                                                                                
+State: 06-CA   County: 071-San Bernardino      Lat/Lon: 35  9 15, 117 10 32     
+Obs Agy: 2 (USDI BLM)     Unit: BLMCDD       Mnemonic: OPAL      FS Reg:   5    
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  3240   Asp: 4   Ann Prec:   5.50   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: 9a   Acc Lst: STATIONS                                                    
+Comments: CATALOG EDIT 09/03/04                                                 
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7T C 03-jul-18 01-apr-18 _ 3 A 1  BI 5  90  89  97 110                     
+   2 7A C 03-jul-18 01-apr-18 _ 1 A 1  BI 5  90  89  97 110                     
+   3 7F C 03-jul-18 01-apr-18 _ 1 A 1  BI 5  90  89  97 110                     
+   4 7G C 03-jul-18 01-apr-18 _ 2 A 1  BI 5  90  89  97 110                     
+   5 16V _ _________ _________ _ 3 A   __                                       
+   6 16W _ _________ _________ _ 3 A   __                                       
+   7 16X _ _________ _________ _ 3 A   __                                       
+   8 16Y _ _________ _________ _ 3 A   __                                       
+   9 16Z _ _________ _________ _ 3 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   3257960E     9   Rain Accumulation, Inches                  PC               
+   3257960E    10   Wind Speed MPH, Miles per Hour             US               
+   3257960E    11   Wind Direction Degrees, Degrees            UD               
+   3257960E    12   Air Temperature, Standard Placement, Deg   TA               
+   3257960E    14   Relative Humidity, Percent                 XR               
+   3257960E    15   Battery Voltage, volts                     VB               
+   3257960E    17   Wind Direction, Peak, Degrees              UX               
+   3257960E    18   Wind Speed Peak MPH, Miles per Hour        UP               
+   3257960E    19   Solar Radiation, watts per meter squared   RD               
+   3257960E    21   Soil Temperature "F", Degrees Fahrenheit   TG               

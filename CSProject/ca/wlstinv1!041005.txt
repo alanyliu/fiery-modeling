@@ -1,0 +1,54 @@
+
+WLSTINV1-Weather Station Inventory for                       41005              
+                                                                                
+Station: 041005   Name: EEL RIVER  (MNF)       NESDIS: 3241B7B2                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 24-Jan-2020     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 557                       
+                                                                                
+State: 06-CA   County: 045-Mendocino           Lat/Lon: 39 49 31, 123  4 57     
+Obs Agy: 1 (USDA FS )     Unit: MNF          Mnemonic: EEL-R      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  1500   Asp: 0   Ann Prec:  37.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS7770   Acc Lst: MNF                                                     
+Comments: FDRA 162                                                              
+GREENED-UP STATION ON 4/15/06 BY AED.....FROZE 11/12/06 AED                     
+GREENED-UP STATION ON 4-1-07 AED....FROZE 11/3/07 AED                           
+GREENED-UP STATION ON 4/15/08 AED...FROZE 10/7/08 AED                           
+GREENED-UP STATION ON 4/1/09 AED...FROZE 11/01/09 AED                           
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7G F 01-dec-19 01-apr-19 _ 3 A 3  BI 5  90  63  97  69                     
+   2 7F F 01-dec-19 01-apr-19 _ 3 A 3  BI 5  90  63  97  81                     
+   3 7B F 01-dec-19 01-apr-19 _ 3 A 3  BI 5  90 135  97 173                     
+   4 16V _ _________ _________ _ 3 A   __                                       
+   5 16W _ _________ _________ _ 3 A   __                                       
+   6 16X _ _________ _________ _ 3 A   __                                       
+   7 16Y _ _________ _________ _ 3 A   __                                       
+   8 16Z _ _________ _________ _ 3 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   3241B7B2     9   Rain Accumulation, Inches                  PC               
+   3241B7B2    10   Wind Speed MPH, Miles per Hour             US               
+   3241B7B2    11   Wind Direction Degrees, Degrees            UD               
+   3241B7B2    12   Air Temperature, Standard Placement, Deg   TA               
+   3241B7B2    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   3241B7B2    14   Relative Humidity, Percent                 XR               
+   3241B7B2    15   Battery Voltage, volts                     VB               
+   3241B7B2    17   Fuel Moisture, Percent                     MM               
+   3241B7B2    18   Wind Direction, Peak, Degrees              UX               
+   3241B7B2    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   3241B7B2    20   Air Temperature, 24 Hour High, Degrees F   TX               
+   3241B7B2    21   Air Temperature, 24 Hour Low, Degrees Fa   TN               
+   3241B7B2    22   Relative Humidity, 24 Hour High, Percent   XS               
+   3241B7B2    23   Relative Humidity, 24 Hour Low, Percent    XQ               
+   3241B7B2    24   Solar Radiation, watts per meter squared   RD               

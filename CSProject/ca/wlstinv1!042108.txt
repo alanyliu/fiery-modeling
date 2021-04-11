@@ -1,0 +1,45 @@
+
+WLSTINV1-Weather Station Inventory for                       42108              
+                                                                                
+Station: 042108   Name: ATLAS PEAK             NESDIS: 3200051A                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 13-Dec-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 559                       
+                                                                                
+State: 06-CA   County: 055-Napa                Lat/Lon: 38 28 29, 122 15 53     
+Obs Agy: 5 (State   )     Unit: LNU          Mnemonic: ATLAS      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  1934   Asp: 0   Ann Prec:  40.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: WICA1061   Acc Lst: LNU ECC                                               
+Comments: NEW STATION ESTABLISHED JANUARY 19, 2011                              
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B F 22-apr-19 05-apr-19 _ 2 A 2  BI 5  90 123  97 153                     
+   2 7F F 22-apr-19 05-apr-19 _ 2 A 2  BI 5  90  60  97  96                     
+   3 7G F 22-apr-19 05-apr-19 _ 2 A 2  BI 5  90  86  97  95                     
+   4 16V _ _________ _________ _ 2 A   BI 5  90  38  97  52                     
+   5 16W _ _________ _________ _ 2 A   BI 5  90  40  97  53                     
+   6 16X _ _________ _________ _ 2 A   BI 5  90 173  97 214                     
+   7 16Y _ _________ _________ _ 2 A   BI 5  90  46  97  51                     
+   8 16Z _ _________ _________ _ 2 A   BI 5  90 127  97 144                     
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   3200051A     9   Rain Accumulation, Inches                  PC               
+   3200051A    10   Wind Speed MPH, Miles per Hour             US               
+   3200051A    11   Wind Direction Degrees, Degrees            UD               
+   3200051A    12   Air Temperature, Standard Placement, Deg   TA               
+   3200051A    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   3200051A    14   Relative Humidity, Percent                 XR               
+   3200051A    15   Battery Voltage, volts                     VB               
+   3200051A    17   Fuel Moisture, Percent                     MM               
+   3200051A    18   Wind Direction, Peak, Degrees              UX               
+   3200051A    19   Wind speed peak, Miles per Hour            UP               
+   3200051A    20   Solar Radiation, watts per meter squared   RD               

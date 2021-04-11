@@ -1,0 +1,44 @@
+
+WLSTINV1-Weather Station Inventory for                       45218              
+                                                                                
+Station: 045218   Name: MONTECITO              NESDIS: 3237E2AC                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 17-Dec-2019     Obs Time/Z: 13/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 501                       
+                                                                                
+State: 06-CA   County: 083-Santa Barbara       Lat/Lon: 34 27 41, 119 38 56     
+Obs Agy: 1 (USDA FS )     Unit: LPF          Mnemonic: MTO      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:  1619   Asp: 0   Ann Prec:  22.00   Season:                     
+Ltng scale:    .34   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: FS7742   Acc Lst: LPF                                                     
+Comments: FDR AREA 514, RAWS INSTALLED                                          
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B F 30-nov-19 10-apr-19 _ 4 A 2  BI 5  90  57  97 123                     
+   2 7G F 30-nov-19 10-apr-19 _ 4 A 2  EC 5  90  64  97  72                     
+   3 16V _ _________ _________ _ 4 A   __                                       
+   4 16W _ _________ _________ _ 4 A   __                                       
+   5 16X _ _________ _________ _ 4 A   BI 5  90 186  97 237                     
+   6 16Y _ _________ _________ _ 4 A   EC 5  90  78  97 100                     
+   7 16Z _ _________ _________ _ 4 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   3237E2AC     9   Rain Accumulation, Inches                  PC               
+   3237E2AC    10   Wind Speed MPH, Miles per Hour             US               
+   3237E2AC    11   Wind Direction Degrees, Degrees            UD               
+   3237E2AC    12   Air Temperature, Standard Placement, Deg   TA               
+   3237E2AC    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   3237E2AC    14   Relative Humidity, Percent                 XR               
+   3237E2AC    15   Battery Voltage, volts                     VB               
+   3237E2AC    17   Fuel Moisture, Percent                     MM               
+   3237E2AC    18   Wind Direction, Peak, Degrees              UX               
+   3237E2AC    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   3237E2AC    20   Solar Radiation, watts per meter squared   RD               

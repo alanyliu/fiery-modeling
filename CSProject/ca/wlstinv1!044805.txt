@@ -1,0 +1,33 @@
+
+WLSTINV1-Weather Station Inventory for                       44805              
+                                                                                
+Station: 044805   Name: WILDROSE               NESDIS: ________                 
+                                                                                
+Type: 7 (Historic Inactive)   Create/Mod Date: 28-Apr-2003     Obs Time/Z: 13/P 
+ST                                                                              
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: ____                      
+                                                                                
+State: 06-CA   County: 027-Inyo                Lat/Lon: 90  0  0,  99  0  0     
+Obs Agy: 3 (USDI NPS)     Unit: _________    Mnemonic: _____      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site:    Elev:  9999   Asp:    Ann Prec:  99.99   Season:                       
+Ltng scale:    Hum code:    Temp code:    Pres code: 1                          
+   Wind Spd code:    KBDI:    One/Ten Fl: N                                     
+                                                                                
+User: FS8374   Acc Lst: ________                                                
+Comments: PERIOD OF RECORD: 1986 - 1988                                         
+                                                                                
+STATION CATALOG INCOMPLETE DUE TO LACK OF ACCURATE DATA.                        
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+                                                                                

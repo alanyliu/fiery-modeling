@@ -1,0 +1,51 @@
+
+WLSTINV1-Weather Station Inventory for                       42701              
+                                                                                
+Station: 042701   Name: MOUNT ZION             NESDIS: CA21C250                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 12-Dec-2018     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 552                       
+                                                                                
+State: 06-CA   County: 005-Amador              Lat/Lon: 38 23 24, 120 39 8.     
+Obs Agy: 5 (State   )     Unit: AEU          Mnemonic: MTZ      FS Reg:   5     
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  2967   Asp: 4   Ann Prec:  40.00   Season: 3                   
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: 969   Acc Lst: AEU EDIT                                                   
+Comments: RECALC ON 21-OCT-12.                                                  
+ON 11/15/06 THE STATION WAS ENTIRELY CONVERTED TO NEW FTS EQUIPMENT AND TRANSMI 
+TS USING HIGH DATA RATE ON NEW CHANNEL. OBS TIME UNCHANGED. TESTED TIPPING BUCK 
+ET AND RESET RAINFALL.  DFORREST CDF FIRE WX PROGRAM COORDINATOR                
+LAT/LONG, ELEV AMENDED BASED UPON ON-SITE GPS (NAD83) WHEN STATION WAS UPGRADED 
+.  DFORREST CDF FIRE WX PROGRAM COORDINATOR 11/26/06                            
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7J F 10-dec-18 07-may-18 _ 4 A 2  BI 5  90 134  97 148                     
+   2 7B F 10-dec-18 07-may-18 _ 4 A 2  BI 5  90  51  97 130                     
+   3 7G F 10-dec-18 07-may-18 _ 4 A 2  BI 5  90  58  97  75                     
+   4 16V _ _________ _________ _ 4 A   __                                       
+   5 16W _ _________ _________ _ 4 A   __                                       
+   6 16X _ _________ _________ _ 4 A   __                                       
+   7 16Y _ _________ _________ _ 4 A   __                                       
+   8 16Z _ _________ _________ _ 4 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   CA21C250     9   Rain Accumulation, Inches                  PC               
+   CA21C250    10   Wind Speed MPH, Miles per Hour             US               
+   CA21C250    11   Wind Direction Degrees, Degrees            UD               
+   CA21C250    12   Air Temperature, Standard Placement, Deg   TA               
+   CA21C250    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   CA21C250    14   Relative Humidity, Percent                 XR               
+   CA21C250    15   Battery Voltage, volts                     VB               
+   CA21C250    17   Fuel Moisture, Percent                     MM               
+   CA21C250    18   Wind Direction, Peak, Degrees              UX               
+   CA21C250    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   CA21C250    20   Solar Radiation, watts per meter squared   RD               

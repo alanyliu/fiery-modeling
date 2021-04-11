@@ -1,0 +1,76 @@
+
+WLSTINV1-Weather Station Inventory for                       44207              
+                                                                                
+Station: 044207   Name: BATTERSON              NESDIS: 326FB234                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 31-Jan-2020     Obs Time/Z: 12/PST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 528                       
+                                                                                
+State: 06-CA   County: 039-Madera              Lat/Lon: 37 22 42, 119 37 46     
+Obs Agy: 1 (USDA FS )     Unit: SNF          Mnemonic: BATTE      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 2   Elev:  3176   Asp: 3   Ann Prec:  38.08   Season:                     
+Ltng scale:   4.71   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI: 100   One/Ten Fl: N                                 
+                                                                                
+User: b7f   Acc Lst: CONTROL                                                    
+Comments: GREEN UP AND RECALC 23-APR-12,  ANNUAL MAINT. COMPLETED 6/16/12 (AIR  
+TEMP/RH & FUEL MOISTURE/ FUEL TEMP SENSORD REPLACED. ANNUAL PRECIP AMOUNT RESET 
+ TO .02 BY BC58 7/1.                                                            
+PER DISTRICT FUELS BC STATION SET TO FROZEN ON 25-OCT-2012 AND RE-CALC ON 02-NO 
+V-2012 (KTHOM)                                                                  
+                                                                                
+PER BC58 GREEN UP 3/10/14 KTHOM                                                 
+4/10/14 RAWS ANNUAL  MAINTENANCE FOR THE STATIONS ON THE BASS LAKE RD.  ALL STA 
+TIONS HAD THE FUEL STICK & AIR TEMPERATURE/RELATIVE HUMIDITY SENSORS CHANGED OU 
+T.                                                                              
+PER BC58 FUEL STICK, AIR TEMP, RH SENSORS ALL REPLACED ON 3/4/15. MAS           
+                                                                                
+PER BC58 GREEN-UP/RECALC ON 3/13/15. MAS                                        
+                                                                                
+PER BC58 STATION FROZEN. 12/4/15 BM                                             
+PER BC58 STATION SET TO GREEN UP 3/22/16                                        
+                                                                                
+PER BC58 ANNUAL MAINTENANCE COMPLETE AND NEW FUEL STICK ADDED. 03/02/2017 BM    
+                                                                                
+STATION FROZEN DATE 10/15/16, COMPLETED ON 5/24/17. SLN                         
+PER BC58 GREEN UP 3/30/17, COMPLETED ON 5/24/17. SLN                            
+STATION RECALCULATED 5/24/17. SLN                                               
+PER BC58 GREEN UP STATION AS OF 3/31/18                                         
+                                                                                
+PER CAPT.58 ANNUAL STATION MAINTENANCE COMPLETED, AIR TEMP SENSOR AND FUEL STIC 
+K REPLACED, WFMI UPDATED. 2/22/19                                               
+PER BC58 GREEN UP AS OF 4/7/19;SW                                               
+PER BC58, AT/RH & FUEL STICK REPLACED 1/31/20; SW                               
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7B C 25-apr-19 07-apr-18 _ 3 A 2  BI 5  90 133  97 163                     
+   2 7G C 25-apr-19 07-apr-18 _ 3 A 2  BI 5  90  75  97  84                     
+   3 16V _ _________ _________ _ 3 A   __                                       
+   4 16W _ _________ _________ _ 3 A   __                                       
+   5 16X _ _________ _________ _ 3 A   __                                       
+   6 16Y _ _________ _________ _ 3 A   __                                       
+   7 16Z _ _________ _________ _ 3 A   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   326FB234     9   Rain Accumulation, Inches                  PC               
+   326FB234    10   Wind Speed MPH, Miles per Hour             US               
+   326FB234    11   Wind Direction Degrees, Degrees            UD               
+   326FB234    12   Air Temperature, Standard Placement, Deg   TA               
+   326FB234    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   326FB234    14   Relative Humidity, Percent                 XR               
+   326FB234    15   Battery Voltage, volts                     VB               
+   326FB234    17   Fuel Moisture, Percent                     MM               
+   326FB234    18   Wind Direction, Peak, Degrees              UX               
+   326FB234    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   326FB234    20   Air Temperature, 24 Hour High, Degrees F   TX               
+   326FB234    21   Air Temperature, 24 Hour Low, Degrees Fa   TN               
+   326FB234    22   Relative Humidity, 24 Hour High, Percent   XS               
+   326FB234    23   Relative Humidity, 24 Hour Low, Percent    XQ               
+   326FB234    24   Solar Radiation, watts per meter squared   RD               

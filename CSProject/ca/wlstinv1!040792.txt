@@ -1,0 +1,46 @@
+
+WLSTINV1-Weather Station Inventory for                       40792              
+                                                                                
+Station: 040792   Name: 040792 LN05 PORTABLE   NESDIS: 324056BA                 
+                                                                                
+Type: 3 (RAWS S non-NFDRS)   Create/Mod Date: 19-Nov-2010     Obs Time/Z: 13/PS 
+T                                                                               
+                                                                                
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 598                       
+                                                                                
+State: 06-CA   County: 035-Lassen              Lat/Lon: 40 37 19, 120 53 14     
+Obs Agy: 1 (USDA FS )     Unit: LNF          Mnemonic: LNF05      FS Reg:   5   
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 1   Elev:  6044   Asp: 0   Ann Prec:  34.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: FS11381   Acc Lst: ________                                               
+Comments: MICRO RAWS (NESDIS ID 010F0730 REMVD 9/4/97 PER                       
+                                                                                
+7/11/05 MOVED STATION TO SUMMIT TS 32N 10E 19                                   
+                                                                                
+2/7/07 REGIONAL RAWS COORDINATOR REQUESTED FREEZE STATION, ADD STATION ID TO ST 
+ATION NAME AND CHANGE TO TYPE 3 (THE FUEL MODEL WILL NEED TO BE DELETED. SS)    
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+     _ _________ _________ _     __                                             
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   324056BA     9   Rain Accumulation, Inches                  PC               
+   324056BA    10   Wind Speed MPH, Miles per Hour             US               
+   324056BA    11   Wind Direction Degrees, Degrees            UD               
+   324056BA    12   Air Temperature, Standard Placement, Deg   TA               
+   324056BA    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   324056BA    14   Relative Humidity, Percent                 XR               
+   324056BA    15   Battery Voltage, volts                     VB               
+   324056BA    17   Fuel Moisture, Percent                     MM               
+   324056BA    18   Wind Direction, Peak, Degrees              UX               
+   324056BA    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   324056BA    20   Solar Radiation, watts per meter squared   RD               
