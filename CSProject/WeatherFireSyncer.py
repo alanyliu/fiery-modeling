@@ -26,6 +26,7 @@ class WeatherFireSyncer:
 
     def __init__(self, f_paths):
         self.df = self.read_fire_data(f_paths)
+        self.df_updated = pd.DataFrame()
 
     fire_paths = ['CalFire2017.txt', 'CalFire2018.txt', 'CalFire2019.txt']
     county_paths = ['RAWS_Stations_CountiesCA.txt']
@@ -464,6 +465,7 @@ class WeatherFireSyncer:
 
     def avg_mesowest_data(self):
         fire_index = 0
+        zero_rows = []  # indices of all zero rows for MesoWest data
 
         while True:
             mw_array = [0, 0, 0, 0, 0, 0]
@@ -508,11 +510,17 @@ class WeatherFireSyncer:
             self.df.at[fire_index, 'fuel_temp'] = avg_fuel_temp
             self.df.at[fire_index, 'fuel_moisture'] = avg_fuel_moist
             self.df.at[fire_index, 'peak_wind_direction'] = avg_peak_wind
+            
+            if self.df.at[fire_index, 'wind_speed'] == 0:
+                zero_rows.append(fire_index)
+            elif self.df.at[fire_index, 'high_temp'] == 0:
+                zero_rows.append(fire_index)
 
             fire_index += 1
             station_names.clear()
 
-        return self.df
+        self.df_updated = self.df.drop(zero_rows)
+        return self.df_updated  # return self.df if no dropped rows
 
     # Creates DataFrame for inputting/extracting data
     def data_frame(self):
