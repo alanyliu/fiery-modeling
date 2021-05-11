@@ -120,9 +120,9 @@ class WeatherFireSyncer:
                 if placeholder_count == 0:
                     counties.append(county[0:index])
                 else:
-                    counties.append(county[comma_indexes[placeholder_count-1]+2:index])
+                    counties.append(county[comma_indexes[placeholder_count - 1] + 2:index])
                 placeholder_count += 1
-            counties.append(county[comma_indexes[placeholder_count-1]+2:len(county)])
+            counties.append(county[comma_indexes[placeholder_count - 1] + 2:len(county)])
         else:
             counties.append(county)
 
@@ -339,7 +339,7 @@ class WeatherFireSyncer:
             while True:
                 line = stn_county_file.readline()
 
-                if line[6:len(line)-1] == county:
+                if line[6:len(line) - 1] == county:
                     stn_names.append(line[0:5])
                     break
 
@@ -424,7 +424,7 @@ class WeatherFireSyncer:
 
                     # Wind direction
                     # if comma_count == 5 and item != ",":
-                        # str_wind_direction += item
+                    # str_wind_direction += item
 
                     # Wind gust
                     if comma_count == 6 and item != ",":
@@ -510,7 +510,7 @@ class WeatherFireSyncer:
             self.df.at[fire_index, 'fuel_temp'] = avg_fuel_temp
             self.df.at[fire_index, 'fuel_moisture'] = avg_fuel_moist
             self.df.at[fire_index, 'peak_wind_direction'] = avg_peak_wind
-            
+
             if self.df.at[fire_index, 'wind_speed'] == 0:
                 zero_rows.append(fire_index)
             elif self.df.at[fire_index, 'high_temp'] == 0:
@@ -520,12 +520,17 @@ class WeatherFireSyncer:
             station_names.clear()
 
         self.df_updated = self.df.drop(zero_rows)
+        self.df = self.df_updated
         return self.df_updated  # return self.df if no dropped rows
 
     # Creates DataFrame for inputting/extracting data
     def data_frame(self):
         df = pd.DataFrame(data=self.init_data)
         return df
+
+    def fill_csv(self):
+        self.df_updated = self.df.drop([31, 67, 140, 163, 166, 202, 451, 643, 644, 645, 726, 761, 966, 979])
+        self.df_updated.to_csv('Dataset_size.csv')
 
     # Given a certain county retrieve which fires are within that county (defined as true if in county)
     def county_info(self, df, county):
@@ -538,3 +543,4 @@ WFS = WeatherFireSyncer(['CalFire2017.txt', 'CalFire2018.txt', 'CalFire2019.txt'
 WFS.read_fire_data(['CalFire2017.txt', 'CalFire2018.txt', 'CalFire2019.txt'])
 WFS.avg_weather_data()
 WFS.avg_mesowest_data()
+WFS.fill_csv()
