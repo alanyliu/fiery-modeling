@@ -9,6 +9,7 @@ class IgnitionDataSyncer:
 
     def __init__(self, f_paths, county_list):
         self.df = self.read_fire_data(f_paths, county_list)
+        self.df_updated = pd.DataFrame()
 
     fire_paths = ['CalFire2017.txt', 'CalFire2018.txt', 'CalFire2019.txt']
 
@@ -51,17 +52,14 @@ class IgnitionDataSyncer:
     # Reads in fire data from paths and creates dictionary with name, date, county, size, and % contained
     def read_fire_data(self, f_paths, county_list):
 
-        init_data = {'yes_no_fire': [], 'date': [], 'fire_county': [], 'h_temp1': [], 'l_temp1': [], 'h_hum1': [],
-                     'l_hum1': [], 'wind_spd1': [], 'wind_gust1': [], 'fuel_temp1': [], 'fuel_moist1': [],
-                     'max_rad1': [], 'pk_wind_dir1': [], 'h_temp2': [], 'l_temp2': [], 'h_hum2': [],
-                     'l_hum2': [], 'wind_spd2': [], 'wind_gust2': [], 'fuel_temp2': [], 'fuel_moist2': [],
-                     'max_rad2': [], 'pk_wind_dir2': [], 'h_temp3': [], 'l_temp3': [], 'h_hum3': [],
-                     'l_hum3': [], 'wind_spd3': [], 'wind_gust3': [], 'fuel_temp3': [], 'fuel_moist3': [],
-                     'max_rad3': [], 'pk_wind_dir3': [], 'h_temp4': [], 'l_temp4': [], 'h_hum4': [],
-                     'l_hum4': [], 'wind_spd4': [], 'wind_gust4': [], 'fuel_temp4': [], 'fuel_moist4': [],
-                     'max_rad4': [], 'pk_wind_dir4': [], 'h_temp5': [], 'l_temp5': [], 'h_hum5': [],
-                     'l_hum5': [], 'wind_spd5': [], 'wind_gust5': [], 'fuel_temp5': [], 'fuel_moist5': [],
-                     'max_rad5': [], 'pk_wind_dir5': []}
+        init_data = {'yes_no_fire': [], 'date': [], 'fire_index': [], 'fire_county': [], 'temp1': [], 'hum1': [],
+                     'wind_spd1': [], 'wind_gust1': [], 'fuel_temp1': [], 'fuel_moist1': [], 'max_rad1': [],
+                     'pk_wind_dir1': [], 'temp2': [], 'hum2': [], 'wind_spd2': [], 'wind_gust2': [], 'fuel_temp2': [],
+                     'fuel_moist2': [], 'max_rad2': [], 'pk_wind_dir2': [], 'temp3': [], 'hum3': [], 'wind_spd3': [],
+                     'wind_gust3': [], 'fuel_temp3': [], 'fuel_moist3': [], 'max_rad3': [], 'pk_wind_dir3': [],
+                     'temp4': [], 'hum4': [], 'wind_spd4': [], 'wind_gust4': [], 'fuel_temp4': [], 'fuel_moist4': [],
+                     'max_rad4': [], 'pk_wind_dir4': [], 'temp5': [], 'hum5': [], 'wind_spd5': [], 'wind_gust5': [],
+                     'fuel_temp5': [], 'fuel_moist5': [], 'max_rad5': [], 'pk_wind_dir5': []}
 
         for f_path in f_paths:
             file = open(f_path, 'r')
@@ -75,15 +73,14 @@ class IgnitionDataSyncer:
                 for d in day:
                     init_data['yes_no_fire'].append("No")
                     init_data['date'].append(year + "-" + m + "-" + d)
+                    init_data['fire_index'].append(-1)
                     init_data['fire_county'].append(None)
 
                     count1to5 = 1
                     while True:
                         str_count = str(count1to5)
-                        init_data['h_temp' + str_count].append(0)
-                        init_data['l_temp' + str_count].append(0)
-                        init_data['h_hum' + str_count].append(0)
-                        init_data['l_hum' + str_count].append(0)
+                        init_data['temp' + str_count].append(None)
+                        init_data['hum' + str_count].append(None)
                         init_data['wind_spd' + str_count].append(None)
                         init_data['wind_gust' + str_count].append(None)
                         init_data['fuel_temp' + str_count].append(None)
@@ -101,15 +98,14 @@ class IgnitionDataSyncer:
                     simple_count = 0
                     while True:
                         init_data['yes_no_fire'].append("No")
+                        init_data['fire_index'].append(-1)
                         init_data['fire_county'].append(None)
 
                         count1to5 = 1
                         while True:
                             str_count = str(count1to5)
-                            init_data['h_temp' + str_count].append(0)
-                            init_data['l_temp' + str_count].append(0)
-                            init_data['h_hum' + str_count].append(0)
-                            init_data['l_hum' + str_count].append(0)
+                            init_data['temp' + str_count].append(None)
+                            init_data['hum' + str_count].append(None)
                             init_data['wind_spd' + str_count].append(None)
                             init_data['wind_gust' + str_count].append(None)
                             init_data['fuel_temp' + str_count].append(None)
@@ -132,15 +128,14 @@ class IgnitionDataSyncer:
                     if m in ['01', '03', '05', '07', '08', '10', '12']:
                         init_data['yes_no_fire'].append("No")
                         init_data['date'].append(year + "-" + m + "-" + "31")
+                        init_data['fire_index'].append(-1)
                         init_data['fire_county'].append(None)
 
                         count1to5 = 1
                         while True:
                             str_count = str(count1to5)
-                            init_data['h_temp' + str_count].append(0)
-                            init_data['l_temp' + str_count].append(0)
-                            init_data['h_hum' + str_count].append(0)
-                            init_data['l_hum' + str_count].append(0)
+                            init_data['temp' + str_count].append(None)
+                            init_data['hum' + str_count].append(None)
                             init_data['wind_spd' + str_count].append(None)
                             init_data['wind_gust' + str_count].append(None)
                             init_data['fuel_temp' + str_count].append(None)
@@ -168,14 +163,20 @@ class IgnitionDataSyncer:
                         if self.format_start_time(line) == date:
                             flag = True
                             temp_index = date_index
-                            # init_data["yes_no_fire"][date_index] = "Yes"
                             break
                         date_index += 1
                 if flag and count % 5 == 2:
                     flag = False
-                    if line[:-1] in county_list:
-                        init_data["yes_no_fire"][temp_index] = "Yes"
-                        init_data["fire_county"][temp_index] = line[:-1]
+                    county_index = 1
+                    
+                    for _ in county_list:
+                        if line[:-1] == _:
+                            init_data["yes_no_fire"][temp_index] = "Yes"
+                            init_data["fire_index"][temp_index] = county_index - 1
+                            # init_data["fire" + str(county_index)][temp_index] = 1
+                            init_data['fire_county'][temp_index] = line[:-1]
+
+                        county_index += 1
 
                 count += 1
 
@@ -292,13 +293,22 @@ class IgnitionDataSyncer:
         float_set = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "."]
         final_val = ""
 
+        count = 0
+        negate = False
         for _ in range(len(val)):
             item = val[_]
             if item in float_set:
                 final_val += item
+
+            if count == 0 and item == "-":
+                negate = True
+            count += 1
+
         # check if final_val is empty
         if final_val == "":
             return 0
+        elif negate:
+            return -float(final_val)
         else:
             return float(final_val)
 
@@ -322,52 +332,14 @@ class IgnitionDataSyncer:
     # r_paths = RAWS, m_paths = MesoWest, county_list: counties for consideration
     def read_weather_data(self, county_list):
 
-        # Adding weather data by opening RAWS file
-        county_counter = 1
-        for county in county_list:
-            stations = self.stn_ids_in_county(county, 'RAWS_Stations_CountiesCA.txt')
-
-            if len(stations) == 1:
-                select_stations = [stations[0]]
-            elif len(stations) == 2:
-                select_stations = [stations[0], stations[1]]
-            else:
-                select_stations = random.sample(stations, 3)
-
-            str_county = str(county_counter)
-
-            for station in select_stations:
-                r_file = open('ca/wx' + station + '.fw13')
-
-                date_tracker = 0
-
-                while True:
-                    # get next line from file
-                    line = r_file.readline()
-
-                    fire_date = self.start_time_no_hyphens(self.df.date[date_tracker])
-
-                    if line[9:17] == fire_date:
-
-                        self.df.at[date_tracker, 'h_temp' + str_county] += self.str2float(line[37:40]) / len(stations)
-                        self.df.at[date_tracker, 'l_temp' + str_county] += self.str2float(line[40:43]) / len(stations)
-                        self.df.at[date_tracker, 'h_hum' + str_county] += self.str2float(line[43:46]) / len(stations)
-                        self.df.at[date_tracker, 'l_hum' + str_county] += self.str2float(line[46:49]) / len(stations)
-                        date_tracker += 1
-
-                    if not line or date_tracker >= len(self.df):
-                        break
-
-                r_file.close()
-
-            county_counter += 1
-
         # Adding weather data by opening MesoWest file
         county_count = 1  # county number from 1 to 5
         for county in county_list:
             stn = self.cty_stn_mapper(county)
             m_file = open('MesoWest/' + stn + '.2020-01-01.csv')
 
+            tot_air_temp = 0
+            tot_humidity = 0
             tot_wind_speed = 0
             tot_wind_gust = 0
             tot_fuel_temp = 0
@@ -383,6 +355,8 @@ class IgnitionDataSyncer:
                 if not line:
                     break
 
+                str_air_temp = ""
+                str_humidity = ""
                 str_wind_speed = ""
                 str_wind_gust = ""
                 str_max_radiation = ""
@@ -395,6 +369,14 @@ class IgnitionDataSyncer:
                 for item in line:
                     if item == ",":
                         comma_count += 1
+
+                    # Air temperature
+                    if comma_count == 2 and item != ",":
+                        str_air_temp += item
+
+                    # Wind speed
+                    if comma_count == 3 and item != ",":
+                        str_humidity += item
 
                     # Wind speed
                     if comma_count == 4 and item != ",":
@@ -424,6 +406,8 @@ class IgnitionDataSyncer:
                     if comma_count == 13 and item != ",":
                         str_peak_wind += item
 
+                tot_air_temp += 1.8 * self.str2float(str_air_temp) + 32
+                tot_humidity += self.str2float(str_humidity)
                 tot_wind_speed += self.str2float(str_wind_speed)
                 tot_wind_gust += self.str2float(str_wind_gust)
                 tot_max_radiation += self.str2float(str_max_radiation)
@@ -436,12 +420,16 @@ class IgnitionDataSyncer:
                 if hour_count == 24:
                     hour_count = 0
                     str_county_count = str(county_count)
+                    self.df.at[date_index, 'temp' + str_county_count] = tot_air_temp / 24
+                    self.df.at[date_index, 'hum' + str_county_count] = tot_humidity / 24
                     self.df.at[date_index, 'wind_spd' + str_county_count] = tot_wind_speed / 24
                     self.df.at[date_index, 'wind_gust' + str_county_count] = tot_wind_gust / 24
                     self.df.at[date_index, 'fuel_temp' + str_county_count] = tot_fuel_temp / 24
                     self.df.at[date_index, 'fuel_moist' + str_county_count] = tot_fuel_moist / 24
                     self.df.at[date_index, 'max_rad' + str_county_count] = tot_max_radiation / 24
                     self.df.at[date_index, 'pk_wind_dir' + str_county_count] = tot_peak_wind / 24
+                    tot_air_temp = 0
+                    tot_humidity = 0
                     tot_wind_speed = 0
                     tot_wind_gust = 0
                     tot_fuel_temp = 0
@@ -454,17 +442,37 @@ class IgnitionDataSyncer:
             m_file.close()
 
         print(self.df)
-        print(self.df.h_temp1[0])
-        print(self.df.h_temp1[1])
-        print(self.df.h_temp1[2])
-        print(self.df.l_temp1[53])
         return self.df
 
+    # Tracks indices of rows without a fire (can be removed from final data set)
+    def remove_zero(self):
+        zero_rows = []  # contains all indices of rows without a fire
+        count = 0
+        while True:
+            if self.df.fire_index[count] == -1:
+                zero_rows.append(count)
+            count += 1
+            if count >= len(self.df):
+                break
+
+        return zero_rows
+
     def fill_csv(self):
-        self.df.to_csv('Dataset_ignition.csv')
+        zeroes = self.remove_zero()
+        zeroes.append(1087)
+        zeroes.append(1088)
+        zeroes.append(1089)
+        zeroes.append(1090)
+        zeroes.append(1091)
+        zeroes.append(1092)
+        zeroes.append(1093)
+        zeroes.append(1094)
+        self.df_updated = self.df.drop(zeroes)
+        # self.df_updated = self.df.drop([1087, 1088, 1089, 1090, 1091, 1092, 1093, 1094])
+        self.df_updated.to_csv('Dataset_ignition.csv')
 
 
-select_counties = ['Sonoma', 'Butte', 'Mendocino', 'Stanislaus', 'San Diego']
+select_counties = ['Monterey', 'Butte', 'Riverside', 'Tehama', 'San Diego']
 
 IDS = IgnitionDataSyncer(['CalFire2017.txt', 'CalFire2018.txt', 'CalFire2019.txt'], select_counties)
 IDS.read_weather_data(select_counties)
